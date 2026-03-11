@@ -354,15 +354,15 @@ option(WINDOWS_XVIRTUALDESKTOPMANAGER_FEATURE                   "Windows Virtual
 option(WINDOWS_STACKWALKER_FEATURE                              "Windows Stack Walcker Manager"                           ON ) 
 option(WINDOWS_XWINGET_FEATURE                                  "Windows Win Get API"                                     ON ) 
 
-#option(WINDOWS_INP_KEYBOARDHOOK_FEATURE                         "Windows Keyboard Hook"                                   ON )                 
+option(WINDOWS_INP_KEYBOARDHOOK_FEATURE                         "Windows Keyboard Hook"                                   ON )                 
 ``` 
   
   
 ## Linux  
   
 ``` 
-option(LINUX_VISUALSTUDIOCODEPAGE_FEATURE                       "Linux CodePage Editor Visual Studio CP1252"              ON )
-option(LINUX_VISUALSTUDIOUTF8_FEATURE                           "Linux CodePage Editor UTF8"                              ON ) 
+option(LINUX_VISUALSTUDIO_CP1252_FEATURE                        "Linux CodePage Editor Visual Studio CP1252"              ON )
+option(LINUX_VISUALSTUDIO_UTF8_FEATURE                          "Linux CodePage Editor Visual Studio UTF8"                ON ) 
   
 option(LINUX_X11_FEATURE                                        "Linux X11"                                               ON )
   

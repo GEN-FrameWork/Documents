@@ -1,9 +1,0 @@
-<map id="ANDROIDJNI::CheckJavaException" name="ANDROIDJNI::CheckJavaException">
-<area shape="rect" id="Node000001" title="Check java exception." alt="" coords="356,56,593,83"/>
-<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gada5de59c5426b3acc5bafc1975a2d96d" title="Constructor of class." alt="" coords="5,5,308,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,54,244,35,245,30,374,52"/>
-<area shape="rect" id="Node000003" href="$class_a_n_d_r_o_i_d_j_n_i_o_b_j_e_c_t.html#ac90801addef1c58ad7f8f7f77ac2d4f1" title=" " alt="" coords="41,56,272,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,70,273,72,272,67,343,69"/>
-<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaf6efc4ee2933312f1fdc21a531f0c6d9" title="Find JNI class." alt="" coords="60,107,253,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,85,245,109,244,103,369,86"/>
-</map>

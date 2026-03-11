@@ -1,7 +1,0 @@
-<map id="CIPHERTRUSTEDROOTCERTIFICATESX509::DeleteAllLines" name="CIPHERTRUSTEDROOTCERTIFICATESX509::DeleteAllLines">
-<area shape="rect" id="Node000001" title="delete all lines" alt="" coords="370,39,670,81"/>
-<area shape="rect" id="Node000002" href="$group___c_i_p_h_e_r.html#gac81c2e90e782bab336d5a9154058895f" title="read from file" alt="" coords="13,5,314,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,45,314,43,314,38,357,44"/>
-<area shape="rect" id="Node000003" href="$group___c_i_p_h_e_r.html#ga6980de3ae616ed3dd9e3fced04c6f973" title="Destructor of class." alt="" coords="5,72,322,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,76,323,81,322,76,357,75"/>
-</map>

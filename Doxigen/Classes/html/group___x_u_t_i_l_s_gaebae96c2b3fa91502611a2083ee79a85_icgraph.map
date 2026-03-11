@@ -1,9 +1,0 @@
-<map id="XBER::Sequence_DeleteAll" name="XBER::Sequence_DeleteAll">
-<area shape="rect" id="Node000001" title="Sequence delete all." alt="" coords="219,56,403,83"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga964cab304e652c0d99ee51210e05acba" title="Send." alt="" coords="27,5,149,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,53,149,35,150,30,236,51"/>
-<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2f5f8be39b3b9c5acf7b9c4efa5d600d" title="Send." alt="" coords="5,56,171,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,70,171,72,171,67,206,69"/>
-<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf90bf49255708ef93fad39553184710e" title="Destructor of class." alt="" coords="32,107,144,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,86,145,110,144,105,232,87"/>
-</map>

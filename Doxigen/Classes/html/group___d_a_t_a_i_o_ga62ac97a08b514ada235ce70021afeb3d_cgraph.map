@@ -1,9 +1,0 @@
-<map id="DIOMODBUSELECTRICMETER::CMD_C_CI_NU_2_DeleteResults" name="DIOMODBUSELECTRICMETER::CMD_C_CI_NU_2_DeleteResults">
-<area shape="rect" id="Node000001" title="CMDCCINU2 delete results." alt="" coords="5,48,235,91"/>
-<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a57c72ab04fd14c60d1026e0a7b4a1887" title=" " alt="" coords="302,5,449,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,45,292,35,287,36,231,50"/>
-<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="283,56,468,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,67,269,69,264,70,235,72"/>
-<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html#acfb28e72022a067c3a4635f0c14734fb" title=" " alt="" coords="304,107,447,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,89,292,103,287,103,230,94"/>
-</map>

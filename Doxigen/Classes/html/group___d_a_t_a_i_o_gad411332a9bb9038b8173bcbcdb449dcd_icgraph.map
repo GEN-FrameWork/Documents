@@ -1,9 +1,0 @@
-<map id="DIOOBEXPUSH::SendFileList_DeleteAll" name="DIOOBEXPUSH::SendFileList_DeleteAll">
-<area shape="rect" id="Node000001" title="Send file list delete all." alt="" coords="516,23,716,65"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga243feaa7631118212c7249fde70cdafe" title="End." alt="" coords="303,5,454,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,32,454,29,454,24,503,32"/>
-<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga5496404e48a921af388d92eb610f067b" title="Send file." alt="" coords="289,56,468,83"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="503,56,469,62,468,57,498,57"/>
-<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gafd8f1062d50d812296f7b75d3e3f5fbe" title="Destructor of class." alt="" coords="5,5,241,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,19,241,21,241,16,290,18"/>
-</map>

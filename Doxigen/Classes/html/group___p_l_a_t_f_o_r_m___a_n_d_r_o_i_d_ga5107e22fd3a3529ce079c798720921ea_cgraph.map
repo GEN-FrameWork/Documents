@@ -1,9 +1,0 @@
-<map id="android_main" name="android_main">
-<area shape="rect" id="Node000001" title="android_main" alt="" coords="5,35,104,61"/>
-<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga6734da5bdf2cbdc6650ba71d40cb9f47" title="Initialize JNI." alt="" coords="157,5,340,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,38,144,34,139,36,105,43"/>
-<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaf7471a6086bf05828fa9dc68ad9ec95e" title="Run." alt="" coords="152,56,345,99"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,53,139,60,134,61,104,58"/>
-<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gacc0f8b44c97d3146710d04040e7a80d4" title="Get JNI env." alt="" coords="393,5,571,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,16,380,18,375,19,340,21"/>
-</map>
