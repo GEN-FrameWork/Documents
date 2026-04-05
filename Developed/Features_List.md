@@ -15,6 +15,9 @@ option(ANONYMOUS_MODE_FEATURE                                   "Anonymous mode"
 
 option(USE_CLANG_COMPILER_FEATURE                               "Use Clang Compiler"                                      ON )
 
+option(COVERAGE_CREATEINFO_FEATURE                              "Coverage - Create Info"                                  ON ) 
+option(COVERAGE_GENERATESHOWINFO_FEATURE                        "Coverage - Generate Show Info"                           ON ) 
+
 ``` 
   
   
