@@ -653,8 +653,7 @@ La estructura de directorios recomendada para un proyecto de GEN es:
 
 **[assets]** Directorio raíz con los posibles recursos de la aplicación.
 
->   **[Platforms]** Directorio con los diferentes ficheros de proyectos de cada
->   plataforma.
+>   **[CMake]** Directorio con los diferentes ficheros de proyectos (CMake).
 
 **[Document]** Directorio con la documentación del proyecto.
 
@@ -662,14 +661,14 @@ La estructura de directorios recomendada para un proyecto de GEN es:
 >   sonidos en origen, etc.).
 
 Los directorios imprescindibles son **[Application]**, **[assets]** y
-**[Platforms]**. Opcionalmente pueden existir **[Document]** y **[Resources]**.
+**[CMake]**. Opcionalmente pueden existir **[Document]** y **[Resources]**.
 
 El directorio **[assets]** es relativo, pero en la ejecución de la aplicación es
 localizado a partir de directorio del proyecto. Esto permite ejecutar la
 aplicación tanto en reléase/debug sin ningún cambio. El nombre se puede cambiar,
 pero por compatibilidad con Android es mejor dejar por defecto este nombre.
 
-El directorio **[Platforms]** contiene los diferentes proyectos ordenados por
+El directorio **[CMake]** contiene los diferentes proyectos ordenados por
 plataforma y dentro de la plataforma las posibles opciones de los binarios.
 
 Existen dos posibles métodos para la creación de un proyecto con el GEN.

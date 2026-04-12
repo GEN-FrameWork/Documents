@@ -2,7 +2,7 @@
 
 Compilate
 
-# cd GEN_FrameWork\Examples\xxxxx\xxxxx\Platforms\Linux
+# cd GEN_FrameWork\Examples\xxxxx\CMake\Build\Linux
 
 # cmake ../..                                               // PC
 # cmake ../..  -DTARGET=raspberrypi                         // Raspberry pi
