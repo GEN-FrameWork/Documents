@@ -1,0 +1,4 @@
+Define ST              Define GEN
+----------------       ----------------------
+STM32F072xB            STM32F072RB
+
