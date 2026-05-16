@@ -1,0 +1,27 @@
+var class_i_n_p_c_u_r_s_o_r_m_o_t_i_o_n =
+[
+    [ "INPCURSORMOTION", "group___i_n_p_u_t.html#ga0eab43b97bfb00850fdc3b6174d34fee", null ],
+    [ "~INPCURSORMOTION", "group___i_n_p_u_t.html#ga9abc4b4829069d2262cc16cd6fb6b93d", null ],
+    [ "AddFromCircle", "group___i_n_p_u_t.html#ga0465f8582fc100493def9b5d32b0009d", null ],
+    [ "AddFromElipse", "group___i_n_p_u_t.html#gadef970313d8049000444b4c2e1269c8f", null ],
+    [ "AddFromLine", "group___i_n_p_u_t.html#ga205b8b59a3722120a2eecc10875ab0c0", null ],
+    [ "AddPoint", "group___i_n_p_u_t.html#ga8f95846d2b702d18469d8422e6a6c3d7", null ],
+    [ "DeleteAllPoints", "group___i_n_p_u_t.html#ga16d60cec1a573ff8c1e8e013381282ef", null ],
+    [ "Get", "group___i_n_p_u_t.html#ga5a2e3c65bf33a8e7c81463953edd2e94", null ],
+    [ "GetAngle", "group___i_n_p_u_t.html#ga124b08f8d506ff874b694ad185c4620b", null ],
+    [ "GetDirectionByAngle", "group___i_n_p_u_t.html#gaf387ca6f6f98fdbf6cbb4d7082ebd3bd", null ],
+    [ "GetDirectionByDifferential", "group___i_n_p_u_t.html#gac8b2d91ce62a91a066a2f20d0e324486", null ],
+    [ "GetFirstPoint", "group___i_n_p_u_t.html#ga60a8db29a57f920620148595f24a8b26", null ],
+    [ "GetLastPoint", "group___i_n_p_u_t.html#ga59f5fa11e613a512605ab9dcbe4825f9", null ],
+    [ "GetModule", "group___i_n_p_u_t.html#gabb9ed72510c7e73939b16d26c00155c2", null ],
+    [ "GetNPoints", "group___i_n_p_u_t.html#ga7d4495b13ed91b9f4cd587fd1a164d2c", null ],
+    [ "GetTimeElapsed", "group___i_n_p_u_t.html#ga3e396c54251292858f5498ef50c33a93", null ],
+    [ "InvertYAxis", "group___i_n_p_u_t.html#ga37c1c8e41e7401a2397c15edc4f217b4", null ],
+    [ "IsInCurse", "group___i_n_p_u_t.html#ga2337fd978651eaaad2015a20e307d4c4", null ],
+    [ "IsInRect", "group___i_n_p_u_t.html#ga238c66fdeababf1a3e145fd1d060a445", null ],
+    [ "IsReadyToTest", "group___i_n_p_u_t.html#ga0ea43dff94bfb08a230641f03fa34fb6", null ],
+    [ "Reset", "group___i_n_p_u_t.html#gaecf11f3f92e253b3935d2a73e5ae614d", null ],
+    [ "SetIsInCurse", "group___i_n_p_u_t.html#ga37d93117ba191f6532bb727c8bc110cd", null ],
+    [ "SetTimeElapsed", "group___i_n_p_u_t.html#gaf38d8c468e1062d778f28b8a84c0460f", null ],
+    [ "points", "class_i_n_p_c_u_r_s_o_r_m_o_t_i_o_n.html#a8066593597ca55f448773150703ae68d", null ]
+];

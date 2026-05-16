@@ -1,0 +1,15 @@
+<map id="XDATETIME" name="XDATETIME">
+<area shape="rect" id="Node000001" title="eXtended Utils date time class" alt="" coords="268,80,366,107"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_d_a_t_e_t_i_m_e.html" title="eXtended Utils ESP32 date time class" alt="" coords="5,155,144,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,114,118,157,116,152,262,109"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_d_a_t_e_t_i_m_e.html" title="LINUX eXtended Utils Date Time class." alt="" coords="167,155,304,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,116,251,156,248,152,289,118"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_d_a_t_e_t_i_m_e.html" title="eXtended Utils STM32 date time class" alt="" coords="329,155,468,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="343,115,387,155,382,154,342,120"/>
+<area shape="rect" id="Node000007" href="$class_x_w_i_n_d_o_w_s_d_a_t_e_t_i_m_e.html" title="WINDOWS eXtended Utils Data Time class." alt="" coords="493,155,659,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="377,109,533,153,528,155,377,114"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="258,5,377,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,46,320,81,315,78,316,50"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_d_a_t_e_t_i_m_e.html" title="ANDROID eXtended Date Time class." alt="" coords="156,229,316,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,195,238,230,234,227,234,199"/>
+</map>

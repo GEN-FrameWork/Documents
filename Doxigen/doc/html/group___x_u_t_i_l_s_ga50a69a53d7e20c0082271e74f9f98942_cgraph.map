@@ -1,0 +1,21 @@
+<map id="XBUFFER::GetWithMaskArg" name="XBUFFER::GetWithMaskArg">
+<area shape="rect" id="Node000001" title="Get with mask arg." alt="" coords="5,56,198,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="287,31,397,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,57,273,50,269,53,199,62"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac553a8fceec905bf48ebdd75274cbe00" title="Get with mask arg." alt="" coords="246,81,438,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,77,233,82,228,84,198,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="506,5,621,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,78,437,67,461,55,485,42,499,39,504,37,487,46,463,59,439,72,404,83"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="507,56,620,83"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="438,81,494,77,489,78,439,86"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="689,107,829,133"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="438,98,677,114,671,115,438,103"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="486,157,641,184"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="384,106,511,152,505,152,383,111"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="692,5,826,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="621,16,679,18,674,19,622,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="877,56,1036,83"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="622,29,690,41,864,63,859,63,689,47,622,34"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="814,30,889,52,884,52,814,35"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="814,103,884,88,889,87,815,109"/>
+</map>

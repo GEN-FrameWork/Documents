@@ -1,0 +1,11 @@
+<map id="XFILECOBOL_RECORD::GetField" name="XFILECOBOL_RECORD::GetField">
+<area shape="rect" id="Node000001" title="Get field." alt="" coords="5,64,184,107"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="267,47,410,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,73,254,68,249,70,185,79"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa506f4e91959b46acf716450d1136622" title="Get name." alt="" coords="232,97,445,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="184,92,219,98,214,98,184,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="493,5,639,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,47,481,39,475,40,410,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="493,72,639,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="410,68,481,80,475,81,410,73"/>
+</map>

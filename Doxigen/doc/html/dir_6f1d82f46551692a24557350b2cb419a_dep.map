@@ -1,0 +1,19 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol">
+<area shape="rect" id="node1" href="dir_6f1d82f46551692a24557350b2cb419a.html" title="CoreProtocol" alt="" coords="174,53,271,80"/>
+<area shape="rect" id="node2" href="dir_3ce2f0a29631f4d46ec106e1a9c81ff2.html" title="Common" alt="" coords="5,128,80,155"/>
+<area shape="poly" id="edge1" href="dir_000010_000008.html" alt="" coords="192,83,89,124,87,119,190,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000010_000008.html" title="18" alt="" coords="87,120,101,136"/>
+<area shape="rect" id="node3" href="dir_fea7a73fd0c0718a7ca8155f830d257b.html" title="Cipher" alt="" coords="104,128,163,155"/>
+<area shape="poly" id="edge5" href="dir_000010_000006.html" alt="" coords="209,80,162,120,159,116,204,81"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000010_000006.html" title="8" alt="" coords="164,115,171,131"/>
+<area shape="rect" id="node4" href="dir_e54c222fa9e1a444a05ed308084474b5.html" title="Streams" alt="" coords="187,128,258,155"/>
+<area shape="poly" id="edge4" href="dir_000010_000046.html" alt="" coords="224,79,225,114,220,111,221,82"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000010_000046.html" title="12" alt="" coords="224,101,238,117"/>
+<area shape="rect" id="node5" href="dir_ba9e2c72c49553e23514498c64d35f6b.html" title="XUtils" alt="" coords="282,128,339,155"/>
+<area shape="poly" id="edge3" href="dir_000010_000053.html" alt="" coords="239,78,286,118,281,118,237,83"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000010_000053.html" title="40" alt="" coords="280,102,294,118"/>
+<area shape="rect" id="node6" href="dir_4279c7c1ef7b0c1bbbe7c6c1f64821a9.html" title="Compress" alt="" coords="363,128,444,155"/>
+<area shape="poly" id="edge2" href="dir_000010_000009.html" alt="" coords="255,78,361,121,355,122,254,83"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000010_000009.html" title="2" alt="" coords="355,105,362,121"/>
+<area shape="rect" id="clust1" href="dir_3d414e2500391a0e591dfd73fdb0eab7.html" title="Protocols" alt="" coords="162,16,282,91"/>
+</map>

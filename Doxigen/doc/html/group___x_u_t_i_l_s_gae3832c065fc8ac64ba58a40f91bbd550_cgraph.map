@@ -1,0 +1,9 @@
+<map id="XFILEINI::GetNextKey" name="XFILEINI::GetNextKey">
+<area shape="rect" id="Node000001" title="Get next key." alt="" coords="5,31,162,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga209d9de86391117defe3fcdb194976f0" title="Get next key." alt="" coords="210,31,426,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,41,196,44,191,44,162,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga369558b0c97a003fd671c1d6ff21411b" title="Get key." alt="" coords="478,5,633,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,30,466,28,460,29,427,35"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga18594f1dde38bab497da203fcdf712a0" title="Get value." alt="" coords="474,56,637,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,53,461,59,456,59,426,58"/>
+</map>

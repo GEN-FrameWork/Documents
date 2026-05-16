@@ -1,0 +1,17 @@
+<map id="DIOIEC60870_5::SetTimeLabelTypeA" name="DIOIEC60870_5::SetTimeLabelTypeA">
+<area shape="rect" id="Node000001" title="Set time label type a." alt="" coords="5,124,211,167"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="282,5,432,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,122,189,81,258,42,278,36,273,39,260,46,192,85,137,126"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga86a5d7b455930dfda4c0721c7db2996b" title="Get day of week." alt="" coords="259,56,456,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,121,258,92,287,86,283,88,259,97,172,126"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7d9f594a636ee4b57f072216eb1939d1" title="Get hours." alt="" coords="277,107,438,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,132,264,129,259,131,212,137"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7bda5d718cadddffaa4aed78c8bb3402" title="Get minutes." alt="" coords="271,157,444,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="211,153,258,160,253,161,211,158"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="276,208,438,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,165,259,193,288,203,282,204,258,199,171,170"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="281,259,434,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="136,164,192,205,260,244,278,254,273,253,258,249,189,210,135,170"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="504,56,674,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,67,491,69,486,70,457,72"/>
+</map>

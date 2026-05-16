@@ -1,0 +1,7 @@
+<map id="DIOSTREAMUDP::ResetXBuffers" name="DIOSTREAMUDP::ResetXBuffers">
+<area shape="rect" id="Node000001" title="Reset X buffers." alt="" coords="5,31,229,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf54a4607c7c76ce362cc5dd0805eb8b8" title="Delete all datagrams." alt="" coords="277,5,532,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,31,264,31,259,32,230,37"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4e758727995cd3a8553dc3d64d18590f" title="Reset X buffers." alt="" coords="307,56,502,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,51,295,59,289,60,229,57"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UI_ELEMENT_TEXT::GetMaskText" name="UI_ELEMENT_TEXT::GetMaskText">
+<area shape="rect" id="Node000001" title="Get mask text." alt="" coords="290,113,521,140"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaac296b3cf31321edef17171873ba4d97" title="Calculate boundary line edit text." alt="" coords="27,5,220,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="357,108,241,63,207,51,206,46,243,57,362,106"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0b6f53a23c02a7ae4fa210a5ac710a99" title="Calculate boundary line list box." alt="" coords="27,72,220,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,112,220,107,220,102,277,110"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga3167d1cea2fb0608bb84b93aba7ccb00" title="Calculate boundary line text." alt="" coords="27,139,220,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,143,221,151,219,146,277,141"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="5,205,242,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="362,146,243,196,207,207,206,202,241,191,357,147"/>
+</map>

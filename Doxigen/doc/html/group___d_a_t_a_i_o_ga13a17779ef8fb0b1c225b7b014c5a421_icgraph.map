@@ -1,0 +1,9 @@
+<map id="DIOSTREAMDEVICE::GetResource" name="DIOSTREAMDEVICE::GetResource">
+<area shape="rect" id="Node000001" title="Get resource." alt="" coords="545,35,782,61"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5a819c1c22a5c560fbae7371259cd3f4" title="Copy to." alt="" coords="283,5,488,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,34,489,32,489,27,532,34"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabec8f888d4868b7c0ca0f59cadaea766" title="Get devices." alt="" coords="275,56,497,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="532,62,498,68,497,63,527,62"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0b9f09fdc988e4de91c302267979a1de" title="Copy from." alt="" coords="5,5,227,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,19,228,21,227,16,270,18"/>
+</map>

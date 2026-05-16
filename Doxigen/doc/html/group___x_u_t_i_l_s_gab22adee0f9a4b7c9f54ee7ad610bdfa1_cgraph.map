@@ -1,0 +1,17 @@
+<map id="XFILEINI::CreateSection" name="XFILEINI::CreateSection">
+<area shape="rect" id="Node000001" title="Create section." alt="" coords="5,123,173,149"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad76cac093ed8c0fe604bc5b3fd66e9f7" title="Select section." alt="" coords="238,97,403,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,124,225,121,220,122,173,129"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga9c3a3846b1a1122e9d76982d2cad9328" title="Set name." alt="" coords="221,148,420,175"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="173,142,208,149,202,149,173,148"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="525,47,667,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,94,512,75,507,76,398,99"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="496,97,696,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,108,483,110,478,111,404,113"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga8f44898a055f3f74ca4e59fda66f414f" title="Reset selection key." alt="" coords="468,148,724,175"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="397,122,508,145,502,145,397,127"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="772,5,919,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="667,48,759,38,754,39,668,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="772,72,919,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="668,67,759,81,754,82,667,72"/>
+</map>

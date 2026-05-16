@@ -1,0 +1,11 @@
+<map id="XLOGBASE::Ini" name="XLOGBASE::Ini">
+<area shape="rect" id="Node000001" title="Ini." alt="" coords="5,56,121,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaef25b19e20b213d699f8825c4d0621f0" title="Calculate initial status." alt="" coords="169,48,356,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,67,156,68,151,70,122,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3d5b9c0020c23ffb0ded5aeb105a6fb1" title="Get size." alt="" coords="414,5,527,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,45,402,35,396,37,353,50"/>
+<area shape="rect" id="Node000004" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="422,56,519,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,67,409,69,404,70,356,72"/>
+<area shape="rect" id="Node000005" href="$class_x_f_i_l_e.html#aa1eb97dcf7209887546fc32d69db5dcd" title=" " alt="" coords="404,107,537,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="353,89,401,103,395,102,352,94"/>
+</map>

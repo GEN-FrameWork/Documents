@@ -1,0 +1,5 @@
+<map id="DIOLIGHTSENSORLDRANALOG" name="DIOLIGHTSENSORLDRANALOG">
+<area shape="rect" id="Node000001" title="Data Input/Output IO Sensor Light LDR (Light Dependent Resistor) Analog in port digital class http://..." alt="" coords="5,80,229,107"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="69,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,46,119,81,115,78,115,50"/>
+</map>

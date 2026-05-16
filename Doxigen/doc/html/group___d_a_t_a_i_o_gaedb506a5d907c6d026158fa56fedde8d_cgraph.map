@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL::Reset" name="DIOPROTOCOL::Reset">
+<area shape="rect" id="Node000001" title="Reset." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gae6104c449ba7e8ce4b09607996c59fdf" title="Connect." alt="" coords="224,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,32,211,30,206,31,168,38"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6ce0c2aa46de2902d84202420b330523" title="Disconnect." alt="" coords="216,56,409,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,50,203,57,198,57,168,56"/>
+</map>

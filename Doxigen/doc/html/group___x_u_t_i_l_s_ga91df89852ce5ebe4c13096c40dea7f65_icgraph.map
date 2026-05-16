@@ -1,0 +1,8 @@
+<map id="XFILECOBOL_FIELD::GetRedefineName" name="XFILECOBOL_FIELD::GetRedefineName">
+<area shape="rect" id="Node000001" title="Get redefine name." alt="" coords="234,71,499,97"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gadb74812d45b1467aebe7b392098582c8" title="Calculate position data." alt="" coords="8,29,183,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,69,183,64,183,59,240,68"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1bdcef0765c980b7ebc91ba2038aebc2" title="Is field redefined by another." alt="" coords="5,96,186,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="235,100,187,109,186,104,240,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="139,15,124,10,95,8,70,10,54,15,48,21,50,29,44,29,43,19,51,10,69,5,96,3,125,5,144,13"/>
+</map>

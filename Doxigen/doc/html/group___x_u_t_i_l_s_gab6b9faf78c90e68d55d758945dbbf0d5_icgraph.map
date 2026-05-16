@@ -1,0 +1,30 @@
+<map id="XFILEUNZIP::GotoFile" name="XFILEUNZIP::GotoFile">
+<area shape="rect" id="Node000001" title="Goto file." alt="" coords="789,191,946,217"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaccdf0eef3fe5cd75eb9e8a0ca4b15b8a" title="Decompress file." alt="" coords="539,111,741,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,185,680,141,681,135,815,185"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4927f5988add83a20f8613849125cd72" title="Decompress file." alt="" coords="288,5,490,32"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="846,177,803,126,773,99,740,77,679,52,614,35,550,25,491,21,490,15,550,20,615,30,681,47,743,72,777,95,807,122,852,179"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga932b5e7ef617b3dcc27cb7867b6e3fab" title="Del file." alt="" coords="315,224,464,251"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="771,211,464,235,464,230,776,210"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga12bd66fa0392bb23b3415df1aa408442" title="Download." alt="" coords="296,157,483,200"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="771,200,484,186,484,181,776,198"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#ga3852b7e071259c6fa6ecd99d435427b0" title="Get N files." alt="" coords="557,267,723,293"/>
+<area shape="poly" id="edge14_Node000001_Node000019" title=" " alt="" coords="816,222,742,251,686,269,685,263,740,245,811,224"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga27878dcdc3c032cb912fb674b4231830" title="Goto file." alt="" coords="562,317,718,344"/>
+<area shape="poly" id="edge16_Node000001_Node000020" title=" " alt="" coords="846,227,800,270,743,308,713,319,712,314,740,303,797,266,841,229"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="678,96,666,92,640,89,616,91,603,96,600,101,607,111,601,110,595,102,600,92,615,86,640,84,668,87,683,96"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="602,102,551,75,490,46,456,35,455,30,492,42,553,70,607,102"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="610,145,555,182,492,214,458,226,457,221,490,210,553,178,605,148"/>
+<area shape="poly" id="edge6_Node000002_Node000014" title=" " alt="" coords="558,142,484,161,483,156,563,140"/>
+<area shape="rect" id="Node000016" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5835019e3d9e8728d6d9a0444d128ea4" title="Load fonts." alt="" coords="290,56,488,83"/>
+<area shape="poly" id="edge8_Node000002_Node000016" title=" " alt="" coords="558,107,454,86,454,81,563,106"/>
+<area shape="rect" id="Node000017" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaaaa7ecb0dce753e3d572958527b1d893" title="Load from file." alt="" coords="288,107,491,133"/>
+<area shape="poly" id="edge9_Node000002_Node000017" title=" " alt="" coords="521,123,492,124,491,119,526,122"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab04df4c021280ebe042bdaa1fae31006" title="Backup adjust N files in compressed." alt="" coords="9,248,236,291"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="297,249,237,258,236,253,302,247"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga842aa645ad3fa869c2d0de8b3695fef2" title="Download." alt="" coords="29,161,216,204"/>
+<area shape="poly" id="edge7_Node000014_Node000015" title=" " alt="" coords="278,181,217,184,216,179,283,179"/>
+<area shape="rect" id="Node000018" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga06916907a1aad475f8901d0b380e583e" title="Get or add animation cache." alt="" coords="5,95,240,137"/>
+<area shape="poly" id="edge10_Node000017_Node000018" title=" " alt="" coords="270,119,241,120,239,115,275,117"/>
+<area shape="poly" id="edge15_Node000019_Node000005" title=" " alt="" coords="540,280,236,274,236,269,543,276"/>
+</map>

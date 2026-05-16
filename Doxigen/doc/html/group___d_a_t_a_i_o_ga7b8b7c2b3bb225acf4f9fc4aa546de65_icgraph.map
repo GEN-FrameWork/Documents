@@ -1,0 +1,7 @@
+<map id="DIOSPIOLEDDISPLAYSSD1306::Clear" name="DIOSPIOLEDDISPLAYSSD1306::Clear">
+<area shape="rect" id="Node000001" title="Clear." alt="" coords="579,5,794,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga61dba336f25aea0f793f11f0940254f0" title="End." alt="" coords="285,13,531,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,27,531,29,531,24,566,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga94f051b8124e472438a7e23b04da6c9b" title="Destructor of class." alt="" coords="5,5,237,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,27,237,29,237,24,272,27"/>
+</map>

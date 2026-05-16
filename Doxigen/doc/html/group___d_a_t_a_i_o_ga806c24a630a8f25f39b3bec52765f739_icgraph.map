@@ -1,0 +1,19 @@
+<map id="DIOURL::IsUnsafeChar" name="DIOURL::IsUnsafeChar">
+<area shape="rect" id="Node000001" title="Is unsafe char." alt="" coords="824,97,986,124"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga2d0c1a9a772b8e0a4dffa22695adc446" title="Encode unsafe chars from buffer." alt="" coords="575,31,776,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,93,762,77,762,71,838,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga475650a9a9dd1b4ee1c8132c20484d3e" title="Encode unsafe chars from string." alt="" coords="575,123,776,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="806,125,777,132,776,127,811,124"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga19329a308214771b1ed27cb77db3ea21" title="Change URL." alt="" coords="293,5,527,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="557,41,528,40,527,35,562,40"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga6e8f4cb35aa29f353a6c63364f0c7cc3" title="Encode unsafe chars." alt="" coords="309,72,510,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,119,526,113,476,102,475,97,528,108,566,119"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2a79af298dc3634dfc174a830301ed36" title="Encode unsafe chars from string." alt="" coords="309,123,510,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="557,144,511,147,511,141,562,144"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaa3a3e2491b98e237dd2da2e76a8198f1" title="Encode unsafe chars from string." alt="" coords="309,189,510,232"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="576,169,498,191,497,186,570,170"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gaa2f6fd8354ffa0f720803eeb0c6d6cf8" title="Normalize." alt="" coords="340,256,480,283"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="640,174,588,214,528,246,480,261,479,256,526,242,585,209,635,176"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga455619720c372107cf38d7b2fd80378c" title="Change URL." alt="" coords="5,64,245,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="291,86,246,88,244,83,296,84"/>
+</map>

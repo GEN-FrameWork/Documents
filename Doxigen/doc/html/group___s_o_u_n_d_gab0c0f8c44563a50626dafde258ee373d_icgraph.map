@@ -1,0 +1,9 @@
+<map id="SNDOPENALFACTORY::Sound_StopAll" name="SNDOPENALFACTORY::Sound_StopAll">
+<area shape="rect" id="Node000001" title="Sound stop all." alt="" coords="487,35,697,77"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gae4079d1345a11557f38d2c5533a29e18" title="Delete all items." alt="" coords="228,5,439,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,42,440,41,440,36,474,42"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gacb05db0d5cde5b1c6a6816cc6fc47e92" title="End." alt="" coords="235,72,432,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="474,69,432,77,432,72,469,70"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#gad6360d8901d424b6cc88bba8ac47ea54" title="Destructor of class." alt="" coords="5,64,180,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,86,180,88,180,83,222,85"/>
+</map>

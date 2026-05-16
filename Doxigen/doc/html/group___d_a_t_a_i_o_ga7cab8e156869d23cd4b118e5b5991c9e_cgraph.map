@@ -1,0 +1,11 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER::ProtocolConnections_Delete" name="DIOPROTOCOL_CONNECTIONSMANAGER::ProtocolConnections_Delete">
+<area shape="rect" id="Node000001" title="Protocol connections delete." alt="" coords="5,105,300,148"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r.html#afbbf4cca6c9dde22a0cc54db2193325f" title=" " alt="" coords="348,5,642,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,102,347,57,379,51,374,53,348,63,213,107"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6edc2ea543475460accedd06bc712c29" title="Get DIO protocol." alt="" coords="386,72,604,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,110,373,105,368,106,300,115"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga75b716014d378c49dcfb20305a8c41ed" title="Is in use." alt="" coords="386,139,604,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,138,373,147,368,148,300,144"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga46d921bb5e7873ec4defe31841a021a3" title="Protocol connections get N available." alt="" coords="348,205,642,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="213,146,348,191,379,201,374,201,347,196,212,151"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XLICENSE::GenerateMachineID" name="XLICENSE::GenerateMachineID">
+<area shape="rect" id="Node000001" title="Generate machine ID." alt="" coords="471,31,683,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad6332d3010d60294d4dbdb1e2f146d99" title="Load from buffer." alt="" coords="235,31,423,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,44,424,47,423,41,458,44"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga8cd2c5dbdbe74970b17bb76c6cc19318" title="Load from file." alt="" coords="8,5,184,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,32,184,31,184,26,222,32"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0901ce19c7298b67411d4a71fb743757" title="Load from URL." alt="" coords="5,56,187,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="217,56,188,62,187,57,222,56"/>
+</map>

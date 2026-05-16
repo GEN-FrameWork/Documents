@@ -1,0 +1,11 @@
+<map id="UI_SKINCANVAS::UI_SKINCANVAS" name="UI_SKINCANVAS::UI_SKINCANVAS">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,35,251,61"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga20aa5c72f1181e4f6fd0aa1652f9bf9d" title="Constructor of class." alt="" coords="356,5,491,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,33,343,26,338,28,252,38"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7c1306e8ad6cf3567c81030f1a418341" title="Constructor of class." alt="" coords="299,56,548,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,58,286,63,281,64,251,63"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga5f08ccf9264cd1ee8e220a96b12ef202" title="Get canvas." alt="" coords="596,35,790,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="548,61,583,60,578,61,549,66"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga6abc69f7ff0f649718348d6b54fa5261" title="Set excess edge." alt="" coords="603,85,783,128"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="549,88,590,95,585,95,548,94"/>
+</map>

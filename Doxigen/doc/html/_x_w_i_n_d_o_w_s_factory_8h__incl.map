@@ -1,0 +1,15 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSFactory.h" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSFactory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,64"/>
+<area shape="rect" id="Node000002" href="$_x_factory_8h.html" title=" " alt="" coords="60,112,144,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,62,105,96,99,96,101,67"/>
+<area shape="rect" id="Node000003" href="$_x_thread_8h.html" title=" " alt="" coords="61,187,143,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,137,105,172,99,171,101,142"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="72,336,132,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="86,216,70,236,55,262,53,278,58,294,79,325,74,326,53,297,48,279,50,260,66,233,89,212"/>
+<area shape="rect" id="Node000005" href="$_x_string_8h.html" title=" " alt="" coords="64,261,140,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="103,211,105,246,99,245,101,216"/>
+<area shape="rect" id="Node000012" href="$_factory_base_8h.html" title=" " alt="" coords="164,261,270,288"/>
+<area shape="poly" id="edge6_Node000003_Node000012" title=" " alt="" coords="122,211,186,252,181,254,122,217"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="104,287,104,321,100,319,100,291"/>
+<area shape="poly" id="edge7_Node000012_Node000004" title=" " alt="" coords="199,288,136,330,134,325,194,289"/>
+</map>

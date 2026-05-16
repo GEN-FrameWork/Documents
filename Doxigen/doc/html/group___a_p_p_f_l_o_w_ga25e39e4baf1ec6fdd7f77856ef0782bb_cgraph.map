@@ -1,0 +1,7 @@
+<map id="APPFLOWBASE::SetSystemChangeStatus" name="APPFLOWBASE::SetSystemChangeStatus">
+<area shape="rect" id="Node000001" title="Set system change status." alt="" coords="5,27,246,69"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="323,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,33,310,28,305,29,247,38"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga6ac5819b3564322c171dacf988d0adc5" title="Set change status type." alt="" coords="294,56,513,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,58,280,64,275,64,246,63"/>
+</map>

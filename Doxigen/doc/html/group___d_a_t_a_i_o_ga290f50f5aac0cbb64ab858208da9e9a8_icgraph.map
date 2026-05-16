@@ -1,0 +1,23 @@
+<map id="DIOSTREAM::IsConnected" name="DIOSTREAM::IsConnected">
+<area shape="rect" id="Node000001" title="Is connected." alt="" coords="997,105,1181,132"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga005b202d42da6f6b78249577bca8cbdc" title="Resolve request." alt="" coords="8,5,236,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,101,853,60,748,39,642,24,542,16,465,17,287,24,238,25,236,20,287,19,465,11,543,11,642,19,749,34,854,55,1028,100"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga440f26ab73fc5bae002da3a00cdf2f42" title="Send request." alt="" coords="690,105,949,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="979,119,950,121,949,116,984,118"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gacff76db4bc54a48fe2d2ceb165835c2f" title="Wait to connected." alt="" coords="714,236,926,263"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1048,139,850,238,848,233,1043,140"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="771,99,711,78,641,59,535,42,427,32,237,26,236,21,428,27,536,37,643,53,713,73,777,99"/>
+<area shape="rect" id="Node000004" href="$group___a_p_p_f_l_o_w.html#ga72508ff63a6f7077651ad88a24e63605" title="Generate response error." alt="" coords="348,68,581,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="672,107,582,102,581,96,677,106"/>
+<area shape="rect" id="Node000006" href="$group___a_p_p_f_l_o_w.html#gab3b25da02712d5333203221f5c8ec17e" title="Send request." alt="" coords="335,135,594,161"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="672,131,595,140,594,135,677,130"/>
+<area shape="rect" id="Node000007" href="$group___a_p_p_f_l_o_w.html#gaae7da1ef3bf4f44d58c01bf7eb70f7f2" title="Send request." alt="" coords="335,185,594,212"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="768,137,643,176,582,187,581,182,641,171,763,138"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="330,66,237,50,236,45,335,64"/>
+<area shape="rect" id="Node000005" href="$group___a_p_p_f_l_o_w.html#gaa2cc141b4eb304115d951430efd744a0" title="Generate response error." alt="" coords="5,72,239,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,92,240,95,239,89,334,90"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="413,236,516,263"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="695,250,517,252,516,247,701,249"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gacdbfe00d37406b3768f651eb1cb72f29" title="Ini." alt="" coords="287,287,642,313"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="709,265,563,289,562,283,704,266"/>
+</map>

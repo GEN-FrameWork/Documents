@@ -1,0 +1,7 @@
+<map id="SNDFACTORY::GetInstance" name="SNDFACTORY::GetInstance">
+<area shape="rect" id="Node000001" title="Get instance." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga57cf30f022ec2ec78141d4e643ffcad4" title="Constructor of class." alt="" coords="244,5,454,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,16,231,19,225,19,196,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="502,5,684,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,16,489,19,484,19,454,21"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DIOLINUXSTREAMI2C" name="DIOLINUXSTREAMI2C">
+<area shape="rect" id="Node000001" title="LINUX Data Input/Output Stream I2C class." alt="" coords="39,229,201,256"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_i2_c.html" title="Data Input/Output Stream I2C class." alt="" coords="59,155,181,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,195,122,230,118,228,118,199"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="5,80,107,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,116,112,154,106,155,77,121"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="10,5,102,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="56,45,59,80,53,79,56,50"/>
+<area shape="rect" id="Node000005" href="$class_x_f_s_m_a_c_h_i_n_e.html" title="eXtended Utils Finite state machine class" alt="" coords="130,80,240,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="166,117,133,156,129,152,162,120"/>
+</map>

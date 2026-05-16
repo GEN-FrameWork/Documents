@@ -1,0 +1,9 @@
+<map id="DIOCLIPROTOCOL::~DIOCLIPROTOCOL" name="DIOCLIPROTOCOL::~DIOCLIPROTOCOL">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,80,281,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa0fb0709df728131d6697ae83d246279" title="Delete all answers." alt="" coords="329,5,530,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,77,322,51,317,53,205,82"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0c6034e08b5f1a0eadf2f26e031149a4" title="Delete all command." alt="" coords="329,72,530,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,91,316,93,310,94,281,96"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3aa161c78ce12b09fcff1828bd6893e9" title="End." alt="" coords="344,139,515,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,105,348,134,343,136,212,110"/>
+</map>

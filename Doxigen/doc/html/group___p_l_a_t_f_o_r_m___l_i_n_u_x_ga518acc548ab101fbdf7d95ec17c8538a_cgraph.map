@@ -1,0 +1,37 @@
+<map id="XLINUXPROCESSMANAGER::Application_IsRunning" name="XLINUXPROCESSMANAGER::Application_IsRunning">
+<area shape="rect" id="Node000001" title="Application is running." alt="" coords="5,181,210,224"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="279,80,421,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,179,306,111,303,116,158,183"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacae4462012fcb5ee07db15505877d40a" title="Delete character." alt="" coords="258,189,442,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,200,244,201,239,204,211,205"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga93da6aec111e925a53a5f1eba34d9a7b" title="Set only namefile." alt="" coords="264,341,436,368"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="144,222,316,331,312,334,143,227"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="512,5,659,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,77,500,50,495,53,401,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="512,72,659,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="420,91,499,92,494,94,422,96"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7ee44788f0c4c71e32d634a155cf6b78" title="Delete characters." alt="" coords="490,189,681,216"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="442,200,477,202,472,203,443,205"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="952,291,1090,317"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="402,186,498,167,559,158,625,153,694,153,764,158,834,171,900,194,931,211,959,232,1002,279,997,278,955,236,928,215,898,198,832,176,764,163,694,158,625,159,559,164,499,172,403,191"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="729,240,899,267"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="419,214,490,225,606,238,717,248,711,249,606,243,490,231,420,219"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,196,788,202,845,211,900,225,951,250,995,281,989,280,948,254,898,231,843,216,787,207,682,201"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="649,214,738,236,733,236,649,219"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga77f36bb28218d0eaf4b20a1b8b130d54" title="Get namefile." alt="" coords="513,367,658,393"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="436,361,500,370,495,371,436,367"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="947,443,1096,469"/>
+<area shape="poly" id="edge21_Node000010_Node000015" title=" " alt="" coords="385,366,491,403,609,436,730,455,814,458,899,455,934,457,928,457,899,460,814,463,729,460,608,441,489,408,385,371"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="531,291,640,317"/>
+<area shape="poly" id="edge17_Node000010_Node000019" title=" " alt="" coords="415,338,518,318,513,320,416,343"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="659,367,898,327,938,322,944,321,899,332,659,372"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga913d9a5ff563e415893c6af33b9c28aa" title="Split." alt="" coords="765,392,863,419"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="658,385,752,398,746,398,658,391"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="619,391,671,411,730,428,834,444,934,454,929,454,833,450,729,433,669,416,618,396"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="855,389,898,371,983,326,988,325,900,376,856,394"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="864,415,951,439,946,438,863,420"/>
+<area shape="poly" id="edge20_Node000019_Node000008" title=" " alt="" coords="640,289,738,270,733,271,641,295"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="747,291,881,317"/>
+<area shape="poly" id="edge18_Node000019_Node000020" title=" " alt="" coords="640,301,734,304,729,304,641,307"/>
+<area shape="poly" id="edge19_Node000020_Node000007" title=" " alt="" coords="882,301,939,304,934,304,882,307"/>
+</map>

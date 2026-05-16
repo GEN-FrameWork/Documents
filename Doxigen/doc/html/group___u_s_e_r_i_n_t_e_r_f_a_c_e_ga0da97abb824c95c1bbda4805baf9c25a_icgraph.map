@@ -1,0 +1,22 @@
+<map id="UI_ELEMENT::GetZLevel" name="UI_ELEMENT::GetZLevel">
+<area shape="rect" id="Node000001" title="Get Z level." alt="" coords="805,295,978,321"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gadc9f0038fa97b1df027bfcf74cbe7b46" title="Rebuild all areas." alt="" coords="516,191,757,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="837,289,695,237,696,231,842,289"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaffc5171745fde490c9d1b3aa4e4a11f9" title="Rebuild all areas." alt="" coords="227,305,468,348"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="787,312,469,325,468,320,792,311"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1e463b7622637fb2a258729c0cc0d205" title="Set level auto." alt="" coords="538,345,735,372"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="808,325,708,347,707,342,803,325"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0e54359d6e3901bac4190ac6ef2d1842" title="Elements rebuild draw areas." alt="" coords="261,39,434,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="596,180,538,138,467,96,434,83,434,77,469,91,541,133,602,181"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab5f3c2b6fd20de69af6c5c7c3864c50a" title="Elements rebuild draw areas." alt="" coords="261,105,434,148"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="549,186,467,163,428,151,428,146,469,157,554,185"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf15723955c5ca15f9f998d72e52b248f" title="Elements rebuild draw areas." alt="" coords="261,172,434,215"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="498,204,435,202,434,196,503,203"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="585,240,529,270,469,296,435,307,433,302,467,291,527,265,580,242"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gabe146aaac0446472367df04f859e4172" title="Rebuild all areas." alt="" coords="227,239,468,281"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="498,235,469,243,468,237,503,234"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae62ef4a3810acd53125b08f9ceb019c9" title="Elements rebuild draw areas." alt="" coords="5,5,179,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,48,180,40,178,35,247,45"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga26f286bf2c8013d1e1185ade09e76e01" title="Elements rebuild draw areas." alt="" coords="5,72,179,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="243,75,180,84,178,80,247,72"/>
+</map>

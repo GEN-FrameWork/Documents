@@ -1,0 +1,13 @@
+<map id="INPWINDOWSSIMULATE::Key_UnPress" name="INPWINDOWSSIMULATE::Key_UnPress">
+<area shape="rect" id="Node000001" title="Key un press." alt="" coords="687,51,867,93"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9de4cf87390e10079f577ff33232ab55" title="Key click." alt="" coords="460,5,639,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="669,51,640,47,640,42,675,51"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa077de23aa9b5817de8a4d7831113153" title="Key un press by literal." alt="" coords="460,96,639,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="675,93,640,102,640,97,669,93"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9313194cb9179fb9fa2605f5945c6527" title="Key click by literal." alt="" coords="233,51,412,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,48,413,57,412,51,447,47"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaecff80a9833581eb424fb94d110760bc" title="Key click by text." alt="" coords="5,51,185,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,73,186,75,185,69,220,71"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="442,96,412,93,413,87,447,96"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="585,80,573,77,550,75,528,77,515,81,510,87,511,97,507,94,505,86,512,77,527,71,550,69,574,72,590,81"/>
+</map>

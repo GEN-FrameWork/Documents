@@ -1,0 +1,11 @@
+<map id="DIOSTREAM::WriteStr" name="DIOSTREAM::WriteStr">
+<area shape="rect" id="Node000001" title="Write str." alt="" coords="5,31,162,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga66e2dbd897e717ce38e395d6ad87b754" title="Get ptr char." alt="" coords="210,5,368,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,32,197,30,192,31,163,37"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga94c36dd5d0f598e9c8fa281b1f5d218f" title="Write str." alt="" coords="211,56,367,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,51,198,58,193,58,162,56"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="429,5,542,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,16,417,18,411,19,369,21"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac04f4ad8ff28b97128a876063103dd50" title="Write." alt="" coords="416,56,555,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,67,403,69,398,69,368,72"/>
+</map>

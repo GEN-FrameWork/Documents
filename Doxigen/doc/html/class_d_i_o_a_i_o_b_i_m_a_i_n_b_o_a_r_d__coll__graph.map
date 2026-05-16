@@ -1,0 +1,24 @@
+<map id="DIOAIOBIMAINBOARD" name="DIOAIOBIMAINBOARD">
+<area shape="rect" id="Node000001" title="Data Input/Output AIOBI Main board class." alt="" coords="298,377,462,404"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_i2_c_g_p_i_o_p_c_f8574.html" title="Data Input/Output I2C PCF8574 (GPIO 8 Pins) class." alt="" coords="5,279,160,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,308,251,351,333,376,328,377,249,356,128,314"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="208,203,325,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,238,115,281,112,276,222,233"/>
+<area shape="rect" id="Node000017" href="$class_d_i_o_i2_c_e_e_p_r_o_m24_x_x_x.html" title="Data Input/Output I2C EEPROM 24XXX class." alt="" coords="184,279,349,305"/>
+<area shape="poly" id="edge9_Node000017_Node000003" title=" " alt="" coords="268,242,269,279,264,277,265,247"/>
+<area shape="rect" id="Node000019" href="$class_d_i_o_i2_c_p_w_m_c_o_n_t_r_o_l_e_r_p_c_a9685.html" title="Data Input/Output I2C PCA9685 (16&#45;channel, 12&#45;bit PWM controller) class." alt="" coords="374,279,613,305"/>
+<area shape="poly" id="edge12_Node000019_Node000003" title=" " alt="" coords="320,232,457,277,452,279,320,237"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="69,104,165,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="150,137,249,201,245,203,149,142"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="189,104,261,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="223,144,226,162,231,177,251,202,245,202,226,180,221,163,222,149"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_s_t_r_e_a_m_i2_c_c_o_n_f_i_g.html" title="Data Input/Output Stream I2C Config class." alt="" coords="243,5,418,32"/>
+<area shape="poly" id="edge5_Node000003_Node000007" title=" " alt="" coords="328,45,316,109,293,180,278,204,274,201,288,178,311,108,325,50"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_s_t_r_e_a_m_i2_c.html" title="Data Input/Output Stream I2C class." alt="" coords="416,104,538,131"/>
+<area shape="poly" id="edge7_Node000012_Node000007" title=" " alt="" coords="363,38,461,103,455,104,362,44"/>
+<area shape="poly" id="edge6_Node000003_Node000012" title=" " alt="" coords="434,139,295,204,293,200,438,136"/>
+<area shape="poly" id="edge8_Node000001_Node000017" title=" " alt="" coords="294,313,368,377,362,377,292,318"/>
+<area shape="rect" id="Node000018" href="$class_d_i_o_g_p_i_o.html" title="Data Input/Output GPIO (General Purpose Input/Output)." alt="" coords="637,279,715,305"/>
+<area shape="poly" id="edge10_Node000001_Node000018" title=" " alt="" coords="633,311,513,356,430,379,429,374,511,351,627,312"/>
+<area shape="poly" id="edge11_Node000001_Node000019" title=" " alt="" coords="470,315,396,379,393,374,464,316"/>
+</map>

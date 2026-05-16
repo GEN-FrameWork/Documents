@@ -1,0 +1,7 @@
+<map id="DIOLINUXNETWORKMANAGER::Enable" name="DIOLINUXNETWORKMANAGER::Enable">
+<area shape="rect" id="Node000001" title="Enable." alt="" coords="5,39,228,81"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaa30002f57fd70eb2805f7992d8c7dbbf" title="Append." alt="" coords="276,5,492,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,43,263,41,258,43,229,49"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga4bbe6ed33c6309f1007527157c5e06f9" title="Delete." alt="" coords="286,72,482,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,71,273,79,267,79,228,77"/>
+</map>

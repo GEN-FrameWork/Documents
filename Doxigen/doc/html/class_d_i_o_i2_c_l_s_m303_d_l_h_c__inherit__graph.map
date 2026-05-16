@@ -1,0 +1,11 @@
+<map id="DIOI2CLSM303DLHC" name="DIOI2CLSM303DLHC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,155,368,181"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_i2_c3_d_a_c_c_e_l_e_r_o_m_e_t_e_r_l_s_m303_d_l_h_c.html" title=" " alt="" coords="5,229,295,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,188,176,231,174,226,252,189"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_i2_c3_d_c_o_m_p_a_s_s_l_s_m303_d_l_h_c.html" title=" " alt="" coords="318,229,552,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="332,186,413,229,408,229,330,191"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="234,80,351,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,120,295,156,290,153,291,125"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="244,5,341,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,46,295,81,290,78,291,50"/>
+</map>

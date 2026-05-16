@@ -1,0 +1,14 @@
+<map id="UI_COLORS::Add" name="UI_COLORS::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="563,5,701,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,16,547,16,547,21,135,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="183,31,292,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,26,170,33,165,34,135,31"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="358,31,492,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,41,344,44,339,44,293,47"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="340,81,509,108"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="290,55,361,77,356,77,289,61"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="492,33,550,29,545,29,493,38"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="557,81,707,108"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="510,92,544,95,539,95,510,97"/>
+</map>

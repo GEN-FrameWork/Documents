@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_g_r_p_d_e_s_k_t_o_p_m_a_n_a_g_e_r.html" title="Graphics Desktop Manager class." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="Node000001" href="$class_g_r_p_l_i_n_u_x_d_e_s_k_t_o_p_m_a_n_a_g_e_r.html" title="LINUX Graphics Desktop Manager class." alt="" coords="250,5,472,32"/>
+<area shape="poly" id="edge342_Node000000_Node000001" title=" " alt="" coords="203,31,252,29,247,30,204,36"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_w_i_n_d_o_w_s_d_e_s_k_t_o_p_m_a_n_a_g_e_r.html" title="WINDOWS Graphics Desktop Manager class." alt="" coords="236,56,487,83"/>
+<area shape="poly" id="edge343_Node000000_Node000002" title=" " alt="" coords="203,52,238,57,233,57,203,57"/>
+</map>

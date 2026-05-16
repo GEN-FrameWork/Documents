@@ -1,0 +1,28 @@
+var class_x_f_i_l_e_c_f_g_v_a_l_u_e =
+[
+    [ "XFILECFGVALUE", "group___x_u_t_i_l_s.html#gaf64f768a114a767be97bfddd78527824", null ],
+    [ "~XFILECFGVALUE", "group___x_u_t_i_l_s.html#ga726701a6f60076550d3ba0324e5271d5", null ],
+    [ "GetGroup", "group___x_u_t_i_l_s.html#gac142fef1043072de6823eebbefd67d72", null ],
+    [ "GetID", "group___x_u_t_i_l_s.html#ga6f391ee440264e929c8d059ff5756cc9", null ],
+    [ "GetIDBasic", "group___x_u_t_i_l_s.html#ga7df3b965a03002ee9fa77e81c6d76c7a", null ],
+    [ "GetIndexSecuence", "group___x_u_t_i_l_s.html#gac4beb374e3cf16ba533bfc694e46f7f2", null ],
+    [ "GetMask", "group___x_u_t_i_l_s.html#gad23dc70c3b85c4e757ee43fbabeac0e1", null ],
+    [ "GetMaxSecuences", "group___x_u_t_i_l_s.html#ga7733cd816a389f3a6781f515a62a780b", null ],
+    [ "GetMinSecuences", "group___x_u_t_i_l_s.html#ga24c5967f0e116c78cf73a6000deab21c", null ],
+    [ "GetModeRemoteMix", "group___x_u_t_i_l_s.html#gace1d3c93686d670f4acd1a7d27220f4a", null ],
+    [ "GetNSecuences", "group___x_u_t_i_l_s.html#ga8b211f3e709706c6485844226490d138", null ],
+    [ "GetRemarkText", "group___x_u_t_i_l_s.html#gabc04f793bcf25729d3f533a95809d9ab", null ],
+    [ "GetRemarkXPos", "group___x_u_t_i_l_s.html#ga28eda28503d445506d6241bc3d9abd45", null ],
+    [ "GetType", "group___x_u_t_i_l_s.html#gaadb73608cc79df9458cd90c6bfd218a0", null ],
+    [ "GetValue", "group___x_u_t_i_l_s.html#gab0b866a0988bc5983c54ca788eafbe1c", null ],
+    [ "GetValuesVector", "group___x_u_t_i_l_s.html#gad10d46bfb06b32fa729839a0c26ae087", null ],
+    [ "SetIndexSecuence", "group___x_u_t_i_l_s.html#gad9a29b29a81b551041b65f6b575647a5", null ],
+    [ "SetMaxSecuences", "group___x_u_t_i_l_s.html#ga48abddc6e4e9004a70b9adbe2b27a203", null ],
+    [ "SetMinSecuences", "group___x_u_t_i_l_s.html#gabb7581444a39d0ad9446f526301a42e6", null ],
+    [ "SetModeRemoteMix", "group___x_u_t_i_l_s.html#gadc51046ed89d4c3b00c23b5e36b5e6a9", null ],
+    [ "SetNSecuences", "group___x_u_t_i_l_s.html#ga17b26b538cbb327d86ba91fd48940b63", null ],
+    [ "SetRemarkXPos", "group___x_u_t_i_l_s.html#ga8016eddd53cc4500199f89e262672ca2", null ],
+    [ "SetType", "group___x_u_t_i_l_s.html#gad5565c6f313bd542fde665f1b6aa0607", null ],
+    [ "SetValue", "group___x_u_t_i_l_s.html#gad49d3f95fe376160f500d202f53d1053", null ],
+    [ "SetValuesVector", "group___x_u_t_i_l_s.html#gae71c5f19accf716f89345ece7824ad37", null ]
+];

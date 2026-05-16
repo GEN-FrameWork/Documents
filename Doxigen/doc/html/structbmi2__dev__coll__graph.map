@@ -1,0 +1,10 @@
+<map id="bmi2_dev" name="bmi2_dev">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,156,270,183"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="268,150,288,154,295,160,297,169,293,181,282,187,268,189,254,186,254,181,268,184,281,182,289,178,292,169,290,163,286,158,268,155"/>
+<area shape="rect" id="Node000002" href="$structbmi2__feature__config.html" title=" " alt="" coords="5,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,41,155,99,219,155,214,156,152,103,95,46"/>
+<area shape="rect" id="Node000003" href="$structbmi2__axes__remap.html" title=" " alt="" coords="168,5,296,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,46,234,156,229,155,230,50"/>
+<area shape="rect" id="Node000004" href="$structbmi2__map__int.html" title=" " alt="" coords="319,5,422,32"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="351,43,245,157,242,153,346,44"/>
+</map>

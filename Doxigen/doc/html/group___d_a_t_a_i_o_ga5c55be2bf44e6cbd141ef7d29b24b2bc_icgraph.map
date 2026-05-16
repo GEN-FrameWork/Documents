@@ -1,0 +1,7 @@
+<map id="DIOSTREAMDEVICEUSB::GetProductID" name="DIOSTREAMDEVICEUSB::GetProductID">
+<area shape="rect" id="Node000001" title="Get product ID." alt="" coords="326,39,506,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga88d75ac6e652995701f93539f4980410" title="Find device." alt="" coords="5,5,278,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,47,278,46,278,41,313,47"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga7723fcdecc8da20e51135a901f3e5926" title="Find device." alt="" coords="5,72,278,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,73,278,79,278,74,313,72"/>
+</map>

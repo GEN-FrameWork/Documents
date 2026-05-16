@@ -1,0 +1,21 @@
+<map id="XBUFFER::ExtractWithMaskArg" name="XBUFFER::ExtractWithMaskArg">
+<area shape="rect" id="Node000001" title="Extract with mask arg." alt="" coords="5,107,219,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga8d54c97a513fa79753de095832a5fcc5" title="Extract with mask arg." alt="" coords="267,81,480,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,107,254,106,249,107,220,112"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="318,132,428,159"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="219,128,305,138,300,139,219,133"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa18ae97bc16eca76dad45de57c4dd08c" title="Extract." alt="" coords="538,5,673,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,78,545,38,550,37,418,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="549,56,662,83"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="480,80,536,77,531,78,481,86"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="731,107,871,133"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="480,98,719,115,713,115,480,104"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="528,157,683,184"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="439,106,481,117,560,151,554,151,479,123,439,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="734,5,868,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="673,16,722,18,716,19,674,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="919,56,1078,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="669,30,732,41,906,63,901,63,731,47,669,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="856,30,931,52,926,51,856,35"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="856,103,926,88,931,87,857,109"/>
+</map>

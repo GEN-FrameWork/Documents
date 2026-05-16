@@ -1,0 +1,28 @@
+<map id="XBUFFER::Insert" name="XBUFFER::Insert">
+<area shape="rect" id="Node000001" title="Insert." alt="" coords="5,107,131,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="389,5,502,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,103,379,34,378,39,122,109"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga2f06f00ff0797191e239e8d4de16293b" title="Insert." alt="" coords="187,107,312,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,117,173,119,168,121,132,123"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga0007f465be1385ea663397e502c5280e" title="Is empty." alt="" coords="179,183,320,209"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="103,131,204,175,199,178,102,137"/>
+<area shape="poly" id="edge10_Node000003_Node000002" title=" " alt="" coords="268,104,311,73,367,42,384,37,379,39,369,46,314,78,270,108"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="388,56,503,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,103,379,86,374,88,305,109"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="380,107,511,133"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="312,117,368,119,362,121,313,123"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="376,208,515,235"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="270,131,314,162,369,194,384,202,379,202,367,198,311,167,268,137"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="368,157,523,184"/>
+<area shape="poly" id="edge13_Node000003_Node000010" title=" " alt="" coords="304,131,379,153,374,153,304,137"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="571,19,705,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="503,56,559,47,554,49,505,61"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="753,95,912,121"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="504,72,740,98,734,99,504,78"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="675,43,785,89,779,89,674,49"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="573,120,703,147"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="511,122,560,128,555,128,511,127"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="703,122,740,120,735,121,704,127"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="515,205,605,184,704,156,783,129,788,127,706,161,607,189,516,210"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="321,202,364,210,358,210,320,208"/>
+</map>

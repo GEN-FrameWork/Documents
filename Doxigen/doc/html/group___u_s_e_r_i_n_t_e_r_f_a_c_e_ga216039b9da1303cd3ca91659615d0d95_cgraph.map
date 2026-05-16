@@ -1,0 +1,10 @@
+<map id="UI_MANAGER::SubscribeInputEvents" name="UI_MANAGER::SubscribeInputEvents">
+<area shape="rect" id="Node000001" title="Subscribe input events." alt="" coords="5,23,211,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga137f7c55eb9b778873286232d22a5c12" title="Subscribe event." alt="" coords="267,5,472,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,31,254,30,249,31,212,37"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="259,56,480,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,51,246,57,240,57,211,57"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="528,31,723,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,26,515,33,510,33,472,31"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="480,56,510,55,515,55,481,61"/>
+</map>

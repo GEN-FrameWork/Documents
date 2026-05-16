@@ -1,0 +1,9 @@
+<map id="DIOIEC60870_5::GetTimeLabelTypeA" name="DIOIEC60870_5::GetTimeLabelTypeA">
+<area shape="rect" id="Node000001" title="Get time label type a." alt="" coords="459,39,665,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga898ffca49e72c68892c28bb6dd0537cc" title="CMDCCINU2 read." alt="" coords="250,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,43,407,40,407,35,446,43"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3ff5d9ca907775c5d2abe7274eeaac0f" title="CMDCTRAA read values." alt="" coords="246,72,411,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,77,412,84,411,79,441,77"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gace240f640ed613ba2096f9896957e380" title="CMDCCINU2 read all values." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,27,198,29,198,24,237,26"/>
+</map>

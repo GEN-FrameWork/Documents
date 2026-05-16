@@ -1,0 +1,9 @@
+<map id="DIOWEBSERVER_PLUGIN::GetName" name="DIOWEBSERVER_PLUGIN::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="320,72,508,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3deac5a135b921bd20e920339efcf7f9" title="Constructor of class." alt="" coords="9,5,268,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,69,230,51,230,46,311,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gacfc4bf2d72fe114331c01190783820cb" title="Constructor of class." alt="" coords="5,72,272,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,94,273,96,272,91,307,93"/>
+<area shape="rect" id="Node000004" href="$group___a_p_p_f_l_o_w.html#ga005b202d42da6f6b78249577bca8cbdc" title="Resolve request." alt="" coords="24,139,253,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,118,230,141,229,135,306,119"/>
+</map>

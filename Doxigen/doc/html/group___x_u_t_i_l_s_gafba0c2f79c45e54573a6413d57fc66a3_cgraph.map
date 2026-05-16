@@ -1,0 +1,13 @@
+<map id="XERRORSMSG::AddMsg" name="XERRORSMSG::AddMsg">
+<area shape="rect" id="Node000001" title="Add msg." alt="" coords="5,81,180,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf2259e0488e581a937632255f14856b5" title="Find msg." alt="" coords="228,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,78,227,41,252,36,247,38,229,47,129,83"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaaab9ece10d0580863c5f404679e60df1" title="Set image." alt="" coords="229,56,402,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,82,216,80,211,82,180,87"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga8d3837bcae22f0ede1a5777668cab14b" title="Set level." alt="" coords="232,107,400,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,102,219,108,214,109,180,107"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga990b57fb9d77b2c4399c0f3aac873c9a" title="Set sound." alt="" coords="229,157,403,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,106,229,143,253,153,247,152,227,148,128,111"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6d40caed49620ae1eb7eefe77eae45e2" title="Get code." alt="" coords="452,5,621,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,16,439,18,434,19,405,21"/>
+</map>

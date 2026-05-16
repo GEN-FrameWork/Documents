@@ -1,0 +1,15 @@
+<map id="UI_SKINCANVAS_REBUILDAREAS::CreateRebuildArea" name="UI_SKINCANVAS_REBUILDAREAS::CreateRebuildArea">
+<area shape="rect" id="Node000001" title="Create rebuild area." alt="" coords="5,115,247,157"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga65de81b6ed8b734940509269af2be564" title="Create rebuild area." alt="" coords="295,115,475,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,133,282,135,277,137,248,139"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf5cbf9b44e5db1529b45fa963d29e90a" title="Get bitmap." alt="" coords="558,5,738,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,112,467,84,522,58,541,53,546,52,524,62,469,89,421,117"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga17dee8356cce721dc59702467b63ddf9" title="Set bitmap." alt="" coords="532,72,764,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,116,563,102,557,103,476,121"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gaf68e862bc3ed42b36096f0b6e2636ff0" title="Set extra data." alt="" coords="523,123,773,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="475,133,510,136,505,136,476,139"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga63b1bd770836c0bd313fcd5843af832c" title="Set X pos." alt="" coords="536,173,760,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="476,151,563,170,557,170,475,156"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gab76edd5103da63da4aeed535a1c274a9" title="Set Y pos." alt="" coords="536,224,760,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="419,155,468,184,524,210,549,220,544,219,522,214,465,188,418,160"/>
+</map>

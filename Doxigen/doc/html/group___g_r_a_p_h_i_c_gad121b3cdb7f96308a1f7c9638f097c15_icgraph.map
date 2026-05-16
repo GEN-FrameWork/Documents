@@ -1,0 +1,10 @@
+<map id="GRPVECTORFILE_XEVENT::GetMsg" name="GRPVECTORFILE_XEVENT::GetMsg">
+<area shape="rect" id="Node000001" title="Get msg." alt="" coords="727,35,922,77"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="5,5,315,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,31,679,25,585,18,490,15,316,18,315,13,490,9,586,12,679,20,731,31"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="363,35,679,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="709,56,679,59,679,53,714,56"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0498d960083fab1cd3f6425832350301" title="Parser text section." alt="" coords="365,101,677,144"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="717,81,680,92,627,103,626,98,678,87,712,82"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="345,42,315,42,315,37,350,42"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="XMPINTEGER::ImportFromBinary" name="XMPINTEGER::ImportFromBinary">
+<area shape="rect" id="Node000001" title="import from binary" alt="" coords="5,31,228,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="496,5,646,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,35,482,21,479,26,228,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9f197e450fc285f958c96c7e6041792b" title="Left set." alt="" coords="276,56,436,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,53,263,59,258,60,228,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="706,31,891,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="646,24,693,32,688,32,646,30"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="415,53,494,37,499,36,416,58"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="436,62,693,50,688,51,437,67"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="484,107,658,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,81,499,103,494,103,416,86"/>
+</map>

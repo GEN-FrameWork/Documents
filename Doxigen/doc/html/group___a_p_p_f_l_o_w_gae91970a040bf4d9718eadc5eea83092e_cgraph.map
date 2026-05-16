@@ -1,0 +1,13 @@
+<map id="APPFLOWWEBSERVER::~APPFLOWWEBSERVER" name="APPFLOWWEBSERVER::~APPFLOWWEBSERVER">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,48,186,91"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga4a869a08a0b74a92a8752dce45b46927" title="End." alt="" coords="234,56,437,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,67,221,69,215,70,186,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="496,5,695,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,53,506,36,511,35,408,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="485,56,706,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="437,67,472,69,467,70,438,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae130690234a70d3540b7c7922f02c02f" title="Constructor of class." alt="" coords="510,107,681,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,81,511,103,506,103,408,86"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="754,56,950,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,67,741,69,736,69,707,72"/>
+</map>

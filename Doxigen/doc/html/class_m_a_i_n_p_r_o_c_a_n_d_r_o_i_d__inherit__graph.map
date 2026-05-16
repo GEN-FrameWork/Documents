@@ -1,0 +1,11 @@
+<map id="MAINPROCANDROID" name="MAINPROCANDROID">
+<area shape="rect" id="Node000001" title="ANDROID Main Proc class." alt="" coords="310,96,467,123"/>
+<area shape="rect" id="Node000002" href="$class_a_n_d_r_o_i_d_n_a_t_i_v_e_a_c_t_i_v_i_t_y___h_a_n_d_l_e_r.html" title=" " alt="" coords="5,5,199,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,50,346,94,341,97,190,55"/>
+<area shape="rect" id="Node000003" href="$class_a_n_d_r_o_i_d_n_a_t_i_v_e_i_n_p_u_t___h_a_n_d_l_e_r.html" title=" " alt="" coords="223,5,397,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,57,379,96,374,95,340,62"/>
+<area shape="rect" id="Node000004" href="$class_m_a_i_n_p_r_o_c.html" title="Main Procedure class." alt="" coords="420,13,514,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,50,402,98,399,94,442,52"/>
+<area shape="rect" id="Node000005" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="538,13,631,40"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="543,46,420,98,418,93,538,47"/>
+</map>

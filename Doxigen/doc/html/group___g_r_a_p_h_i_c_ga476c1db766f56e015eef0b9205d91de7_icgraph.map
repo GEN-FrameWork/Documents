@@ -1,0 +1,11 @@
+<map id="GRPBITMAP::Scale" name="GRPBITMAP::Scale">
+<area shape="rect" id="Node000001" title="Scale." alt="" coords="417,47,558,73"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga05cd05403bd44e536c740abbc15e9cfd" title="Layout put background bitmap." alt="" coords="211,5,369,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,46,370,43,369,37,404,45"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae07881beaca5e204a0fdd99b20404392" title="Layout put background bitmap." alt="" coords="211,72,369,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,75,370,83,369,77,404,74"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gabe8150764de6d33b7d767cbd94f46846" title="Layout put background." alt="" coords="5,39,163,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,79,163,75,163,70,198,78"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga48da0ccfcbd896eacadb446407175afd" title="Layout put background." alt="" coords="5,105,163,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="193,109,164,117,163,111,198,108"/>
+</map>

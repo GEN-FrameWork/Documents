@@ -1,0 +1,9 @@
+<map id="XFILEDBF::ReadRecord" name="XFILEDBF::ReadRecord">
+<area shape="rect" id="Node000001" title="Read record." alt="" coords="470,43,636,69"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad76553d392b2835b8157691aafa5fcdf" title="Convert file from DBF." alt="" coords="206,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,44,423,43,423,37,457,44"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacc1225b6dad61258db20c3074c2a085e" title="Pack." alt="" coords="252,72,376,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="457,68,376,80,376,75,452,68"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga2db47519a58abf668a70a7b407c06314" title="Reduction." alt="" coords="5,72,158,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,86,158,88,158,83,239,85"/>
+</map>

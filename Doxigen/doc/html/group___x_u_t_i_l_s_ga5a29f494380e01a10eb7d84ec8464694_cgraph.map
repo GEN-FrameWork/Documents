@@ -1,0 +1,35 @@
+<map id="XFILECFG::GetCountKeys" name="XFILECFG::GetCountKeys">
+<area shape="rect" id="Node000001" title="Get count keys." alt="" coords="5,107,186,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga815f1a0e7acfb2a5f40bf5a0bbc5dd4f" title="Generate key secuence." alt="" coords="234,56,462,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,104,265,85,261,88,167,109"/>
+<area shape="rect" id="Node000042" href="$group___x_u_t_i_l_s.html#gaa079b16676e1cdc45a725d644a6bff40" title="Get file INI." alt="" coords="271,107,425,133"/>
+<area shape="poly" id="edge11_Node000001_Node000042" title=" " alt="" coords="186,117,257,119,252,121,187,123"/>
+<area shape="rect" id="Node000043" href="$group___x_u_t_i_l_s.html#ga7c3d990065616d1558943ef72ea82b8d" title="Get key." alt="" coords="284,157,412,184"/>
+<area shape="poly" id="edge12_Node000001_Node000043" title=" " alt="" coords="166,131,271,154,266,156,166,137"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="999,5,1126,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,53,510,41,640,31,769,23,986,19,980,20,769,29,640,36,510,47,427,58"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="541,56,671,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="462,67,528,69,523,70,463,72"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="551,107,661,133"/>
+<area shape="poly" id="edge10_Node000002_Node000013" title=" " alt="" coords="420,81,538,106,533,107,420,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1174,5,1323,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1126,16,1161,18,1156,19,1127,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1180,56,1318,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1114,30,1185,52,1180,51,1114,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="775,56,926,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="671,75,762,78,757,78,672,80"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="909,53,986,37,991,36,910,58"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="926,67,1167,69,1162,70,926,72"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="772,61,687,63,687,58,778,61"/>
+<area shape="rect" id="Node000044" href="$group___x_u_t_i_l_s.html#ga2640717723b74e05ffdfca45936ae783" title="Find key." alt="" coords="510,157,702,184"/>
+<area shape="poly" id="edge13_Node000043_Node000044" title=" " alt="" coords="412,168,497,170,492,171,413,173"/>
+<area shape="rect" id="Node000047" href="$group___x_u_t_i_l_s.html#gab4949effe31592a91d4ccbabd797dc0e" title="Get section." alt="" coords="532,208,681,235"/>
+<area shape="poly" id="edge16_Node000043_Node000047" title=" " alt="" coords="413,181,522,204,517,205,412,186"/>
+<area shape="rect" id="Node000045" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="779,183,922,209"/>
+<area shape="poly" id="edge14_Node000044_Node000045" title=" " alt="" coords="703,178,767,187,761,187,703,183"/>
+<area shape="rect" id="Node000046" href="$group___x_u_t_i_l_s.html#ga369558b0c97a003fd671c1d6ff21411b" title="Get key." alt="" coords="773,132,928,159"/>
+<area shape="poly" id="edge15_Node000044_Node000046" title=" " alt="" coords="702,158,760,155,755,155,703,163"/>
+<area shape="poly" id="edge17_Node000047_Node000045" title=" " alt="" coords="681,211,761,205,766,205,682,216"/>
+<area shape="rect" id="Node000048" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="750,233,951,260"/>
+<area shape="poly" id="edge18_Node000047_Node000048" title=" " alt="" coords="681,226,737,235,732,235,681,232"/>
+</map>

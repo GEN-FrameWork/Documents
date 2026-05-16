@@ -1,0 +1,9 @@
+<map id="DIOSTREAM::WaitToDisconnected" name="DIOSTREAM::WaitToDisconnected">
+<area shape="rect" id="Node000001" title="Wait to disconnected." alt="" coords="5,31,235,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga352a6beb519134c85b90a3cb1e089119" title="Is disconnected." alt="" coords="283,5,483,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,30,270,29,265,30,235,36"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="315,56,450,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,52,302,61,297,61,235,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga27738d1dd542459c1e475d1c9e1bab85" title="Get status." alt="" coords="531,5,699,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,16,518,18,513,19,484,21"/>
+</map>

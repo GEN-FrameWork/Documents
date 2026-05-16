@@ -1,0 +1,7 @@
+<map id="DIOIEC60870_5::~DIOIEC60870_5" name="DIOIEC60870_5::~DIOIEC60870_5">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,31,235,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="283,5,482,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,30,270,29,265,30,236,36"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaefd47f6bd83fa088df70d38d29f11622" title="Disconnect." alt="" coords="287,56,478,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,52,274,59,269,59,235,58"/>
+</map>

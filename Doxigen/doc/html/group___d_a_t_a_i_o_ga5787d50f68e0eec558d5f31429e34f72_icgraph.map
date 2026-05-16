@@ -1,0 +1,21 @@
+<map id="DIOSTREAM::ResetConnectionStatistics" name="DIOSTREAM::ResetConnectionStatistics">
+<area shape="rect" id="Node000001" title="Reset connection statistics." alt="" coords="264,232,474,275"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga1cf90d038660b75288b2ea134ea80261" title="Open." alt="" coords="14,5,207,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,219,324,183,294,141,257,98,214,62,196,51,195,46,217,58,261,95,298,138,329,180,352,219"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaaf78df8be56ee57b4983565ec98e6188" title="Open." alt="" coords="10,72,211,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,220,285,165,251,137,214,113,189,102,188,97,217,108,254,133,289,162,344,220"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad5773d0eadc589318f016870bfc661ec" title="Open." alt="" coords="20,123,201,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,226,215,180,186,168,184,163,217,175,317,223"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaed0ced497402f5933e5ade4a0bb80d9e" title="Open." alt="" coords="6,189,215,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,231,183,219,182,214,251,228"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gafccebd8333bc1df1f36fb068af1c0a1a" title="Open." alt="" coords="30,240,191,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,255,193,256,191,251,250,252"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2f0f851406dce28fc0e4bd8da4b43f2b" title="Open." alt="" coords="29,291,192,317"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="246,279,183,292,181,288,250,275"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1ca80bf3cc47aa2529193a62ab984a0e" title="Open." alt="" coords="15,341,206,384"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="313,284,217,332,186,343,184,338,215,327,317,281"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1361622e8877b7d51f40d3f50bf8dde1" title="Open." alt="" coords="5,408,216,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="342,285,288,344,254,373,217,398,193,410,191,405,214,394,251,369,284,340,338,288"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf12e7ed3a21d399e1e261bb4f43a5ba2" title="Open." alt="" coords="11,475,210,517"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="353,287,331,330,301,377,262,424,217,465,197,477,195,472,214,461,259,421,296,374,327,327,349,290"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFENTITYOBJ::GetDataValue" name="GRPVECTORFILEDXFENTITYOBJ::GetDataValue">
+<area shape="rect" id="Node000001" title="Get data value." alt="" coords="5,56,241,99"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="336,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,53,323,33,318,35,225,58"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gad2d135cf3bc2930de0171881051f3225" title="Get type." alt="" coords="291,56,496,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,75,278,77,273,78,241,80"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaae887d79c2889238fe8a30275b17a66e" title="Get values." alt="" coords="289,123,498,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,97,292,118,287,119,212,102"/>
+</map>

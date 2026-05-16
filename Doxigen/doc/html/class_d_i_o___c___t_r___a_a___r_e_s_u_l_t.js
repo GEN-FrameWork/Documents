@@ -1,0 +1,28 @@
+var class_d_i_o___c___t_r___a_a___r_e_s_u_l_t =
+[
+    [ "DIO_C_TR_AA_RESULT", "group___d_a_t_a_i_o.html#ga44fc722cd976ec6bd036a8a25a65ac0c", null ],
+    [ "~DIO_C_TR_AA_RESULT", "group___d_a_t_a_i_o.html#gafa4e02ab4e9fb2722a6ef2adb7653ede", null ],
+    [ "GetActiveExport", "group___d_a_t_a_i_o.html#gac13d695d049f09f4f81d738d67531162", null ],
+    [ "GetActiveImport", "group___d_a_t_a_i_o.html#gaf28f90ac250c1837e31ddf621a4ac75f", null ],
+    [ "GetActivePowerPhase", "group___d_a_t_a_i_o.html#gaa0795f66224ea08f057a0dd187a4d742", null ],
+    [ "GetCurrentPhase", "group___d_a_t_a_i_o.html#ga6158c9cb0ee7fbc2c53f82df71bafbed", null ],
+    [ "GetDateTime", "group___d_a_t_a_i_o.html#ga7e6c8ec9488105589c6b73d6345d6997", null ],
+    [ "GetPowerFactorPhase", "group___d_a_t_a_i_o.html#ga643818034c2d1392f2ed3028f0d6499d", null ],
+    [ "GetReactivePowerPhase", "group___d_a_t_a_i_o.html#ga62cb48ddb801aa3ca64dd6961b101498", null ],
+    [ "GetReactiveQ", "group___d_a_t_a_i_o.html#gab2b8f4046c674ce39c64c1eb9f40c4e1", null ],
+    [ "GetTotalActivePower", "group___d_a_t_a_i_o.html#gac8786dce61383e71bde4b73dca51fec9", null ],
+    [ "GetTotalPowerFactor", "group___d_a_t_a_i_o.html#ga9a3d377f9cb488939cc6ac9d237be5fd", null ],
+    [ "GetTotalReactivePower", "group___d_a_t_a_i_o.html#gaa255e49b2b5e3e47ccee7b45e529aa61", null ],
+    [ "GetVoltagePhase", "group___d_a_t_a_i_o.html#ga66202a38a80f27b6a395e1c8e100ea5d", null ],
+    [ "SetActiveExport", "group___d_a_t_a_i_o.html#gadd5c370c7e836b93f81b5135396d4f78", null ],
+    [ "SetActiveImport", "group___d_a_t_a_i_o.html#ga88d08b8d0901cace7ded5d7489dbf34c", null ],
+    [ "SetActivePowerPhase", "group___d_a_t_a_i_o.html#gac41aa4cba57cc28b14c229083d542fab", null ],
+    [ "SetCurrentPhase", "group___d_a_t_a_i_o.html#ga49866865166b560015d7fe0dc56269e3", null ],
+    [ "SetPowerFactorPhase", "group___d_a_t_a_i_o.html#gaf0936e223530d2a5f5e79a81b7b3b240", null ],
+    [ "SetReactivePowerPhase", "group___d_a_t_a_i_o.html#gaab04236ba47cfd44b13e11d55b8c663a", null ],
+    [ "SetReactiveQ", "group___d_a_t_a_i_o.html#ga029c0efcf130f04267bbfb806298acd4", null ],
+    [ "SetTotalActivePower", "group___d_a_t_a_i_o.html#ga5d6c04c2e56acea5f68e49129e02dd9d", null ],
+    [ "SetTotalPowerFactor", "group___d_a_t_a_i_o.html#gaf9d8f808d08dbe8f7b831baef3606a14", null ],
+    [ "SetTotalReactivePower", "group___d_a_t_a_i_o.html#gaca113d81ed0d92cf78603f48fc257a84", null ],
+    [ "SetVoltagePhase", "group___d_a_t_a_i_o.html#ga28792ddefbd7b3f2bcd052c6f87550d6", null ]
+];

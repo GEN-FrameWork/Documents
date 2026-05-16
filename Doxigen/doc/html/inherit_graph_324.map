@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_h_a_s_h.html" title="Hash interface class." alt="" coords="5,183,65,209"/>
+<area shape="rect" id="Node000001" href="$class_h_a_s_h_c_k_s16.html" title="Hash CKS16 class." alt="" coords="132,5,233,32"/>
+<area shape="poly" id="edge361_Node000000_Node000001" title=" " alt="" coords="41,167,66,104,85,71,111,42,133,30,129,34,114,46,90,74,70,107,46,168"/>
+<area shape="rect" id="Node000002" href="$class_h_a_s_h_c_o_m_p128_v1.html" title="Hash COMP128 (version 1) class." alt="" coords="114,56,250,83"/>
+<area shape="poly" id="edge362_Node000000_Node000002" title=" " alt="" coords="48,168,75,129,111,93,134,81,131,85,114,97,79,132,53,170"/>
+<area shape="rect" id="Node000003" href="$class_h_a_s_h_c_r_c16.html" title="Hash CRC16 class." alt="" coords="131,107,234,133"/>
+<area shape="poly" id="edge363_Node000000_Node000003" title=" " alt="" coords="65,171,111,143,141,132,137,136,114,148,69,175"/>
+<area shape="rect" id="Node000004" href="$class_h_a_s_h_c_r_c32.html" title="Hash CRC32 class." alt="" coords="131,157,234,184"/>
+<area shape="poly" id="edge364_Node000000_Node000004" title=" " alt="" coords="79,186,132,178,129,181,82,191"/>
+<area shape="rect" id="Node000005" href="$class_h_a_s_h_m_d5.html" title="Hash MD5 class." alt="" coords="139,208,226,235"/>
+<area shape="poly" id="edge365_Node000000_Node000005" title=" " alt="" coords="79,201,141,212,136,216,81,206"/>
+<area shape="rect" id="Node000006" href="$class_h_a_s_h_s_h_a1.html" title="Hash SHA1 class." alt="" coords="135,259,230,285"/>
+<area shape="poly" id="edge366_Node000000_Node000006" title=" " alt="" coords="67,216,114,244,141,257,136,259,111,249,67,221"/>
+<area shape="rect" id="Node000007" href="$class_h_a_s_h_s_h_a2.html" title="Hash SHA2 class." alt="" coords="135,309,230,336"/>
+<area shape="poly" id="edge367_Node000000_Node000007" title=" " alt="" coords="51,221,79,260,114,295,137,309,132,310,111,299,75,263,51,226"/>
+<area shape="rect" id="Node000008" href="$class_h_a_s_h_w_h_i_r_l_p_o_o_l.html" title="Hash Whirlpool class." alt="" coords="113,360,252,387"/>
+<area shape="poly" id="edge368_Node000000_Node000008" title=" " alt="" coords="45,222,70,285,90,318,114,346,133,360,127,359,111,350,85,321,66,288,43,227"/>
+</map>

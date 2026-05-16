@@ -1,0 +1,9 @@
+<map id="SNDWINDOWSFACTORY" name="SNDWINDOWSFACTORY">
+<area shape="rect" id="Node000001" title="WINDOWS Sound Factory class." alt="" coords="5,229,187,256"/>
+<area shape="rect" id="Node000002" href="$class_s_n_d_o_p_e_n_a_l_f_a_c_t_o_r_y.html" title="Sound OpenAL Factory class." alt="" coords="13,155,179,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,195,98,230,94,228,94,199"/>
+<area shape="rect" id="Node000003" href="$class_s_n_d_f_a_c_t_o_r_y.html" title="Sound Factory class." alt="" coords="40,80,152,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,120,99,155,93,154,95,125"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="50,5,142,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,45,99,80,93,79,95,50"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="XFILEINI::GetSection" name="XFILEINI::GetSection">
+<area shape="rect" id="Node000001" title="Get section." alt="" coords="5,72,155,99"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="232,47,374,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,74,219,69,213,71,156,79"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="203,97,403,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="155,91,190,97,185,98,155,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="451,5,597,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,47,439,39,433,40,375,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="451,72,597,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="375,68,439,80,433,80,374,73"/>
+</map>

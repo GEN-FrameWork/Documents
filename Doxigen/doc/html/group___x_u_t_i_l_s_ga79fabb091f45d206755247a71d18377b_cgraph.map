@@ -1,0 +1,13 @@
+<map id="XDATETIME::operator==" name="XDATETIME::operator==">
+<area shape="rect" id="Node000001" title="operator ==" alt="" coords="5,56,174,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafac1807c4d262e7eb8c7777bab66fbde" title="Get milli seconds." alt="" coords="236,5,436,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,255,34,250,37,159,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga8005b8d3f065b4cb2dd1a208165ad5b6" title="Get secons from date." alt="" coords="222,56,450,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,67,208,69,203,70,174,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="245,107,426,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,81,255,102,250,104,158,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="498,31,732,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,56,485,56,480,56,451,62"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="509,81,721,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="451,77,496,84,491,84,450,82"/>
+</map>

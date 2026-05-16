@@ -1,0 +1,7 @@
+<map id="XSCHEDULER_XEVENT" name="XSCHEDULER_XEVENT">
+<area shape="rect" id="Node000001" title="eXtended Utils Scheduler Event class" alt="" coords="5,180,181,207"/>
+<area shape="rect" id="Node000002" href="$class_x_e_v_e_n_t.html" title="eXtended Utils Event base class" alt="" coords="55,104,131,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,144,95,181,91,179,91,148"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="47,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,45,96,104,90,103,92,50"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DIOSPITOUCHSCREENSTMPE610::ReadPosition" name="DIOSPITOUCHSCREENSTMPE610::ReadPosition">
+<area shape="rect" id="Node000001" title="Read position." alt="" coords="5,35,245,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5aa21c39bc299338513079fce8cfa266" title="Is buffer empty." alt="" coords="293,5,532,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,41,280,40,274,41,245,46"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="580,43,750,69"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="245,57,293,57,532,57,567,59,562,59,532,63,293,63,245,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="533,38,567,44,562,44,532,43"/>
+</map>

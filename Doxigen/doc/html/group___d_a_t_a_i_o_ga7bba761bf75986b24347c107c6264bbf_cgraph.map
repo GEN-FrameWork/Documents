@@ -1,0 +1,5 @@
+<map id="DIOAIOBIMAINBOARD::IsButtonBPressed" name="DIOAIOBIMAINBOARD::IsButtonBPressed">
+<area shape="rect" id="Node000001" title="Is button B pressed." alt="" coords="5,5,177,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga8ffc83684cec83e84a8f734e9830d7d4" title="Get status header pin." alt="" coords="225,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,24,212,26,206,27,177,29"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="XWINDOWSWMIINTERFACE_RESULT::GetResultsVariant" name="XWINDOWSWMIINTERFACE_RESULT::GetResultsVariant">
+<area shape="rect" id="Node000001" title="Get results variant." alt="" coords="589,72,792,115"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gafb4e9e97d4f1b3f011a1cb94d23f249c" title="Do query." alt="" coords="46,5,249,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,80,541,77,250,42,249,36,541,72,576,78"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga3294118a911e4cac24219a54441877a2" title="Do query." alt="" coords="46,72,249,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,95,250,96,249,91,576,91"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga32f1a593ed80129044889e416f5e7fac" title="Do query." alt="" coords="338,239,541,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="647,122,475,240,472,236,642,125"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="419,225,398,187,369,143,332,99,288,62,250,44,249,39,291,58,336,95,373,140,403,185,424,225"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="408,227,356,177,323,151,288,129,250,113,249,108,291,124,327,147,360,173,413,227"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gad25a4db5b8358461a7065c77957512aa" title="Do query." alt="" coords="46,507,249,549"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,294,408,343,379,397,340,451,317,476,291,497,250,517,249,512,288,492,313,472,336,448,374,394,403,341,424,298"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga86140821b0bc4abf064762c6b4390db6" title="Do query." alt="" coords="46,139,249,181"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="379,233,289,196,250,184,249,179,291,191,384,231"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa4a6eab9e798c629e07561a631180528" title="Get BIOS serial number." alt="" coords="23,205,272,248"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="320,248,273,243,271,238,325,246"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab41c20832ba63430d81c7e49fdc5711f" title="Get CPU serial number." alt="" coords="25,272,270,315"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="320,275,272,282,270,277,325,272"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac4b95772a35ed02a5ba85eb8aec7f9d2" title="Get CPU temperature." alt="" coords="5,339,290,365"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="381,290,339,311,290,329,246,340,244,336,289,324,337,306,385,287"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga15d0779fc67d6dbefe371dc6d7af139f" title="Get memory info." alt="" coords="21,389,274,416"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="409,291,357,339,325,361,291,380,259,391,257,386,289,375,322,357,353,335,405,294"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gad247fdaaaddbca799b51ec052f0348cd" title="Get operative system ID." alt="" coords="28,440,267,483"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="419,293,367,365,331,400,291,430,268,442,266,437,288,426,328,396,363,361,415,296"/>
+</map>

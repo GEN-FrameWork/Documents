@@ -1,0 +1,5 @@
+<map id="APPFLOWEXTENDED_APPLICATIONSTATUS::GetOSVersion" name="APPFLOWEXTENDED_APPLICATIONSTATUS::GetOSVersion">
+<area shape="rect" id="Node000001" title="Get OS version." alt="" coords="360,5,666,48"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#gabc3a0a70673d9ca34a270ad7ba6ff1ba" title="Show." alt="" coords="5,5,312,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,27,312,29,312,24,347,27"/>
+</map>

@@ -1,0 +1,25 @@
+var class_x_s_c_h_e_d_u_l_e_r_t_a_s_k =
+[
+    [ "XSCHEDULERTASK", "group___x_u_t_i_l_s.html#ga3c83e14b14fae636b1af1588bad031e2", null ],
+    [ "~XSCHEDULERTASK", "group___x_u_t_i_l_s.html#gaf67177c43f61dc34bb4b0282623b68e4", null ],
+    [ "CheckCondition", "group___x_u_t_i_l_s.html#ga346ca77ef8158f1b6ae78e57a9014144", null ],
+    [ "GetID", "group___x_u_t_i_l_s.html#ga498bc0307b75f7e5d8ac1fbba9cfe3a0", null ],
+    [ "GetNCyclesTodo", "group___x_u_t_i_l_s.html#ga62d17b0a69f9328316498039b95112ff", null ],
+    [ "GetTimeLimitEnd", "group___x_u_t_i_l_s.html#ga0d4263262236612d90295fc2b82e87ff", null ],
+    [ "GetTimeLimitStart", "group___x_u_t_i_l_s.html#ga813d4d77716e4f29dd43dc2fb80e2bc8", null ],
+    [ "GetXTimer", "group___x_u_t_i_l_s.html#gacb32be07ce22adbf4202fc2a5b24bd2b", null ],
+    [ "IsActive", "group___x_u_t_i_l_s.html#ga0c0ca6b68b1f02d867815a50a39646f3", null ],
+    [ "IsCyclic", "group___x_u_t_i_l_s.html#gaf16de4822e4c13f0daa0b742054c7cf8", null ],
+    [ "IsInValidTimeLimit", "group___x_u_t_i_l_s.html#gae6e303ed6f4b28c29ee3cd460cefb579", null ],
+    [ "IsStartImmediatelyCycles", "group___x_u_t_i_l_s.html#ga70b276116de2f5dff2461265b8560fcf", null ],
+    [ "ResetCondition", "group___x_u_t_i_l_s.html#ga1d591be0140cc14363ed003836bc0e79", null ],
+    [ "SetConditionDayWeek", "group___x_u_t_i_l_s.html#gae55c64c4770d04dc67608c269ab52a21", null ],
+    [ "SetID", "group___x_u_t_i_l_s.html#ga59e7fe9c868a162daf2d37d7e637b7da", null ],
+    [ "SetIsActive", "group___x_u_t_i_l_s.html#ga5e59c92a4529f014a9e9db4b9761586d", null ],
+    [ "SetIsStartImmediatelyCycles", "group___x_u_t_i_l_s.html#ga55b32a8806e2a7459367f1e38325ae97", null ],
+    [ "SetNCycles", "group___x_u_t_i_l_s.html#gab21b56096efe3d19ed655635d91959dd", null ],
+    [ "SetNCycles", "group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a", null ],
+    [ "SetNCycles", "group___x_u_t_i_l_s.html#ga01a9c9cad767a1ecada80832ee64790b", null ],
+    [ "SetTimeLimits", "group___x_u_t_i_l_s.html#ga71c60cbe5bb615e1ad36661161af7ff2", null ],
+    [ "StartConditionImmediately", "group___x_u_t_i_l_s.html#ga242b4bc47051e949e6a8624b5ee8d911", null ]
+];

@@ -1,0 +1,11 @@
+<map id="DIOMAC::Get" name="DIOMAC::Get">
+<area shape="rect" id="Node000001" title="Get." alt="" coords="610,68,714,95"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga74bbab2954fe5b9a5cc1edf120e75fd3" title="Is equal." alt="" coords="385,43,512,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="592,73,513,66,513,61,598,73"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga94eb5362e9d61b7f55958c3082623768" title="Send activation." alt="" coords="336,93,562,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="597,89,563,96,562,91,592,90"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga7d68768347282f2bbd48ad692f736a33" title="Get device by MAC." alt="" coords="5,5,288,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,49,288,43,288,38,372,48"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga0956cff0c3e89187a7502ad02e0ae19c" title="Is equal." alt="" coords="83,72,210,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="367,64,211,82,210,77,372,63"/>
+</map>

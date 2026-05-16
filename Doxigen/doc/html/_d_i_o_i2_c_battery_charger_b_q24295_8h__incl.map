@@ -1,0 +1,25 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Drivers/I2C/DIOI2CBatteryChargerBQ24295.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Drivers/I2C/DIOI2CBatteryChargerBQ24295.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,229,64"/>
+<area shape="rect" id="Node000002" href="$_x_base_8h.html" title=" " alt="" coords="84,336,155,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,62,97,112,94,170,98,228,115,321,110,321,93,229,88,170,92,112,106,67"/>
+<area shape="rect" id="Node000003" href="$_d_i_o_device_i2_c_8h.html" title=" " alt="" coords="106,112,224,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,62,154,98,148,99,132,67"/>
+<area shape="rect" id="Node000004" href="$_x_string_8h.html" title=" " alt="" coords="233,187,308,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,137,242,177,237,178,183,142"/>
+<area shape="rect" id="Node000011" href="$_d_i_o_device_8h.html" title=" " alt="" coords="111,187,208,213"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="165,137,164,172,159,170,163,142"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="252,212,220,237,188,263,160,294,137,325,134,321,156,291,184,259,217,233,247,215"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="439,336,499,363"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,204,409,224,455,240,473,249,484,260,491,275,493,291,484,323,481,320,487,291,486,276,480,263,470,254,453,245,408,229,308,209"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="208,261,276,288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="267,212,255,249,251,245,264,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="284,336,348,363"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="248,212,225,230,205,248,195,267,194,277,198,287,212,303,230,317,271,338,266,337,227,321,208,307,193,289,189,278,189,266,201,244,222,226,243,215"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="301,261,368,288"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="282,211,316,250,311,249,281,216"/>
+<area shape="rect" id="Node000009" href="$_x_vector_8h.html" title=" " alt="" coords="392,261,471,288"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="299,211,392,254,387,255,298,217"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="393,288,171,339,170,334,391,283"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="440,286,458,323,453,321,437,291"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="414,288,350,330,348,325,409,289"/>
+</map>

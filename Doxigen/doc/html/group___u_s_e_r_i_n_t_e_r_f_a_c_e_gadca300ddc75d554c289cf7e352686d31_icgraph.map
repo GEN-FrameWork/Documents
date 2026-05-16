@@ -1,0 +1,9 @@
+<map id="UI_ELEMENT::GetName" name="UI_ELEMENT::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="252,64,420,91"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf81798ba7c1d2871c6d2b6c2627b369a" title="Elements get." alt="" coords="12,5,197,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,61,160,35,160,30,268,58"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gacc271104b8b166a01ce3e23b46b598b8" title="Option add text." alt="" coords="5,56,204,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,78,205,80,204,75,239,77"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab87481fadb001efd914d35c360fdf8af" title="Select input." alt="" coords="18,123,191,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,95,182,125,180,119,269,96"/>
+</map>

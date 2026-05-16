@@ -1,0 +1,13 @@
+<map id="UI_ELEMENT_OPTION" name="UI_ELEMENT_OPTION">
+<area shape="rect" id="Node000001" title="User Interface Element Option class." alt="" coords="66,256,229,283"/>
+<area shape="rect" id="Node000002" href="$class_u_i___e_l_e_m_e_n_t.html" title="User Interface Element class." alt="" coords="5,180,111,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,214,135,255,130,257,84,219"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="12,81,104,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,121,61,180,55,179,57,126"/>
+<area shape="rect" id="Node000004" href="$class_u_i___p_r_o_p_e_r_t_y___s_e_l_e_c_t_a_b_l_e.html" title="User Interface Property Selectable class." alt="" coords="134,180,342,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,216,164,258,161,253,208,217"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="202,81,274,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,122,240,181,236,179,236,126"/>
+<area shape="rect" id="Node000006" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="178,5,298,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="239,45,240,82,236,80,237,49"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIO_C_CI_NU_2_RESULT::GetDateTime" name="DIO_C_CI_NU_2_RESULT::GetDateTime">
+<area shape="rect" id="Node000001" title="Get date time." alt="" coords="525,39,708,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga898ffca49e72c68892c28bb6dd0537cc" title="CMDCCINU2 read." alt="" coords="283,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,46,440,40,440,34,512,46"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac2b77cfe25a326e56c682df165c4d853" title="CMDCCINU2 read all values." alt="" coords="246,72,477,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,74,478,81,477,76,507,74"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gace240f640ed613ba2096f9896957e380" title="CMDCCINU2 read all values." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,27,198,29,198,24,270,26"/>
+</map>

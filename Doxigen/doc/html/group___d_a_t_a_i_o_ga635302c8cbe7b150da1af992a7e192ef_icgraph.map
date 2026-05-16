@@ -1,0 +1,15 @@
+<map id="DIOCLIPROTOCOLANSWER::GetAnswer" name="DIOCLIPROTOCOLANSWER::GetAnswer">
+<area shape="rect" id="Node000001" title="Get answer." alt="" coords="822,39,1023,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga9b2aebc08c6ea92b0415c1ebff272cf3" title="Add answer." alt="" coords="538,17,753,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,48,753,45,753,39,810,48"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaf8e682013a93f41d58cd2e7df979d336" title="Send command arg." alt="" coords="516,72,774,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="804,71,775,76,774,71,810,70"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga286112d6fb50c3cf1b9aec40ab85a775" title="Received command manager." alt="" coords="247,5,450,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,29,451,31,451,25,524,29"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga68741e0242491bea150237872970de50" title="Send command." alt="" coords="230,72,468,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,86,469,88,468,83,503,85"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga8524ec31f0e12c610310aa60488f3c44" title="Send command." alt="" coords="261,123,437,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="562,102,438,129,437,124,556,103"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gab9eac763d11ef7cbfb3097647f0dabc0" title="Enum remote devices." alt="" coords="5,123,182,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="243,144,182,147,182,141,248,144"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="INPDEVICE::IsPressButton" name="INPDEVICE::IsPressButton">
+<area shape="rect" id="Node000001" title="Is press button." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gaa5be07f0b103a6ec8f627298c2b75a36" title="Get button." alt="" coords="242,56,404,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,67,228,69,223,70,192,72"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga0e525fcc7cc0acf0c75db01596c90d16" title="Get buttons." alt="" coords="454,5,623,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="169,53,239,41,441,23,436,26,240,47,170,58"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#ga6b1e8ff12cb092b555625ab714011355" title="Is pressed." alt="" coords="240,107,406,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="161,81,248,102,243,103,161,86"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,53,461,37,467,36,384,58"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#ga16cb82fc4e8560ccbb2f45af4dcd65f8" title="Get ID." alt="" coords="468,56,610,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="404,67,455,69,449,70,404,72"/>
+</map>

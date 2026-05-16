@@ -1,0 +1,17 @@
+<map id="XDIR" name="XDIR">
+<area shape="rect" id="Node000001" title="eXtended Utils dir class" alt="" coords="264,80,319,107"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_d_i_r.html" title="eXtended ESP32 Directory class" alt="" coords="5,155,101,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,110,96,157,94,152,251,105"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_d_i_r.html" title="LINUX eXtended Utils Directory class." alt="" coords="124,155,219,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,114,194,156,191,152,256,116"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_d_i_r.html" title="eXtended WINDOWS Directory class" alt="" coords="244,155,340,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="293,120,294,156,289,153,290,125"/>
+<area shape="rect" id="Node000007" href="$class_x_s_t_m32_d_i_r___n_o_t_u_n_i_c_o_d_e.html" title="STM32 eXtended Not Unicode Directory class." alt="" coords="364,155,558,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="334,110,434,154,429,155,333,115"/>
+<area shape="rect" id="Node000008" href="$class_x_w_i_n_d_o_w_s_d_i_r.html" title="WINDOWS eXtended Utils Directory class." alt="" coords="582,155,705,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="334,101,584,153,579,155,334,106"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="232,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,46,294,81,289,78,290,50"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_d_i_r.html" title="ANDROID eXtended Directory class." alt="" coords="113,229,230,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="174,195,174,230,169,228,170,199"/>
+</map>

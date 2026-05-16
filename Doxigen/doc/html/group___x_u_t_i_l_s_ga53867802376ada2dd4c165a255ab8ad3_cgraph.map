@@ -1,0 +1,16 @@
+<map id="XMPINTEGER::GetToXBuffer" name="XMPINTEGER::GetToXBuffer">
+<area shape="rect" id="Node000001" title="Get to X buffer." alt="" coords="5,81,202,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="250,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,78,249,41,275,36,270,38,250,47,144,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga77c2140402833bbf789bf15377d5d675" title="Get size." alt="" coords="254,56,420,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,81,241,79,236,81,203,87"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="270,107,404,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,103,257,111,252,112,202,108"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad9bc0fe2244df7440d31b152bd2e24fb" title="Set." alt="" coords="281,157,393,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="143,106,250,143,275,153,270,152,249,148,142,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga298be227c8effa636167f68e35ce7b6c" title="Get MSB." alt="" coords="472,56,640,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,67,459,69,454,70,420,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="476,132,636,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,125,464,134,459,134,404,130"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="393,162,458,157,464,156,394,167"/>
+</map>

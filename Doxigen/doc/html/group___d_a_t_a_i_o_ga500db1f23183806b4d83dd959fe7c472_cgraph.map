@@ -1,0 +1,13 @@
+<map id="DIOSTREAMDEVICEBLUETOOTH::GetChannelHID" name="DIOSTREAMDEVICEBLUETOOTH::GetChannelHID">
+<area shape="rect" id="Node000001" title="Get channel HID." alt="" coords="5,105,239,148"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa7fe6e3f5821706ca15070a28974abeb" title="Get channel." alt="" coords="287,105,520,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,124,274,126,269,127,240,129"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5c21f13ea6055db175ee6b527fdbc0a9" title="Get channel." alt="" coords="568,5,962,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,102,505,79,567,57,602,51,597,53,569,63,507,84,451,107"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga068136fad6d81e5b39cac423279da7b1" title="Get ID." alt="" coords="605,72,925,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="520,113,592,109,587,110,521,119"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga0e81623c383f7dd60b67087e13d1572b" title="Get N protocols." alt="" coords="605,139,925,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="520,135,592,144,587,144,520,140"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga3ed8fb9267ca38bef1e34ad0d05898cc" title="Get protocol." alt="" coords="605,205,925,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="451,146,507,170,569,191,602,202,597,201,567,196,505,175,450,151"/>
+</map>

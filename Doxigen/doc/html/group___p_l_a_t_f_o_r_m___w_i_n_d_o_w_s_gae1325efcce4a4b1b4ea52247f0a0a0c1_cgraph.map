@@ -1,0 +1,19 @@
+<map id="wmain" name="wmain">
+<area shape="rect" id="Node000001" title="main" alt="" coords="5,111,65,137"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1dd2087a29d8865d828d7be342216780" title="Exception_ConsoleHandler." alt="" coords="136,81,316,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,117,123,109,119,113,66,122"/>
+<area shape="rect" id="Node000044" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga84cd6e03ba0fbe18febf809c9985b2d8" title="Run." alt="" coords="113,136,339,163"/>
+<area shape="poly" id="edge6_Node000001_Node000044" title=" " alt="" coords="65,125,108,132,103,135,65,131"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6bf6aa5b58009ff87098bbbf4cc315f8" title="Exception_Printf." alt="" coords="430,31,547,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,78,417,57,411,59,299,83"/>
+<area shape="rect" id="Node000043" href="$group___a_p_p_f_l_o_w.html#ga192ecc5a93caae832ce72a3c8c267c55" title="Set exit type." alt="" coords="388,81,589,108"/>
+<area shape="poly" id="edge5_Node000002_Node000043" title=" " alt="" coords="316,92,375,94,370,95,316,97"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="659,5,810,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,35,646,27,641,28,548,41"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="679,56,790,83"/>
+<area shape="poly" id="edge4_Node000003_Node000012" title=" " alt="" coords="547,47,666,62,661,62,547,53"/>
+<area shape="rect" id="Node000045" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7faf4b0fe18a5c2b92980c7e2f336d4f" title="Constructor of class." alt="" coords="387,132,589,175"/>
+<area shape="poly" id="edge7_Node000044_Node000045" title=" " alt="" coords="339,148,374,151,369,152,340,154"/>
+<area shape="rect" id="Node000046" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga05543f53f9981c1104c5e6cb44ea352a" title="Setup." alt="" coords="637,132,832,175"/>
+<area shape="poly" id="edge8_Node000045_Node000046" title=" " alt="" coords="590,151,625,153,619,153,590,156"/>
+</map>

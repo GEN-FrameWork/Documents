@@ -1,0 +1,13 @@
+<map id="XLOGBASE::AddEntry" name="XLOGBASE::AddEntry">
+<area shape="rect" id="Node000001" title="Add entry." alt="" coords="521,81,676,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac087f23f8e5ca4a81ba57e78a111c089" title="Add entry." alt="" coords="287,5,442,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,75,472,47,432,35,432,30,474,41,556,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6569c4dcffd4c790ac65aa0aeb0526a4" title="Add entry." alt="" coords="287,56,442,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="503,85,443,80,442,75,508,84"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga9dbe9160fced4dfe6d4ee274ab009ba2" title="Call_Log_AddEntry." alt="" coords="298,107,431,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="503,105,432,115,431,110,508,104"/>
+<area shape="rect" id="Node000006" href="$group___a_p_p_f_l_o_w.html#ga38ad5386f4b41a43ea7d3059c5c82657" title="Log of event." alt="" coords="256,157,473,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="556,114,474,148,432,159,431,154,472,143,551,115"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gaa4d7b9e1cc42ea3422c9309e89b66a5e" title="Add library functions." alt="" coords="5,99,208,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="280,121,208,123,208,117,285,119"/>
+</map>

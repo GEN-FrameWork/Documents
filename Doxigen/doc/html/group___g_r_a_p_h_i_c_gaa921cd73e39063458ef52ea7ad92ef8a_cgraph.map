@@ -1,0 +1,15 @@
+<map id="GRPFACTORY::CreateCanvas" name="GRPFACTORY::CreateCanvas">
+<area shape="rect" id="Node000001" title="Create canvas." alt="" coords="5,81,209,108"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga843fe43b70062ad911142db94e69a7f3" title="Copy propertys from." alt="" coords="257,5,518,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,78,256,41,293,35,288,37,257,47,145,83"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="286,56,489,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="208,83,273,79,268,81,210,88"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga1a9445c147fafbcf926caecaa5a13430" title="Get mode." alt="" coords="289,107,486,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,101,275,109,270,110,209,107"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="288,157,487,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="145,106,257,143,293,154,288,153,256,148,144,111"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gad0b363a7111b72fe11542e51f2a2bf44" title="Constructor of class." alt="" coords="566,5,825,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="518,16,553,18,548,19,519,21"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga308a9ec00ce148b1bad9fd5e339a3f32" title="Default." alt="" coords="873,5,1060,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="826,16,860,18,855,19,826,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XWINDOWSFILE::Exist" name="XWINDOWSFILE::Exist">
+<area shape="rect" id="Node000001" title="Exist." alt="" coords="5,43,171,69"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga360fde933ecc4ac32c56f65131c60da5" title="Close." alt="" coords="219,43,388,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,53,206,56,200,56,171,59"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga86695b1ca17297c83c2fe0b11c392acb" title="Delete struct handle." alt="" coords="436,5,644,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,43,423,41,418,42,389,48"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7375532c9720320cac5d87353293d219" title="Flush." alt="" coords="456,72,624,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="389,64,444,73,438,73,388,69"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="UI_SKINCANVAS_FLAT" name="UI_SKINCANVAS_FLAT">
+<area shape="rect" id="Node000001" title="User Interface Skin Canvas class." alt="" coords="1142,188,1309,215"/>
+<area shape="rect" id="Node000002" href="$class_u_i___s_k_i_n_c_a_n_v_a_s.html" title="User Interface Skin Canvas class." alt="" coords="963,188,1092,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1108,199,1144,201,1139,202,1108,204"/>
+<area shape="rect" id="Node000003" href="$class_u_i___s_k_i_n.html" title="User Interface Skin Canvas class." alt="" coords="752,54,826,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="836,84,940,138,1011,188,1006,188,938,143,836,90"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="296,92,377,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,97,470,88,754,68,750,71,471,94,394,102"/>
+<area shape="rect" id="Node000010" href="$class_g_r_p_s_c_r_e_e_n.html" title="Graphics Screen Class." alt="" coords="736,224,843,251"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="384,123,471,151,538,160,593,159,647,161,677,167,713,179,748,199,777,224,772,223,745,204,711,184,676,173,646,167,593,165,538,166,470,156,384,128"/>
+<area shape="rect" id="Node000019" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="757,139,822,166"/>
+<area shape="poly" id="edge16_Node000019_Node000004" title=" " alt="" coords="392,101,538,102,625,108,712,122,759,138,754,139,711,127,625,114,538,107,394,106"/>
+<area shape="rect" id="Node000007" href="$class_u_i___s_k_i_n_c_a_n_v_a_s___r_e_b_u_i_l_d_a_r_e_a_s.html" title=" " alt="" coords="470,423,712,450"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="683,416,711,406,803,358,889,304,960,252,1007,217,1012,214,963,256,892,308,806,363,713,411,684,421"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p2_d_r_e_b_u_i_l_d_a_r_e_a_s.html" title="Graphics 2D Rebuild Areas class." alt="" coords="5,407,178,434"/>
+<area shape="poly" id="edge5_Node000007_Node000008" title=" " alt="" coords="193,421,471,430,470,435,193,426"/>
+<area shape="rect" id="Node000014" href="$class_g_r_p_c_a_n_v_a_s.html" title="Graphics Canvas class." alt="" coords="284,376,389,403"/>
+<area shape="poly" id="edge11_Node000014_Node000008" title=" " alt="" coords="193,405,286,396,281,397,194,410"/>
+<area shape="poly" id="edge6_Node000002_Node000010" title=" " alt="" coords="858,230,939,220,977,215,972,216,939,226,859,235"/>
+<area shape="rect" id="Node000011" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="23,348,160,375"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="175,356,307,349,462,337,608,318,667,307,711,294,746,273,772,253,777,250,749,277,713,299,668,312,608,324,462,342,307,354,176,361"/>
+<area shape="poly" id="edge10_Node000014_Node000011" title=" " alt="" coords="175,368,286,382,281,385,175,374"/>
+<area shape="rect" id="Node000013" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="290,174,383,200"/>
+<area shape="poly" id="edge8_Node000010_Node000013" title=" " alt="" coords="398,184,542,189,628,197,712,210,755,224,750,224,711,215,627,202,542,194,399,189"/>
+<area shape="poly" id="edge9_Node000010_Node000014" title=" " alt="" coords="405,393,485,399,575,400,656,395,687,389,710,380,740,327,779,253,783,250,744,330,713,384,689,394,656,400,575,406,485,404,405,399"/>
+<area shape="rect" id="Node000017" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="227,224,446,251"/>
+<area shape="poly" id="edge12_Node000010_Node000017" title=" " alt="" coords="462,235,738,236,733,239,462,240"/>
+<area shape="rect" id="Node000018" href="$class_g_r_p_f_r_a_m_e_r_a_t_e.html" title="Graphic Frame Rate class." alt="" coords="270,275,403,302"/>
+<area shape="poly" id="edge13_Node000010_Node000018" title=" " alt="" coords="418,288,556,284,634,277,711,264,756,252,761,251,712,269,635,282,557,290,419,293"/>
+<area shape="poly" id="edge15_Node000002_Node000019" title=" " alt="" coords="837,159,965,188,960,188,837,165"/>
+</map>

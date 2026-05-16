@@ -1,0 +1,13 @@
+<map id="DIOPROTOCOL_FILE::SetSourceName" name="DIOPROTOCOL_FILE::SetSourceName">
+<area shape="rect" id="Node000001" title="Set source name." alt="" coords="5,31,264,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="312,31,421,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,41,299,44,293,44,264,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="486,5,621,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,34,468,30,473,30,422,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="469,56,638,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="422,49,456,56,451,56,421,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="692,5,830,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="621,16,679,19,674,19,622,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="686,56,836,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="639,67,673,69,668,69,639,72"/>
+</map>

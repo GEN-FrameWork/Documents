@@ -1,0 +1,11 @@
+<map id="GRPSCREEN::GetListScreens" name="GRPSCREEN::GetListScreens">
+<area shape="rect" id="Node000001" title="Get list screens." alt="" coords="548,43,753,69"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab27facc03a2e864a87e033cedec6cc8f" title="Create." alt="" coords="262,16,486,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,45,486,43,486,37,535,45"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf857e51d699f882d135ae962b4a8b6e9" title="Factorys end." alt="" coords="248,68,500,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,67,501,72,500,67,530,67"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2b3a8bc3a939dd2948d704ad3f20adc8" title="Create." alt="" coords="7,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,29,198,30,198,25,249,27"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8fdc0c9ab880e4d578eb5fb486dd6c13" title="End." alt="" coords="5,72,200,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,84,200,87,200,81,235,83"/>
+</map>

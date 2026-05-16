@@ -1,0 +1,15 @@
+<map id="DIOOSPIPELINE::DIOOSPIPELINE" name="DIOOSPIPELINE::DIOOSPIPELINE">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="782,72,1020,99"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga0d80cab59a4a00ce30a3eabd9eaab2c1" title="Constructor of class." alt="" coords="531,5,733,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="819,68,733,51,733,46,824,68"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga7b55938ce08fe7413164e3c4e01b1245" title="Get instance." alt="" coords="530,72,734,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="764,85,735,88,735,83,769,85"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gac964bbafb2e5ad300af46a22a165fb4a" title="Set instance." alt="" coords="530,123,734,149"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="814,102,707,125,706,119,809,102"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="239,97,482,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,97,483,102,482,97,517,96"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,97,191,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="220,120,191,122,191,117,226,119"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="206,99,241,101,236,102,207,104"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="512,125,482,125,482,119,517,125"/>
+</map>

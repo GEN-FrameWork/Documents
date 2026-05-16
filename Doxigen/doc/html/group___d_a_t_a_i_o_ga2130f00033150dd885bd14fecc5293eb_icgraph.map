@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL_XEVENT::SetFileIsSend" name="DIOPROTOCOL_XEVENT::SetFileIsSend">
+<area shape="rect" id="Node000001" title="Set file is send." alt="" coords="500,5,680,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gadbc93c3fd333299e0192c129beb9ac81" title="Send event file block." alt="" coords="240,5,452,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,27,453,29,452,24,487,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5efaed3d39de2141370cc1f80c36bf65" title="CMD file." alt="" coords="5,13,192,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,27,192,29,192,24,227,26"/>
+</map>

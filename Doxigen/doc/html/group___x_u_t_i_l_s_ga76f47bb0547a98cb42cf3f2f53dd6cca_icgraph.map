@@ -1,0 +1,7 @@
+<map id="XSTRING::ConvertFromXBuffer" name="XSTRING::ConvertFromXBuffer">
+<area shape="rect" id="Node000001" title="Convert from X buffer." alt="" coords="259,31,467,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga5160d83010b792b05fc10742a379449f" title="Convert from UTF16." alt="" coords="5,5,211,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,32,211,32,211,26,246,32"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa55e25269b01092e6e834490475c4707" title="Convert from UTF32." alt="" coords="5,56,211,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,56,212,62,211,56,246,56"/>
+</map>

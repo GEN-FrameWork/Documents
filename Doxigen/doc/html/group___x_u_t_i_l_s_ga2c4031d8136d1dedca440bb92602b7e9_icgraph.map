@@ -1,0 +1,12 @@
+<map id="XDATETIME::AddDays" name="XDATETIME::AddDays">
+<area shape="rect" id="Node000001" title="Add days." alt="" coords="486,31,645,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga68eaa3e1bc67e8a77231e4bf4d4a76ce" title="Add months." alt="" coords="18,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,27,438,21,308,15,190,17,190,11,308,10,438,16,496,27"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6b0fb3898610aa34b196c3d2d6cbbd93" title="Add years." alt="" coords="264,31,425,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="467,44,426,47,425,41,473,44"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae7a7add89de0a6d6cb869fb1745a8699" title="Subtract years." alt="" coords="251,81,438,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="492,61,406,83,405,78,487,62"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="245,35,190,30,190,25,251,33"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaf46640e1be96eed5ce1399024b2eb781" title="Subtract months." alt="" coords="5,81,203,108"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="232,95,203,97,203,92,237,95"/>
+</map>

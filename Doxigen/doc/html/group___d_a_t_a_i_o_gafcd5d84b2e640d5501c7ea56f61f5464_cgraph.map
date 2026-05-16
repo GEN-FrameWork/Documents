@@ -1,0 +1,12 @@
+<map id="DIOWEBSERVER_CONNECTION::WebSocket_Write" name="DIOWEBSERVER_CONNECTION::WebSocket_Write">
+<area shape="rect" id="Node000001" title="Web socket write." alt="" coords="5,52,235,95"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="340,31,455,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,59,327,51,321,52,235,64"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaab4c0a3d333b054e63e269b995444e24" title="Send." alt="" coords="283,81,512,124"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="235,83,270,89,265,89,235,88"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="560,5,693,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,35,547,27,542,28,456,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="741,31,901,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="455,41,728,43,723,45,456,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="694,25,728,32,723,32,694,30"/>
+</map>

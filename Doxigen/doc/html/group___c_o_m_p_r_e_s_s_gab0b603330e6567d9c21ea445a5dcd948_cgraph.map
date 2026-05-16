@@ -1,0 +1,16 @@
+<map id="COMPRESS_LZW::Compress" name="COMPRESS_LZW::Compress">
+<area shape="rect" id="Node000001" title="Compress." alt="" coords="5,81,206,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="298,5,428,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,78,253,41,285,35,280,37,254,47,145,83"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="307,56,420,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,82,294,75,289,77,207,87"/>
+<area shape="rect" id="Node000005" href="$group___c_o_m_p_r_e_s_s.html#ga33e2b4390ae46ed06809512e9ac14427" title="LZW encode." alt="" coords="254,157,473,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,106,254,143,285,153,280,153,253,148,144,111"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="297,107,430,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="206,102,284,111,279,113,206,107"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="540,52,699,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,28,530,48,525,49,429,33"/>
+<area shape="rect" id="Node000006" href="$group___c_o_m_p_r_e_s_s.html#ga201876d54e55d8e9b36e4d6186ed7cf2" title="LZWGIF encode." alt="" coords="521,149,718,192"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="473,168,508,171,503,171,473,173"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="429,103,536,83,542,82,430,109"/>
+</map>

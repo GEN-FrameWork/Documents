@@ -1,0 +1,13 @@
+<map id="XPATH::operator+=" name="XPATH::operator+=">
+<area shape="rect" id="Node000001" title="operator +=" alt="" coords="5,56,141,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="207,31,320,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,58,194,53,189,54,142,63"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="189,81,338,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,76,176,82,171,83,141,81"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="402,5,539,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,35,390,28,385,29,320,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="386,56,555,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,48,373,57,368,57,320,54"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="603,56,753,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="556,67,590,69,585,69,556,72"/>
+</map>

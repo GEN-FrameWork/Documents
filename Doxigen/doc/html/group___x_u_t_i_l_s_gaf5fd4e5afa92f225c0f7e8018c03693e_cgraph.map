@@ -1,0 +1,13 @@
+<map id="XPATH::operator=" name="XPATH::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,31,133,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="181,31,290,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,41,168,43,162,45,133,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="356,5,490,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,34,342,29,337,30,291,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="338,56,507,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,49,325,56,320,56,290,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="561,5,699,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,16,548,18,543,19,491,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="555,56,705,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="508,67,542,69,537,69,508,72"/>
+</map>

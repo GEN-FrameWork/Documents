@@ -1,0 +1,15 @@
+<map id="UI_SKINCANVAS::AddPositionSubElements" name="UI_SKINCANVAS::AddPositionSubElements">
+<area shape="rect" id="Node000001" title="Add position sub elements." alt="" coords="5,124,213,167"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="325,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,122,189,81,224,59,260,42,312,27,308,30,262,46,226,64,192,85,137,126"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6025024e4e290be2f650aa6a9f42c821" title="Get compose elements." alt="" coords="261,56,505,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,121,260,92,296,85,291,88,261,97,171,126"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae86eae7a0b9fdf7c07df4deaed21d511" title="Get X position." alt="" coords="288,107,478,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,133,275,129,270,131,214,138"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0a66fe71f1d3b14f18b33d332cc7700e" title="Get Y position." alt="" coords="288,157,478,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="213,152,275,160,270,161,214,158"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5621a5fee9834d56eb52ac5171e134cc" title="Set X position." alt="" coords="289,208,477,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="170,165,261,193,296,204,291,204,260,199,170,170"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf1f764fbdac02b8b80877d036deb5204" title="Set Y position." alt="" coords="289,259,477,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,164,192,206,226,227,262,244,283,254,278,254,260,249,224,231,189,210,135,170"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="DIOSTREAMDEVICE::SetIndex" name="DIOSTREAMDEVICE::SetIndex">
+<area shape="rect" id="Node000001" title="Set index." alt="" coords="649,131,861,157"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5a819c1c22a5c560fbae7371259cd3f4" title="Copy to." alt="" coords="335,5,540,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="723,120,669,83,635,63,600,47,541,31,541,25,602,41,638,58,672,78,729,121"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabec8f888d4868b7c0ca0f59cadaea766" title="Get devices." alt="" coords="327,56,549,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="673,127,600,113,547,102,547,97,602,108,678,127"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gafaf7c533f3ea61fed511580a0694fe07" title="Search." alt="" coords="278,123,598,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="631,144,598,147,598,141,636,144"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga9d0acfe536de225af8531de05f87758b" title="Search." alt="" coords="289,189,586,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="678,161,602,180,547,191,546,186,600,175,673,162"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga654acdc42b0a6ae7accbe8b9b8c696c5" title="Search." alt="" coords="275,256,601,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="728,166,672,209,602,246,569,258,568,253,600,242,669,205,723,168"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0b9f09fdc988e4de91c302267979a1de" title="Copy from." alt="" coords="5,5,227,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,20,228,21,226,16,322,17"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="XPATH::Slash_Delete" name="XPATH::Slash_Delete">
+<area shape="rect" id="Node000001" title="Slash delete." alt="" coords="517,245,667,272"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga44568ba42beca3fb2c1165968a48ab46" title="Exist." alt="" coords="280,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,230,564,191,541,143,509,94,467,53,442,38,415,29,414,24,444,33,471,49,513,91,545,140,569,189,585,231"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#gad5ca614da4f3fecb24ec904b1e8c8903" title="Make." alt="" coords="23,56,159,83"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="577,230,560,199,536,161,505,125,468,97,430,80,390,68,307,55,228,54,161,60,158,55,228,49,308,50,391,62,432,75,470,92,509,121,541,158,565,196,582,232"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7eabcc17acdb2d251a6f3d9691f2ee54" title="Exist." alt="" coords="266,107,428,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="568,233,526,190,498,167,468,148,428,133,427,128,470,143,501,162,529,186,574,234"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#gaccff457dba499a58ac30a6e84f9b2c40" title="First search." alt="" coords="261,157,432,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="552,237,513,218,468,199,430,187,429,182,470,193,516,213,558,237"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gacdcb8ce11264a515c4478521e2a70506" title="Get app exec path without asset." alt="" coords="235,208,458,251"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="499,249,459,245,458,240,504,247"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gada2775f5c07bc18fe1691bbeaaef1264" title="Get file date time." alt="" coords="225,275,469,301"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="499,270,465,277,463,271,504,269"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga2be06deebf3a5f295fbabd9feec3a8f6" title="Get file date time." alt="" coords="225,325,469,352"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="548,280,470,316,428,327,426,322,468,311,553,278"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gaacc53bd720018ec39089f2621146a3b7" title="Get sub groups." alt="" coords="258,376,436,403"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="571,282,527,328,500,349,470,366,437,379,435,374,468,362,497,344,524,323,567,285"/>
+<area shape="rect" id="Node000014" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#gaa3a32ef46794a7aecd1d35c2cb3a061b" title="Make." alt="" coords="250,427,444,469"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="579,284,537,352,506,387,470,417,445,430,443,425,468,412,502,383,532,349,575,287"/>
+<area shape="rect" id="Node000015" href="$group___a_p_p_f_l_o_w.html#ga005b202d42da6f6b78249577bca8cbdc" title="Resolve request." alt="" coords="233,493,461,536"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="585,286,571,332,547,384,514,438,494,462,471,483,452,495,450,490,467,479,490,458,510,435,543,382,566,330,581,289"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga0bc3d48764c812dd464322d7ab544641" title="Change to." alt="" coords="9,5,173,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,20,174,21,172,16,266,17"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="263,37,161,58,158,54,267,33"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gacc640485a11d8ed6ed2b97d82a818cff" title="Make." alt="" coords="9,107,173,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="248,122,174,122,172,118,253,118"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga587fd9ff4cd60273b6fdafe9d07386c3" title="Delete." alt="" coords="20,181,162,208"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="244,182,164,190,161,186,248,178"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="134,168,121,162,91,160,64,162,49,167,46,172,53,180,48,182,40,173,46,163,63,157,91,155,122,157,139,165"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga43510339c9de728d0309eacef2b1610c" title="Get sub group." alt="" coords="5,376,177,403"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="240,391,178,392,177,387,245,388"/>
+</map>

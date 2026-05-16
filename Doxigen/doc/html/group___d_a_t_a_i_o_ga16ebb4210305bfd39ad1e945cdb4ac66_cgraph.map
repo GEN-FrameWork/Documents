@@ -1,0 +1,11 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER::WaitToAnyConnectionIsConnected" name="DIOPROTOCOL_CONNECTIONSMANAGER::WaitToAnyConnectionIsConnected">
+<area shape="rect" id="Node000001" title="Wait to any connection is connected." alt="" coords="5,64,300,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga186e5ab83530a107ec94168c7e3f4614" title="Protocol connections get N connected." alt="" coords="348,64,642,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,83,335,85,329,86,300,88"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6edc2ea543475460accedd06bc712c29" title="Get DIO protocol." alt="" coords="728,5,946,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="623,61,710,48,716,47,624,66"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac74caf23e11e04eb096c5bafa2793941" title="Is connected." alt="" coords="736,72,938,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="642,83,724,85,718,86,642,88"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga46d921bb5e7873ec4defe31841a021a3" title="Protocol connections get N available." alt="" coords="690,123,984,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="623,105,697,120,691,119,623,110"/>
+</map>

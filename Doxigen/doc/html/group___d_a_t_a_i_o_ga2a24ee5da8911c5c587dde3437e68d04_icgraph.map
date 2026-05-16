@@ -1,0 +1,6 @@
+<map id="DIOATCMDS::ReadAnswerWithOutEndChar" name="DIOATCMDS::ReadAnswerWithOutEndChar">
+<area shape="rect" id="Node000001" title="Read answer with out end char." alt="" coords="243,29,454,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="387,13,374,10,348,8,325,10,310,15,305,21,306,30,302,27,300,19,307,10,324,5,348,3,375,5,392,14"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad41379252d506353c469eb962ac8684c" title="Send SMS." alt="" coords="5,37,195,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="224,51,195,53,195,48,230,50"/>
+</map>

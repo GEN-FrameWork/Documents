@@ -1,0 +1,51 @@
+<map id="DIOSCRAPERWEB::Load" name="DIOSCRAPERWEB::Load">
+<area shape="rect" id="Node000001" title="Load." alt="" coords="5,429,183,456"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga7aad196cd1498742e39a49d4878f6d8b" title="Download." alt="" coords="231,324,438,350"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,426,289,355,287,359,128,431"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="958,462,1096,489"/>
+<area shape="poly" id="edge23_Node000001_Node000008" title=" " alt="" coords="147,454,279,483,464,513,569,524,678,529,787,527,894,516,938,506,977,495,982,494,939,511,895,521,788,532,678,535,569,529,464,519,278,489,148,459"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="741,614,869,641"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="103,454,123,485,151,524,188,563,232,593,295,618,361,636,428,646,496,651,622,650,723,642,728,641,623,655,496,657,428,652,360,641,293,623,229,598,184,567,147,528,118,488,102,459"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga337e940d48f7178186adfbdf4d268ac7" title="Slash add." alt="" coords="267,214,402,241"/>
+<area shape="poly" id="edge24_Node000001_Node000015" title=" " alt="" coords="107,427,229,310,305,249,302,253,232,314,111,430"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="749,142,861,169"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,321,755,173,752,177,373,325"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="972,193,1082,220"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="350,321,407,275,485,223,546,188,595,163,647,144,715,128,765,118,805,114,846,117,895,128,924,138,952,152,1000,184,994,184,949,156,922,143,894,133,845,122,805,119,766,124,716,133,648,149,597,168,548,193,487,227,410,279,353,325"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="350,348,408,398,446,425,487,448,595,490,641,502,685,508,777,509,894,498,955,492,950,493,895,504,777,514,684,514,640,507,594,496,485,453,443,430,405,402,349,354"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="522,412,631,438"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="374,348,526,405,521,407,374,354"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga9f9c8655bb986f819c789c321db4edaa" title="Slash add." alt="" coords="505,294,648,321"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="437,322,492,317,487,319,439,327"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="959,66,1096,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="846,139,974,97,969,100,848,144"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="943,412,1112,438"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="825,167,861,195,897,230,932,274,965,319,1014,399,1008,398,960,322,928,277,893,233,857,199,825,172"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1160,513,1309,540"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1082,436,1113,448,1162,474,1205,504,1200,503,1159,479,1111,453,1082,442"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="631,422,930,424,925,426,632,428"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="738,462,872,489"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="631,434,729,458,724,459,631,440"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="872,473,945,475,940,476,872,478"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="591,292,653,234,714,185,743,174,739,176,717,190,656,238,594,296"/>
+<area shape="poly" id="edge16_Node000011_Node000007" title=" " alt="" coords="595,292,647,259,680,242,715,229,778,214,842,206,959,203,954,204,842,211,778,220,716,234,682,247,650,264,598,296"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga4036bc5b3729a74b987e33c39acf5470" title="Character get last." alt="" coords="732,345,878,388"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="631,319,719,343,714,344,632,324"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga91bc9cd08cbffef79c147186dea0387e" title="Slash normalize." alt="" coords="715,294,895,321"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="648,305,702,307,697,308,649,310"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="837,385,887,417,944,448,961,457,956,457,942,453,884,422,836,391"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="862,291,894,280,946,254,991,230,996,227,949,258,896,285,864,296"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="878,319,896,331,909,346,917,361,921,391,926,420,933,434,945,448,950,455,944,453,941,452,928,437,921,422,916,392,911,363,905,349,893,335,877,324"/>
+<area shape="poly" id="edge21_Node000014_Node000006" title=" " alt="" coords="865,611,1158,544,1163,543,866,616"/>
+<area shape="poly" id="edge22_Node000014_Node000008" title=" " alt="" coords="855,611,893,593,943,552,999,501,1004,499,947,556,896,598,856,616"/>
+<area shape="poly" id="edge25_Node000015_Node000003" title=" " alt="" coords="379,211,485,185,616,167,735,158,730,161,617,172,487,190,382,216"/>
+<area shape="poly" id="edge27_Node000015_Node000004" title=" " alt="" coords="339,213,358,176,389,127,431,79,457,58,485,41,550,18,618,6,688,3,756,7,822,17,882,30,979,60,973,61,880,35,821,22,756,13,687,8,619,11,551,23,487,46,460,62,435,83,393,131,363,179,344,215"/>
+<area shape="poly" id="edge26_Node000015_Node000007" title=" " alt="" coords="343,212,364,183,396,147,437,111,485,84,544,62,597,46,645,37,690,34,736,37,784,47,896,84,931,103,962,127,1010,181,1005,180,959,131,928,107,894,89,782,52,735,42,690,39,645,42,598,51,546,67,487,89,440,115,400,150,368,186,347,215"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gaafb954c8ccc621da26ea77904fcf3685" title="Slash have at last." alt="" coords="486,349,667,376"/>
+<area shape="poly" id="edge28_Node000015_Node000016" title=" " alt="" coords="352,239,411,283,487,331,513,343,508,344,485,335,408,288,352,244"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#gae4d3272dfd7abca52a5154e8a4e14c9e" title="Slash normalize." alt="" coords="719,244,891,270"/>
+<area shape="poly" id="edge30_Node000015_Node000017" title=" " alt="" coords="402,229,706,249,702,252,403,234"/>
+<area shape="poly" id="edge29_Node000016_Node000012" title=" " alt="" coords="667,361,719,364,714,365,668,367"/>
+<area shape="poly" id="edge31_Node000017_Node000007" title=" " alt="" coords="866,240,959,221,954,223,868,246"/>
+<area shape="poly" id="edge32_Node000017_Node000008" title=" " alt="" coords="879,268,897,280,913,302,920,323,921,366,923,408,930,428,945,449,948,454,943,453,941,452,925,431,917,409,916,366,915,324,908,304,893,284,878,273"/>
+</map>

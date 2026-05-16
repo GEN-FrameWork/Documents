@@ -1,0 +1,35 @@
+<map id="DIOWINDOWSSTREAMTCPIP" name="DIOWINDOWSSTREAMTCPIP">
+<area shape="rect" id="Node000001" title="WINDOWS Data Input/Output Stream TCP/IP class." alt="" coords="1080,261,1290,287"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_t_c_p_i_p.html" title="Data Input/Output Stream TCP/IP class." alt="" coords="889,226,1031,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,250,1097,260,1092,260,1046,255"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="304,219,406,246"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,232,553,235,891,239,886,241,553,241,421,238"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,121,98,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,124,173,128,203,136,230,151,241,164,244,178,246,191,254,203,278,217,306,227,301,228,276,222,251,207,241,193,239,179,236,166,227,155,201,141,172,133,114,129"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g.html" title="Data Input/Output Stream Config class." alt="" coords="278,62,432,89"/>
+<area shape="poly" id="edge9_Node000010_Node000004" title=" " alt="" coords="111,119,121,117,279,87,276,92,122,122,115,123"/>
+<area shape="rect" id="Node000017" href="$class_d_i_o_s_t_r_e_a_m_e_n_u_m_d_e_v_i_c_e_s.html" title="Data Input/Output Stream Enum Devices class." alt="" coords="254,343,456,370"/>
+<area shape="poly" id="edge16_Node000017_Node000004" title=" " alt="" coords="112,146,186,166,230,184,243,202,246,220,247,237,255,257,274,282,295,305,337,343,332,343,292,309,270,285,250,259,242,239,240,221,238,204,227,188,184,171,113,151"/>
+<area shape="rect" id="Node000005" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="9,219,94,246"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="109,230,305,230,302,235,110,235"/>
+<area shape="rect" id="Node000006" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="15,371,88,398"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="98,363,227,302,328,248,333,246,230,307,101,367"/>
+<area shape="rect" id="Node000016" href="$class_d_i_o_s_t_r_e_a_m_e_n_u_m_s_e_r_v_e_r_s.html" title="Data Input/Output Stream Enum Servers class." alt="" coords="553,343,758,370"/>
+<area shape="poly" id="edge18_Node000016_Node000006" title=" " alt="" coords="103,390,173,399,261,407,359,410,457,403,539,388,609,371,614,370,540,393,457,409,359,415,261,412,172,405,103,396"/>
+<area shape="poly" id="edge17_Node000017_Node000006" title=" " alt="" coords="103,384,163,385,228,381,297,371,302,370,229,386,164,390,104,390"/>
+<area shape="rect" id="Node000008" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="13,22,90,49"/>
+<area shape="poly" id="edge6_Node000003_Node000008" title=" " alt="" coords="103,52,178,85,210,102,231,119,242,142,242,164,243,184,255,203,278,218,306,229,301,230,275,223,251,207,238,185,237,164,236,143,227,122,207,107,176,89,105,57"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_s_t_r_e_a_m_t_c_p_i_p_c_o_n_f_i_g.html" title="Data Input/Output Stream TCP/IP Config class." alt="" coords="559,107,752,134"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="104,29,176,26,264,27,361,33,458,47,550,74,626,106,621,107,548,80,456,53,361,38,264,32,176,32,107,34"/>
+<area shape="poly" id="edge7_Node000002_Node000009" title=" " alt="" coords="721,136,792,159,866,188,938,226,932,225,864,193,790,164,720,142"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="446,87,565,106,560,108,447,92"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g_s_t_r_i_n_g.html" title="Data Input/Output Stream Config String class." alt="" coords="253,113,457,139"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="472,121,561,122,556,123,473,127"/>
+<area shape="rect" id="Node000014" href="$class_d_i_o_i_p.html" title="Data Input/Output IP class." alt="" coords="326,166,384,193"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="399,180,601,198,866,225,892,230,886,230,865,230,600,203,400,186"/>
+<area shape="poly" id="edge11_Node000009_Node000014" title=" " alt="" coords="399,171,528,150,607,134,602,136,530,155,400,177"/>
+<area shape="poly" id="edge14_Node000002_Node000016" title=" " alt="" coords="773,348,821,335,864,311,872,300,875,289,878,276,887,263,904,254,909,252,891,267,883,278,880,290,877,303,867,315,823,339,774,353"/>
+<area shape="poly" id="edge15_Node000016_Node000017" title=" " alt="" coords="471,354,555,357,550,357,471,359"/>
+<area shape="rect" id="Node000019" href="$class_x_f_s_m_a_c_h_i_n_e.html" title="eXtended Utils Finite state machine class" alt="" coords="905,277,1015,303"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="1031,282,1082,281,1077,282,1031,288"/>
+</map>

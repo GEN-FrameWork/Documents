@@ -1,0 +1,7 @@
+<map id="XSTRING::HaveCharacters" name="XSTRING::HaveCharacters">
+<area shape="rect" id="Node000001" title="Have characters." alt="" coords="5,43,190,69"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gacd70302eb3fca30007d31eb9de1c1dba" title="Character is NOT." alt="" coords="238,5,384,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,41,225,38,220,39,191,46"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="242,72,380,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,66,229,74,224,74,190,71"/>
+</map>

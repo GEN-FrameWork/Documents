@@ -1,0 +1,15 @@
+<map id="DIOSMTP::DelAttachment" name="DIOSMTP::DelAttachment">
+<area shape="rect" id="Node000001" title="Del attachment." alt="" coords="5,101,183,128"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga92a168b8f270b89c176a80990d0dccd1" title="Del attachment." alt="" coords="231,76,408,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,102,218,101,212,102,183,107"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="264,127,374,153"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="183,122,252,132,246,132,183,127"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="474,47,616,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,75,461,71,456,72,409,80"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga4226510b8c99a6105a950edd22ae61b3" title="Get X path." alt="" coords="456,97,634,140"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,98,443,105,438,105,408,104"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="682,5,829,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="616,46,669,40,664,41,617,51"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="682,72,829,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="617,69,669,79,664,79,617,74"/>
+</map>

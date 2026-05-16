@@ -1,0 +1,31 @@
+<map id="INPDEVICE::SetEnabled" name="INPDEVICE::SetEnabled">
+<area shape="rect" id="Node000001" title="Set enabled." alt="" coords="361,447,531,473"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga69ce0066d39393189f7fc73a6385241d" title="Constructor of class." alt="" coords="39,5,279,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,431,436,357,417,256,400,203,378,151,348,103,311,62,280,42,279,37,314,58,352,100,382,149,405,201,422,255,441,356,447,432"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gad8d4f158c2097f8da400c1bf7b383f05" title="Constructor of class." alt="" coords="52,72,266,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="439,431,430,368,408,286,391,243,370,201,343,162,311,129,290,115,268,105,266,100,292,110,314,125,347,159,374,198,396,240,413,284,435,367,445,432"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac0e80c6417549c2acafc6bbf3388a3e3" title="Constructor of class." alt="" coords="24,139,294,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="436,431,423,380,398,316,362,250,338,221,311,195,295,184,293,179,314,191,342,217,366,247,403,314,428,379,442,432"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga420856380570cf088e346a32572e720c" title="Constructor of class." alt="" coords="37,205,281,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="432,432,414,394,388,347,354,301,311,262,282,246,280,241,314,258,358,297,393,344,419,391,437,432"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga54da1877a569f94e063c688ec5277fe5" title="Constructor of class." alt="" coords="9,272,309,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="424,434,377,381,346,352,311,329,288,318,287,313,314,324,349,348,381,377,429,434"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga56fc15438afd01a27331700e7e5daeb5" title="Constructor of class." alt="" coords="35,339,283,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="406,439,362,417,312,396,276,384,275,379,314,391,365,413,411,438"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2757135f66306349dfebd65931a7ab0c" title="Constructor of class." alt="" coords="48,405,270,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="343,450,271,442,269,437,347,447"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga7118230a58aeafdf23a2ee6093e4676d" title="Destructor of class." alt="" coords="35,472,283,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="343,473,285,481,282,477,347,470"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga6db2b7e415238437ada5ea6524b98c31" title="Destructor of class." alt="" coords="48,539,270,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="406,483,365,507,314,529,272,542,269,537,312,524,362,503,410,480"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gab75de32181bd479d56ddd890933e6b13" title="Destructor of class." alt="" coords="20,605,298,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="428,484,381,543,349,572,314,596,289,607,286,603,311,591,346,568,377,539,424,488"/>
+<area shape="rect" id="Node000012" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga81c5076fc877362934b9b5ac2cd063a7" title="Destructor of class." alt="" coords="33,672,285,715"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="436,486,419,529,393,576,358,623,314,662,287,677,284,672,311,658,354,619,388,573,414,526,433,490"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga3f9e42164e32361c108f3b994ad65dec" title="Destructor of class." alt="" coords="5,739,313,781"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="440,486,428,541,403,606,366,673,342,703,314,729,296,740,293,736,311,725,338,699,362,670,398,604,423,540,437,491"/>
+<area shape="rect" id="Node000014" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabf75588602d0fe234c5e389d95a36068" title="Destructor of class." alt="" coords="31,805,287,848"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="443,486,435,553,413,636,396,680,374,722,347,761,314,795,289,812,286,807,311,791,343,758,370,719,391,677,408,634,430,552,441,491"/>
+<area shape="rect" id="Node000015" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf15970944fcb489f8bca6268fba18020" title="Destructor of class." alt="" coords="44,872,274,915"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="446,487,441,564,422,665,405,719,382,771,352,820,314,862,296,875,275,885,273,880,293,871,311,858,348,817,378,769,400,717,417,664,436,563,443,491"/>
+</map>

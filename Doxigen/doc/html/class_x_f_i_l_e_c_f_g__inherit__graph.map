@@ -1,0 +1,9 @@
+<map id="XFILECFG" name="XFILECFG">
+<area shape="rect" id="Node000001" title="eXtended Utils CFG (Config) file class" alt="" coords="99,80,186,107"/>
+<area shape="rect" id="Node000003" href="$class_a_p_p_f_l_o_w_c_f_g.html" title="Application Flow Config class." alt="" coords="5,155,120,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,117,78,156,75,152,115,118"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html" title="Data Input/Output Remote File CFG class." alt="" coords="143,155,302,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,115,211,154,206,154,166,120"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="96,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,46,145,81,140,79,141,50"/>
+</map>

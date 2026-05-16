@@ -1,0 +1,18 @@
+<map id="XWINDOWSDIR::NextSearch" name="XWINDOWSDIR::NextSearch">
+<area shape="rect" id="Node000001" title="Next search." alt="" coords="5,148,206,175"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="61,148,53,139,59,129,76,123,106,121,138,124,156,132,151,134,136,129,105,127,77,129,62,134,58,139,66,147"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="301,47,443,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,145,183,114,253,83,288,74,283,77,255,88,186,119,130,150"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa2310c0a6008f8c53d0192901d3b62e8" title="Delete find file data." alt="" coords="254,97,490,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,145,285,126,281,129,180,150"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaf018cebc989499873387b7cc38ca7c20" title="Get find file data." alt="" coords="262,148,482,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="206,159,249,161,244,162,207,164"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac6a44f777b775353023ad03fd59d708f" title="Get handle." alt="" coords="279,199,465,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="180,173,285,194,281,196,180,178"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga68ebb971f39a3eca9ace102ea8a02847" title="Set handle." alt="" coords="279,249,464,276"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="129,172,186,204,255,235,280,245,275,245,253,240,183,209,128,178"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="538,5,684,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,48,525,38,520,40,444,53"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="538,72,684,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="443,67,525,81,520,82,444,73"/>
+</map>

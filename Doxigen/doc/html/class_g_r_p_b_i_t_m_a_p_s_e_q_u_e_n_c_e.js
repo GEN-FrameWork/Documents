@@ -1,0 +1,26 @@
+var class_g_r_p_b_i_t_m_a_p_s_e_q_u_e_n_c_e =
+[
+    [ "GRPBITMAPSEQUENCE", "group___g_r_a_p_h_i_c.html#ga26e05c1da2cb020576413a5a5901edd8", null ],
+    [ "~GRPBITMAPSEQUENCE", "group___g_r_a_p_h_i_c.html#ga635dc6e2da1b4a12ec79bab792cac454", null ],
+    [ "AddFrame", "group___g_r_a_p_h_i_c.html#ga92c924c1e5e3beb73e3d5d4f48c8fd49", null ],
+    [ "AjustAllSequence", "group___g_r_a_p_h_i_c.html#ga099415d2d5603fae5adc32c4dc73d6b6", null ],
+    [ "AjustTime", "group___g_r_a_p_h_i_c.html#ga278b17fb213236c19a423e879d5eeb10", null ],
+    [ "Copy", "group___g_r_a_p_h_i_c.html#ga69a789902caa15f988420990aa4f2ff3", null ],
+    [ "DelAllSequence", "group___g_r_a_p_h_i_c.html#gae398d73842117d3ff7711685510ac7eb", null ],
+    [ "Finished", "group___g_r_a_p_h_i_c.html#ga1fd7b6d7c006fee5c3a0fa9927b5b2db", null ],
+    [ "Flip", "group___g_r_a_p_h_i_c.html#ga2aeb65d79cecf3f84d1038024613587b", null ],
+    [ "GetActualFrame", "group___g_r_a_p_h_i_c.html#ga307bde46b6b4af9217f846e24613c38b", null ],
+    [ "GetActualFrameIndex", "group___g_r_a_p_h_i_c.html#gae4bcdd975ae89f184413137de9b31f47", null ],
+    [ "GetFrame", "group___g_r_a_p_h_i_c.html#ga02d9e85884ffb461e45c0042f2e88ea6", null ],
+    [ "GetNFrames", "group___g_r_a_p_h_i_c.html#ga22b3a4afcf5edb63b9dba3483d7e74b7", null ],
+    [ "GetNLoops", "group___g_r_a_p_h_i_c.html#ga6d0627d644760bd0e174234acbeead4e", null ],
+    [ "GetNLoopsMade", "group___g_r_a_p_h_i_c.html#gaf215682659fed92fb2585e49d251dd69", null ],
+    [ "IsEndSequence", "group___g_r_a_p_h_i_c.html#ga4ae7d656acad62ccf506427d2ed26fdc", null ],
+    [ "IsPlaying", "group___g_r_a_p_h_i_c.html#ga7c3c18671c73cfcc7711b3d8a4a75dd9", null ],
+    [ "Pause", "group___g_r_a_p_h_i_c.html#gae6ad37994810c3026d4980405fdb4544", null ],
+    [ "Play", "group___g_r_a_p_h_i_c.html#gaaa10e288b09d72160990b1831dd26ebf", null ],
+    [ "SetNLoops", "group___g_r_a_p_h_i_c.html#ga63d3f1f85f6d228b98a72881296ee8b2", null ],
+    [ "SetNLoopsMade", "group___g_r_a_p_h_i_c.html#gaea99d42bbea9d455a96ae33579817652", null ],
+    [ "Stop", "group___g_r_a_p_h_i_c.html#ga1f5a499bbdd86b3d32e795d627d56986", null ],
+    [ "Update", "group___g_r_a_p_h_i_c.html#ga79c598216c4e2112405df3e19f1307e1", null ]
+];

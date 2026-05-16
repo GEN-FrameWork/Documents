@@ -1,0 +1,10 @@
+<map id="SCRIPT_LIB_RAND::GetXRand" name="SCRIPT_LIB_RAND::GetXRand">
+<area shape="rect" id="Node000001" title="Get X rand." alt="" coords="449,31,662,57"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gaae0c82ec4296d0a927af61fd0d579c66" title="Call_RandBetween." alt="" coords="268,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,30,401,29,401,24,436,30"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga5a786c24977f722d6bcb39334fd8e1c1" title="Call_RandMax." alt="" coords="281,56,388,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="436,58,389,66,388,61,431,58"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga74ed45a31127de64fee3d9a2072263f5" title="Add library functions." alt="" coords="5,23,220,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,28,221,34,220,29,255,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="263,62,220,59,220,54,268,61"/>
+</map>

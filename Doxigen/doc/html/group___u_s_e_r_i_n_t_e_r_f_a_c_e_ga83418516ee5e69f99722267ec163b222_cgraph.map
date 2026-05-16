@@ -1,0 +1,11 @@
+<map id="UI_SKINCANVAS::GetFatherSize" name="UI_SKINCANVAS::GetFatherSize">
+<area shape="rect" id="Node000001" title="Get father size." alt="" coords="5,56,227,83"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga76d6569d7b264b372108bb5364acf5ba" title="Get boundary line." alt="" coords="275,5,487,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,53,295,34,290,37,190,58"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6fbab7908bac7c392ed81ad03facd6c1" title="Get canvas." alt="" coords="279,56,482,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,67,266,69,261,70,227,72"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga979f818c459fa4020d477a0a4636668b" title="Get father." alt="" coords="296,107,466,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,81,295,102,290,104,189,86"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae1b7336feac7b03a5b261ac0e9944262" title="Constructor of class." alt="" coords="535,107,731,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="466,117,522,120,517,120,466,123"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIOI2C3DCOMPASSLSM303DLHC" name="DIOI2C3DCOMPASSLSM303DLHC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,240,256"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_i2_c_l_s_m303_d_l_h_c.html" title=" " alt="" coords="47,155,198,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,195,125,230,120,228,121,199"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="64,80,181,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,120,125,155,120,153,121,125"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="74,5,171,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,45,125,80,120,79,122,50"/>
+</map>

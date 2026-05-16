@@ -1,0 +1,12 @@
+<map id="XWINDOWSSERVICEBASE::WriteEventLogEntry" name="XWINDOWSSERVICEBASE::WriteEventLogEntry">
+<area shape="rect" id="Node000001" title="Write event log entry." alt="" coords="914,5,1108,48"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf26011db77642f3bc1c88ed3674618ff" title="Stop." alt="" coords="429,5,623,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="895,23,866,25,671,25,624,26,624,21,671,20,866,20,901,23"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga21cdf27e173f911835ccbb9f66fbc354" title="Write error log entry." alt="" coords="671,35,866,77"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="901,40,866,47,866,42,895,41"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6511645bbe2494af1d792d3be9c0c9dc" title="INAPI Service_WorkerThread." alt="" coords="228,13,381,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,27,381,29,381,24,416,26"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga569af246729f36ad5169242f2902a9c0" title="On start." alt="" coords="5,5,180,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="210,27,181,29,180,24,215,26"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="653,42,624,41,624,36,658,42"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="XFILE" name="XFILE">
+<area shape="rect" id="Node000001" title="eXtended Utils File class" alt="" coords="173,132,231,159"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_f_i_l_e.html" title="eXtended ESP32 File class" alt="" coords="328,5,428,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,117,240,78,257,58,278,42,302,30,330,23,326,26,304,35,280,46,261,62,244,81,219,120"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_f_i_l_e.html" title="LINUX eXtended Utils File class." alt="" coords="329,56,427,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,120,278,92,331,77,326,80,280,97,234,125"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_f_i_l_e.html" title="eXtended STM32 File class (Use FatFs &#45; Generic FAT file system module)" alt="" coords="328,107,428,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,136,330,126,325,128,247,142"/>
+<area shape="rect" id="Node000007" href="$class_x_s_t_m32_f_i_l_e___n_o_t_u_n_i_c_o_d_e.html" title="STM32 eXtended Not Unicode File class (Use FatFs &#45; Generic FAT file system module)." alt="" coords="279,157,477,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="246,149,284,156,278,157,247,154"/>
+<area shape="rect" id="Node000008" href="$class_x_w_i_n_d_o_w_s_f_i_l_e.html" title="WINDOWS eXtended Utils File class." alt="" coords="314,208,442,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="233,165,280,194,317,208,312,209,278,198,232,171"/>
+<area shape="rect" id="Node000009" href="$class_x_w_i_n_d_o_w_s_f_i_l_e_b_o_r_l_a_n_d.html" title="WINDOWS eXtended Utils Borland file class." alt="" coords="282,259,474,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="218,170,244,209,261,228,280,244,304,258,299,258,278,249,257,232,240,213,215,175"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="5,132,125,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,143,175,144,170,147,141,148"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_f_i_l_e.html" title="ANDROID eXtended File class." alt="" coords="525,56,647,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,67,527,69,522,70,443,72"/>
+</map>

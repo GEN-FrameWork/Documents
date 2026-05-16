@@ -1,0 +1,10 @@
+<map id="DIOSPITFTDISPLAYILI9341::Clear" name="DIOSPITFTDISPLAYILI9341::Clear">
+<area shape="rect" id="Node000001" title="Clear." alt="" coords="5,35,196,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gacd6abc52065e4278e346f7f2974bc0a1" title="Get size buffer." alt="" coords="482,5,693,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,48,467,31,466,37,196,53"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2ad90f87e92f90adc4e539c42c40f9cd" title="Update." alt="" coords="244,64,434,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,65,231,72,226,72,196,70"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="432,61,477,53,482,52,433,66"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="502,72,673,99"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="435,83,490,85,484,85,435,88"/>
+</map>

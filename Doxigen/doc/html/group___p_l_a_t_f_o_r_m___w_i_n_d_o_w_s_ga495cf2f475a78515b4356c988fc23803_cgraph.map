@@ -1,0 +1,15 @@
+<map id="XWINDOWSDRIVEIMAGEMANAGER::Open" name="XWINDOWSDRIVEIMAGEMANAGER::Open">
+<area shape="rect" id="Node000001" title="Open." alt="" coords="5,172,258,215"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad883921e899b2362d1e2461abd13e086" title="Get volume." alt="" coords="309,5,492,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,170,219,115,261,85,304,58,318,53,314,56,307,62,263,89,222,119,158,174"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gafce4c7188915abd8e96da0c34ffef7bd" title="Set device ID." alt="" coords="309,72,492,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,169,305,124,325,119,320,122,307,129,190,174"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4cefa864328317df7e31d4ced62a3e4c" title="Set handle." alt="" coords="309,139,492,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,175,296,172,291,174,259,180"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7b225719ed7e71a324d2ad8274b374d5" title="Set number sectors." alt="" coords="306,205,495,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="258,206,293,212,288,214,259,212"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2db176abc26eccd823e3be8254762f96" title="Set raw handle." alt="" coords="309,272,492,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,213,307,258,325,266,320,266,305,262,188,218"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4295a1f82a55b0669575d976545b366b" title="Set sector size." alt="" coords="309,339,492,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,212,222,267,263,298,307,324,319,332,313,332,304,329,261,302,219,272,155,217"/>
+</map>

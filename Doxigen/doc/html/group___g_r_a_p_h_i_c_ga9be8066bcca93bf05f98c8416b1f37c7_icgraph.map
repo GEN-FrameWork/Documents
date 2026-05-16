@@ -1,0 +1,8 @@
+<map id="GRPVECTORFILEDXFTEXTSECTIONBLOCKS::GetBlock" name="GRPVECTORFILEDXFTEXTSECTIONBLOCKS::GetBlock">
+<area shape="rect" id="Node000001" title="Get block." alt="" coords="720,5,1029,48"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gabc22953c5fdee089e337dc99eaf7c395" title="Delete all blocks." alt="" coords="5,5,315,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,23,672,25,363,25,315,26,315,21,363,20,672,20,707,23"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf207036b7bdb4165873e4e873b59c133" title="Delete block." alt="" coords="363,35,672,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="707,40,673,46,672,41,702,41"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="345,42,315,42,315,37,350,42"/>
+</map>

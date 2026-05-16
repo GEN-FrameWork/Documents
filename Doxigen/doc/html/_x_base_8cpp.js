@@ -1,0 +1,26 @@
+var _x_base_8cpp =
+[
+    [ "AdjustDouble", "group___x_u_t_i_l_s.html#ga70cf67d0fe96e86e59ede009bb080adf", null ],
+    [ "AdjustFloat", "group___x_u_t_i_l_s.html#ga935282594c57ece8181590e72e6e2ea5", null ],
+    [ "BCDToDWORD", "group___x_u_t_i_l_s.html#ga0753543168ac34a96fde804e0c16e028", null ],
+    [ "DWORDToBCD", "group___x_u_t_i_l_s.html#ga1025936b2f2fe4b550959e9c5efdd215", null ],
+    [ "Fraction", "group___x_u_t_i_l_s.html#ga1e8c9a80193adf0dd340ee3508b9889f", null ],
+    [ "HighDWORD", "group___x_u_t_i_l_s.html#gad7661023cb78f8b19678e5b69a8b769e", null ],
+    [ "HighQWORD", "group___x_u_t_i_l_s.html#gac11736a39c04a21fe2ff69c40e4521a2", null ],
+    [ "HighWORD", "group___x_u_t_i_l_s.html#ga23d88e3333ad7d631f867c45dced3378", null ],
+    [ "InvertSign", "group___x_u_t_i_l_s.html#ga787b44cf0777f3c366cec5815d032f80", null ],
+    [ "LowDWORD", "group___x_u_t_i_l_s.html#ga65b5e0136e533d7346156c43aba9ce62", null ],
+    [ "LowQWORD", "group___x_u_t_i_l_s.html#ga4885ae02c3b2e1eeaabb37f89ed1dcb3", null ],
+    [ "LowWORD", "group___x_u_t_i_l_s.html#ga15b7e37f5cc36ca070e667bedfb68507", null ],
+    [ "RotateBitLeft", "group___x_u_t_i_l_s.html#gaf51d424a2bede3b7c2d3c2d32f85f727", null ],
+    [ "RotateBitReverse", "group___x_u_t_i_l_s.html#gac3f6d41c295a645e22b168a1beded217", null ],
+    [ "RotateBitRight", "group___x_u_t_i_l_s.html#ga57c5321ef9a5b1a0684d9db13a483968", null ],
+    [ "RoundFloat", "group___x_u_t_i_l_s.html#ga8c6720cc79460977a1880f7a7ef50b23", null ],
+    [ "RoundOff", "group___x_u_t_i_l_s.html#ga9a58704393614ca320f7f8ba0c695ee2", null ],
+    [ "RoundOff", "group___x_u_t_i_l_s.html#ga146e7682be9f853069a01842a0d2583d", null ],
+    [ "SizeBufferASCII", "group___x_u_t_i_l_s.html#ga1ab2324540beda36467d76239446d92e", null ],
+    [ "SwapDWORD", "group___x_u_t_i_l_s.html#ga4d1da17fcb47e6bff9f2dbc0e680d593", null ],
+    [ "SwapQWORD", "group___x_u_t_i_l_s.html#ga51d327cd1dc2f2ae08c70596880dd85f", null ],
+    [ "SwapWORD", "group___x_u_t_i_l_s.html#ga4194dc6953f7f2e754c0ee59c30f500d", null ],
+    [ "Truncate", "group___x_u_t_i_l_s.html#ga21ecb6c60f0e1b4b6d53f1d4c85a8610", null ]
+];

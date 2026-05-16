@@ -1,0 +1,17 @@
+<map id="DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO::SetToBuffer" name="DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO::SetToBuffer">
+<area shape="rect" id="Node000001" title="set to buffer" alt="" coords="5,57,260,99"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="603,73,718,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,54,245,35,307,21,377,10,432,3,487,6,556,21,597,38,634,64,628,63,595,43,554,26,487,11,432,9,378,15,308,26,246,40,189,59"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="375,35,488,62"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="260,63,362,55,357,57,261,68"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gae88f272c7861d098795d2de769e1108e" title="get length" alt="" coords="308,86,555,129"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="260,88,295,93,290,94,261,93"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga65fb72345c8c503d7d520db4ace1ef70" title="set to buffer" alt="" coords="308,153,555,195"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="191,97,308,138,334,148,329,148,307,143,191,103"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="766,47,900,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="719,75,753,72,748,73,719,80"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="948,73,1107,99"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="719,83,935,86,929,86,719,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="900,67,935,74,929,74,900,72"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="522,149,554,138,621,108,626,107,556,143,523,155"/>
+</map>

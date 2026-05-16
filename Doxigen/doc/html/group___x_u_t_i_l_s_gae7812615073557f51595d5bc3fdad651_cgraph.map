@@ -1,0 +1,38 @@
+<map id="XDRIVEIMAGEMANAGER::WriteFromIMGFile" name="XDRIVEIMAGEMANAGER::WriteFromIMGFile">
+<area shape="rect" id="Node000001" title="Write from IMG file." alt="" coords="5,425,189,468"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf7d78f174cb8eeb52cafe94524d3885b" title="Close." alt="" coords="292,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,425,103,351,123,248,140,192,164,137,195,86,235,42,254,29,279,22,275,26,257,34,238,46,200,90,169,140,145,194,128,249,108,352,102,425"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga8a6897988fdcf361b48b20497933d911" title="Fill buffer." alt="" coords="271,56,414,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,425,107,360,129,270,147,222,170,174,199,131,235,93,258,80,255,84,238,97,203,134,175,177,152,224,134,271,112,361,103,425"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="286,107,399,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="99,424,112,368,136,291,154,251,176,211,203,175,235,143,252,133,273,126,269,130,254,137,238,147,207,178,181,214,159,253,141,293,117,369,104,425"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga5359c8dae86792e196d2700088f09b72" title="Get number sectors." alt="" coords="247,157,438,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,424,120,379,147,322,185,262,209,234,235,210,244,206,240,210,238,214,213,238,190,265,152,324,124,382,108,426"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0a60abeea2f9a2d22a5b34202d2d3ee7" title="Get sector size." alt="" coords="251,224,434,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,424,158,351,194,311,235,277,246,272,243,276,238,281,197,315,162,355,113,426"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga35443cc6930ce2f5cd279184703ac3ee" title="Get size." alt="" coords="251,291,434,333"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="121,423,172,383,235,343,251,338,247,341,238,348,175,387,125,427"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e.html#a43349ac3160e391c95164fe83825fdfc" title=" " alt="" coords="294,357,391,384"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="152,423,236,393,281,383,277,386,237,399,155,427"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="262,408,422,435"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="188,435,249,429,245,433,190,439"/>
+<area shape="rect" id="Node000011" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="294,459,391,485"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="188,454,280,464,276,467,190,459"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="276,509,409,536"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="153,466,237,495,266,504,262,506,236,500,155,471"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga47f3706c2f3ae57c930c19f33e6462d0" title="Set drive." alt="" coords="251,560,434,603"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="122,466,175,506,238,546,252,553,247,555,235,550,172,511,123,471"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga1bafbb2d08bdaa81e727ccac5ca3ac25" title="Set error." alt="" coords="251,627,434,669"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="111,466,162,539,197,578,238,613,247,619,242,620,235,617,194,582,158,542,111,471"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gab1f3e0e84865a57b4406641e623180f5" title="Set index sector." alt="" coords="251,693,434,736"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="105,466,124,512,152,569,190,628,213,655,238,679,245,685,239,686,235,683,209,659,185,631,147,572,120,514,105,471"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga4f8015bb54e2e7925f457114f1a7a4ca" title="Set number sectors in operation." alt="" coords="237,760,448,819"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="103,466,119,523,144,597,184,676,209,713,239,746,242,751,237,751,235,750,205,717,179,679,139,599,114,525,102,471"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga53b3beffa34f7980b2a957830bce4223" title="Set operation percent." alt="" coords="237,843,448,885"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="100,466,111,537,132,634,150,687,173,738,202,786,239,829,242,834,237,833,235,833,198,790,168,741,145,689,127,636,105,538,99,471"/>
+<area shape="rect" id="Node000018" href="$group___x_u_t_i_l_s.html#gaae460c33a3ceb00d0f110953dcaa32cb" title="Write." alt="" coords="251,909,434,952"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="99,466,106,548,113,602,124,662,142,725,166,787,198,845,239,896,242,900,237,899,235,899,193,848,161,789,136,727,119,664,107,603,100,549,98,471"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="496,283,655,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,76,450,92,492,133,526,180,551,227,567,268,562,268,546,230,521,183,488,136,446,97,415,81"/>
+<area shape="poly" id="edge12_Node000012_Node000004" title=" " alt="" coords="408,513,428,505,446,495,488,456,521,409,546,362,563,326,566,322,551,365,526,412,492,459,450,499,431,510,411,517"/>
+</map>

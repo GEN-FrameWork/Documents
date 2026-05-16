@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFTEXTSECTIONENTITIES::~GRPVECTORFILEDXFTEXTSECTIONENTITIES" name="GRPVECTORFILEDXFTEXTSECTIONENTITIES::~GRPVECTORFILEDXFTEXTSECTIONENTITIES">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,39,338,81"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga5c70e471b2e76adc0924b20a2ac91578" title="Delete all entities." alt="" coords="386,5,702,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,42,373,42,367,43,339,48"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaaf84b5c9477a9632f39011188cbd0f8f" title="Delete all entities obj." alt="" coords="386,72,702,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,72,373,78,367,78,338,78"/>
+<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="750,80,935,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="702,91,737,93,732,93,702,96"/>
+</map>

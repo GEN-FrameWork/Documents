@@ -1,0 +1,9 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER::ProtocolConnections_GetProtocol" name="DIOPROTOCOL_CONNECTIONSMANAGER::ProtocolConnections_GetProtocol">
+<area shape="rect" id="Node000001" title="Protocol connections get protocol." alt="" coords="5,64,300,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6edc2ea543475460accedd06bc712c29" title="Get DIO protocol." alt="" coords="386,5,604,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,61,373,47,368,49,281,66"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac74caf23e11e04eb096c5bafa2793941" title="Is connected." alt="" coords="394,72,596,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,83,381,85,376,86,300,88"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga46d921bb5e7873ec4defe31841a021a3" title="Protocol connections get N available." alt="" coords="348,123,642,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,105,354,119,349,120,281,110"/>
+</map>

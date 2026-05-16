@@ -1,0 +1,13 @@
+<map id="GRPBITMAPPIXELFORMATBUFFER::CopyFrom" name="GRPBITMAPPIXELFORMATBUFFER::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="301,139,548,181"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aeeeb41329c6dfc3a5cfd979153a6d097" title="Crop." alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,130,319,96,252,62,222,51,221,46,254,58,322,92,382,130"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#af9c817826e6aaae297ca8d90eb9b5b36" title="Flip horizontal." alt="" coords="5,72,253,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,136,227,118,226,113,314,134"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a18e462e197946854620fe6169f60c5e6" title="Flip vertical." alt="" coords="5,139,253,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,161,254,163,253,157,287,159"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a5970a5814b7bdba1ada66fee2874dd18" title="Rotate." alt="" coords="5,205,253,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,186,227,207,226,202,314,184"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aa1d563b170bc591eb63468a73622c9ed" title="Scale." alt="" coords="5,272,253,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="382,189,322,228,254,262,222,274,221,269,252,258,319,224,377,191"/>
+</map>

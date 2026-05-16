@@ -1,0 +1,23 @@
+<map id="XPROCESS::CopyFrom" name="XPROCESS::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,237,171,264"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_r_e_c_t_b_a_s_e.html#acd2125688450260f4fa711e324054d1c" title=" " alt="" coords="228,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,236,106,197,132,145,169,89,191,64,217,42,228,37,224,41,220,46,195,67,173,92,137,147,111,199,96,238"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="269,56,379,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,236,140,167,175,126,217,92,255,78,252,82,220,97,179,130,144,170,99,238"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga5764fd0cbebc0d68f3c588dc0bbbf186" title="Get ID." alt="" coords="254,107,394,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,235,149,189,182,164,217,143,242,135,238,138,220,148,185,169,152,194,104,238"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga2d1f11b7b0bc67ee1cb23453dc1a2d68" title="Get name." alt="" coords="244,157,404,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,235,218,193,246,187,242,190,220,199,120,239"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa9c9ecad834bdacd11384239c7e23e13" title="Get path." alt="" coords="248,208,400,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="170,238,234,231,230,234,172,243"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga326bb13491a0e4928d05a38bc941909a" title="Get window border width." alt="" coords="219,259,429,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="170,258,206,264,201,266,172,263"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga5c0209124ee071ff48b7d8be5dd8148f" title="Get window rect." alt="" coords="224,325,424,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,262,163,287,220,311,245,320,240,322,218,316,161,291,114,267"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaaaea783c8520240c4ceb978fc9fe27cf" title="Get window title." alt="" coords="225,376,422,403"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="101,262,151,312,184,339,220,362,235,370,230,371,217,366,181,343,147,315,101,267"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga24d1307aafde5d5809ba1376c7b64a22" title="Get window title height." alt="" coords="225,427,422,469"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="97,262,144,334,179,376,220,413,228,419,223,419,217,417,175,380,139,337,96,267"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gace5a698ad9f799dd3751490317f6f83c" title="Constructor of class." alt="" coords="234,493,414,520"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="93,261,109,306,133,365,170,427,193,455,220,479,228,486,223,485,217,483,190,459,166,430,128,367,104,308,92,267"/>
+</map>

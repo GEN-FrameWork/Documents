@@ -1,0 +1,27 @@
+var class_d_i_o_s_c_r_a_p_e_r_w_e_b =
+[
+    [ "DIOSCRAPERWEB", "group___d_a_t_a_i_o.html#ga0067a3904c6caea40b27dad0f9f5596e", null ],
+    [ "~DIOSCRAPERWEB", "group___d_a_t_a_i_o.html#gae4fe509d1cbf9e8cdc98529168d684f3", null ],
+    [ "AddValue", "group___d_a_t_a_i_o.html#ga80dc3e2a6b39045f941f2dfb3c03c381", null ],
+    [ "AddValue", "group___d_a_t_a_i_o.html#gab9d8266a8ed9b4a93bb882aeb077c710", null ],
+    [ "AddValue", "group___d_a_t_a_i_o.html#ga8425c0d17a7a33815d31f4db4c9053f6", null ],
+    [ "AddValue", "group___d_a_t_a_i_o.html#gad71faa96375a62c6dbd18376fdf5c47f", null ],
+    [ "ChangeURL", "group___d_a_t_a_i_o.html#ga6f93939d3e253f0b557dc66cb017b403", null ],
+    [ "DeleteAllValues", "group___d_a_t_a_i_o.html#gaf3d8bb221f321af7d848230b3f09cb1a", null ],
+    [ "Do", "group___d_a_t_a_i_o.html#gae8df5b02e4280111b316d8f928595378", null ],
+    [ "Do", "group___d_a_t_a_i_o.html#ga6c0c895808db643dd750a70d90d9d89f", null ],
+    [ "Download", "group___d_a_t_a_i_o.html#ga7aad196cd1498742e39a49d4878f6d8b", null ],
+    [ "ExtractString", "group___d_a_t_a_i_o.html#ga5f4cd51a1b3be11cae5462042905f459", null ],
+    [ "ExtractString", "group___d_a_t_a_i_o.html#ga8b772dfd1a40c550cc663d8eafac11a4", null ],
+    [ "ExtractString", "group___d_a_t_a_i_o.html#ga940877d9ee0186c43f7a570473d4056c", null ],
+    [ "ExtractString", "group___d_a_t_a_i_o.html#ga0f047676f7976da83ce297593f729796", null ],
+    [ "GetURLDownload", "group___d_a_t_a_i_o.html#gad738702d76ec4dce678aca24ed9d75bc", null ],
+    [ "GetValue", "group___d_a_t_a_i_o.html#gac3fe9b1f589ac283405efe2147e4aff7", null ],
+    [ "GetValue", "group___d_a_t_a_i_o.html#ga1bfa98f1409ee94d63aa647e727eaf7b", null ],
+    [ "GetWebClient", "group___d_a_t_a_i_o.html#ga00a4af0ea8269bc237130268fd94c353", null ],
+    [ "Load", "group___d_a_t_a_i_o.html#gacab060d8df5178edca4dd5dfb46a3c4b", null ],
+    [ "Load", "group___d_a_t_a_i_o.html#ga1fc04d6f461299ea56c2d3a596ec5fa0", null ],
+    [ "cache", "class_d_i_o_s_c_r_a_p_e_r_w_e_b.html#a3d5f1bb63bf5ee16dd79924884dcf91f", null ],
+    [ "webclient", "class_d_i_o_s_c_r_a_p_e_r_w_e_b.html#ac23e52635aa3e5cfffd41e9621863aaa", null ],
+    [ "xmutexdo", "class_d_i_o_s_c_r_a_p_e_r_w_e_b.html#a413d9456a6c8b9c4739013f5f839f4dc", null ]
+];

@@ -1,0 +1,19 @@
+<map id="XSTRING::Set" name="XSTRING::Set">
+<area shape="rect" id="Node000001" title="Set." alt="" coords="5,56,115,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="176,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,53,172,35,168,39,109,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="163,56,302,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,67,149,68,145,71,116,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="178,107,287,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="108,81,172,101,168,103,108,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="355,56,514,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,67,342,69,337,70,303,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="368,107,502,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="287,117,355,120,350,120,287,123"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="350,157,519,184"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="287,131,366,153,361,153,287,136"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="573,107,711,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="502,117,560,120,555,120,503,123"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="567,157,717,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="520,168,554,171,549,171,520,173"/>
+</map>

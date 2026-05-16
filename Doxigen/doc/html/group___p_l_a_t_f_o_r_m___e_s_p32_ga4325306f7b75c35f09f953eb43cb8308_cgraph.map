@@ -1,0 +1,13 @@
+<map id="XESP32SYSTEM::GetPlatform" name="XESP32SYSTEM::GetPlatform">
+<area shape="rect" id="Node000001" title="Get platform." alt="" coords="5,31,210,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="258,31,367,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,41,245,44,239,44,210,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="432,5,567,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,34,414,30,419,30,368,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="415,56,584,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="368,49,402,56,397,56,367,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="638,5,776,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="567,16,625,18,620,19,568,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="632,56,782,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="585,67,619,69,614,69,585,72"/>
+</map>

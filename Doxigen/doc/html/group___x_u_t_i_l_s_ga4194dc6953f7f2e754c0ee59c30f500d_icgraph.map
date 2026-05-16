@@ -1,0 +1,20 @@
+<map id="SwapWORD" name="SwapWORD">
+<area shape="rect" id="Node000001" title="Return the swap of word (2 bytes) hi&#45;lo &gt; lo&#45;hi." alt="" coords="804,104,902,131"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad99b3fee01500ebeb24473062f0f7c52" title="Put pixel." alt="" coords="562,5,754,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,95,755,62,729,51,729,46,758,58,822,96"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaee111d121883d0dc264868238fd4468f" title="Resolve URL." alt="" coords="560,96,756,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="786,118,757,120,757,115,791,117"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gaf66dcbfab9c1ed2821b1a04cd17137ae" title="Update." alt="" coords="564,163,753,205"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="800,136,757,153,724,165,722,160,755,148,795,137"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="688,80,678,77,658,75,640,77,629,81,625,87,626,97,621,94,619,86,626,77,639,71,658,69,679,72,693,81"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa46c5e7b76bfe2e4255acc77aaba17f9" title="Resolve URL." alt="" coords="299,29,496,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="555,92,483,75,484,70,560,91"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9ea0638b83173ce4b2d2e4dd21aeffc1" title="Resolve URL." alt="" coords="299,96,496,139"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="542,118,496,120,496,115,547,117"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gac02068342e11d4b1f705a4afb3e8a942" title="Resolve URL." alt="" coords="283,163,512,189"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="550,142,513,153,462,165,461,159,511,148,544,143"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaee9d6bbdaf1635ec5438b9734d1d312e" title="Resolve URL." alt="" coords="5,137,235,164"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="265,164,235,164,235,158,270,164"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaa035bbccf68d48621696b536d6d37989" title="Resolve URL." alt="" coords="5,188,235,215"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="265,188,235,194,235,188,270,188"/>
+</map>

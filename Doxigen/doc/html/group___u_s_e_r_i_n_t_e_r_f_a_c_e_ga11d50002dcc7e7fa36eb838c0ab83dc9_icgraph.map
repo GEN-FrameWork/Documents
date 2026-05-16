@@ -1,0 +1,7 @@
+<map id="UI_LAYOUT::Update" name="UI_LAYOUT::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="214,31,357,57"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga36a6a729977d9742e19be1e117c50763" title="Update." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,33,166,32,166,26,201,33"/>
+<area shape="rect" id="Node000003" href="$class_u_i___m_a_n_a_g_e_r.html#aa21026ec0f9ffd507f84bfc5562492f6" title=" " alt="" coords="5,56,166,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,55,166,62,166,57,201,55"/>
+</map>

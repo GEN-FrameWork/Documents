@@ -1,0 +1,32 @@
+<map id="XPATHSMANAGER::GetPathOfSection" name="XPATHSMANAGER::GetPathOfSection">
+<area shape="rect" id="Node000001" title="Get path of section." alt="" coords="5,60,217,103"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="698,5,826,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,61,264,55,492,33,685,22,680,24,493,38,265,60,218,66"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="900,212,1038,239"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="134,101,187,148,261,206,351,264,399,288,449,307,558,338,604,346,648,349,691,348,736,341,846,311,874,299,900,283,942,250,947,249,903,287,876,303,848,316,738,346,691,353,647,355,604,351,557,343,447,312,397,293,348,268,258,211,184,152,134,106"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="707,56,817,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="216,76,448,71,694,69,689,71,448,76,218,81"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga337e940d48f7178186adfbdf4d268ac7" title="Slash add." alt="" coords="265,144,400,171"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="175,101,279,137,275,140,176,106"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="895,56,1044,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="820,30,899,51,894,52,820,35"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="826,30,848,42,874,69,903,111,956,200,951,198,899,114,870,72,845,46,826,35"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="358,141,399,121,447,104,511,90,576,79,694,71,689,72,577,85,512,95,449,109,401,126,360,146"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="482,169,595,196"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="400,163,470,173,465,175,401,168"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="694,208,830,235"/>
+<area shape="poly" id="edge12_Node000006_Node000008" title=" " alt="" coords="358,169,400,189,449,205,508,216,568,222,681,226,675,226,568,227,507,221,447,211,398,194,358,174"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaafb954c8ccc621da26ea77904fcf3685" title="Slash have at last." alt="" coords="448,271,629,297"/>
+<area shape="poly" id="edge13_Node000006_Node000010" title=" " alt="" coords="348,168,392,208,449,250,477,265,472,264,447,254,388,212,346,174"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gae4d3272dfd7abca52a5154e8a4e14c9e" title="Slash normalize." alt="" coords="453,119,624,145"/>
+<area shape="poly" id="edge16_Node000006_Node000012" title=" " alt="" coords="400,146,440,144,435,145,401,152"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="595,190,681,207,676,207,595,195"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="677,107,847,133"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="588,166,629,155,700,137,695,139,630,160,590,171"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="819,103,899,86,894,88,820,109"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga4036bc5b3729a74b987e33c39acf5470" title="Character get last." alt="" coords="689,259,835,301"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="630,280,676,281,670,282,630,285"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="835,258,898,244,904,243,836,263"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="610,143,847,193,900,208,894,208,846,199,610,149"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="588,116,699,87,694,88,590,121"/>
+</map>

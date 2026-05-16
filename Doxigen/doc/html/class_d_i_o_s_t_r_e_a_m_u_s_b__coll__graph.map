@@ -1,0 +1,24 @@
+<map id="DIOSTREAMUSB" name="DIOSTREAMUSB">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream USB class." alt="" coords="238,441,367,468"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="224,223,325,249"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,263,303,441,298,440,276,266"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="428,81,520,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,118,413,134,402,151,396,167,390,184,376,201,352,216,326,226,324,222,350,211,372,197,385,181,391,165,397,148,410,130,434,114"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g.html" title="Data Input/Output Stream Config class." alt="" coords="479,223,632,249"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="521,114,539,130,551,154,557,179,559,223,554,221,552,180,546,156,535,134,520,119"/>
+<area shape="rect" id="Node000004" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="5,81,90,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="51,121,64,162,75,181,88,197,111,208,145,216,225,229,221,232,144,222,109,213,85,201,70,184,60,164,51,126"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="127,81,200,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="156,120,153,161,156,180,164,197,176,209,190,218,226,231,221,232,188,223,173,213,160,200,151,182,148,161,154,125"/>
+<area shape="rect" id="Node000006" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="158,5,278,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="199,47,175,82,170,80,201,42"/>
+<area shape="rect" id="Node000007" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="236,81,313,108"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="237,42,267,81,262,81,237,47"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="276,121,277,223,272,221,273,126"/>
+<area shape="rect" id="Node000010" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="374,223,455,249"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="327,102,356,113,380,130,396,152,407,178,416,223,411,221,402,179,392,155,376,134,353,118,328,107"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_s_t_r_e_a_m_u_s_b_c_o_n_f_i_g.html" title="Data Input/Output Stream USB config class." alt="" coords="324,343,505,369"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="391,379,318,443,316,438,386,380"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="539,259,512,292,480,321,441,345,439,340,477,317,508,288,534,262"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="416,263,417,343,412,341,412,267"/>
+</map>

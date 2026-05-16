@@ -1,0 +1,5 @@
+<map id="APPFLOWBASE::GetExitTypeString" name="APPFLOWBASE::GetExitTypeString">
+<area shape="rect" id="Node000001" title="Get exit type string." alt="" coords="236,5,438,48"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#gabfc925a7155431fc0a20d25fb84e4804" title="End." alt="" coords="5,13,188,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,27,188,29,188,24,223,26"/>
+</map>

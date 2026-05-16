@@ -1,0 +1,13 @@
+<map id="GRPSCREEN::SetPropertys" name="GRPSCREEN::SetPropertys">
+<area shape="rect" id="Node000001" title="Set propertys." alt="" coords="5,107,197,133"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga50b0902ae14430802d0332894117698b" title="Set DPI." alt="" coords="252,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,104,177,73,244,42,268,36,263,38,246,46,179,78,126,108"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga2b39330d27e80bb2e363267ca8a162da" title="Set height." alt="" coords="245,56,447,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,103,265,85,261,88,170,109"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga628a2e4a3a24a680eb16b789bd16dd00" title="Set mode." alt="" coords="248,107,444,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,117,234,119,229,121,198,123"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga7fa39c342bca77a9459963092026813b" title="Set stride." alt="" coords="247,157,445,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,131,266,153,261,155,169,137"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga9230f541a690015a7aa087a61d68ed7a" title="Set width." alt="" coords="247,208,445,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="125,131,179,162,246,194,268,203,263,203,244,198,177,167,124,136"/>
+</map>

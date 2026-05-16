@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFTEXTSECTION::GetTypeSection" name="GRPVECTORFILEDXFTEXTSECTION::GetTypeSection">
+<area shape="rect" id="Node000001" title="Get type section." alt="" coords="5,39,261,81"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="309,47,451,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,57,296,60,291,60,261,63"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="499,5,645,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,45,481,42,486,42,452,50"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="499,72,645,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,70,486,78,481,78,451,75"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="XLINUXSYSTEM::GetPlatform" name="XLINUXSYSTEM::GetPlatform">
+<area shape="rect" id="Node000001" title="Get platform." alt="" coords="5,31,209,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="257,31,366,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,41,244,44,239,44,209,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="432,5,566,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,34,413,30,418,30,367,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="414,56,583,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="367,49,401,56,396,56,366,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="637,5,775,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,16,624,18,619,19,567,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="631,56,781,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="584,67,618,69,613,69,584,72"/>
+</map>

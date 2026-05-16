@@ -1,0 +1,11 @@
+<map id="DIOCOREPROTOCOL_HEADER::GetContentCompressSize" name="DIOCOREPROTOCOL_HEADER::GetContentCompressSize">
+<area shape="rect" id="Node000001" title="Get content compress size." alt="" coords="300,101,522,144"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga33fc85daa2e0a5b8b1e6def750a52f27" title="Compare." alt="" coords="17,5,240,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,96,251,63,215,51,215,46,253,57,347,94"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4e22a65b190943a5f6bd814ada672c93" title="Copy from." alt="" coords="17,72,240,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,110,241,108,240,102,287,109"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga856c137dd459f5070948ee55117dd856" title="Received msg." alt="" coords="5,139,252,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,136,252,142,251,137,287,135"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga4482c684b34168a6db003fbf62024662" title="Show debug." alt="" coords="10,189,247,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="340,149,252,180,205,191,204,186,251,175,335,150"/>
+</map>

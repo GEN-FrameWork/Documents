@@ -1,0 +1,18 @@
+<map id="XFILETXT::WriteAllFile" name="XFILETXT::WriteAllFile">
+<area shape="rect" id="Node000001" title="Write all file." alt="" coords="5,132,162,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="266,31,382,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,129,149,98,209,67,253,55,249,58,211,72,151,102,105,133"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga28bb9722fce97e2bc8739bedbf93ce3f" title="Create BOM format char." alt="" coords="210,81,438,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="150,129,244,110,240,113,151,134"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga6a172d99fcd7fa2edfa11e3e7a602e93" title="Create type LF." alt="" coords="238,132,410,159"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="161,143,224,144,220,146,163,148"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="267,183,380,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="150,157,254,180,250,182,150,162"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="269,233,379,260"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="104,157,151,188,211,219,256,235,250,235,209,224,149,193,103,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="486,5,619,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,35,473,27,468,29,382,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="667,31,827,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="382,41,654,43,650,45,382,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="620,25,654,31,649,32,620,30"/>
+</map>

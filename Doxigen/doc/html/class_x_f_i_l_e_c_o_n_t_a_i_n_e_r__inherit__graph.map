@@ -1,0 +1,33 @@
+<map id="XFILECONTAINER" name="XFILECONTAINER">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,143,209"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p_f_i_l_e_b_a_s_e.html" title=" " alt="" coords="191,107,355,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,174,190,143,226,132,222,136,192,148,119,178"/>
+<area shape="rect" id="Node000007" href="$class_x_f_i_l_e_d_b_f.html" title="eXtended Utils DBF file class" alt="" coords="230,157,316,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="157,183,232,174,228,178,159,188"/>
+<area shape="rect" id="Node000008" href="$class_x_f_i_l_e_h_a_s_h.html" title="eXtended Utils HASH file class (file with HASH included)" alt="" coords="225,208,321,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="157,204,227,214,222,217,158,209"/>
+<area shape="rect" id="Node000011" href="$class_x_f_i_l_e_t_x_t.html" title="eXtended Utils TXT (Text) file class" alt="" coords="231,335,314,361"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="106,216,256,333,252,336,104,221"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_f_i_l_e_b_m_p.html" title="Graphic bitmap file BMP (Windows bitmap Format) class." alt="" coords="403,5,560,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,96,350,68,402,42,434,31,430,34,404,46,353,73,309,100"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_b_i_t_m_a_p_f_i_l_e_j_p_g.html" title="Graphic bitmap file JPEG format (JPEG: Joint Photographic Experts Group) class." alt="" coords="404,56,559,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="344,100,426,82,421,85,347,105"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_b_i_t_m_a_p_f_i_l_e_p_n_g.html" title="Graphic bitmap file PNG format (PNG: Portable Network Graphics) class." alt="" coords="403,107,560,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,117,405,119,400,121,372,123"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_b_i_t_m_a_p_f_i_l_e_t_g_a.html" title="Graphic bitmap file TGA / TARGA format class (TGA : Truevision Graphics Adapter)." alt="" coords="404,157,559,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="345,135,426,156,421,158,346,140"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e_x_d_b.html" title="eXtended Utils Dialog Sentence file class" alt="" coords="438,208,525,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="336,219,441,220,436,222,337,224"/>
+<area shape="rect" id="Node000010" href="$class_x_f_i_l_e_s_e_n_t_e_n_c_e_s.html" title="eXtended Utils Sentences HASH file class" alt="" coords="608,208,750,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="540,219,611,221,605,222,541,224"/>
+<area shape="rect" id="Node000012" href="$class_x_f_i_l_e_c_s_v.html" title="eXtended Utils CSV file class (Comma Separate Value file)" alt="" coords="438,259,525,285"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="321,326,402,295,441,284,436,286,404,300,323,331"/>
+<area shape="rect" id="Node000013" href="$class_x_f_i_l_e_h_e_x.html" title="eXtended Utils HEX file class (hex ASCII format)" alt="" coords="438,309,525,336"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="329,339,440,327,435,329,330,344"/>
+<area shape="rect" id="Node000014" href="$class_x_f_i_l_e_i_n_i.html" title="eXtended Utils INI (Windows INItialization file) file class" alt="" coords="444,360,520,387"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="330,352,446,368,441,369,330,358"/>
+<area shape="rect" id="Node000015" href="$class_x_f_i_l_e_j_s_o_n.html" title="eXtended Utils JSON (JavaScript Object Notation) file class" alt="" coords="434,411,529,437"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="322,365,404,396,439,410,434,410,402,401,322,370"/>
+<area shape="rect" id="Node000016" href="$class_x_f_i_l_e_x_m_l.html" title="eXtended Utils XML (eXtensible Markup Language) file class" alt="" coords="439,461,524,488"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="300,370,347,409,404,447,441,464,436,464,402,452,344,413,298,375"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="XMPINTEGER::Swap" name="XMPINTEGER::Swap">
+<area shape="rect" id="Node000001" title="Swap." alt="" coords="5,271,157,297"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1b41ac6d5258d4e3581ffa58f25da132" title="Copy from." alt="" coords="205,183,384,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,268,247,213,245,218,117,272"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="432,309,639,336"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="157,287,384,307,419,312,414,312,384,312,157,293"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga9f05fbe61890e093f9ba67a1b47ea57f" title="Ini." alt="" coords="228,321,360,348"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="141,295,223,316,218,318,140,301"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae6dc37bf0f0cdb413ae2e42aafc4c0b6" title="End." alt="" coords="465,5,606,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,180,350,114,387,75,431,42,453,34,448,36,433,46,391,79,354,117,306,184"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="448,56,623,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="310,180,362,141,431,99,467,87,462,89,433,104,365,145,313,184"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="687,157,872,184"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="323,180,373,159,432,143,502,135,574,136,642,142,703,154,698,154,641,148,574,141,503,141,432,148,374,164,325,184"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4b378be515514fe97102c5dd63ffaec9" title="Get sign." alt="" coords="453,157,618,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,184,440,180,435,182,385,189"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="461,208,610,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="384,203,448,211,443,212,385,208"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga43df7b0b2ba3f4d16550db90700eec20" title="Set sign." alt="" coords="454,259,618,285"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="330,207,433,244,462,254,456,254,431,249,329,212"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="314,207,382,259,433,295,451,304,446,304,431,300,379,263,313,212"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="603,205,699,187,694,188,604,210"/>
+</map>

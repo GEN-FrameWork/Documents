@@ -1,0 +1,26 @@
+var class_x_b_u_f_f_e_r_b_i_t_s =
+[
+    [ "XBUFFERBITS", "group___x_u_t_i_l_s.html#ga3ae96f1266d06b596065c439877eadfe", null ],
+    [ "~XBUFFERBITS", "group___x_u_t_i_l_s.html#gaf0c040d21fcdd70debac708950885133", null ],
+    [ "GetBitPosition", "group___x_u_t_i_l_s.html#ga17cc0adc3f3d5e606e2da00375f173bb", null ],
+    [ "GetBytePosition", "group___x_u_t_i_l_s.html#ga061f3b3e2941faf0f485ecaf6bc75e6f", null ],
+    [ "IsByteAligned", "group___x_u_t_i_l_s.html#gad54cb85478208a797b1fa9833129b48a", null ],
+    [ "IsEOF", "group___x_u_t_i_l_s.html#ga4a871a7fd2855666a415a9fc217de578", null ],
+    [ "IsOverrun", "group___x_u_t_i_l_s.html#ga28b83349f26f1a675bc6d9a921e619a4", null ],
+    [ "PeekU", "group___x_u_t_i_l_s.html#ga68a58c8dc62eca1c48d28cc6c0d2edc2", null ],
+    [ "PeekU1", "group___x_u_t_i_l_s.html#ga8d8feeb57956801c0675f4eb866f04d3", null ],
+    [ "ReadSE", "group___x_u_t_i_l_s.html#ga867ae7fead4415e9dde34c04c8d4ca5b", null ],
+    [ "ReadU", "group___x_u_t_i_l_s.html#ga7a44bc85f6fb2f41d5e9be8453ca705b", null ],
+    [ "ReadU1", "group___x_u_t_i_l_s.html#ga447e99a38908718923815f98e5d80251", null ],
+    [ "ReadUE", "group___x_u_t_i_l_s.html#ga349241970b9151e47749c6b9764aecc9", null ],
+    [ "SetPosition", "group___x_u_t_i_l_s.html#ga93a5dc3ae5ae6bb8b3a3e1278d671546", null ],
+    [ "SkipU", "group___x_u_t_i_l_s.html#gaca76492778b6bc379490354f7551203e", null ],
+    [ "SkipU1", "group___x_u_t_i_l_s.html#gae513ab29a98abd29ebe7d9b428438ee9", null ],
+    [ "WriteSE", "group___x_u_t_i_l_s.html#gaa7ee776c27109bf69dbb147ff9229a0d", null ],
+    [ "WriteU", "group___x_u_t_i_l_s.html#ga953be4b787cc815eb3068820b12080da", null ],
+    [ "WriteU1", "group___x_u_t_i_l_s.html#ga0e11b8763a66f0463a345882c4c447dd", null ],
+    [ "WriteUE", "group___x_u_t_i_l_s.html#gad63ab59115d043fb5617502e550d9d36", null ],
+    [ "bits_left", "class_x_b_u_f_f_e_r_b_i_t_s.html#aadb4490022d608e3a5e58d8cf04c6bf1", null ],
+    [ "p", "class_x_b_u_f_f_e_r_b_i_t_s.html#a79b684ec55eb51f42d26e8e7b1a04671", null ],
+    [ "xbuffer", "class_x_b_u_f_f_e_r_b_i_t_s.html#a1958e1e07fe98ec8d6d73f9440e47401", null ]
+];

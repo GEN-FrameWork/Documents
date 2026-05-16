@@ -1,0 +1,9 @@
+<map id="XCONSOLE::PrintMessage" name="XCONSOLE::PrintMessage">
+<area shape="rect" id="Node000001" title="Print message." alt="" coords="270,56,453,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga87d707e75611eddabc85ff8ebd93b110" title="Erase to end line." alt="" coords="14,5,213,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,53,182,35,182,30,280,51"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#gabe020749561e703661ec35d24cc4a988" title="Show all." alt="" coords="5,56,222,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,70,222,72,222,67,256,69"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga602867224a265830e0189519bbcc8baa" title="Wait key." alt="" coords="37,107,190,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,86,183,109,182,103,275,87"/>
+</map>

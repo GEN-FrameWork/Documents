@@ -1,0 +1,16 @@
+<map id="DIOSPITFTDISPLAYILI9341::~DIOSPITFTDISPLAYILI9341" name="DIOSPITFTDISPLAYILI9341::~DIOSPITFTDISPLAYILI9341">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,64,212,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad9fe5c7374262e9b03f3ba82940a90a4" title="End." alt="" coords="260,72,481,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,83,247,85,242,86,212,88"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad7fac1f393ecbbe04de1a8c9d47385c2" title="Clear." alt="" coords="529,35,719,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,70,511,69,516,68,482,75"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga9b453bd91041c8de7abc84e062fa15a3" title="End." alt="" coords="550,101,699,128"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="482,95,536,104,531,104,481,101"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gacd6abc52065e4278e346f7f2974bc0a1" title="Get size buffer." alt="" coords="1006,5,1217,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="704,31,767,20,881,13,993,18,987,18,882,19,768,25,705,37"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga2ad90f87e92f90adc4e539c42c40f9cd" title="Update." alt="" coords="767,35,958,77"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="720,53,755,56,749,56,720,59"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="958,42,987,41,993,41,959,47"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac96c34c9d5f91768940985b082c0dad2" title="End." alt="" coords="799,101,926,128"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="699,112,786,115,781,115,699,117"/>
+</map>

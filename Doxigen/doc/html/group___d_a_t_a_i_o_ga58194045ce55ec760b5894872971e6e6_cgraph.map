@@ -1,0 +1,8 @@
+<map id="DIOBUSPIRATE::GetActualProtocol" name="DIOBUSPIRATE::GetActualProtocol">
+<area shape="rect" id="Node000001" title="Get actual protocol." alt="" coords="5,29,241,56"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="289,29,403,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,40,276,43,270,43,241,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="315,28,310,21,313,11,326,5,346,3,367,5,380,15,375,14,366,10,346,8,327,10,317,15,315,20,320,30"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="451,29,600,56"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="403,40,438,43,432,43,403,45"/>
+</map>

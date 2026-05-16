@@ -1,0 +1,21 @@
+<map id="APPFLOWCONSOLE" name="APPFLOWCONSOLE">
+<area shape="rect" id="Node000001" title="Application Flow Console class." alt="" coords="334,400,486,427"/>
+<area shape="rect" id="Node000002" href="$class_a_p_p_f_l_o_w_b_a_s_e.html" title="Application Flow Base class." alt="" coords="260,324,382,351"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,358,398,400,393,399,347,363"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,183,98,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,217,136,258,205,298,271,323,266,324,202,302,133,262,79,222"/>
+<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="122,183,301,209"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,223,215,263,221,282,231,298,245,312,265,323,260,324,242,316,226,302,216,284,210,264,208,228"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="326,183,407,209"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="334,218,325,235,317,258,316,282,320,325,315,323,310,282,312,257,320,232,330,221"/>
+<area shape="rect" id="Node000006" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="361,81,438,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="372,117,364,133,360,158,364,183,359,181,355,158,359,131,368,121"/>
+<area shape="rect" id="Node000007" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="448,5,567,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="475,42,419,83,416,79,479,39"/>
+<area shape="rect" id="Node000008" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="471,132,544,159"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="509,45,510,132,505,130,506,50"/>
+<area shape="rect" id="Node000009" href="$class_x_c_o_n_s_o_l_e.html" title="eXtended Utils Console base class" alt="" coords="525,253,620,280"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="524,43,556,105,570,143,581,182,583,221,578,255,574,251,577,221,576,183,565,145,551,107,522,48"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="503,172,484,250,473,283,464,302,446,316,426,325,383,336,382,331,424,320,443,311,460,298,468,281,479,248,499,176"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="550,290,426,402,423,397,545,291"/>
+</map>

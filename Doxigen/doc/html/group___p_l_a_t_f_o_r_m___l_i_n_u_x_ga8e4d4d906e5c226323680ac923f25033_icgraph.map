@@ -1,0 +1,9 @@
+<map id="XLINUXSYSTEM::Sound_SetLevel" name="XLINUXSYSTEM::Sound_SetLevel">
+<area shape="rect" id="Node000001" title="Sound set level." alt="" coords="442,35,612,77"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="561,19,549,16,527,13,507,15,494,20,489,26,490,36,486,33,484,25,491,16,505,10,527,8,551,10,566,19"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gae64074b9f8ebae22cc631c2a6c70bf3d" title="Sound get level." alt="" coords="224,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,43,395,41,395,35,429,43"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga0e2c71d9ca9c920ede6ec0c9e534013c" title="Sound set mutex." alt="" coords="5,35,176,77"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="424,59,394,63,224,63,176,62,176,56,224,57,394,57,429,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,41,177,47,176,42,211,40"/>
+</map>

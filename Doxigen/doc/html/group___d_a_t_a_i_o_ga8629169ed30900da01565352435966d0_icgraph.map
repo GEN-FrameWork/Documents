@@ -1,0 +1,7 @@
+<map id="DIOCHECKINTERNETCONNECTION::GetConnectionCuts" name="DIOCHECKINTERNETCONNECTION::GetConnectionCuts">
+<area shape="rect" id="Node000001" title="Get connection cuts." alt="" coords="306,39,558,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga42b7c7cf5320b231285f40fe41a8b2f0" title="Check." alt="" coords="5,5,258,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,45,258,43,258,38,293,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaadd9fd65d4c5ee03e87ebe6c2d992439" title="Get last connections cut." alt="" coords="5,72,258,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,76,258,82,258,77,293,75"/>
+</map>

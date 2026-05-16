@@ -1,0 +1,9 @@
+<map id="INPLINUXDEVICEMOUSEDIRECT::~INPLINUXDEVICEMOUSEDIRECT" name="INPLINUXDEVICEMOUSEDIRECT::~INPLINUXDEVICEMOUSEDIRECT">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,48,257,91"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gac379354c301046f63e1c40bfd9f18297" title="Delete all buttons." alt="" coords="305,5,506,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,45,317,35,312,36,251,50"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#gacf3f64c24137db40a3a98b09142b278d" title="Delete all cursors." alt="" coords="305,56,507,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,67,292,69,286,70,258,72"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gabf1a2bbdc57da016181d2a0f324e67ce" title="Set enabled." alt="" coords="321,107,491,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,89,317,103,312,103,250,94"/>
+</map>

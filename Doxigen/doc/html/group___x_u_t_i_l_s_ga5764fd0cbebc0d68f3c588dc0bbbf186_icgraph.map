@@ -1,0 +1,13 @@
+<map id="XPROCESS::GetID" name="XPROCESS::GetID">
+<area shape="rect" id="Node000001" title="Get ID." alt="" coords="571,109,710,136"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaffc90cac4e8999451bf762a3af54584a" title="Application get process by ID." alt="" coords="287,5,523,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="601,101,522,62,491,51,491,46,524,58,607,101"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1430dd1094e783efb0dac4935792eaa1" title="Application terminate." alt="" coords="287,72,523,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="553,112,523,111,523,105,558,112"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga50b29a7110682856e671f0b8494b2425" title="Compare." alt="" coords="326,139,484,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,134,484,145,483,140,558,133"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga5b36c465bfebd29141201515e303c694" title="Copy from." alt="" coords="322,189,488,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="603,143,524,180,483,191,482,186,522,175,598,144"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1dd9a258b095d52a79c95f62f65f4319" title="Application get running list." alt="" coords="5,181,239,224"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,203,239,205,239,200,310,202"/>
+</map>

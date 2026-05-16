@@ -1,0 +1,28 @@
+var class_s_c_r_i_p_t___l_n_g___g___v_a_r =
+[
+    [ "SCRIPT_LNG_G_VAR", "group___s_c_r_i_p_t.html#gacf51cc30dc3996fadcab201728cd878e", null ],
+    [ "~SCRIPT_LNG_G_VAR", "group___s_c_r_i_p_t.html#ga37dac3a5fa035e0b4e728f9138c70348", null ],
+    [ "Clear", "group___s_c_r_i_p_t.html#gacc3d73bd5c31edb6d61a41f5592c09db", null ],
+    [ "ConvertFromXVariant", "group___s_c_r_i_p_t.html#gaf4eebbc200cdd0e5367520538ccf2dc3", null ],
+    [ "ConvertToXVariant", "group___s_c_r_i_p_t.html#ga8184767d0e56d9c6a1dae44696e23694", null ],
+    [ "GetName", "group___s_c_r_i_p_t.html#ga549904c27e64452436cffea6c1093bef", null ],
+    [ "GetType", "group___s_c_r_i_p_t.html#gac55a5f640749d52710b24cd12b8c0c36", null ],
+    [ "GetValueCharacter", "group___s_c_r_i_p_t.html#ga0f97961376fa8a4daa0889a41ca9c23a", null ],
+    [ "GetValueInteger", "group___s_c_r_i_p_t.html#ga05aebc1c75046f4d464fb08595f7b991", null ],
+    [ "GetValueString", "group___s_c_r_i_p_t.html#gaffbd614a1ad40c8267909c5e28d050df", null ],
+    [ "GetValueUInteger", "group___s_c_r_i_p_t.html#ga58feca07e7b7798e63d7006f9af003dc", null ],
+    [ "HaveReservedSize", "group___s_c_r_i_p_t.html#gadd7334373719c257b7f54523bc191f29", null ],
+    [ "IsArg", "group___s_c_r_i_p_t.html#gae056fb2cdc11fa9978bd7a6d9e063814", null ],
+    [ "IsReturnValue", "group___s_c_r_i_p_t.html#ga75343f92588185258aa0c78278aaea9f", null ],
+    [ "Set", "group___s_c_r_i_p_t.html#ga193c3b3b8c37ce6144d2cd6f80225fc8", null ],
+    [ "SetHaveReservedSize", "group___s_c_r_i_p_t.html#ga2f93fc4976da77a5555a390b60b758e1", null ],
+    [ "SetIsArg", "group___s_c_r_i_p_t.html#ga020ccdc4a4602821eeed3d1fa03832f3", null ],
+    [ "SetIsReturnValue", "group___s_c_r_i_p_t.html#gad5afff1147c95356e44acf2ee9a9367a", null ],
+    [ "SetName", "group___s_c_r_i_p_t.html#gace7ee4c4c877e437b79f426a15fc9af3", null ],
+    [ "SetType", "group___s_c_r_i_p_t.html#ga34ef60d31f92dee24108e312b2c3b53d", null ],
+    [ "SetValueCharacter", "group___s_c_r_i_p_t.html#gadc7e4b0aa5e3d43daa2fcd831ebb0abb", null ],
+    [ "SetValueInteger", "group___s_c_r_i_p_t.html#ga608e345314d75a93a114d6f35feec91a", null ],
+    [ "SetValueString", "group___s_c_r_i_p_t.html#gaa6d430cd6442011a90b1396fe7b3da98", null ],
+    [ "SetValueString", "group___s_c_r_i_p_t.html#gaa81e5b3bdd32192112b203bafe8c4f25", null ],
+    [ "SetValueUInteger", "group___s_c_r_i_p_t.html#ga4e2ccef12dcd2e2a744447b48f145f2e", null ]
+];

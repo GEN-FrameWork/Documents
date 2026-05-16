@@ -1,0 +1,17 @@
+<map id="XBER" name="XBER">
+<area shape="rect" id="Node000001" title="eXtended Utils Basic Encoding Rules (BER) encoding class (https://en.wikipedia.org/wiki/X...." alt="" coords="244,279,302,305"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,180,98,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,212,165,252,246,282,240,283,162,257,85,218"/>
+<area shape="rect" id="Node000003" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="122,180,203,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,220,175,238,185,253,213,272,246,285,240,285,211,277,181,257,170,240,165,224"/>
+<area shape="rect" id="Node000004" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="124,81,201,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,122,165,181,160,179,161,126"/>
+<area shape="rect" id="Node000005" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="102,5,222,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,45,165,82,160,80,161,50"/>
+<area shape="rect" id="Node000006" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="229,180,314,207"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="274,221,275,280,270,277,270,224"/>
+<area shape="rect" id="Node000007" href="$class_x_v_a_r_i_a_n_t.html" title="eXtended Utils Variant class" alt="" coords="338,180,426,207"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="359,216,288,280,286,276,354,218"/>
+<area shape="rect" id="Node000008" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="451,180,607,207"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="489,213,386,257,303,284,302,279,384,252,484,214"/>
+</map>

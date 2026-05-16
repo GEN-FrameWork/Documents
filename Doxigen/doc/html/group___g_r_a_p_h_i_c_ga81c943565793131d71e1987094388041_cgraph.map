@@ -1,0 +1,23 @@
+<map id="GRPVECTORFILE::CreateInstance" name="GRPVECTORFILE::CreateInstance">
+<area shape="rect" id="Node000001" title="Create instance." alt="" coords="5,69,237,96"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="72,69,64,60,70,51,89,45,121,43,156,45,175,54,170,55,155,50,121,48,90,50,73,55,69,60,77,68"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga06626b22d18cd0bf5ecaf087ad4cc7ee" title="Detect type." alt="" coords="588,5,797,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="156,66,215,46,284,29,358,20,434,14,575,13,570,15,434,19,359,25,285,35,217,51,158,71"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga1148059bb742e142aed6c3a8609f9ccc" title="Get path file." alt="" coords="307,44,518,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="237,70,294,67,289,69,238,75"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gab01a25949a4cd39dd6b00afa10964fca" title="Constructor of class." alt="" coords="285,95,540,121"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="237,90,272,95,266,96,238,95"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="358,145,467,172"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="163,94,285,131,345,146,340,147,284,136,162,99"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="851,81,989,108"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="736,30,866,76,860,76,735,35"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="602,81,784,108"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="540,99,588,99,583,100,541,105"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="626,132,760,159"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="467,153,613,149,607,149,467,159"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="608,183,777,209"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="467,163,595,183,590,183,467,169"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="756,129,839,112,845,112,756,134"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="845,183,995,209"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="778,193,833,196,827,196,778,199"/>
+</map>

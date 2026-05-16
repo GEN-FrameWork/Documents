@@ -1,0 +1,14 @@
+<map id="XMPINTEGER::MontgomeryMultiplication" name="XMPINTEGER::MontgomeryMultiplication">
+<area shape="rect" id="Node000001" title="Montgomery multiplication." alt="" coords="5,68,272,95"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac2cfd05e7f51f0863995409222fe35cf" title="Compare ABS values." alt="" coords="320,43,557,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,67,307,67,302,68,272,73"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="622,5,796,32"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="178,65,244,45,319,28,394,19,469,14,608,15,603,16,469,20,394,24,320,33,245,50,180,70"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="616,68,801,95"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="272,79,602,79,600,84,272,84"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="605,131,812,157"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="267,93,591,129,589,133,266,98"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="539,39,609,32,604,33,540,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="557,64,603,71,598,71,558,70"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="483,67,654,125,648,126,482,73"/>
+</map>

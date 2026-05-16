@@ -1,0 +1,16 @@
+<map id="DIOCOREPROTOCOL_HEADER::SetContentCRC32" name="DIOCOREPROTOCOL_HEADER::SetContentCRC32">
+<area shape="rect" id="Node000001" title="Set content CRC32." alt="" coords="596,115,818,157"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga840136b919a3c05634e147a1fe394bdb" title="Copy to." alt="" coords="313,5,536,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,108,547,69,496,51,497,46,549,64,648,108"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6742032e3b09bb6b93af378f7069435a" title="Create header." alt="" coords="301,173,548,200"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="583,158,503,175,503,170,578,159"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad2f3e44172d47961d671933c9630018c" title="Create header." alt="" coords="5,85,253,112"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="579,130,253,109,253,104,582,126"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaf6eeffdfb1ee271b5ee21f7292de8cdb" title="Create header." alt="" coords="5,148,253,175"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="579,144,253,159,253,153,581,139"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga615c864a72ba4fb54bf4c11e40ff5e60" title="Create header." alt="" coords="5,211,253,237"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="661,165,608,194,549,215,473,229,396,236,321,238,253,236,253,231,321,233,396,230,472,223,547,209,606,189,656,166"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,170,176,115,177,110,364,167"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="283,175,253,175,253,169,288,174"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="301,202,240,213,240,207,296,203"/>
+</map>

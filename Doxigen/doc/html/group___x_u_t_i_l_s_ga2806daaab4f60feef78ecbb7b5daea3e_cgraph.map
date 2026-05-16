@@ -1,0 +1,7 @@
+<map id="XMPINTEGER::ExportToBinary" name="XMPINTEGER::ExportToBinary">
+<area shape="rect" id="Node000001" title="export to binary" alt="" coords="5,5,213,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga77c2140402833bbf789bf15377d5d675" title="Get size." alt="" coords="261,5,426,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,16,248,19,242,19,213,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga298be227c8effa636167f68e35ce7b6c" title="Get MSB." alt="" coords="474,5,642,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,16,461,19,456,19,426,21"/>
+</map>

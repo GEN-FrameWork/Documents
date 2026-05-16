@@ -1,0 +1,14 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_EMS::CopyFrom" name="DIOSTREAMTLS_MSG_EXTENSION_EMS::CopyFrom">
+<area shape="rect" id="Node000001" title="copy from" alt="" coords="5,123,253,165"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0e95e7fdc906c6b933b9039129f71787" title="Constructor of class." alt="" coords="301,5,628,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,120,232,91,300,64,350,51,345,54,302,69,234,96,174,124"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga281226e3cd96180e6b44af014acaa240" title="set type" alt="" coords="676,35,923,77"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="234,120,300,108,488,83,663,67,658,69,489,89,301,113,236,125"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gae88f272c7861d098795d2de769e1108e" title="get length" alt="" coords="341,123,588,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,141,327,143,322,145,254,147"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gae36e49857e3404642fd884f3138f5ca1" title="get type" alt="" coords="341,189,588,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,163,341,185,336,187,240,169"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga70f219ea5d5042677de0518381ecd44b" title="set length" alt="" coords="341,256,588,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,163,224,203,302,242,328,253,323,252,300,246,222,208,160,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="628,38,663,43,658,44,629,44"/>
+</map>

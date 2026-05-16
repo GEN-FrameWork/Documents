@@ -1,0 +1,18 @@
+<map id="UI_LAYOUT::Elements_SetToRedraw" name="UI_LAYOUT::Elements_SetToRedraw">
+<area shape="rect" id="Node000001" title="Elements set to redraw." alt="" coords="511,89,667,132"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="622,73,611,70,589,68,569,70,557,75,552,81,553,90,549,87,547,79,554,70,568,65,589,63,612,65,627,74"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga121bd36442cc7257da617316c4507ce9" title="Elements set to redraw." alt="" coords="298,23,454,65"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="502,84,447,69,447,63,507,84"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1aa705193411dd2f1bae3e9724214fa1" title="Elements set to redraw." alt="" coords="290,89,463,132"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="493,111,464,113,463,108,498,110"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa687ecb264e7372a57d53e74b6152a23" title="Elements set to redraw." alt="" coords="290,156,463,199"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="507,137,448,158,446,153,502,138"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="5,5,242,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="302,84,241,63,205,51,205,46,243,57,307,83"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga2ff99c39bc572676423e95309f7887ae" title="Reset preselect." alt="" coords="19,72,228,99"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="272,101,228,98,228,93,277,100"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga36a6a729977d9742e19be1e117c50763" title="Update." alt="" coords="43,123,204,149"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="272,122,205,131,204,125,277,120"/>
+<area shape="rect" id="Node000007" href="$class_u_i___m_a_n_a_g_e_r.html#aa21026ec0f9ffd507f84bfc5562492f6" title=" " alt="" coords="43,173,204,200"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="307,138,242,164,198,175,196,170,241,159,302,139"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GRPSCREEN::GetFrameRate" name="GRPSCREEN::GetFrameRate">
+<area shape="rect" id="Node000001" title="Get frame rate." alt="" coords="286,5,487,32"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ac85069cec134430dfdc83210b4fabf43" title="Draw framerate." alt="" coords="5,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,19,238,21,238,16,273,19"/>
+</map>

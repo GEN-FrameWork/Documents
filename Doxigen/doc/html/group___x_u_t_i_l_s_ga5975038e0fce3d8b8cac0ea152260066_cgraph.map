@@ -1,0 +1,9 @@
+<map id="XINTERPOLATOR::SetCurrent" name="XINTERPOLATOR::SetCurrent">
+<area shape="rect" id="Node000001" title="Set current." alt="" coords="5,56,210,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf7f0433b0028eb9155774e7985e52df0" title="Get maximun." alt="" coords="266,5,482,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,53,287,34,283,37,182,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga288a783c32e93993e69997722c0195d7" title="Get minimun." alt="" coords="268,56,480,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,67,255,69,250,70,210,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga81e7ae6b2c9fe4932b42a10cc826085a" title="Get multiplicator." alt="" coords="258,107,490,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,81,287,102,282,104,181,86"/>
+</map>

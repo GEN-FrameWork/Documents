@@ -1,0 +1,7 @@
+<map id="INPDEVICE::GetCursor" name="INPDEVICE::GetCursor">
+<area shape="rect" id="Node000001" title="Get cursor." alt="" coords="260,43,423,69"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae6e0804eaa5df54cb55eb31ad1663eb8" title="Add position." alt="" coords="5,5,212,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,44,212,42,212,37,247,44"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#gaa8cb543d82b7eb01f035cbc04a2d5354" title="Is change cursor." alt="" coords="9,72,208,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,69,208,75,208,70,247,68"/>
+</map>

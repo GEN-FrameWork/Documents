@@ -1,0 +1,21 @@
+<map id="DIOWEBSERVER::Websocket_GetConnection" name="DIOWEBSERVER::Websocket_GetConnection">
+<area shape="rect" id="Node000001" title="Websocket get connection." alt="" coords="5,197,210,240"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_w_e_b_s_e_r_v_e_r.html#acc2d74b9ea7d7561b75a132ebf592d81" title=" " alt="" coords="258,197,462,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,216,245,218,240,220,211,221"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="554,47,696,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,195,432,139,468,108,509,83,541,73,536,75,511,88,472,113,435,142,381,199"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gafc7d1349bc096c53892a59bc096d2c45" title="Get mode." alt="" coords="510,97,739,140"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="404,195,509,150,532,144,527,146,511,154,407,199"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga1c6433138c140bbb80dcb60e20bc3679" title="Get request." alt="" coords="510,164,739,207"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="462,203,497,201,492,202,463,208"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga9d9b441f04a226723011fe87fa3c0ac9" title="Get resource." alt="" coords="523,231,726,273"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="462,229,510,237,505,238,463,234"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gaf1fa51c6de3cadfb84aed7950edf540f" title="Web socket get protocol." alt="" coords="523,297,726,340"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="406,238,511,283,532,292,527,292,509,288,405,243"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gada18b8a74731c3cb5211bf922c035220" title="Web socket get version." alt="" coords="523,364,726,407"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="381,238,436,294,472,324,511,350,523,358,518,357,509,354,469,328,433,298,379,243"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="787,5,934,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,47,774,38,769,40,697,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="787,72,934,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="696,67,775,80,769,81,696,73"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="XBER::Copy" name="XBER::Copy">
+<area shape="rect" id="Node000001" title="Copy." alt="" coords="5,132,103,159"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="27,132,22,123,26,114,36,108,54,105,73,108,84,116,79,117,71,113,54,111,38,113,30,117,28,123,32,131"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="152,56,267,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,129,149,92,164,88,160,91,152,97,82,134"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="151,107,268,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="102,135,137,131,133,134,104,140"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="342,157,472,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="103,146,328,162,326,167,103,151"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga382624063e23e538d2e313ad1a70fbe1" title="Constructor of class." alt="" coords="158,208,261,235"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="84,157,169,199,164,202,83,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="340,5,474,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,53,340,35,335,38,265,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="546,56,706,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="267,67,532,67,529,71,268,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="468,30,553,52,548,52,468,35"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="328,107,486,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="268,117,315,119,310,121,269,123"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="466,154,497,143,548,117,590,93,595,91,550,122,499,148,468,159"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="316,208,498,235"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="261,219,303,221,298,221,261,224"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIODNSPROTOCOL_MITM_SERVER::~DIODNSPROTOCOL_MITM_SERVER" name="DIODNSPROTOCOL_MITM_SERVER::~DIODNSPROTOCOL_MITM_SERVER">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,27,232,85"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gadab005579137ebd6819c711c03b154d4" title="End." alt="" coords="280,35,469,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,53,266,56,261,56,232,59"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga3d9d231631f57be1d1b4aad81c23430c" title="Delete all DNS servers." alt="" coords="517,5,735,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,42,499,42,504,41,470,48"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="526,72,726,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="470,64,514,72,508,72,469,70"/>
+</map>

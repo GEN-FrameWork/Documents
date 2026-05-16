@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT_ANIMATION::IndexImage_Set" name="UI_ELEMENT_ANIMATION::IndexImage_Set">
+<area shape="rect" id="Node000001" title="Index image set." alt="" coords="5,23,192,65"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6025024e4e290be2f650aa6a9f42c821" title="Get compose elements." alt="" coords="240,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,32,227,31,221,32,193,38"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga778de15b821e977ceb68b6b4465dca0a" title="Set must re draw." alt="" coords="257,56,466,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,50,244,58,239,58,192,56"/>
+</map>

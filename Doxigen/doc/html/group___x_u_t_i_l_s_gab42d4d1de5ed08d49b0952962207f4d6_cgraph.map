@@ -1,0 +1,11 @@
+<map id="XFILEZIP::GetFileCRC" name="XFILEZIP::GetFileCRC">
+<area shape="rect" id="Node000001" title="Get file CRC." alt="" coords="5,81,165,108"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e.html#ad8b82877267eec8cc024ae02b7c7eef8" title=" " alt="" coords="213,5,347,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,78,212,42,230,37,225,39,214,46,122,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga20d1c37c3a66f2b5044c340293cbf8ec" title="Is open." alt="" coords="226,56,334,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,82,213,77,208,79,166,87"/>
+<area shape="rect" id="Node000004" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="231,107,328,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,102,219,111,213,112,165,108"/>
+<area shape="rect" id="Node000005" href="$class_x_f_i_l_e.html#aa1eb97dcf7209887546fc32d69db5dcd" title=" " alt="" coords="213,157,346,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,106,214,143,230,151,225,151,212,148,120,111"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="GRPVECTORFILEDXFENTITYDEFVERTEX::operator=" name="GRPVECTORFILEDXFENTITYDEFVERTEX::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,205,295,248"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga77a55bbcdb87b205f548bf2e17af705e" title="Copy from." alt="" coords="343,172,632,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,210,330,209,325,210,296,215"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga1ef2ebffafcb698e3fe7edd0931697eb" title="Constructor of class." alt="" coords="680,272,977,315"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="295,238,666,275,663,280,295,244"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gac50e05316ea813c0557d284b8d3955e5" title="Get bulge." alt="" coords="684,5,973,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,169,584,113,630,83,679,58,694,54,699,52,681,62,633,88,587,118,515,174"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga34da2eea6336f66a8522c45e18f8cbf8" title="Get end width." alt="" coords="684,72,973,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="546,169,679,124,711,118,706,120,681,129,547,174"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gae0a57f4e5243e94c0b04ae9682cb6352" title="Get ini width." alt="" coords="684,139,973,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="632,177,671,175,666,176,633,182"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga9514cf4862a970efe215e3b717ee5507" title="Get point." alt="" coords="684,205,973,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="632,205,671,211,666,211,632,210"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="568,213,633,235,681,258,706,268,701,267,679,262,631,240,567,218"/>
+</map>

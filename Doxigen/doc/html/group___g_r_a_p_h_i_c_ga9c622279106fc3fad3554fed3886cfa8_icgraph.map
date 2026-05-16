@@ -1,0 +1,29 @@
+<map id="GRPVECTORFILEDXFENTITYOBJ::GRPVECTORFILEDXFENTITYOBJ" name="GRPVECTORFILEDXFENTITYOBJ::GRPVECTORFILEDXFENTITYOBJ">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="1115,339,1359,381"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gac79cc262b33c2dbdf0cf402cead59d0e" title="Create instance." alt="" coords="780,5,1015,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1224,323,1204,266,1172,194,1151,157,1126,122,1098,90,1066,62,1041,48,1016,39,1015,33,1044,43,1069,58,1102,86,1130,119,1155,154,1177,192,1209,264,1229,325"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga692b9bec6686b0eca4b51e02cebae385" title="Constructor of class." alt="" coords="727,72,1067,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1218,323,1195,280,1161,226,1118,173,1093,149,1066,129,1046,118,1046,113,1069,124,1096,145,1122,169,1165,223,1199,277,1223,325"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga0c273cf89803a76de87d44a354628e92" title="Constructor of class." alt="" coords="761,139,1033,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1209,325,1149,259,1110,224,1066,196,1034,182,1034,177,1069,191,1113,220,1153,255,1214,326"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gaf984d62f9889231ed10749d3eda924c9" title="Constructor of class." alt="" coords="750,205,1044,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1191,330,1134,295,1066,262,1032,251,1032,246,1068,258,1137,291,1197,330"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#gac4bd399092db8220010a1ee288066a00" title="Constructor of class." alt="" coords="748,272,1046,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1107,335,1067,329,1010,318,1010,313,1068,324,1113,335"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#gacc740dd3977205245b1731cd7965573d" title="Constructor of class." alt="" coords="760,339,1034,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1097,360,1035,363,1034,357,1103,360"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#gaf75a93c239e8f52b48788f0a35971c78" title="Constructor of class." alt="" coords="734,405,1060,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1107,386,1068,396,1010,407,1009,402,1067,391,1112,384"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#gad6fc9f6e1230a511af0d9e0ecd90d5a8" title="Constructor of class." alt="" coords="753,472,1041,515"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1196,389,1137,429,1068,462,1033,474,1031,469,1066,458,1134,425,1192,391"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga7676dd7d9e8e42469ef84d859614a0c3" title="Constructor of class." alt="" coords="755,539,1039,581"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1214,393,1153,465,1113,500,1069,529,1041,541,1039,536,1066,524,1110,496,1149,461,1209,395"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#ga3896bf2767fa13b27c0d4af69f73cde0" title="Constructor of class." alt="" coords="744,605,1051,648"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1223,394,1199,443,1165,497,1122,551,1096,575,1069,596,1047,607,1045,602,1066,591,1093,571,1118,547,1161,494,1195,440,1218,397"/>
+<area shape="rect" id="Node000014" href="$group___g_r_a_p_h_i_c.html#gac109657d0cafa07521958618feefa241" title="Constructor of class." alt="" coords="758,672,1036,715"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1228,395,1209,456,1177,528,1155,566,1130,601,1102,634,1069,662,1037,679,1036,674,1066,658,1098,630,1126,598,1151,563,1172,526,1204,454,1224,398"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="363,5,679,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="762,28,680,29,679,24,767,26"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="5,5,315,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,28,316,29,313,24,349,25"/>
+</map>

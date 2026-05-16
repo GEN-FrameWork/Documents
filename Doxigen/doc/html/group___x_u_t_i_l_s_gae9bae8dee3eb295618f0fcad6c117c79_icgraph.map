@@ -1,0 +1,11 @@
+<map id="XTIMER::AddMilliSeconds" name="XTIMER::AddMilliSeconds">
+<area shape="rect" id="Node000001" title="Add milli seconds." alt="" coords="502,68,679,95"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga455248fbec8f5d7bd7ea56edc268cedc" title="Add seconds." alt="" coords="290,43,444,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,70,445,67,445,62,490,70"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga879adad06314285ac12f88ec8a6bb466" title="Set milli seconds." alt="" coords="280,93,454,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="489,93,455,99,454,94,484,93"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga09e6dc2550dad43e138985a21c77ff66" title="Get measure time string." alt="" coords="6,5,231,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,46,231,43,231,37,277,45"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a" title="Set N cycles." alt="" coords="5,72,232,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,67,233,75,232,69,277,66"/>
+</map>

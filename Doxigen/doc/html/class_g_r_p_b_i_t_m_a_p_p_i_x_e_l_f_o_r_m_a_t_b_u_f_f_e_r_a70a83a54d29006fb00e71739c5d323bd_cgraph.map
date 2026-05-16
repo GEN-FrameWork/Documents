@@ -1,0 +1,13 @@
+<map id="GRPBITMAPPIXELFORMATBUFFER::CopyFrom" name="GRPBITMAPPIXELFORMATBUFFER::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,48,253,91"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga843fe43b70062ad911142db94e69a7f3" title="Copy propertys from." alt="" coords="301,5,562,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,46,335,34,330,36,254,51"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga313ad3e912d8093c4861260436b99a71" title="Get buffer." alt="" coords="350,56,513,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,67,337,69,332,70,253,72"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gadcfee87a80fbe25f2d403d11608a0248" title="Constructor of class." alt="" coords="338,107,525,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="253,87,335,103,330,104,253,93"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gad0b363a7111b72fe11542e51f2a2bf44" title="Constructor of class." alt="" coords="610,5,869,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,16,597,18,592,19,563,21"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga308a9ec00ce148b1bad9fd5e339a3f32" title="Default." alt="" coords="917,5,1104,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="870,16,904,18,899,19,870,21"/>
+</map>

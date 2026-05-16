@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_HEADER::GetSerializationXFileJSON" name="DIOCOREPROTOCOL_HEADER::GetSerializationXFileJSON">
+<area shape="rect" id="Node000001" title="Get serialization X file JSON." alt="" coords="300,23,522,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga856c137dd459f5070948ee55117dd856" title="Received msg." alt="" coords="5,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,33,252,32,252,27,287,32"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4482c684b34168a6db003fbf62024662" title="Show debug." alt="" coords="10,56,247,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,56,248,61,247,56,287,55"/>
+</map>

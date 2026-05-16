@@ -1,0 +1,12 @@
+<map id="XFILECFGVALUE::GetMask" name="XFILECFGVALUE::GetMask">
+<area shape="rect" id="Node000001" title="Get mask." alt="" coords="571,43,761,69"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_c_f_g.html#ade7e44ef9fc2587a1f4799829d2331e1" title=" " alt="" coords="302,9,509,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,42,509,39,509,33,558,42"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#a6bf042c84c43c43749459bbc85c466aa" title=" " alt="" coords="288,64,523,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="558,68,524,75,523,69,553,69"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga7a850cc4f628053b3eb58bf00763e4da" title="Do variable mapping." alt="" coords="5,5,240,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,22,241,23,240,18,289,20"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#ab5bf1b3da1ed08ed562a9a0ab4540706" title=" " alt="" coords="32,80,213,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,89,213,93,213,88,275,89"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="171,66,156,61,122,59,93,61,76,66,72,71,80,80,75,79,67,71,73,61,92,55,123,53,157,56,176,66"/>
+</map>

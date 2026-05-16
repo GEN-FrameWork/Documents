@@ -1,0 +1,9 @@
+<map id="XTIMER::GetMeasureMinutes" name="XTIMER::GetMeasureMinutes">
+<area shape="rect" id="Node000001" title="Get measure minutes." alt="" coords="5,13,203,40"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3a6d9760e131422def32cb3d72fe4ee0" title="Get measure milli seconds." alt="" coords="251,13,476,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,238,26,232,27,203,29"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga2bb77088d5e60b8686bf171f7bfb0f54" title="Get measure micro seconds." alt="" coords="524,13,758,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,24,511,27,506,27,477,29"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="806,5,1016,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="759,24,793,27,788,27,759,29"/>
+</map>

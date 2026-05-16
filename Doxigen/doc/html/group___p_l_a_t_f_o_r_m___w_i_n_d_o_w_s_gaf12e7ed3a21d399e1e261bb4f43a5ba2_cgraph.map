@@ -1,0 +1,13 @@
+<map id="DIOWINDOWSSTREAMUDP::Open" name="DIOWINDOWSSTREAMUDP::Open">
+<area shape="rect" id="Node000001" title="Open." alt="" coords="5,64,205,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5787d50f68e0eec558d5f31429e34f72" title="Reset connection statistics." alt="" coords="259,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,61,255,51,250,53,203,66"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac0060fdadf0f092c4d764cf34cbeed0a" title="Reset X buffers." alt="" coords="253,72,476,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,83,240,85,234,86,206,88"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="278,123,450,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,102,280,119,275,119,205,108"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaf54a4607c7c76ce362cc5dd0805eb8b8" title="Delete all datagrams." alt="" coords="524,47,779,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,73,511,72,506,73,477,78"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga4e758727995cd3a8553dc3d64d18590f" title="Reset X buffers." alt="" coords="554,97,749,124"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="477,93,542,101,537,101,477,98"/>
+</map>

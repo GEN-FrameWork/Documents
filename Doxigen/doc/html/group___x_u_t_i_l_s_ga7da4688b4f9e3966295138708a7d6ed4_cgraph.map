@@ -1,0 +1,20 @@
+<map id="XMPINTEGER::CompareSignedValues" name="XMPINTEGER::CompareSignedValues">
+<area shape="rect" id="Node000001" title="Compare signed values." alt="" coords="5,200,217,243"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae13a55ba49009e67c6ed200e20e6038d" title="Compare signed values." alt="" coords="265,91,476,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,197,264,150,298,138,294,141,266,154,160,202"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="524,157,731,184"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="216,200,264,193,390,181,511,175,506,177,391,187,265,199,218,205"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad6218b2f38d8e5329568d0689e0683dc" title="Set limbs." alt="" coords="284,208,457,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="217,219,271,221,266,222,218,224"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gab4f80712e219e4e6364a6142d3c1d5b9" title="Set N limbs." alt="" coords="279,259,462,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="217,239,286,255,281,256,217,245"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga43df7b0b2ba3f4d16550db90700eec20" title="Set sign." alt="" coords="288,309,452,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="151,241,205,269,266,295,291,305,285,305,264,300,202,273,150,246"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="540,5,715,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,88,465,64,523,41,550,35,545,38,525,47,468,69,416,93"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="536,56,720,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="476,92,531,85,526,87,477,97"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4b378be515514fe97102c5dd63ffaec9" title="Get sign." alt="" coords="545,107,710,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="476,113,532,116,527,118,477,118"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="467,131,554,153,548,154,467,137"/>
+</map>

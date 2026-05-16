@@ -1,0 +1,65 @@
+<map id="DIOATCMDS::SendCommand" name="DIOATCMDS::SendCommand">
+<area shape="rect" id="Node000001" title="Send command." alt="" coords="832,498,1032,524"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga93b9b8caa165ff2dab6fe43bdf40119f" title="Get character." alt="" coords="286,776,474,803"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="926,537,911,593,884,658,865,691,843,723,816,751,786,775,743,796,698,810,650,818,603,822,513,818,439,806,439,801,513,812,603,816,650,813,696,805,741,791,783,770,813,747,839,720,861,689,879,656,906,591,923,541"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac341736d1a725a317ed570b4a77a147b" title="Get signal quality." alt="" coords="550,60,778,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="927,481,919,405,897,301,878,247,854,193,822,144,783,101,768,90,767,85,786,97,826,140,858,190,883,245,902,300,924,404,932,483"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga169aacf871d70fc44e6fbefe6e6baf24" title="Get SMS center." alt="" coords="554,111,773,138"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="926,481,914,414,890,324,871,277,848,231,818,188,783,152,767,141,766,136,786,148,822,185,852,228,876,274,895,322,920,413,930,483"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga2471702ab9ca1ef9b33dc0951ba53014" title="Get SMS format." alt="" coords="553,162,774,188"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="923,482,909,423,883,347,864,307,842,268,815,233,783,203,766,192,765,186,786,198,819,229,846,265,869,305,888,345,914,422,928,484"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gad41379252d506353c469eb962ac8684c" title="Send SMS." alt="" coords="285,52,474,79"/>
+<area shape="poly" id="edge26_Node000001_Node000007" title=" " alt="" coords="924,481,905,384,874,251,855,186,833,127,808,80,783,51,738,26,689,13,637,8,585,11,534,19,488,30,416,54,412,50,486,25,533,14,584,6,637,3,690,7,740,21,786,46,813,77,837,125,860,184,879,250,910,382,929,483"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac34e4698d528c5806f0b21eed7cca93d" title="Get SMS support." alt="" coords="551,279,776,306"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="915,483,895,447,866,402,828,357,783,320,762,309,761,304,786,316,832,353,870,399,900,444,921,485"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gada90c346facb66f154fcc21970eb4188" title="Get version." alt="" coords="566,330,761,356"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="909,485,857,427,822,396,783,371,757,360,756,354,786,366,825,392,861,424,914,485"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga49a0317e84a80ae154595aa557dcef0a" title="Is available service GSM." alt="" coords="566,380,761,423"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="892,490,842,464,783,438,752,426,751,421,785,433,844,460,897,489"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gab3896ee9f15ceb5db15ece435d01e30f" title="Make command with simple answer." alt="" coords="550,212,778,255"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="919,482,901,437,872,379,833,320,809,293,783,269,766,258,765,253,786,265,813,289,837,316,877,376,906,435,924,484"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#ga0e6e1c7fb697545e637a2e0820250411" title="Make simple command." alt="" coords="543,447,784,474"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="840,495,738,477,738,472,845,494"/>
+<area shape="rect" id="Node000021" href="$group___d_a_t_a_i_o.html#gaf45bbe6a1c140d35bf226a346519ad5f" title="PIN activate." alt="" coords="560,548,768,575"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="840,529,739,550,737,545,845,527"/>
+<area shape="rect" id="Node000022" href="$group___d_a_t_a_i_o.html#ga404c5f7c59ce68bb4d692b9e4b41f22c" title="PIN enter." alt="" coords="284,675,476,702"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="924,537,907,587,879,643,839,699,814,722,786,742,735,761,682,770,628,769,574,762,524,749,478,734,409,705,409,700,479,729,525,744,575,756,628,764,682,764,734,756,783,737,811,718,835,695,875,641,903,585,921,541"/>
+<area shape="rect" id="Node000023" href="$group___d_a_t_a_i_o.html#gad0a91466eac1e65ce2d1e9ade6821895" title="PIN is." alt="" coords="578,650,749,676"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="910,534,856,586,822,612,785,634,738,652,736,647,783,629,819,607,852,582,905,537"/>
+<area shape="rect" id="Node000024" href="$group___d_a_t_a_i_o.html#ga70ce043ab14a368b3ec5342460f29287" title="Send command." alt="" coords="564,700,763,727"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="918,537,897,575,867,616,830,657,786,691,761,702,759,698,783,686,826,653,863,613,893,572,914,540"/>
+<area shape="rect" id="Node000025" href="$group___d_a_t_a_i_o.html#ga4fc60399cf09955ed76726c6d3abee9e" title="Set baud rate." alt="" coords="286,548,474,575"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="814,517,686,526,543,539,462,550,460,545,543,534,685,521,819,515"/>
+<area shape="rect" id="Node000026" href="$group___d_a_t_a_i_o.html#gaaeb947d7cb10eb5d90af36460f9974d6" title="Set echo mode." alt="" coords="284,599,476,626"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="900,532,847,565,785,590,705,607,623,616,545,620,477,620,475,615,545,615,622,611,704,602,784,585,845,560,895,535"/>
+<area shape="rect" id="Node000027" href="$group___d_a_t_a_i_o.html#gabec686999822d58c570d9a0078738f89" title="Set SMS center." alt="" coords="554,852,773,879"/>
+<area shape="poly" id="edge31_Node000001_Node000027" title=" " alt="" coords="928,538,915,602,888,682,870,724,847,765,819,803,786,836,754,854,752,849,783,832,815,799,842,762,865,721,883,680,910,601,924,542"/>
+<area shape="rect" id="Node000028" href="$group___d_a_t_a_i_o.html#gaea8daf13f0eaa482237fef187aabe082" title="Set SMS format." alt="" coords="554,903,774,930"/>
+<area shape="poly" id="edge32_Node000001_Node000028" title=" " alt="" coords="930,538,921,612,898,708,879,759,855,808,824,854,786,893,768,905,766,900,783,889,820,850,850,805,874,757,893,706,916,611,927,542"/>
+<area shape="rect" id="Node000029" href="$group___d_a_t_a_i_o.html#gae56cf2f2e43c68aa008647cbe5a7e68a" title="Set verbose mode." alt="" coords="276,903,484,930"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="933,538,930,623,923,677,911,736,892,795,866,851,831,902,786,944,739,969,688,982,635,985,582,981,531,972,484,959,412,933,413,928,485,954,532,967,583,976,635,980,687,976,737,964,783,940,827,899,861,848,887,793,905,734,917,677,924,623,930,542"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad19eb07d5abffb8726f0c81f7d01a42d" title="Ini." alt="" coords="49,599,173,626"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,769,133,629,134,624,347,766"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="565,158,542,152,464,117,404,82,403,77,466,112,544,147,570,156"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gad4dfdfc71f978641d0889490d1e5672c" title="Get IMEI." alt="" coords="290,195,470,222"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="532,224,471,219,469,214,537,221"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga0d8acd1bcbe4c6cedf17bfff1973f495" title="Get IMSI." alt="" coords="290,246,470,272"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="532,247,471,254,469,249,536,244"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga8d2104af8558022f1cb4ece4df4f50f6" title="Get manufactured." alt="" coords="265,296,495,323"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="564,262,544,270,496,287,452,298,449,294,494,282,542,265,568,258"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gaa2737df6a52cd8a1dc6ea167934b22cd" title="Get model." alt="" coords="287,144,473,171"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="564,209,542,203,494,186,451,174,449,169,496,181,544,198,569,207"/>
+<area shape="rect" id="Node000017" href="$group___d_a_t_a_i_o.html#ga9896863e95e52aad331deed4a8fa8e4f" title="Basic." alt="" coords="309,396,451,423"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="567,445,452,425,451,420,572,443"/>
+<area shape="rect" id="Node000019" href="$group___d_a_t_a_i_o.html#gad14c1a8c72c453035e3197643b0d7a32" title="Get baud rate." alt="" coords="286,498,474,524"/>
+<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="567,479,460,500,457,495,572,476"/>
+<area shape="rect" id="Node000020" href="$group___d_a_t_a_i_o.html#ga9b0b8f6133580106653c0cd4a8ac4957" title="Reset." alt="" coords="308,447,452,474"/>
+<area shape="poly" id="edge20_Node000016_Node000020" title=" " alt="" coords="525,462,453,463,451,458,530,459"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#gab56a2ee245e7543f250576c51891be8b" title="Calcule baud rate stream UART." alt="" coords="5,388,217,431"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="291,411,218,412,216,407,295,408"/>
+<area shape="poly" id="edge19_Node000019_Node000003" title=" " alt="" coords="287,531,266,539,195,570,138,600,134,597,192,565,264,534,291,527"/>
+<area shape="poly" id="edge24_Node000023_Node000022" title=" " alt="" coords="560,673,477,682,475,677,565,671"/>
+<area shape="poly" id="edge28_Node000025_Node000003" title=" " alt="" coords="288,581,174,603,172,599,292,577"/>
+<area shape="poly" id="edge30_Node000026_Node000003" title=" " alt="" coords="266,614,174,615,172,610,270,611"/>
+<area shape="poly" id="edge34_Node000029_Node000003" title=" " alt="" coords="347,893,306,860,263,817,218,764,176,710,121,629,121,623,181,707,222,761,267,813,310,856,352,894"/>
+</map>

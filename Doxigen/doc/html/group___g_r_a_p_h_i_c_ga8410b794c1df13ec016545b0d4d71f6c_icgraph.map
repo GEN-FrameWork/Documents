@@ -1,0 +1,27 @@
+<map id="GRPBITMAP::ConvertToMode" name="GRPBITMAP::ConvertToMode">
+<area shape="rect" id="Node000001" title="Convert to mode." alt="" coords="723,243,924,269"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaf73ac47344352df591067147b60b8545" title="Find sub bitmap." alt="" coords="478,113,675,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,236,604,143,605,138,785,235"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gaf085dd454ff8f5c9dc35f3433b0a871b" title="Force mode of bitmap." alt="" coords="490,264,663,307"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="705,270,664,278,662,273,710,269"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga7b8ad655c2e9a6ce5cac04142869f492" title="all_Window_GetPosX" alt="" coords="249,13,407,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,106,487,80,429,54,395,43,393,38,431,50,490,76,542,105"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga52d06ed6d5fb2c73904be02dc502d325" title="Add library functions." alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,28,180,29,177,24,235,25"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="226,64,430,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="551,251,500,186,466,151,429,121,410,110,409,105,431,116,470,147,504,182,556,251"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga814cb4a4c7c058ac75d4c2e39710c952" title="Create bitmap from buffer." alt="" coords="227,131,428,173"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="534,254,486,221,429,188,404,176,403,171,431,183,489,217,539,254"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga6843994e5c9bbe947b09c835509c54f7" title="Create bitmap from buffer." alt="" coords="226,197,430,240"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="478,260,410,243,410,238,483,259"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga7b15481dbd5dc66f5154266632341efd" title="Create bitmap from buffer." alt="" coords="227,264,429,307"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="472,286,430,288,429,283,477,284"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="226,331,430,373"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="478,312,411,333,409,328,483,310"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#ga69ed2b332c61759dafedaf177b03c2ff" title="Create bitmap from file." alt="" coords="227,397,428,440"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="539,315,489,354,431,388,404,399,402,394,429,383,486,350,534,318"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#gad8daa7409a348a5c147a15dfa25af96d" title="Create bitmap from file." alt="" coords="226,464,430,507"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="556,318,504,389,470,424,431,454,410,466,408,461,429,450,466,420,500,385,551,321"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#gac1f099f55a03a51c23a2f9381c643bc8" title="Create bitmap from file." alt="" coords="227,531,429,573"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="564,319,545,367,516,420,478,474,432,521,413,533,411,528,428,517,474,471,511,418,540,365,560,323"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="XSERIALIZABLE::Serialize" name="XSERIALIZABLE::Serialize">
+<area shape="rect" id="Node000001" title="Serialize." alt="" coords="705,195,887,221"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga2994b359bf7d590b5064dd6629051784" title="Do serialize." alt="" coords="391,93,590,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,186,713,160,656,135,591,119,590,113,658,129,715,155,765,186"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga904841232dae4a7abb384312fb946e27" title="Do serialize." alt="" coords="391,144,590,171"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="704,192,657,185,586,174,586,169,657,180,709,191"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga8ddde1e4d9eca231086e24292d35a785" title="Has been changed." alt="" coords="371,195,610,221"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="687,208,610,211,610,205,692,208"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga1f6e86d21f50c3db799db0e83cbd5aab" title="update class do" alt="" coords="362,269,618,312"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="732,225,573,271,571,266,727,226"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga9f0f1231c0d9a9b2af7aff1d97a13354" title="Update class serialize." alt="" coords="324,336,657,379"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="775,232,725,282,693,306,658,326,629,338,628,333,656,322,690,302,721,278,770,234"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga615d4f88eb2a0f645497bd1c7146a89b" title="Create JSON serialization." alt="" coords="21,5,260,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,89,275,47,224,35,222,30,276,41,434,87"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad0553e04fca104aa341182e1d6f8f793" title="Create response." alt="" coords="5,56,276,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,98,277,91,276,86,378,96"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga18f4c20646dd98c97e739404283b9800" title="find" alt="" coords="48,123,233,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="374,118,234,131,233,126,378,115"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gae555401a93164001cbf5995f17d90e90" title="list" alt="" coords="50,173,231,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="373,119,325,134,301,149,277,164,233,177,230,172,275,159,298,144,323,130,378,117"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="539,254,522,250,490,248,461,250,443,255,436,261,438,270,433,267,431,259,440,250,460,245,490,243,523,245,544,254"/>
+</map>

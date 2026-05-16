@@ -1,0 +1,20 @@
+<map id="DIOPING::DIOPING" name="DIOPING::DIOPING">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,132,149,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="246,31,362,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,129,139,98,196,67,233,56,229,59,198,72,141,102,97,133"/>
+<area shape="rect" id="Node000005" href="$group___c_i_p_h_e_r.html#ga170fa5c716219e92d4724553d6e8e0ce" title="Do." alt="" coords="240,81,368,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="139,129,228,110,224,114,141,134"/>
+<area shape="rect" id="Node000006" href="$group___c_i_p_h_e_r.html#gab33e363f6374a0e559e99f2f80e5abf6" title="Get result CRC32." alt="" coords="197,132,411,159"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="149,143,184,144,179,146,150,148"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="213,183,395,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="140,157,228,178,224,180,140,162"/>
+<area shape="rect" id="Node000008" href="$group___c_i_p_h_e_r.html#gab01cc6a04a2c4ee67dcca98c7b233913" title="Reset result." alt="" coords="212,233,396,260"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="96,157,141,188,198,219,218,228,213,228,196,224,139,193,95,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="462,5,596,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,35,450,27,445,29,363,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="647,31,807,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="362,41,634,43,630,45,362,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,25,634,31,629,32,596,30"/>
+<area shape="rect" id="Node000009" href="$group___c_i_p_h_e_r.html#ga6844bc505aecfe2b878ef45f9d905e3e" title="Reset result." alt="" coords="459,233,599,260"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="396,244,446,247,441,247,396,249"/>
+</map>

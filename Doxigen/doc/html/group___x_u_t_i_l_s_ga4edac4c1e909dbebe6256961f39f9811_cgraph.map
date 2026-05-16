@@ -1,0 +1,17 @@
+<map id="XFILEJSON::GetObj" name="XFILEJSON::GetObj">
+<area shape="rect" id="Node000001" title="Get obj." alt="" coords="5,81,149,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="213,56,324,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,83,200,77,196,80,150,88"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab02e1c6fdacdee669ca6573bcfe9a611" title="Get obj." alt="" coords="197,107,340,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,102,184,108,179,109,150,107"/>
+<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="438,5,553,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,104,338,92,353,80,361,67,371,54,387,42,425,29,420,31,389,46,375,58,366,70,357,84,342,97,319,109"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gadd156f4308690d59c38bc6bd849059d5" title="Get root." alt="" coords="420,56,571,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="331,103,420,86,415,87,332,109"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2ba46b8457370618485d529e0bf36913" title="Get type." alt="" coords="398,107,592,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="340,117,385,120,380,120,341,123"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gadfe889c6d6ed8fc1fd1601fb8cf4d9eb" title="Get values." alt="" coords="388,157,602,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="332,131,420,153,415,154,331,137"/>
+<area shape="rect" id="Node000008" href="$class_x_f_i_l_e_j_s_o_n_o_b_j_e_c_t.html#a1212fedb9900f79bafda9cc7566c95fd" title=" " alt="" coords="397,208,593,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="288,131,333,163,389,194,409,203,404,203,387,198,330,167,286,136"/>
+</map>

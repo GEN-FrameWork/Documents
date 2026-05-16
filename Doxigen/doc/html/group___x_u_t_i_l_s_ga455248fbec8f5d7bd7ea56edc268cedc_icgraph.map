@@ -1,0 +1,7 @@
+<map id="XTIMER::AddSeconds" name="XTIMER::AddSeconds">
+<area shape="rect" id="Node000001" title="Add seconds." alt="" coords="280,43,434,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga09e6dc2550dad43e138985a21c77ff66" title="Get measure time string." alt="" coords="6,5,231,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,45,231,43,231,38,267,44"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a" title="Set N cycles." alt="" coords="5,72,232,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,67,232,74,232,69,262,68"/>
+</map>

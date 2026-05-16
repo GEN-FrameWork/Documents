@@ -1,0 +1,15 @@
+<map id="XSTRING::Base64_Encode" name="XSTRING::Base64_Encode">
+<area shape="rect" id="Node000001" title="Base64 encode." alt="" coords="5,81,190,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="290,31,402,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,78,277,57,273,60,167,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa42df0370e7141759f82c4db8e5f007c" title="Base64 encode block." alt="" coords="238,81,455,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,92,225,94,219,95,190,97"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="272,132,421,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="167,106,265,128,260,129,167,111"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="520,5,656,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,35,507,27,501,28,403,41"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="503,56,672,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,47,490,59,485,59,403,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="720,56,870,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="673,67,707,69,702,70,673,72"/>
+</map>

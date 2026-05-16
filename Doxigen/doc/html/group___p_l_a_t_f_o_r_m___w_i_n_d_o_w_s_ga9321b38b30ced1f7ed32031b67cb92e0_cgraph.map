@@ -1,0 +1,9 @@
+<map id="GRPWINDOWSSCREEN::Resize" name="GRPWINDOWSSCREEN::Resize">
+<area shape="rect" id="Node000001" title="Resize." alt="" coords="5,31,231,57"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga4c6d0a378d921c0e6a588ef26d39abe3" title=" " alt="" coords="279,31,462,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,41,266,44,260,44,231,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="516,5,676,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,31,498,30,503,29,463,36"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga4fd318fe66832ae3d3cc59b231639886" title="Set screen." alt="" coords="510,56,682,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,52,497,58,492,58,462,57"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="DIOLINUXDBUS_SIGNAL::GetType" name="DIOLINUXDBUS_SIGNAL::GetType">
+<area shape="rect" id="Node000001" title="Get type." alt="" coords="711,5,891,48"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac2fae23142759f0b56e60d0a60c586d6" title="Signal add." alt="" coords="251,13,448,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,23,663,25,496,25,449,26,448,21,496,20,663,20,698,23"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabf1fd8688227788dd9923a757ce6de45" title="Signal is type add." alt="" coords="496,35,663,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="698,40,664,48,664,42,693,41"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga2621ef0fe641653d150c31bccae1d755" title="Signal add." alt="" coords="5,13,203,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,27,203,29,203,24,238,26"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="478,43,448,42,449,37,483,43"/>
+</map>

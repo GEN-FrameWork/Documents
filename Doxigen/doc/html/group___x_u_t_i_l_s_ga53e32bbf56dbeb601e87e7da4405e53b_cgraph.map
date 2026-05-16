@@ -1,0 +1,23 @@
+<map id="XDATETIME::GetEPOCHFormat" name="XDATETIME::GetEPOCHFormat">
+<area shape="rect" id="Node000001" title="Get EPOCH format." alt="" coords="5,208,221,235"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga8005b8d3f065b4cb2dd1a208165ad5b6" title="Get secons from date." alt="" coords="269,56,497,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,206,183,150,223,119,267,92,286,86,282,90,270,97,226,123,186,154,129,209"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0e2f3589654fc19d26c588506994fb20" title="Read." alt="" coords="315,107,451,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,205,195,174,268,143,302,135,297,137,270,148,198,179,140,210"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad0bec954a744ea5e976275973cd6eea7" title="Set day." alt="" coords="308,157,458,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="187,205,295,186,291,189,189,210"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga001f98667032c95241a60a29bae990bf" title="Set month." alt="" coords="302,208,464,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="220,219,289,220,284,222,222,224"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga5f69e1fb5fa02a3d1346dbf8b00a114d" title="Set to zero." alt="" coords="300,259,466,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="188,233,296,254,291,256,188,238"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga794f5f740556e7309c1db19815f8b3b2" title="Set year." alt="" coords="307,309,458,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="138,233,198,264,270,295,296,305,291,305,268,300,195,269,138,238"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="292,360,474,387"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,233,186,288,226,320,270,346,287,355,282,354,267,350,223,324,183,293,126,238"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="545,5,779,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,53,572,34,568,36,461,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="556,56,768,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="497,67,543,69,538,70,498,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2a2efc2e8b5bffa2cd41ddffd90a96a2" title="Set is local." alt="" coords="578,107,746,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="451,117,565,119,560,121,452,123"/>
+</map>

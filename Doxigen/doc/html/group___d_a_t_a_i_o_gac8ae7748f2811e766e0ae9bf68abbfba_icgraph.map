@@ -1,0 +1,7 @@
+<map id="DIOAIOBIMAINBOARD::SetLedA" name="DIOAIOBIMAINBOARD::SetLedA">
+<area shape="rect" id="Node000001" title="Set led a." alt="" coords="258,27,429,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga50e036295f9909669590218b226acc6f" title="End." alt="" coords="10,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,36,205,33,205,28,245,35"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaebf88a01645cca4104a7b9c55fbcbee2" title="Set P4 header for external button." alt="" coords="5,56,210,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,61,211,67,210,62,245,60"/>
+</map>

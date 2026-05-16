@@ -1,0 +1,23 @@
+<map id="XLOGBASE::FlushMemoryEntrys" name="XLOGBASE::FlushMemoryEntrys">
+<area shape="rect" id="Node000001" title="Flush memory entrys." alt="" coords="1320,77,1539,104"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga999c650a847ac2c867058f2dfe22aee6" title="Add entry." alt="" coords="521,81,676,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1303,90,1038,91,724,93,677,94,677,89,724,88,1038,86,1308,89"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga1a23c5484fcd9917f8156844e653f6ca" title="Flush." alt="" coords="1139,103,1272,129"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1308,105,1273,111,1272,106,1302,105"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac087f23f8e5ca4a81ba57e78a111c089" title="Add entry." alt="" coords="287,5,442,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,75,472,47,432,35,432,30,474,41,556,75"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga6569c4dcffd4c790ac65aa0aeb0526a4" title="Add entry." alt="" coords="287,56,442,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="503,85,443,80,442,75,508,84"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#ga9dbe9160fced4dfe6d4ee274ab009ba2" title="Call_Log_AddEntry." alt="" coords="298,107,431,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="503,105,432,115,431,110,508,104"/>
+<area shape="rect" id="Node000007" href="$group___a_p_p_f_l_o_w.html#ga38ad5386f4b41a43ea7d3059c5c82657" title="Log of event." alt="" coords="256,157,473,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="556,114,474,148,432,159,431,154,472,143,551,115"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#gaa4d7b9e1cc42ea3422c9309e89b66a5e" title="Add library functions." alt="" coords="5,99,208,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="280,121,208,123,208,117,285,119"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad88817a75f1366d81d67c63c80f1abfa" title="Backup control limits." alt="" coords="724,103,919,145"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1121,118,919,125,919,119,1126,118"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga0e26488a1e4193a259c6498f099c460c" title="End." alt="" coords="967,153,1091,180"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1145,134,1079,155,1078,150,1139,134"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="707,109,677,108,677,102,712,109"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="948,151,919,147,919,141,954,151"/>
+</map>

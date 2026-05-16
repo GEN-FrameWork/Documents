@@ -1,0 +1,5 @@
+<map id="DIONODEITEM" name="DIONODEITEM">
+<area shape="rect" id="Node000001" title="Data Input/Output Node item (Base for DIONODESENSOR, DIONODEACTUATOR, ...) class." alt="" coords="9,80,126,107"/>
+<area shape="rect" id="Node000002" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html" title="eXtended Utils Serializable class" alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,46,70,80,65,79,66,50"/>
+</map>

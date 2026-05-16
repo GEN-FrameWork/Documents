@@ -1,0 +1,13 @@
+<map id="INPBUTTON::GetKeyCode" name="INPBUTTON::GetKeyCode">
+<area shape="rect" id="Node000001" title="Get key code." alt="" coords="602,105,784,132"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gad8862b241978876a4c381a216563630e" title="Get button by code." alt="" coords="330,47,539,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,101,553,88,502,77,502,71,555,83,624,101"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga526670f6fd069fb9935cac9bea42dfa7" title="Update." alt="" coords="315,97,554,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="584,119,555,121,554,116,589,118"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga5f8a0ef1fb6b048d48c0d4986eb4f08f" title="Update." alt="" coords="328,164,541,207"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="626,136,521,166,520,161,621,137"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga651fcef3834ba3ff73b9d9e0c01921f9" title="On keyboard event." alt="" coords="17,5,255,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,47,255,43,255,37,317,46"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaa725b98d2d699f0233e8e286d3d7e605" title="Update." alt="" coords="5,72,267,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="312,74,268,81,266,76,317,73"/>
+</map>

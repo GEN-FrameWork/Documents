@@ -1,0 +1,35 @@
+<map id="DIOCOREPROTOCOL::UpdateClass_Add" name="DIOCOREPROTOCOL::UpdateClass_Add">
+<area shape="rect" id="Node000001" title="update class add" alt="" coords="5,232,278,259"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1dc2d98b77a3c8e2baddbff604d831a5" title="Get class name." alt="" coords="644,5,907,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,230,173,192,212,141,263,90,293,68,325,50,399,23,478,9,556,4,631,7,626,9,556,9,479,14,401,29,327,54,295,72,266,94,216,145,177,195,153,233"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga72c36531e362cfeaa0dce72cb4984359" title="Init cache." alt="" coords="329,115,592,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,229,325,173,371,161,366,164,327,179,179,234"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="961,199,1099,225"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,229,325,217,498,208,670,205,948,209,943,210,670,210,498,214,326,223,228,234"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="406,232,516,259"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="277,243,393,244,388,247,279,248"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga19702bba844fa0cb81b22da737778795" title="Set class ptr." alt="" coords="329,283,592,325"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="218,257,329,278,324,281,219,262"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga1fac3692ebaa068ebe81a52d28fb8faf" title="set flags" alt="" coords="329,349,592,392"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="166,257,238,295,327,335,349,344,344,345,325,340,235,300,166,262"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga2cfa02b1c3edfb82c9a9d1bfe00f29e1" title="set requiered initial update" alt="" coords="329,416,592,459"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="155,257,224,327,273,367,327,402,340,410,335,410,324,406,270,372,220,331,154,262"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga178a95b49916c16c4be094fc33d09123" title="Set time to update." alt="" coords="329,483,592,525"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="150,256,176,299,214,357,265,417,295,445,327,468,337,476,331,475,324,473,292,449,262,421,210,360,171,302,149,262"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gaf23c352492c70f5f3dd328c50c63e8e6" title="Update class get." alt="" coords="326,64,596,91"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="154,230,222,167,271,130,325,100,346,94,341,97,327,105,274,135,226,171,158,233"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="708,232,843,259"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="515,243,696,244,691,246,516,248"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="691,283,860,309"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="516,251,678,279,673,281,516,257"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="843,234,948,222,943,224,844,239"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="955,283,1105,309"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="861,293,942,296,937,296,861,299"/>
+<area shape="poly" id="edge17_Node000013_Node000002" title=" " alt="" coords="547,61,631,49,626,52,549,66"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="704,72,847,99"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="596,78,691,82,686,84,597,83"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="957,48,1103,91"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="847,78,944,74,939,76,848,83"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="957,115,1103,157"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="846,97,944,118,939,119,847,102"/>
+</map>

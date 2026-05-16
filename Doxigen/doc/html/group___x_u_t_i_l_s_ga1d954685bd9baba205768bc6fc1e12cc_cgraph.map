@@ -1,0 +1,11 @@
+<map id="XSTRING::Add" name="XSTRING::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,31,118,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="166,31,278,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,41,153,43,148,45,118,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="342,5,479,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,34,330,29,324,30,279,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="326,56,495,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,49,313,56,308,56,278,54"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="543,56,693,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="496,67,530,69,525,69,496,72"/>
+</map>

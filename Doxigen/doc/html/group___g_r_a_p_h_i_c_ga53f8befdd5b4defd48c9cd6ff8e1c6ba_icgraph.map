@@ -1,0 +1,19 @@
+<map id="GRPBITMAPFILEBASE::CreateBitmapFromFile" name="GRPBITMAPFILEBASE::CreateBitmapFromFile">
+<area shape="rect" id="Node000001" title="Create bitmap from file." alt="" coords="770,107,943,149"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga93f2bb29d7197b2c2c2ab4bc329052aa" title="Load." alt="" coords="558,115,722,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="752,128,723,131,723,125,758,128"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga7b8ad655c2e9a6ce5cac04142869f492" title="all_Window_GetPosX" alt="" coords="320,13,478,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="605,105,561,80,509,54,475,43,475,38,511,50,564,75,610,106"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga617f8489050e58998f103626cdff93d7" title="Load." alt="" coords="317,64,481,91"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="555,111,466,94,466,89,561,111"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga05c3fe2a26d225ea2d4c0821d7fdbfde" title="Load." alt="" coords="317,115,481,141"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="539,128,482,131,481,125,545,128"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaaaa7ecb0dce753e3d572958527b1d893" title="Load from file." alt="" coords="297,165,500,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="561,145,466,167,465,162,555,146"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#gaf75b9f0e8d0a4fe6b4a35daed0836331" title="Load sequence." alt="" coords="288,216,510,243"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="610,149,564,181,511,206,476,218,474,213,509,202,561,176,605,151"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga52d06ed6d5fb2c73904be02dc502d325" title="Add library functions." alt="" coords="36,5,209,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,28,210,29,208,24,306,25"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga06916907a1aad475f8901d0b380e583e" title="Get or add animation cache." alt="" coords="5,157,240,200"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="279,179,240,181,240,176,284,178"/>
+</map>

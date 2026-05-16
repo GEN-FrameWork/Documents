@@ -1,0 +1,25 @@
+<map id="UI_MANAGER::Elements_RebuildDrawAreas" name="UI_MANAGER::Elements_RebuildDrawAreas">
+<area shape="rect" id="Node000001" title="Elements rebuild draw areas." alt="" coords="5,116,179,159"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac11bb761029418787fa1de5ada9e4851" title="Get draw mode." alt="" coords="264,73,430,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,118,263,102,259,105,180,122"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaed72f96ec27e6d5dfe63e2169c15be65" title="Get skin." alt="" coords="273,124,422,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,135,260,136,255,139,180,140"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gadc9f0038fa97b1df027bfcf74cbe7b46" title="Rebuild all areas." alt="" coords="227,175,468,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,155,239,170,235,172,180,160"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga3461b402dfaabf0116ed843980c36d30" title="Get bitmap." alt="" coords="525,5,758,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="450,172,466,161,478,147,485,133,489,102,493,72,501,56,514,42,519,42,523,39,518,46,505,59,499,73,494,103,490,134,483,150,470,165,453,177"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gab593115449d842d590c67965f4a18e1e" title="Get extra data." alt="" coords="516,56,767,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="447,172,466,161,482,144,489,127,497,109,514,93,527,88,523,91,518,97,502,112,494,129,486,147,470,165,449,176"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga40921b7125ad1371f106c7407a282e65" title="Get X pos." alt="" coords="530,107,754,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="429,172,467,160,515,143,551,136,546,138,517,148,469,165,431,177"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga85d9ae6da936bec74df8e0c139c0bcf1" title="Get Y pos." alt="" coords="530,157,754,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="468,183,516,181,511,182,469,188"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0da97abb824c95c1bbda4805baf9c25a" title="Get Z level." alt="" coords="556,208,728,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="468,204,543,212,538,213,469,209"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5f77e3728cb1b431d242b5745ee3f40f" title="Is visible." alt="" coords="560,259,723,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="416,215,517,244,554,255,549,255,515,249,416,221"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga627f9993b926a5de476eaa51913e9dd8" title="Must re draw." alt="" coords="547,309,736,336"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="378,215,441,256,517,295,541,305,536,305,515,300,438,261,377,221"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga20d1e79d03956fafd409de37122549f8" title="Put bitmap no alpha." alt="" coords="521,360,762,403"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="367,215,430,280,472,316,517,346,530,354,524,353,515,350,468,320,426,284,365,220"/>
+</map>

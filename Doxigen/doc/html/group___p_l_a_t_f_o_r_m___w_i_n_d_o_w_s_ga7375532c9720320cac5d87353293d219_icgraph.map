@@ -1,0 +1,17 @@
+<map id="XWINDOWSFILE::Flush" name="XWINDOWSFILE::Flush">
+<area shape="rect" id="Node000001" title="Flush." alt="" coords="783,81,951,108"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga56df3e748cc8c4e92a926efabda730ff" title="Actualize size." alt="" coords="520,56,735,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,84,736,83,736,78,770,84"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga360fde933ecc4ac32c56f65131c60da5" title="Close." alt="" coords="543,107,712,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="770,105,713,114,713,108,765,105"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gae8e7f51feb2007cecbfe700eb6d37764" title="Set size." alt="" coords="257,5,438,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,53,425,35,425,30,537,52"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1f418433b42f52e7c992f7de26fc6f31" title="Write." alt="" coords="265,56,430,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="502,70,431,72,430,67,507,69"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac4e6f1e36fbd86451ef92cc7b0d97481" title="Exist." alt="" coords="265,107,430,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="525,120,430,123,430,117,530,120"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gad733a590a8608d2ce0b7bf20f788d8f6" title="Destructor of class." alt="" coords="223,157,472,184"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="537,136,425,159,425,154,532,137"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga13068395169204d1a20353b7c6caf864" title="Erase." alt="" coords="5,107,175,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="246,121,175,123,175,117,251,119"/>
+</map>

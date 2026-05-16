@@ -1,0 +1,17 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_LIST::GetFromBuffer" name="DIOSTREAMTLS_MSG_EXTENSION_LIST::GetFromBuffer">
+<area shape="rect" id="Node000001" title="get from buffer" alt="" coords="5,85,253,128"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaa18ae97bc16eca76dad45de57c4dd08c" title="Extract." alt="" coords="596,31,730,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,82,232,57,300,37,374,28,449,25,583,33,578,35,449,30,374,33,301,43,233,62,174,87"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga49978c776720b4144761df16728d9d00" title="get from buffer" alt="" coords="301,52,548,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="252,90,288,88,283,90,254,95"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t.html#a00cd74771bc5a16d6a3d281cb4ff577d" title=" " alt="" coords="301,119,548,161"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="253,118,288,124,282,125,253,123"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t.html#a77f8dbc8ca6c7aba7e04ab9146fde882" title=" " alt="" coords="301,185,548,228"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="182,126,302,171,326,181,320,180,300,176,182,131"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="778,5,912,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="730,32,765,30,760,31,731,37"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="960,31,1119,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="731,41,947,44,942,44,731,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="912,25,947,31,941,32,912,30"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="548,55,583,54,578,55,549,61"/>
+</map>

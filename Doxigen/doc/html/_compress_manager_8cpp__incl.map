@@ -1,0 +1,27 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Compress/CompressManager.cpp" name="E:/Projects/GEN_FrameWork/GEN/Compress/CompressManager.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,5,516,48"/>
+<area shape="rect" id="Node000002" href="$_g_e_n___defines_8h.html" title=" " alt="" coords="98,96,211,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,50,206,93,204,88,329,47"/>
+<area shape="rect" id="Node000008" href="$_compress_manager_8h.html" title=" " alt="" coords="316,96,459,123"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="389,46,390,81,385,79,386,51"/>
+<area shape="rect" id="Node000010" href="$_g_e_n___control_8h.html" title=" " alt="" coords="491,96,601,123"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="429,46,510,88,505,89,428,51"/>
+<area shape="rect" id="Node000003" href="$_factory_base_8h.html" title=" " alt="" coords="25,171,131,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,125,96,161,93,157,136,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="155,171,302,197"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="168,121,208,160,203,160,167,126"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="96,168,140,132,136,136,100,172"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,245,66,272"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="73,196,53,234,48,230,69,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="90,245,154,272"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="87,196,109,232,104,232,85,200"/>
+<area shape="rect" id="Node000006" href="$_x_base_8h.html" title=" " alt="" coords="265,245,336,272"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="117,195,253,239,249,243,116,201"/>
+<area shape="rect" id="Node000009" href="$_compress_base_8h.html" title=" " alt="" coords="326,171,449,197"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="389,121,390,156,385,154,386,125"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="375,197,328,238,326,233,370,199"/>
+<area shape="rect" id="Node000011" href="$_x_feedback___control_8h.html" title=" " alt="" coords="472,171,620,197"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="548,121,548,157,544,153,544,125"/>
+<area shape="rect" id="Node000012" href="$_x_memory___control_8h.html" title=" " alt="" coords="644,171,782,197"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="576,121,672,164,667,164,575,126"/>
+</map>

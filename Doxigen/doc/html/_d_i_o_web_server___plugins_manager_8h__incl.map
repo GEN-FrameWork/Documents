@@ -1,0 +1,23 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Web/DIOWebServer_PluginsManager.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Web/DIOWebServer_PluginsManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,5,370,64"/>
+<area shape="rect" id="Node000002" href="$_x_string_8h.html" title=" " alt="" coords="184,112,259,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,62,235,99,231,96,245,66"/>
+<area shape="rect" id="Node000008" href="$_x_vector_8h.html" title=" " alt="" coords="259,187,337,213"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="267,62,294,172,289,171,264,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="6,261,67,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,134,86,155,41,170,25,179,15,188,9,202,9,217,21,248,16,249,4,218,4,201,10,185,22,175,39,165,85,150,185,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="25,187,93,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,141,103,182,100,178,195,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="140,261,205,288"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,138,199,214,186,249,182,245,194,212,216,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="117,187,185,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="212,138,175,178,172,174,207,141"/>
+<area shape="rect" id="Node000007" href="$_x_base_8h.html" title=" " alt="" coords="390,261,461,288"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="258,137,304,157,350,185,383,215,410,249,405,248,380,219,347,189,301,161,258,142"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="236,137,276,176,271,176,234,142"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="259,215,82,263,81,258,257,210"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="278,213,208,256,206,251,273,215"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="321,211,393,253,387,253,319,216"/>
+<area shape="rect" id="Node000009" href="$_x_memory___control_8h.html" title=" " alt="" coords="229,261,366,288"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="300,212,300,247,296,244,296,216"/>
+</map>

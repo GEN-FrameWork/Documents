@@ -1,0 +1,19 @@
+<map id="XBUFFER::GetWithMask" name="XBUFFER::GetWithMask">
+<area shape="rect" id="Node000001" title="Get with mask." alt="" coords="5,81,178,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac553a8fceec905bf48ebdd75274cbe00" title="Get with mask arg." alt="" coords="226,81,418,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,92,213,94,207,95,179,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="486,5,601,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,78,465,41,483,38,488,37,467,47,363,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="487,56,600,83"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="418,81,474,77,469,78,419,86"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="669,107,809,133"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="418,98,656,114,651,115,418,103"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="466,157,621,184"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="364,106,491,152,485,152,363,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="672,5,806,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="601,16,659,18,654,19,602,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="857,56,1016,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="602,29,670,41,844,63,839,63,669,47,602,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="794,30,869,52,864,52,794,35"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="794,103,864,88,869,87,795,109"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="XFILESENTENCES" name="XFILESENTENCES">
+<area shape="rect" id="Node000001" title="eXtended Utils Sentences HASH file class" alt="" coords="150,300,291,327"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_x_d_b.html" title="eXtended Utils Dialog Sentence file class" alt="" coords="178,224,264,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,264,223,301,218,298,219,268"/>
+<area shape="rect" id="Node000003" href="$class_x_f_i_l_e_h_a_s_h.html" title="eXtended Utils HASH file class (file with HASH included)" alt="" coords="26,125,122,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,158,204,222,199,225,105,163"/>
+<area shape="rect" id="Node000004" href="$class_x_f_i_l_e_c_o_n_t_a_i_n_e_r.html" title=" " alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="75,45,77,125,71,125,73,50"/>
+<area shape="rect" id="Node000010" href="$class_h_a_s_h.html" title="Hash interface class." alt="" coords="234,125,293,152"/>
+<area shape="poly" id="edge4_Node000002_Node000010" title=" " alt="" coords="254,164,228,225,224,222,250,168"/>
+<area shape="rect" id="Node000008" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="173,5,255,32"/>
+<area shape="poly" id="edge5_Node000010_Node000008" title=" " alt="" coords="212,45,215,74,222,100,232,113,245,125,239,125,228,116,218,103,209,75,210,50"/>
+<area shape="rect" id="Node000007" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="146,125,210,152"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="199,43,195,57,186,94,181,126,176,124,180,93,190,55,196,47"/>
+<area shape="rect" id="Node000011" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="309,5,394,32"/>
+<area shape="poly" id="edge6_Node000010_Node000011" title=" " alt="" coords="348,45,340,76,324,103,310,117,293,127,290,123,306,112,320,100,335,74,345,49"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="182,165,194,199,211,224,206,223,189,201,180,170"/>
+<area shape="rect" id="Node000012" href="$class_x_m_a_p.html" title=" " alt="" coords="357,125,572,152"/>
+<area shape="poly" id="edge9_Node000002_Node000012" title=" " alt="" coords="416,159,254,226,252,221,421,157"/>
+<area shape="rect" id="Node000013" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="417,5,590,32"/>
+<area shape="poly" id="edge10_Node000012_Node000013" title=" " alt="" coords="496,45,471,126,467,123,493,49"/>
+</map>

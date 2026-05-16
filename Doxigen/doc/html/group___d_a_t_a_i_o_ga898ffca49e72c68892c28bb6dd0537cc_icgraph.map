@@ -1,0 +1,5 @@
+<map id="DIOIEC60870_5::CMD_C_CI_NU_2_Read" name="DIOIEC60870_5::CMD_C_CI_NU_2_Read">
+<area shape="rect" id="Node000001" title="CMDCCINU2 read." alt="" coords="246,5,402,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gace240f640ed613ba2096f9896957e380" title="CMDCCINU2 read all values." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,27,198,29,198,24,233,26"/>
+</map>

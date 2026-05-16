@@ -1,0 +1,17 @@
+<map id="DIODNSRESOLVER::Host_Add" name="DIODNSRESOLVER::Host_Add">
+<area shape="rect" id="Node000001" title="Host add." alt="" coords="5,80,218,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaabc8e72b7aaa68b31179690619034758" title="Get host." alt="" coords="266,5,528,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,77,290,51,285,54,173,82"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga15409d3a98cb4736205a5eaa00dd392a" title="Get IP." alt="" coords="266,72,528,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,91,253,93,247,94,219,96"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="342,139,452,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,105,266,124,330,139,324,139,265,129,175,110"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="594,113,728,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="451,144,581,134,575,135,452,149"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="576,164,745,191"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="452,155,563,168,558,168,452,160"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="799,113,937,140"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="728,124,786,127,781,127,729,129"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="793,164,943,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="746,175,780,177,775,177,746,180"/>
+</map>

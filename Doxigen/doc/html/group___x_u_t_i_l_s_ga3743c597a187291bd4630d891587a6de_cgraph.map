@@ -1,0 +1,20 @@
+<map id="XFILECOBOL_HANDLE::CalculateDataSizeNode" name="XFILECOBOL_HANDLE::CalculateDataSizeNode">
+<area shape="rect" id="Node000001" title="Calculate data size node." alt="" coords="5,175,180,217"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="44,174,42,165,50,156,67,150,93,148,120,150,137,158,133,160,118,156,92,153,68,155,53,160,48,166,50,174"/>
+<area shape="rect" id="Node000002" href="$class_x_t_r_e_e___n_o_d_e.html#a078986820d0ad8a10dd7a4eaf8f814f3" title=" " alt="" coords="262,5,434,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="104,173,152,107,186,71,226,42,249,33,245,36,229,46,190,75,156,111,109,176"/>
+<area shape="rect" id="Node000003" href="$class_x_t_r_e_e___n_o_d_e.html#a7ed87b400897c25f053e4a09a9270ce3" title=" " alt="" coords="263,56,432,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="114,172,163,131,194,110,227,92,250,85,246,88,229,97,197,115,166,135,118,176"/>
+<area shape="rect" id="Node000004" href="$class_x_t_r_e_e___n_o_d_e.html#a40b9277670604e2b204c9df458b2c527" title=" " alt="" coords="248,107,448,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="145,172,227,143,260,136,255,139,228,148,147,176"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa268a11dff4a38affa1641c46e6ddad4" title="Get PIC." alt="" coords="247,157,448,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="179,185,234,181,229,184,181,190"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga82fe792956eb697103327fa5788e34bb" title="Get size data." alt="" coords="239,208,456,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="179,202,226,208,221,210,181,207"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac2b75e26f81e89241925e659ce4149fc" title="Is redefine." alt="" coords="238,259,458,285"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="146,215,228,244,260,254,255,255,227,249,146,221"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga1090f68ae4beed352e729239e999bb43" title="Set is redefine." alt="" coords="228,309,468,336"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="116,215,166,257,197,277,229,295,248,304,243,304,227,300,194,282,163,261,116,220"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaa3cea3e3ca63b82ed3b008e9694da155" title="Set redefine offset." alt="" coords="233,360,462,403"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="108,215,157,281,191,316,229,346,239,353,233,352,226,350,187,320,153,284,106,220"/>
+</map>

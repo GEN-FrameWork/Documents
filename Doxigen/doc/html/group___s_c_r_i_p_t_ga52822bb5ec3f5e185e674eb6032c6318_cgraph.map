@@ -1,0 +1,39 @@
+<map id="SCRIPT_LIB_CONSOLE::AddLibraryFunctions" name="SCRIPT_LIB_CONSOLE::AddLibraryFunctions">
+<area shape="rect" id="Node000001" title="Add library functions." alt="" coords="5,200,176,243"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gae8a3349786b0662e8b161a814858eb24" title="Call console get char." alt="" coords="224,81,379,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,197,266,114,263,119,129,202"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#gaae52fae2460d7b5cde24094701bbcb4c" title="Call_Console_Printf." alt="" coords="233,208,370,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,219,220,220,215,223,177,224"/>
+<area shape="rect" id="Node000053" href="$group___s_c_r_i_p_t.html#ga932049c5b53ca7de7019d8ae635182df" title="Call_Console_PutChar." alt="" coords="224,259,378,285"/>
+<area shape="poly" id="edge16_Node000001_Node000053" title=" " alt="" coords="176,239,231,254,226,256,176,244"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gadd51abefd09e5ace9e8145ef12e793e9" title="Get char." alt="" coords="464,5,616,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,78,426,41,457,35,452,37,428,47,334,83"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="720,157,831,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,205,364,172,394,155,426,143,463,135,502,130,579,130,650,139,713,153,708,154,650,144,578,136,502,135,464,140,428,148,396,160,366,176,320,210"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="482,157,597,184"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="367,205,469,185,464,187,368,210"/>
+<area shape="rect" id="Node000007" href="$group___s_c_r_i_p_t.html#gabbf602df960ebb8d3a3f052cd23c8487" title="Get param converted." alt="" coords="427,56,652,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="311,206,357,154,389,124,426,99,458,87,454,89,428,104,393,129,361,158,315,210"/>
+<area shape="rect" id="Node000009" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="469,208,610,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="370,219,456,221,451,222,371,224"/>
+<area shape="rect" id="Node000010" href="$group___s_c_r_i_p_t.html#ga9b6211aae3517ced521a3907ca6ef648" title="Have error." alt="" coords="471,259,608,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="368,233,461,254,456,255,368,238"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga7c42668706a1145d2b12710b49c9cbf4" title="Printf." alt="" coords="472,309,607,336"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="356,233,380,244,396,258,405,271,414,283,428,295,460,311,455,310,426,300,410,287,401,274,392,261,378,249,356,238"/>
+<area shape="rect" id="Node000051" href="$group___x_u_t_i_l_s.html#ga238f6ef465ea6b1cc7f9882aee8c868f" title="Set." alt="" coords="482,360,597,387"/>
+<area shape="poly" id="edge14_Node000004_Node000051" title=" " alt="" coords="362,233,381,245,392,258,399,271,405,297,411,323,417,334,429,346,447,357,469,367,464,367,445,362,425,350,413,338,406,325,400,299,394,273,388,261,377,249,361,238"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga70075e357dea2d13c7e1763e8800cbc6" title="Get type." alt="" coords="703,56,848,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="652,67,690,69,685,70,653,72"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="606,312,651,295,666,284,676,273,698,245,748,197,752,194,702,248,680,276,670,288,654,300,608,317"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="700,309,851,336"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="607,320,687,323,682,323,607,325"/>
+<area shape="rect" id="Node000050" href="$group___x_u_t_i_l_s.html#ga878e4fbe84703c93012ba4eab2d78c98" title="Print." alt="" coords="710,259,841,285"/>
+<area shape="poly" id="edge13_Node000011_Node000050" title=" " alt="" coords="605,306,692,290,698,289,606,311"/>
+<area shape="rect" id="Node000052" href="$group___x_u_t_i_l_s.html#gaf2a714cbc516e65c1939b46fad3a6793" title="Destroy." alt="" coords="705,360,846,387"/>
+<area shape="poly" id="edge15_Node000051_Node000052" title=" " alt="" coords="597,371,692,373,687,373,597,376"/>
+<area shape="poly" id="edge17_Node000053_Node000006" title=" " alt="" coords="355,256,378,244,392,232,401,219,410,206,426,194,469,179,464,181,428,198,414,210,405,222,396,236,380,249,357,261"/>
+<area shape="poly" id="edge18_Node000053_Node000009" title=" " alt="" coords="367,255,461,238,456,239,368,261"/>
+<area shape="poly" id="edge19_Node000053_Node000010" title=" " alt="" coords="378,269,458,272,453,272,379,275"/>
+<area shape="poly" id="edge20_Node000053_Node000011" title=" " alt="" coords="368,283,461,305,456,306,368,289"/>
+<area shape="poly" id="edge21_Node000053_Node000051" title=" " alt="" coords="322,283,369,315,428,346,470,361,465,361,426,350,366,319,320,288"/>
+</map>

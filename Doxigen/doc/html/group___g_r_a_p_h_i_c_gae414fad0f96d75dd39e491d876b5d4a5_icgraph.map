@@ -1,0 +1,9 @@
+<map id="GRPPROPERTIES::SetPosition" name="GRPPROPERTIES::SetPosition">
+<area shape="rect" id="Node000001" title="Set position." alt="" coords="528,43,739,69"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gacb71ec461381c2e7bcfe51936a7a1cc7" title="Create viewport." alt="" coords="275,13,480,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,42,481,41,481,36,515,42"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9e1b1554a2f7c752fed32617cf31a9c8" title="Set position." alt="" coords="275,64,480,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="515,70,480,76,480,71,510,70"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae4dd3fe37d2648962f491fc8ca604bfc" title="On create window." alt="" coords="5,5,227,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,27,228,29,227,24,261,26"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="DIOI2C3DCOMPASSLSM303DLHC" name="DIOI2C3DCOMPASSLSM303DLHC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,355,320,381"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_i2_c_l_s_m303_d_l_h_c.html" title=" " alt="" coords="127,279,278,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,319,205,356,201,353,201,322"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="144,203,262,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,242,205,279,200,277,201,247"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="5,104,102,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="86,137,186,201,181,203,85,142"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="125,104,198,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="160,144,163,162,167,177,187,202,182,202,162,180,157,163,158,149"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_s_t_r_e_a_m_i2_c_c_o_n_f_i_g.html" title="Data Input/Output Stream I2C Config class." alt="" coords="180,5,354,32"/>
+<area shape="poly" id="edge5_Node000003_Node000007" title=" " alt="" coords="264,45,253,109,229,180,214,204,210,201,224,178,248,108,262,50"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_s_t_r_e_a_m_i2_c.html" title="Data Input/Output Stream I2C class." alt="" coords="352,104,475,131"/>
+<area shape="poly" id="edge7_Node000012_Node000007" title=" " alt="" coords="299,38,397,103,392,104,299,44"/>
+<area shape="poly" id="edge6_Node000003_Node000012" title=" " alt="" coords="370,139,232,204,229,200,374,136"/>
+</map>

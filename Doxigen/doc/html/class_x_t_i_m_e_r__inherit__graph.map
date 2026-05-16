@@ -1,0 +1,15 @@
+<map id="XTIMER" name="XTIMER">
+<area shape="rect" id="Node000001" title="eXtended Utils Timer class" alt="" coords="231,80,304,107"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_t_i_m_e_r.html" title="eXtended utils ESP32 timer class" alt="" coords="5,155,119,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,115,99,156,97,152,218,110"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_t_i_m_e_r.html" title="LINUX eXtended Utils Timer class." alt="" coords="143,155,256,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,117,213,156,209,152,243,120"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_t_i_m_e_r.html" title="eXtended utils STM32 timer class" alt="" coords="280,155,394,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="291,115,327,155,322,154,289,120"/>
+<area shape="rect" id="Node000007" href="$class_x_w_i_n_d_o_w_s_t_i_m_e_r.html" title="WINDOWS eXtended Utils Timer class." alt="" coords="418,155,559,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="319,109,452,153,447,155,318,114"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="208,5,327,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,46,270,81,265,79,266,50"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_t_i_m_e_r.html" title="ANDROID eXtended Timer class." alt="" coords="132,229,267,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,195,202,230,197,228,197,199"/>
+</map>

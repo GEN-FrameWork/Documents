@@ -1,0 +1,23 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_KEY::CopyTo" name="DIOSTREAMTLS_MSG_EXTENSION_KEY::CopyTo">
+<area shape="rect" id="Node000001" title="copy to" alt="" coords="5,144,253,187"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="404,5,520,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,142,215,90,256,64,300,42,344,28,391,22,386,24,345,33,302,46,258,68,218,95,155,146"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga08957a7be1e5b42ce6b50e94f3ecf94d" title="Constructor of class." alt="" coords="301,56,623,99"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="192,141,300,108,335,101,331,104,301,113,195,146"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="397,123,527,149"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="253,152,384,142,379,144,254,157"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga26d37a589fa6d63795413b3d00eb69bd" title="get key data" alt="" coords="338,173,586,216"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="253,174,325,182,320,183,254,179"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gaacf629b58bf769df844013d99a91c84b" title="set key type" alt="" coords="338,240,586,283"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="184,185,301,225,333,236,328,236,300,231,184,190"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga85c8064a738ba7b75aac4e7c9f1b1fa6" title="set length key data" alt="" coords="338,307,586,349"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="153,184,217,239,258,268,302,292,326,304,321,304,300,297,255,273,214,244,151,189"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="671,5,804,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,16,658,18,653,20,520,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="852,56,1012,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="520,23,671,41,840,60,835,61,671,47,520,29"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="792,30,866,51,861,52,792,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="672,115,803,141"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="527,131,659,130,654,131,528,137"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="784,112,868,88,874,87,785,117"/>
+</map>

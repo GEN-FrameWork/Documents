@@ -1,0 +1,7 @@
+<map id="DIOI2CAIRQUALITYCCS811" name="DIOI2CAIRQUALITYCCS811">
+<area shape="rect" id="Node000001" title="Data Input/Output I2C Sensor CCS811 (Air Quality) class." alt="" coords="5,155,201,181"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="44,80,162,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,121,105,155,101,153,101,124"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="55,5,151,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,45,106,80,100,79,102,50"/>
+</map>

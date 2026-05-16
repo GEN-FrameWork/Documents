@@ -1,0 +1,16 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_KEYSHARE::SetToBuffer" name="DIOSTREAMTLS_MSG_EXTENSION_KEYSHARE::SetToBuffer">
+<area shape="rect" id="Node000001" title="set to buffer" alt="" coords="5,28,253,71"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="596,36,711,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,25,300,13,425,3,479,5,548,13,606,30,601,30,548,19,479,10,425,8,301,19,226,30"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga65fb72345c8c503d7d520db4ace1ef70" title="set to buffer" alt="" coords="301,28,548,71"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="253,47,287,49,282,50,254,52"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gac1f3b3cd03e9dffcd41903ad53c95c49" title="set to buffer" alt="" coords="301,95,548,137"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="227,69,314,90,309,91,226,74"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="759,11,893,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="712,38,741,37,746,36,712,44"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="941,36,1100,63"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="712,47,928,49,922,50,712,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="893,30,928,37,922,37,893,35"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="548,47,583,49,578,50,548,52"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="508,92,547,80,593,68,599,67,549,85,509,97"/>
+</map>

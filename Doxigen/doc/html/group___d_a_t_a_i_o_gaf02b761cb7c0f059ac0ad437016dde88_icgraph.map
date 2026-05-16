@@ -1,0 +1,19 @@
+<map id="DIOURL::IsAURL" name="DIOURL::IsAURL">
+<area shape="rect" id="Node000001" title="Is AURL." alt="" coords="804,88,932,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gab74a0cff7c6bfc91a1058f211b8252f3" title="Is local address." alt="" coords="573,5,743,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="828,80,755,46,721,35,721,30,757,42,833,80"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaee111d121883d0dc264868238fd4468f" title="Resolve URL." alt="" coords="560,80,756,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="786,102,757,104,757,99,792,101"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gac02068342e11d4b1f705a4afb3e8a942" title="Resolve URL." alt="" coords="283,147,512,173"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="817,119,757,137,631,154,513,161,512,156,630,148,756,132,811,120"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="690,64,679,61,658,59,638,61,626,65,622,71,623,81,618,78,617,70,623,61,637,55,658,53,681,56,696,65"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa46c5e7b76bfe2e4255acc77aaba17f9" title="Resolve URL." alt="" coords="299,13,496,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="555,76,483,59,484,54,560,75"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9ea0638b83173ce4b2d2e4dd21aeffc1" title="Resolve URL." alt="" coords="299,80,496,123"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="542,102,496,104,496,99,547,101"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="550,126,513,137,462,149,461,143,511,132,544,127"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaee9d6bbdaf1635ec5438b9734d1d312e" title="Resolve URL." alt="" coords="5,121,235,148"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="265,148,235,148,235,142,270,148"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaa035bbccf68d48621696b536d6d37989" title="Resolve URL." alt="" coords="5,172,235,199"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="265,172,235,178,235,172,270,172"/>
+</map>

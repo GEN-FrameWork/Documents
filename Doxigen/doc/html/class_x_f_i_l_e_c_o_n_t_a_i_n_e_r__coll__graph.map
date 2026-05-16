@@ -1,0 +1,11 @@
+<map id="XFILECONTAINER" name="XFILECONTAINER">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,279,155,305"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e.html" title="eXtended Utils File class" alt="" coords="57,180,116,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,221,89,279,84,278,84,224"/>
+<area shape="rect" id="Node000003" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="5,81,125,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,121,86,180,81,180,70,126"/>
+<area shape="rect" id="Node000004" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="149,81,213,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="156,121,100,182,96,178,160,117"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="140,5,222,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="182,45,184,82,178,80,180,50"/>
+</map>

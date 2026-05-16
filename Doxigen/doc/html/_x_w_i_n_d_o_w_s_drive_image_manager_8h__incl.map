@@ -1,0 +1,30 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSDriveImageManager.h" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSDriveImageManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,5,267,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,89,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,67,75,103,71,100,119,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,112,189,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,62,154,96,148,96,151,67"/>
+<area shape="rect" id="Node000004" href="$_x_drive_image_manager_8h.html" title=" " alt="" coords="213,112,372,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,62,262,103,257,105,197,67"/>
+<area shape="rect" id="Node000005" href="$_x_path_8h.html" title=" " alt="" coords="148,187,216,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,141,215,180,212,176,275,137"/>
+<area shape="rect" id="Node000012" href="$_x_vector_8h.html" title=" " alt="" coords="202,411,281,437"/>
+<area shape="poly" id="edge13_Node000004_Node000012" title=" " alt="" coords="293,138,258,363,250,397,246,394,252,362,288,140"/>
+<area shape="rect" id="Node000015" href="$_x_subject_8h.html" title=" " alt="" coords="335,261,420,288"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="301,137,366,248,360,248,299,142"/>
+<area shape="rect" id="Node000006" href="$_x_string_8h.html" title=" " alt="" coords="79,336,154,363"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="145,211,105,230,85,244,69,263,65,278,69,294,92,324,86,326,64,296,60,278,65,260,81,240,102,225,149,207"/>
+<area shape="poly" id="edge9_Node000005_Node000012" title=" " alt="" coords="191,211,207,234,219,260,236,332,243,396,238,394,231,333,214,262,202,237,191,217"/>
+<area shape="rect" id="Node000014" href="$_x_paths_manager_8h.html" title=" " alt="" coords="79,261,204,288"/>
+<area shape="poly" id="edge10_Node000005_Node000014" title=" " alt="" coords="176,212,158,249,154,246,173,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="212,485,272,512"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="128,361,224,472,219,474,126,365"/>
+<area shape="poly" id="edge7_Node000006_Node000012" title=" " alt="" coords="139,361,209,402,204,404,138,366"/>
+<area shape="poly" id="edge8_Node000012_Node000007" title=" " alt="" coords="244,436,244,471,239,468,240,440"/>
+<area shape="poly" id="edge12_Node000014_Node000006" title=" " alt="" coords="138,286,128,322,123,320,136,291"/>
+<area shape="poly" id="edge11_Node000014_Node000012" title=" " alt="" coords="151,286,227,397,222,398,149,291"/>
+<area shape="poly" id="edge15_Node000015_Node000007" title=" " alt="" coords="397,286,417,301,434,320,443,341,440,364,409,406,369,439,326,465,287,484,285,479,324,461,366,435,405,402,435,362,438,342,429,323,413,305,397,291"/>
+<area shape="rect" id="Node000016" href="$_x_publisher_8h.html" title=" " alt="" coords="330,336,425,363"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="379,286,380,322,375,319,376,291"/>
+<area shape="poly" id="edge17_Node000016_Node000012" title=" " alt="" coords="356,362,280,405,278,401,352,364"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_COMMAND::GetType" name="DIOCOREPROTOCOL_COMMAND::GetType">
+<area shape="rect" id="Node000001" title="Get type." alt="" coords="315,27,551,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1599bfcec06b05a255b113626793c40f" title="Commands get." alt="" coords="5,5,267,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,35,267,34,267,29,302,35"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga8e4670e876025b1cd6f1f84780bd903d" title="Commands get core protocol." alt="" coords="19,56,253,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,62,253,68,253,63,302,61"/>
+</map>

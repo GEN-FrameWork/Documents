@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT_PROGRESSBAR::GetProgressRect" name="UI_ELEMENT_PROGRESSBAR::GetProgressRect">
+<area shape="rect" id="Node000001" title="Get progress rect." alt="" coords="246,39,462,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga449718bc553c63270d4a7c4579f602df" title="Calculate boundary line progress bar." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,44,198,42,198,37,233,43"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="17,72,186,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,77,187,85,186,80,233,76"/>
+</map>

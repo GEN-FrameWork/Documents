@@ -1,0 +1,25 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Android/XANDROIDDir.h" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Android/XANDROIDDir.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,64"/>
+<area shape="rect" id="Node000002" href="$_x_l_i_n_u_x_dir_8h.html" title=" " alt="" coords="53,112,151,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,62,105,96,99,96,102,67"/>
+<area shape="rect" id="Node000003" href="$_x_base_8h.html" title=" " alt="" coords="189,485,260,512"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,142,70,197,59,234,54,273,54,350,57,373,66,394,79,413,96,429,135,457,178,479,172,480,133,462,92,434,75,416,61,397,52,375,49,351,49,273,53,233,65,195,95,137"/>
+<area shape="rect" id="Node000004" href="$_x_dir_8h.html" title=" " alt="" coords="150,187,208,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="115,137,157,175,152,177,116,142"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="176,211,166,262,159,312,157,351,162,390,178,436,189,455,203,475,198,473,184,458,173,438,156,391,151,352,154,311,161,261,174,216"/>
+<area shape="rect" id="Node000005" href="$_x_string_8h.html" title=" " alt="" coords="187,411,262,437"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="178,212,171,279,172,321,181,362,190,381,203,400,198,399,185,384,175,364,167,321,166,279,175,216"/>
+<area shape="rect" id="Node000012" href="$_x_path_8h.html" title=" " alt="" coords="190,336,259,363"/>
+<area shape="poly" id="edge7_Node000004_Node000012" title=" " alt="" coords="184,211,219,321,214,321,182,216"/>
+<area shape="rect" id="Node000014" href="$_x_date_time_8h.html" title=" " alt="" coords="248,261,346,288"/>
+<area shape="poly" id="edge9_Node000004_Node000014" title=" " alt="" coords="200,211,266,252,261,254,200,217"/>
+<area shape="rect" id="Node000015" href="$_factory_base_8h.html" title=" " alt="" coords="385,336,491,363"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="209,204,281,223,321,239,360,259,395,289,423,324,418,323,392,293,356,264,319,243,279,228,210,209"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="227,436,227,471,222,468,223,440"/>
+<area shape="poly" id="edge8_Node000012_Node000005" title=" " alt="" coords="226,361,227,396,222,394,223,365"/>
+<area shape="poly" id="edge10_Node000014_Node000003" title=" " alt="" coords="299,286,299,355,292,398,276,439,249,476,246,472,272,436,286,396,294,355,296,291"/>
+<area shape="poly" id="edge11_Node000014_Node000005" title=" " alt="" coords="296,286,289,323,274,364,248,401,245,397,269,361,284,322,293,290"/>
+<area shape="poly" id="edge12_Node000014_Node000012" title=" " alt="" coords="286,287,250,327,246,323,282,290"/>
+<area shape="poly" id="edge13_Node000014_Node000015" title=" " alt="" coords="322,286,402,328,397,329,321,291"/>
+<area shape="poly" id="edge14_Node000015_Node000003" title=" " alt="" coords="433,361,407,401,368,439,322,466,276,485,274,480,320,461,364,435,403,397,428,364"/>
+</map>

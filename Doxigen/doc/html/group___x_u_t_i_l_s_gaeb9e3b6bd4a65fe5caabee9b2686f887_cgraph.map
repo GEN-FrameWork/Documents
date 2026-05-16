@@ -1,0 +1,24 @@
+<map id="XFILEJSON::WriteAndEncodeAllLines" name="XFILEJSON::WriteAndEncodeAllLines">
+<area shape="rect" id="Node000001" title="Write and encode all lines." alt="" coords="5,73,205,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga89d1db282f0f58b94fe99e69f2e70daa" title="Encode all lines." alt="" coords="253,31,445,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,71,268,60,264,62,206,76"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab64f925cd32c8ffe1a1bc7ddf3fc182f" title="Is open." alt="" coords="283,81,415,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,92,270,94,265,96,206,97"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb9aa74b334ad110e54c014c3c518e0e" title="Write all file." alt="" coords="271,132,427,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,113,269,127,264,129,205,118"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="550,31,665,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="419,129,444,118,458,106,467,93,476,80,492,67,537,52,532,54,494,72,480,83,471,96,462,109,446,122,421,134"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga28bb9722fce97e2bc8739bedbf93ce3f" title="Create BOM format char." alt="" coords="493,81,721,108"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="420,129,523,111,518,112,421,134"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga6a172d99fcd7fa2edfa11e3e7a602e93" title="Create type LF." alt="" coords="521,132,693,159"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="427,143,508,145,503,146,428,148"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="550,183,664,209"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="421,157,538,182,533,182,421,162"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="552,233,662,260"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="372,156,427,188,494,219,539,234,534,234,492,224,424,193,371,162"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="769,5,903,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="664,35,756,27,751,28,666,40"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="951,31,1110,57"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="665,41,938,43,933,45,665,47"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="903,25,938,31,932,32,903,30"/>
+</map>

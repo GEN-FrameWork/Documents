@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['bmi2_5facc_5ferror_0',['BMI2_ACC_ERROR',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a9cb7b30bd88d9e5e447b309b1ee695a5a587af456e877c9834d0dc7e3e00682aa',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5facc_5fgyr_5ferror_1',['BMI2_ACC_GYR_ERROR',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a9cb7b30bd88d9e5e447b309b1ee695a5a335ea0ecf6d9611b43ee95b1ae4f8afa',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fbike_2',['BMI2_ACT_BIKE',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008a3907b3cfed4622b44771247ab1f11d63',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fend_3',['BMI2_ACT_END',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aacdf6e6d5412dd7f3bd91552ce84a05aa014db506596dece2d96a5edd97f0f5c5',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5frun_4',['BMI2_ACT_RUN',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008a20836ef9c85d9899ca976294e87e1183',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fstart_5',['BMI2_ACT_START',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aacdf6e6d5412dd7f3bd91552ce84a05aa23c31d015b7af0554559b1cbaf5c7dfa',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fstill_6',['BMI2_ACT_STILL',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008aeddb5105b018e60d4f1af4ba89f37352',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5ftilted_7',['BMI2_ACT_TILTED',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008ae9638b1380f96908078faede49396145',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5funknown_8',['BMI2_ACT_UNKNOWN',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008a497cbc35be5f63824bcd03b517bbe8d9',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fvehicle_9',['BMI2_ACT_VEHICLE',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008a8d36664344bb8dec8f493520ede6539d',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fact_5fwalk_10',['BMI2_ACT_WALK',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a8bf5ccd5a2ea993faa6ce0404a302008af982f58ab2f69a025f91e8baed8d8c49',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5farm_5fleft_11',['BMI2_ARM_LEFT',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aaed5ba9666172b3b005840b7f50bf48fa1eca30814f3c4fb04ac3cea1dd6f54aa',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5farm_5fright_12',['BMI2_ARM_RIGHT',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aaed5ba9666172b3b005840b7f50bf48fa687c89b73fafe762bdddd3ce5dd4302f',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fgyr_5ferror_13',['BMI2_GYR_ERROR',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a9cb7b30bd88d9e5e447b309b1ee695a5a3f50dd807957e173e1fcbbdec027aaaa',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fi2c_5fintf_14',['BMI2_I2C_INTF',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aebc61e07be6c92cecff83c0f11d61848a60af4a1f1e8beba64b1741a07bd8899d',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fi3c_5fintf_15',['BMI2_I3C_INTF',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aebc61e07be6c92cecff83c0f11d61848a6f8fcf815807cd82e6f8a22773a5e067',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fint1_16',['BMI2_INT1',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a070606f6f084a54683c3408c9e7d3037a6e5647c4f0114668450a0f610168b308',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fint2_17',['BMI2_INT2',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a070606f6f084a54683c3408c9e7d3037ac1a2b4066f7e21fe503b04368046be43',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fint_5fboth_18',['BMI2_INT_BOTH',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a070606f6f084a54683c3408c9e7d3037a57e73f1bf6df3a2cdd8f79bd193bd718',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fint_5fnone_19',['BMI2_INT_NONE',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a070606f6f084a54683c3408c9e7d3037acb9255b5aa5392262d723c84b4fc5063',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fint_5fpin_5fmax_20',['BMI2_INT_PIN_MAX',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a070606f6f084a54683c3408c9e7d3037a7ff0bd981713f8b489c97af123ef0006',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fno_5ferror_21',['BMI2_NO_ERROR',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#a9cb7b30bd88d9e5e447b309b1ee695a5aec93fccd7b87af258708ab326489d599',1,'DIOI2C6AxisTrackingBMI270.h']]],
+  ['bmi2_5fspi_5fintf_22',['BMI2_SPI_INTF',['../_d_i_o_i2_c6_axis_tracking_b_m_i270_8h.html#aebc61e07be6c92cecff83c0f11d61848aac7bc4ec9ab021c8d7f9813d5574fb1d',1,'DIOI2C6AxisTrackingBMI270.h']]]
+];

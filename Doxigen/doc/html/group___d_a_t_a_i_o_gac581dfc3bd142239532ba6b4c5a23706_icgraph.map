@@ -1,0 +1,7 @@
+<map id="DIOPUBLICINTERNETIP::FastIsThereInternetConnection" name="DIOPUBLICINTERNETIP::FastIsThereInternetConnection">
+<area shape="rect" id="Node000001" title="Fast is there internet connection." alt="" coords="510,5,719,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga03eb516f196460c84721bdf87fd3b63b" title="Get." alt="" coords="258,13,462,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,27,462,29,462,24,497,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga32c3efc685d361295669b9f425de3ff4" title="Get." alt="" coords="5,13,210,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,27,210,29,210,24,245,27"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="DIOIEC60870_5::GetTimeLabelTypeA" name="DIOIEC60870_5::GetTimeLabelTypeA">
+<area shape="rect" id="Node000001" title="Get time label type a." alt="" coords="5,124,212,167"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad0bec954a744ea5e976275973cd6eea7" title="Set day." alt="" coords="271,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,122,190,81,258,42,277,36,272,39,261,46,193,86,138,126"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga13a958415b92d0fd57f4cbac8851a88d" title="Set hours." alt="" coords="265,56,426,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,121,259,92,285,86,280,89,260,97,174,126"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga69173332be1d9f8c586e1a88417b0515" title="Set minutes." alt="" coords="260,107,431,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,132,246,130,241,132,213,137"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga001f98667032c95241a60a29bae990bf" title="Set month." alt="" coords="265,157,426,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,154,251,160,246,161,213,159"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga5f69e1fb5fa02a3d1346dbf8b00a114d" title="Set to zero." alt="" coords="263,208,428,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,165,260,193,285,203,280,203,259,199,173,170"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga794f5f740556e7309c1db19815f8b3b2" title="Set year." alt="" coords="270,259,421,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="137,164,193,205,261,244,277,253,272,253,258,249,190,209,136,170"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="DIOSCRAPERWEB::GetValue" name="DIOSCRAPERWEB::GetValue">
+<area shape="rect" id="Node000001" title="Get value." alt="" coords="5,519,208,545"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="969,468,1080,495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,524,953,483,954,488,208,529"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac3fe9b1f589ac283405efe2147e4aff7" title="Get value." alt="" coords="256,392,458,419"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,516,313,424,317,428,136,521"/>
+<area shape="poly" id="edge18_Node000003_Node000002" title=" " alt="" coords="459,414,955,471,952,475,458,419"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="535,80,677,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="367,390,582,119,587,119,371,393"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafa78cae7d7ed89ed3594ff73ad0f50df" title="Convert hex format chars." alt="" coords="506,308,706,351"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="403,389,522,355,517,357,404,394"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="755,72,901,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="677,91,742,92,737,94,678,96"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="755,5,901,48"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="652,77,743,52,738,54,655,82"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="654,349,755,392,863,430,963,463,957,463,862,435,753,397,653,354"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="772,139,884,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="621,306,675,242,712,206,753,175,761,173,766,171,756,180,715,210,679,246,625,310"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="956,291,1092,317"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="706,321,943,308,938,310,707,326"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="759,189,897,216"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="633,305,687,266,753,226,765,223,770,221,756,230,690,270,636,310"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="773,240,883,267"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="670,305,775,271,770,273,672,310"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gaf83a3f5f1eea20e04f8f11d221886633" title="Un format." alt="" coords="754,341,902,368"/>
+<area shape="poly" id="edge13_Node000007_Node000015" title=" " alt="" coords="707,338,741,344,736,345,707,343"/>
+<area shape="rect" id="Node000026" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="950,367,1099,393"/>
+<area shape="poly" id="edge17_Node000007_Node000026" title=" " alt="" coords="658,349,705,365,755,377,847,386,937,387,932,388,847,391,754,383,703,370,658,354"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="879,163,903,175,934,199,963,225,1007,279,1002,277,959,229,931,203,900,180,879,169"/>
+<area shape="poly" id="edge14_Node000015_Node000002" title=" " alt="" coords="851,366,992,460,987,459,850,371"/>
+<area shape="poly" id="edge15_Node000015_Node000009" title=" " alt="" coords="882,338,952,322,958,321,883,343"/>
+<area shape="poly" id="edge16_Node000015_Node000026" title=" " alt="" coords="902,362,937,368,932,368,902,367"/>
+</map>

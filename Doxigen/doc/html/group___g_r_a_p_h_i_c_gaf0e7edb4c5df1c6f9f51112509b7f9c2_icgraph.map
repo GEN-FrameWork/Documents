@@ -1,0 +1,9 @@
+<map id="GRPBITMAPFRAME::SetBitmap" name="GRPBITMAPFRAME::SetBitmap">
+<area shape="rect" id="Node000001" title="Set bitmap." alt="" coords="508,31,724,57"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga92c924c1e5e3beb73e3d5d4f48c8fd49" title="Add frame." alt="" coords="276,23,460,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,44,461,47,460,41,495,44"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga69a789902caa15f988420990aa4f2ff3" title="Copy." alt="" coords="9,5,224,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,33,225,32,225,27,263,33"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaf75b9f0e8d0a4fe6b4a35daed0836331" title="Load sequence." alt="" coords="5,56,228,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="258,55,228,61,228,55,263,55"/>
+</map>

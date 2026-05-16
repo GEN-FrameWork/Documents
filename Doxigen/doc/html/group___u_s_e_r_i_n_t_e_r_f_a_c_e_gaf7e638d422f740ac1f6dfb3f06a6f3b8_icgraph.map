@@ -1,0 +1,11 @@
+<map id="UI_ELEMENT_ANIMATION::GetState" name="UI_ELEMENT_ANIMATION::GetState">
+<area shape="rect" id="Node000001" title="Get state." alt="" coords="438,39,624,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba4d7f49073dd250d5c912ca2589bdf7" title="Draw animation." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,44,391,42,390,36,425,44"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga51483d52372a907497eb69dab87844f1" title="Draw option." alt="" coords="222,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="420,77,391,83,390,78,425,76"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae431007e16929e417b98fd84923775eb" title="Draw button." alt="" coords="5,39,174,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,79,174,76,174,70,209,78"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga74b4a12dd28e3987ce14322a48665215" title="Draw check box." alt="" coords="5,105,174,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="204,109,175,116,174,111,209,108"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="DIOWEBSERVER_CONNECTION::WebSocket_WritePingPong" name="DIOWEBSERVER_CONNECTION::WebSocket_WritePingPong">
+<area shape="rect" id="Node000001" title="Web socket write ping pong." alt="" coords="5,73,235,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="340,5,455,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,70,282,41,327,33,322,35,283,47,188,75"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="341,56,454,83"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="234,82,328,75,323,77,236,87"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="560,107,699,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="235,98,545,113,543,118,235,103"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaab4c0a3d333b054e63e269b995444e24" title="Send." alt="" coords="283,157,512,200"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="193,114,312,151,307,153,193,119"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="563,5,696,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,16,550,18,545,19,456,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="747,56,907,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="456,26,560,41,735,61,730,62,560,47,456,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,30,760,51,755,52,685,35"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="684,103,755,88,760,87,685,109"/>
+</map>

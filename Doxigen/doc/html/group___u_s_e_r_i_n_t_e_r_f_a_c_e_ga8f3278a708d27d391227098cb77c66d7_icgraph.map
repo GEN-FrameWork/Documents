@@ -1,0 +1,8 @@
+<map id="UI_PROPERTY_EDITABLE::Cursor_SetPosition" name="UI_PROPERTY_EDITABLE::Cursor_SetPosition">
+<area shape="rect" id="Node000001" title="Cursor set position." alt="" coords="448,5,634,48"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab87481fadb001efd914d35c360fdf8af" title="Select input." alt="" coords="5,5,179,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,23,400,25,227,25,179,26,179,21,227,20,400,20,435,23"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga654bd2538b1d5262e07ba374b55399e1" title="Show." alt="" coords="227,35,400,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,40,401,47,400,42,430,41"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="209,43,179,41,179,36,214,42"/>
+</map>

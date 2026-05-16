@@ -1,0 +1,20 @@
+<map id="DIOATCMDS::SearchInAnswers" name="DIOATCMDS::SearchInAnswers">
+<area shape="rect" id="Node000001" title="Search in answers." alt="" coords="519,157,731,184"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad14c1a8c72c453035e3197643b0d7a32" title="Get baud rate." alt="" coords="263,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="599,146,544,96,508,69,470,46,441,35,441,30,472,42,511,65,547,92,604,146"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac341736d1a725a317ed570b4a77a147b" title="Get signal quality." alt="" coords="243,56,471,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="584,149,532,124,470,97,433,86,432,81,472,92,534,119,590,149"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga169aacf871d70fc44e6fbefe6e6baf24" title="Get SMS center." alt="" coords="247,107,466,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="533,154,431,137,431,131,538,153"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga2471702ab9ca1ef9b33dc0951ba53014" title="Get SMS format." alt="" coords="246,157,468,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="501,171,468,173,467,168,506,170"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gad41379252d506353c469eb962ac8684c" title="Send SMS." alt="" coords="5,183,195,209"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="537,188,471,199,326,205,196,203,195,198,326,199,471,193,542,187"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac34e4698d528c5806f0b21eed7cca93d" title="Get SMS support." alt="" coords="244,259,470,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="586,190,472,242,414,261,413,255,470,238,581,192"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga47637c8d3dd2df494a7f8330a524bf74" title="Search in answers." alt="" coords="251,309,463,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="604,194,547,250,511,277,472,300,442,311,440,306,470,295,508,272,544,246,599,196"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad19eb07d5abffb8726f0c81f7d01a42d" title="Ini." alt="" coords="38,5,162,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,20,163,21,161,16,249,17"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="228,184,196,189,194,184,233,182"/>
+</map>

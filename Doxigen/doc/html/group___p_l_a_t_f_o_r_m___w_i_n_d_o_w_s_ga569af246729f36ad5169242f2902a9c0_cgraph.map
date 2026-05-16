@@ -1,0 +1,21 @@
+<map id="WINDOWSSERVICE::On_Start" name="WINDOWSSERVICE::On_Start">
+<area shape="rect" id="Node000001" title="On start." alt="" coords="5,72,180,115"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6511645bbe2494af1d792d3be9c0c9dc" title="INAPI Service_WorkerThread." alt="" coords="228,80,381,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,91,215,92,210,94,181,96"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac00a13dbb87f8b2b6fb092506cceceb3" title="Get handle stopped event." alt="" coords="444,5,663,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,77,459,52,454,54,358,82"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa10a6bf4bd4d70fad711e16b7db512ab" title="Set must restart service." alt="" coords="429,72,678,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,91,416,93,411,94,382,96"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf26011db77642f3bc1c88ed3674618ff" title="Stop." alt="" coords="456,139,651,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="358,105,459,134,454,134,357,110"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga993ac2682d2f93a0da6b26dd12497982" title="On stop." alt="" coords="726,15,921,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="650,138,677,124,692,111,700,97,709,82,725,67,731,66,735,64,728,71,713,85,705,100,696,115,680,129,652,143"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1feeefab81aa4f1e9e3546ca751377e2" title="Set service status." alt="" coords="726,105,921,148"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="651,145,714,140,708,141,652,151"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga21cdf27e173f911835ccbb9f66fbc354" title="Write error log entry." alt="" coords="726,172,921,215"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="652,169,714,179,708,179,651,175"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga67dd1b33596a7b289dab42982aab117e" title="Write event log entry." alt="" coords="969,201,1163,244"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="599,179,659,205,727,224,784,232,843,235,950,235,956,235,843,240,784,237,726,229,657,210,598,185"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="778,103,776,95,784,86,799,81,824,79,849,81,867,90,861,89,848,86,823,84,801,86,786,91,781,97,782,106"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="921,202,956,209,951,209,921,208"/>
+</map>

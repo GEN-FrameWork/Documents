@@ -1,0 +1,13 @@
+<map id="UI_MANAGER::SubscribeOutputEvents" name="UI_MANAGER::SubscribeOutputEvents">
+<area shape="rect" id="Node000001" title="Subscribe output events." alt="" coords="5,73,221,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga137f7c55eb9b778873286232d22a5c12" title="Subscribe event." alt="" coords="277,5,482,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,70,318,35,313,38,191,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="538,56,733,83"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="221,87,523,72,522,77,221,92"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="269,107,490,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,102,256,108,251,108,221,108"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae130690234a70d3540b7c7922f02c02f" title="Constructor of class." alt="" coords="294,157,464,184"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="177,114,269,143,301,153,296,153,268,148,177,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,30,552,52,547,53,451,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="450,103,547,87,552,86,451,109"/>
+</map>

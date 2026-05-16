@@ -1,0 +1,7 @@
+<map id="DIOWEBSERVER::DelAuthentication" name="DIOWEBSERVER::DelAuthentication">
+<area shape="rect" id="Node000001" title="Del authentication." alt="" coords="5,13,248,40"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaeaeb728ba1d12715db2d97206a1401b3" title="Get authentication." alt="" coords="296,13,539,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,24,283,27,277,27,248,29"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae2f3e2647084366d6e64de60dd4f01db" title="Get guest." alt="" coords="587,5,843,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,24,574,27,569,27,540,29"/>
+</map>

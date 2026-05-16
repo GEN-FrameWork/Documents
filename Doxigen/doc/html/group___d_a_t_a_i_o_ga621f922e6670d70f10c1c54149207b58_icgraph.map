@@ -1,0 +1,12 @@
+<map id="DIOCHECKTCPIPCONNECTION_CUT::GetStartDateTime" name="DIOCHECKTCPIPCONNECTION_CUT::GetStartDateTime">
+<area shape="rect" id="Node000001" title="Get start date time." alt="" coords="1151,5,1375,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga42b7c7cf5320b231285f40fe41a8b2f0" title="Check." alt="" coords="5,5,258,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1133,23,1103,25,704,22,306,25,258,26,258,21,306,20,704,17,1103,20,1138,23"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6565ca0dcdfeabb139752e36b7cca583" title="Copy to." alt="" coords="878,35,1103,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1138,40,1103,47,1103,41,1133,41"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga22f05d35a819266ca2a157785b1a06b7" title="Copy from." alt="" coords="606,35,830,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="860,56,831,59,831,53,866,56"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga63e16c5de392e07a200015d2d4a26747" title="Add connection cut." alt="" coords="306,35,558,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="588,56,558,59,558,53,593,56"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="287,42,258,42,258,36,293,42"/>
+</map>

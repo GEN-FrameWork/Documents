@@ -1,0 +1,11 @@
+<map id="DIOSTREAMTLS_MSG_INTERFACE::SetToBuffer" name="DIOSTREAMTLS_MSG_INTERFACE::SetToBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="601,72,846,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0dbe129a4873d7ecdd4dae3e68d0cea5" title="get length buffer" alt="" coords="308,72,553,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="583,94,553,96,553,91,588,93"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___r_e_c_o_r_d.html#ac879a57c30b2108d946a88de1c9d804c" title=" " alt="" coords="18,5,247,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,69,231,51,231,46,320,67"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga40564d5edba727f3727e6ce0590f407b" title="extensions add" alt="" coords="5,72,260,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,94,260,96,260,91,295,93"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga54206bb408d4dcd1a53c5e77e00ac3b8" title="extensions add" alt="" coords="5,139,260,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="320,118,232,141,230,135,315,119"/>
+</map>

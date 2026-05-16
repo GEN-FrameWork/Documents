@@ -1,0 +1,5 @@
+<map id="APPFLOWINTERNETSERVICES::DateTime_GetLocal" name="APPFLOWINTERNETSERVICES::DateTime_GetLocal">
+<area shape="rect" id="Node000001" title="Date time get local." alt="" coords="5,5,228,48"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga6bd2bd49e8a08920429eb5a62681389c" title="Date time get meridian." alt="" coords="276,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,24,263,27,258,27,228,29"/>
+</map>

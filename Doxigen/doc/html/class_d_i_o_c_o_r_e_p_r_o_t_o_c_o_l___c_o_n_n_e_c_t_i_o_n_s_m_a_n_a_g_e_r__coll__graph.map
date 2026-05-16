@@ -1,0 +1,15 @@
+<map id="DIOCOREPROTOCOL_CONNECTIONSMANAGER" name="DIOCOREPROTOCOL_CONNECTIONSMANAGER">
+<area shape="rect" id="Node000001" title="Data Input/Output Core Protocol Connections Manager class." alt="" coords="96,219,430,245"/>
+<area shape="rect" id="Node000002" href="$class_x_o_b_s_e_r_v_e_r.html" title="eXtended Utils Observer class" alt="" coords="5,112,110,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,144,240,216,236,220,95,149"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="134,112,226,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,149,256,218,250,218,198,153"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_f_g.html" title="Data Input/Output Core Protocol CFG class." alt="" coords="250,112,444,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,150,274,220,271,216,325,152"/>
+<area shape="rect" id="Node000005" href="$class_x_m_a_p.html" title=" " alt="" coords="468,104,671,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="511,152,398,197,316,221,315,215,397,192,505,153"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="318,5,570,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="471,39,547,104,542,103,470,45"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="594,5,793,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="670,41,595,106,593,101,665,43"/>
+</map>

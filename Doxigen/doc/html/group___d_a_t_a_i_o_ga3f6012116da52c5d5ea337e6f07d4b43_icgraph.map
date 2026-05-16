@@ -1,0 +1,15 @@
+<map id="DIOAIOBIMAINBOARD::SetStatusHeaderPin" name="DIOAIOBIMAINBOARD::SetStatusHeaderPin">
+<area shape="rect" id="Node000001" title="Set status header pin." alt="" coords="477,72,648,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga829c610ed8bbd1115e2d4a5e8b813016" title="Reset micro controler." alt="" coords="258,5,429,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,67,416,51,416,46,479,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac8ae7748f2811e766e0ae9bf68abbfba" title="Set led a." alt="" coords="258,139,429,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="479,119,417,141,416,135,474,120"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaee4fda0f9dd7c83968e61bdc27ecdd0d" title="Set led b." alt="" coords="258,72,429,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="459,94,430,96,429,91,464,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga50e036295f9909669590218b226acc6f" title="End." alt="" coords="10,83,205,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,134,209,125,162,113,162,107,210,120,253,134"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaebf88a01645cca4104a7b9c55fbcbee2" title="Set P4 header for external button." alt="" coords="5,135,210,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="239,158,210,160,210,155,245,158"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="239,95,205,98,205,92,244,94"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="248,119,191,137,190,132,243,120"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL::IsInitialized" name="DIOPROTOCOL::IsInitialized">
+<area shape="rect" id="Node000001" title="Is initialized." alt="" coords="600,13,793,40"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga9600ee81f537bd3dc564579db07e8039" title="Is operational." alt="" coords="348,13,552,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,27,552,29,552,24,587,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga8854441cb95b6f8a30a27b57b9e258ec" title="Protocol connections get first operative." alt="" coords="5,5,300,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,27,300,29,300,24,335,27"/>
+</map>

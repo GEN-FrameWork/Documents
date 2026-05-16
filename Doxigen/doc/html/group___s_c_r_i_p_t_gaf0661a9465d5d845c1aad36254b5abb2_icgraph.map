@@ -1,0 +1,13 @@
+<map id="SCRIPT::GetTypeByExtension" name="SCRIPT::GetTypeByExtension">
+<area shape="rect" id="Node000001" title="Get type by extension." alt="" coords="406,47,607,73"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gac32ce3d29c2daf482bc3acb6b827e47e" title="Cache all directory." alt="" coords="13,5,185,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,53,186,36,186,31,393,49"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gaa3b7bc8318d49f14035c4a970f5341cd" title="Create." alt="" coords="241,84,358,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="411,77,359,89,358,84,417,76"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="242,79,161,51,162,46,247,77"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="332,69,322,65,299,63,278,65,267,69,264,75,270,84,265,83,259,75,263,66,277,59,299,57,323,60,337,69"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga3b725c8922159969c48f2604c9d22bc0" title="Cache all list." alt="" coords="13,73,185,116"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="222,97,186,98,185,93,228,96"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gaafee76de4ed65098643b70fe1c9fb7e3" title="Load script and run." alt="" coords="5,140,193,167"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="239,115,193,131,152,142,151,137,192,125,234,116"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOCHECKTCPIPCONNECTIONS::Connections_IsAllChecked" name="DIOCHECKTCPIPCONNECTIONS::Connections_IsAllChecked">
+<area shape="rect" id="Node000001" title="Connections is all checked." alt="" coords="5,35,239,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga65d4fb24f258399c4d8c1c64347d3005" title="Get N checks." alt="" coords="287,5,511,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,41,274,40,269,41,240,46"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae6d5410f1787702c59c2eae9e8b85b74" title="Lock." alt="" coords="342,72,456,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,66,329,78,324,78,239,71"/>
+</map>

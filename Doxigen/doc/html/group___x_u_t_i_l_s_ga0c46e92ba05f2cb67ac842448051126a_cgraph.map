@@ -1,0 +1,7 @@
+<map id="XFSTRING::Fast_AddCharacter" name="XFSTRING::Fast_AddCharacter">
+<area shape="rect" id="Node000001" title="Fast add character." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="264,5,433,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,16,250,19,245,19,216,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="481,5,630,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,16,468,19,463,19,434,21"/>
+</map>

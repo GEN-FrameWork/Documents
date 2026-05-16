@@ -1,0 +1,8 @@
+<map id="XTRACE_STATUS_MSG::GetName" name="XTRACE_STATUS_MSG::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="462,5,641,48"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf1f9b229b8b900643df1a9920b3424f7" title="Status msg add." alt="" coords="5,5,186,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,23,414,25,234,25,187,26,186,21,234,20,414,20,449,23"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga09586b9872a8d9dd6995a3302121c663" title="Status msg get." alt="" coords="234,35,414,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="449,40,415,47,414,42,444,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="216,43,186,41,186,36,221,42"/>
+</map>

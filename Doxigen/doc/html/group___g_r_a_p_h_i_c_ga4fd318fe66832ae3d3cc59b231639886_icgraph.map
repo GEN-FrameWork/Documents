@@ -1,0 +1,11 @@
+<map id="GRPXEVENT::SetScreen" name="GRPXEVENT::SetScreen">
+<area shape="rect" id="Node000001" title="Set screen." alt="" coords="582,43,754,69"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae4dd3fe37d2648962f491fc8ca604bfc" title="On create window." alt="" coords="313,5,534,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,44,534,43,534,37,569,44"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga4c6d0a378d921c0e6a588ef26d39abe3" title=" " alt="" coords="332,72,515,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="569,68,516,77,515,72,564,68"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga529913ec2e0198bef1ab93210067b5b1" title="On configuration changed." alt="" coords="5,35,265,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,75,265,72,265,67,319,74"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9321b38b30ced1f7ed32031b67cb92e0" title="Resize." alt="" coords="22,101,248,128"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="319,96,248,106,248,101,313,96"/>
+</map>

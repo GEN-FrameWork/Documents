@@ -1,0 +1,20 @@
+<map id="APPFLOWUPDATE::Ini" name="APPFLOWUPDATE::Ini">
+<area shape="rect" id="Node000001" title="Ini." alt="" coords="5,69,168,96"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga608e7ffe4fbbc0540c90ea212bc87beb" title="Event manager." alt="" coords="216,107,448,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,92,227,103,222,105,169,98"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga137f7c55eb9b778873286232d22a5c12" title="Subscribe event." alt="" coords="504,5,709,32"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="168,70,490,31,488,36,169,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="507,56,706,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,103,518,85,513,87,409,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="516,107,698,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="448,117,502,119,497,121,449,123"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="357,104,419,73,495,41,523,35,519,37,497,47,421,78,360,109"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="765,157,961,184"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="414,131,496,143,628,155,752,165,747,166,627,160,496,148,414,137"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="496,208,717,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="363,131,497,187,541,203,536,203,495,192,362,136"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae130690234a70d3540b7c7922f02c02f" title="Constructor of class." alt="" coords="522,259,692,285"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="347,131,409,187,451,218,497,244,514,254,509,253,495,249,449,222,406,191,346,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="689,30,719,42,756,64,790,92,843,146,838,145,786,96,752,69,716,46,689,35"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="678,205,774,188,780,187,678,210"/>
+</map>

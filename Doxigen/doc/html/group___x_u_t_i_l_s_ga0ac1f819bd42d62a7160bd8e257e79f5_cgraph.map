@@ -1,0 +1,9 @@
+<map id="XTRANSLATION_GEN::Sentences_AddAll" name="XTRANSLATION_GEN::Sentences_AddAll">
+<area shape="rect" id="Node000001" title="Sentences add all." alt="" coords="5,23,235,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaaa1dd97cf3a76ed07f0127509c0c461b" title="Sentence add." alt="" coords="283,31,535,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,41,270,44,264,44,235,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="640,5,776,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,31,627,25,622,26,536,36"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga2742e88d76cf489994caeb055652bcfa" title="Sentence get." alt="" coords="583,56,833,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="536,52,570,57,565,57,535,57"/>
+</map>

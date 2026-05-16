@@ -1,0 +1,15 @@
+<map id="XTHREAD" name="XTHREAD">
+<area shape="rect" id="Node000001" title="eXtended Utils Thread class" alt="" coords="252,80,339,107"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_t_h_r_e_a_d.html" title="eXtended utils ESP32 mutex &amp; thread class" alt="" coords="5,155,133,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,114,110,156,108,152,243,109"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_t_h_r_e_a_d.html" title="LINUX eXtended Utils Thread and Mutex class." alt="" coords="156,155,283,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,116,234,156,231,152,269,119"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_t_h_r_e_a_d.html" title="eXtended utils STM32 mutex &amp; thread class" alt="" coords="308,155,436,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="321,115,361,155,356,154,319,120"/>
+<area shape="rect" id="Node000007" href="$class_x_w_i_n_d_o_w_s_t_h_r_e_a_d.html" title="WINDOWS eXtended Utils Thread class." alt="" coords="459,155,615,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="353,109,497,153,492,155,352,114"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="236,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,46,298,81,293,78,294,50"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_t_h_r_e_a_d.html" title="ANDROID eXtended Thread and Mutex class." alt="" coords="145,229,294,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,195,222,230,217,227,218,199"/>
+</map>

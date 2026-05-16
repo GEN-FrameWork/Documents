@@ -1,0 +1,31 @@
+<map id="XSERIALIZABLE::SetSerializationMethod" name="XSERIALIZABLE::SetSerializationMethod">
+<area shape="rect" id="Node000001" title="Set serialization method." alt="" coords="657,324,880,367"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga61c3e080664d9bba652985836e0fdb4e" title="Constructor of class." alt="" coords="327,72,558,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,309,727,268,696,218,656,169,608,129,583,116,558,107,557,102,585,111,610,124,660,166,700,215,732,266,755,311"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaab37fb84f1e30296f3e473d6e7095218" title="Do deserialize." alt="" coords="335,139,550,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="743,311,719,280,688,243,650,208,608,180,579,168,550,160,549,155,581,163,610,175,654,204,692,239,723,276,748,312"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga904841232dae4a7abb384312fb946e27" title="Do serialize." alt="" coords="343,189,542,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="732,313,677,270,643,248,608,230,576,220,543,212,542,207,577,215,610,226,646,244,680,266,737,313"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga8ddde1e4d9eca231086e24292d35a785" title="Has been changed." alt="" coords="323,240,562,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="707,317,660,299,608,281,560,270,559,265,610,276,662,294,712,317"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga334ff2dacd457b714a7186e1f85a69a6" title="Show debug." alt="" coords="308,291,576,333"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="639,333,577,328,576,323,644,332"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gad32c6a0ffb6b5dfb98c359fd856ac3e3" title="Update." alt="" coords="314,357,570,400"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="639,359,572,368,570,363,644,357"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga6ae1d40c6f6274ed9c9b71959b009180" title="Update class deserialize." alt="" coords="276,424,609,467"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="706,375,610,415,568,426,566,421,608,409,711,372"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga1f6e86d21f50c3db799db0e83cbd5aab" title="update class do" alt="" coords="314,515,570,557"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="738,376,681,431,647,458,610,481,569,501,527,517,525,512,567,496,608,476,644,453,678,427,734,379"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga247028acc1509683443a4a613a50218d" title="update class do ask" alt="" coords="314,605,570,648"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="753,379,731,425,699,476,658,527,611,571,577,592,540,607,538,602,574,587,607,567,655,523,694,473,726,422,749,382"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga9f0f1231c0d9a9b2af7aff1d97a13354" title="Update class serialize." alt="" coords="276,672,609,715"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="762,380,745,444,716,520,696,560,672,598,643,632,611,662,592,674,590,669,607,658,640,629,667,594,691,557,711,518,740,443,758,384"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga33fc85daa2e0a5b8b1e6def750a52f27" title="Compare." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,70,225,51,223,46,322,67"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga4e22a65b190943a5f6bd814ada672c93" title="Copy from." alt="" coords="5,72,228,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="309,95,230,96,227,91,314,92"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga840136b919a3c05634e147a1fe394bdb" title="Copy to." alt="" coords="5,139,228,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="315,120,276,129,223,140,219,136,275,124,319,117"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="494,500,476,496,442,493,411,495,392,500,384,506,387,515,382,513,379,504,389,495,410,490,442,488,477,490,500,499"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="494,590,476,586,442,584,411,586,392,591,384,597,387,606,382,604,379,595,389,586,410,581,442,579,477,581,500,590"/>
+</map>

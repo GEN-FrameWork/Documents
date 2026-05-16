@@ -1,0 +1,10 @@
+<map id="GRPVECTORFILEDXFVALUE::GetName" name="GRPVECTORFILEDXFVALUE::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="727,64,931,107"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gac41649b502cfc3be3695f01221afdae8" title="Get data value." alt="" coords="403,5,638,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="709,63,636,51,637,46,714,63"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="5,93,315,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="711,93,315,111,315,105,712,88"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="363,123,679,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="714,107,637,125,636,119,709,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="345,130,315,130,315,125,350,130"/>
+</map>

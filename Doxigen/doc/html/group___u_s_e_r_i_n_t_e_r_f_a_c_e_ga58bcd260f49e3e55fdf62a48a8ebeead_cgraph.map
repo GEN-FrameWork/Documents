@@ -1,0 +1,25 @@
+<map id="UI_SKINCANVAS::TextBox_SizeLine" name="UI_SKINCANVAS::TextBox_SizeLine">
+<area shape="rect" id="Node000001" title="Text box size line." alt="" coords="5,212,191,255"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="275,31,387,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,210,159,140,195,100,237,67,262,57,258,61,240,72,199,104,163,143,114,213"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="276,81,386,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,210,170,163,203,139,237,118,263,109,259,112,240,122,206,143,173,167,123,213"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="273,132,388,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="142,209,238,168,262,162,258,165,240,173,145,214"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf6469b98c4209821adec93e9fe37aedf" title="Get line number." alt="" coords="239,183,423,225"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="190,219,225,216,221,219,192,224"/>
+<area shape="rect" id="Node000009" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="260,249,402,276"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,242,247,251,242,253,192,248"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac7ec0c4cd18f79c94dbd194c62fe18b8" title="Get text." alt="" coords="244,300,418,343"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="154,253,240,286,258,294,253,295,238,290,155,258"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga02465f80aaee3452a365dd07c4b19da9" title="Get text." alt="" coords="239,367,423,409"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="119,252,172,302,205,329,240,352,250,360,245,360,237,357,202,333,169,306,119,258"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga250b9a18dd688af88fd12a649cb7ad53" title="Get Y pos." alt="" coords="239,433,423,476"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="110,253,132,290,161,334,197,379,240,419,247,426,242,425,237,423,193,383,157,337,128,292,110,258"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="488,5,624,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,35,474,27,469,29,389,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="471,56,640,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="387,48,458,57,453,59,388,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="688,56,838,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="640,67,675,69,670,70,642,72"/>
+</map>

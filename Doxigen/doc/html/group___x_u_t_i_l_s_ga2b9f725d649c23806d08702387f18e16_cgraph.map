@@ -1,0 +1,11 @@
+<map id="XFILECSV::~XFILECSV" name="XFILECSV::~XFILECSV">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,56,172,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1676db6b6b6f6f6155aa88d575c9df32" title="Close." alt="" coords="254,31,381,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,57,241,52,236,53,173,63"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gadfac2bb1dc36bdd80678836620c91972" title="Delete all records." alt="" coords="220,81,415,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,76,207,82,201,82,172,81"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4111cffe51475f0aa3e9060889a9d3ff" title="Close." alt="" coords="484,5,608,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,34,471,27,466,28,381,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga5477ec3bad925da37dd8490a989e4215" title="Have header." alt="" coords="463,56,629,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,48,451,58,445,59,381,54"/>
+</map>

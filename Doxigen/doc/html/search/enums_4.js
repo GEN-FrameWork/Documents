@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['grpbitmapfile_5ftype_0',['GRPBITMAPFILE_TYPE',['../_g_r_p_bitmap_file_8h.html#abf4a05d33fbd2a4ee94ab900a8b4a86c',1,'GRPBitmapFile.h']]],
+  ['grpbitmapfilebmpcompression_1',['GRPBITMAPFILEBMPCOMPRESSION',['../_g_r_p_bitmap_file_b_m_p_8h.html#acfc35d5723af766f73a187db94df5803',1,'GRPBitmapFileBMP.h']]],
+  ['grpbitmapfiletgatype_2',['GRPBITMAPFILETGATYPE',['../_g_r_p_bitmap_file_t_g_a_8h.html#ad871265e16a85b95591d296b24c72d84',1,'GRPBitmapFileTGA.h']]],
+  ['grpbitmapsequencestatus_3',['GRPBITMAPSEQUENCESTATUS',['../_g_r_p_bitmap_sequence_8h.html#aa8d326add302803efd874f92eb85b978',1,'GRPBitmapSequence.h']]],
+  ['grpcanvastype_4',['GRPCANVASTYPE',['../_g_r_p_canvas_8h.html#a967d835255ec6370510b1d2c14d9ec26',1,'GRPCanvas.h']]],
+  ['grppropertymode_5',['GRPPROPERTYMODE',['../_g_r_p_properties_8h.html#af987094c3c6c0910d472c6c95a548365',1,'GRPProperties.h']]],
+  ['grpscreenrotation_6',['GRPSCREENROTATION',['../_g_r_p_screen_8h.html#aef3d3057d8773647dcd56512787e3e5e',1,'GRPScreen.h']]],
+  ['grpscreentype_7',['GRPSCREENTYPE',['../_g_r_p_screen_8h.html#a13ec223f83fb0f13672bfa7b4f0abcb2',1,'GRPScreen.h']]],
+  ['grpscreentype_5fdesktop_8',['GRPSCREENTYPE_DESKTOP',['../_g_r_p_screen_8h.html#a8257b2cfca9fe7a3c6eaf11cf988f749',1,'GRPScreen.h']]],
+  ['grpvectorfile_5fxeventtype_9',['GRPVECTORFILE_XEVENTTYPE',['../_g_r_p_vector_file___x_event_8h.html#a00243aa2b9750008927b8c1e1f061a9e',1,'GRPVectorFile_XEvent.h']]],
+  ['grpvectorfiledxfentityobjtype_10',['GRPVECTORFILEDXFENTITYOBJTYPE',['../_g_r_p_vector_file_d_x_f_entity_obj_8h.html#a2bc49844c61d97e7ae513ac2dc834a78',1,'GRPVectorFileDXFEntityObj.h']]],
+  ['grpvectorfiledxfresultadd_11',['GRPVECTORFILEDXFRESULTADD',['../_g_r_p_vector_file_d_x_f_8h.html#aa1d20148be4cac348ae54ee71f78be72',1,'GRPVectorFileDXF.h']]],
+  ['grpvectorfiledxftext_5fxdatactrl_5fstatus_12',['GRPVECTORFILEDXFText_XDataCtrl_Status',['../_g_r_p_vector_file_d_x_f_text_section_8h.html#a0f7494a04a0f819d2d790c2be72dedef',1,'GRPVectorFileDXFTextSection.h']]],
+  ['grpvectorfiledxftextsection_5fbasictype_13',['GRPVECTORFILEDXFTEXTSECTION_BASICTYPE',['../_g_r_p_vector_file_d_x_f_text_section_8h.html#a297680e89e526d9a541a643b26d383f0',1,'GRPVectorFileDXFTextSection.h']]],
+  ['grpvectorfiledxftextsection_5ftypesection_14',['GRPVECTORFILEDXFTEXTSECTION_TYPESECTION',['../_g_r_p_vector_file_d_x_f_text_section_8h.html#a720887801104368df0ac734e2f77a537',1,'GRPVectorFileDXFTextSection.h']]],
+  ['grpvectorfileresult_15',['GRPVECTORFILERESULT',['../_g_r_p_vector_file_8h.html#a66c490b07b03df8980b932f8018ae3ab',1,'GRPVectorFile.h']]],
+  ['grpvectorfiletype_16',['GRPVECTORFILETYPE',['../_g_r_p_vector_file_8h.html#ab3d005238ee4a661787769cfb742704c',1,'GRPVectorFile.h']]],
+  ['grpviewport_5fprojectiontype_17',['GRPVIEWPORT_PROJECTIONTYPE',['../_g_r_p_view_port_8h.html#a2afb549cec9642b5845077b6a6a97eef',1,'GRPViewPort.h']]],
+  ['grpxevent_5ftype_18',['GRPXEVENT_TYPE',['../_g_r_p_x_event_8h.html#a83036e7cb46e3876f06d1e61d16880c8',1,'GRPXEvent.h']]]
+];

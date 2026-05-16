@@ -1,0 +1,7 @@
+<map id="XDATETIME::GetDateFromNDays" name="XDATETIME::GetDateFromNDays">
+<area shape="rect" id="Node000001" title="Get date from N days." alt="" coords="5,31,231,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="279,5,513,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,31,266,30,261,31,232,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="290,56,502,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,52,277,58,272,58,231,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="APPFLOWCHECKRESOURCESHARDWARE" name="APPFLOWCHECKRESOURCESHARDWARE">
+<area shape="rect" id="Node000001" title="Application Flow Check Resources Hardware class." alt="" coords="5,80,305,107"/>
+<area shape="rect" id="Node000002" href="$class_x_o_b_s_e_r_v_e_r.html" title="eXtended Utils Observer class" alt="" coords="42,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,42,147,80,142,80,113,46"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="170,5,262,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,43,167,82,164,77,193,45"/>
+</map>

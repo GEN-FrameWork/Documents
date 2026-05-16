@@ -1,0 +1,7 @@
+<map id="DIODNSPROTOCOL_MITM_SERVER::End" name="DIODNSPROTOCOL_MITM_SERVER::End">
+<area shape="rect" id="Node000001" title="End." alt="" coords="5,35,195,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3d9d231631f57be1d1b4aad81c23430c" title="Delete all DNS servers." alt="" coords="243,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,42,230,41,224,42,196,48"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="252,72,452,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,64,239,72,234,72,195,70"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT_ANIMATION::Play" name="UI_ELEMENT_ANIMATION::Play">
+<area shape="rect" id="Node000001" title="Play." alt="" coords="5,39,192,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaabb16370f0f40856131372339553cce6" title="Play." alt="" coords="240,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,44,227,41,222,43,193,49"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga07850e13af51084759bd31b860cc1cf2" title="Set milli seconds delay." alt="" coords="240,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,71,227,78,221,78,192,76"/>
+</map>

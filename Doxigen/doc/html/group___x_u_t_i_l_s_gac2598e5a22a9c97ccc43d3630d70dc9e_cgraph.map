@@ -1,0 +1,15 @@
+<map id="XFILEINI::SelectSection" name="XFILEINI::SelectSection">
+<area shape="rect" id="Node000001" title="Select section." alt="" coords="5,97,171,124"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad76cac093ed8c0fe604bc5b3fd66e9f7" title="Select section." alt="" coords="219,97,384,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,108,206,110,200,111,171,113"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="489,47,631,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,94,476,76,471,77,374,99"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="460,97,660,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,108,447,110,442,111,385,113"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga8f44898a055f3f74ca4e59fda66f414f" title="Reset selection key." alt="" coords="432,148,688,175"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="374,122,476,144,471,145,373,127"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="736,5,883,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="631,48,723,38,718,39,632,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="736,72,883,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="632,67,723,81,718,82,631,72"/>
+</map>

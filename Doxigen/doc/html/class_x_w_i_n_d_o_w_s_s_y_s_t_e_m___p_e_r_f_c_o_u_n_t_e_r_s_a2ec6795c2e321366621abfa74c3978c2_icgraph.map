@@ -1,0 +1,8 @@
+<map id="XWINDOWSSYSTEM_PERFCOUNTERS::GetCounterValueForProcessID" name="XWINDOWSSYSTEM_PERFCOUNTERS::GetCounterValueForProcessID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="602,29,875,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="788,14,771,10,739,8,709,10,691,15,684,21,686,30,681,27,678,19,688,10,708,5,739,3,772,5,793,14"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga19e6cc0e8e436c0e56406ade13e958f0" title="Get CPU usage for process ID." alt="" coords="304,29,554,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="584,51,554,53,554,48,589,51"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga33bd8156b06d17d43c9868953561c949" title="Get CPU usage for process name." alt="" coords="5,29,256,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="286,51,256,53,256,48,291,51"/>
+</map>

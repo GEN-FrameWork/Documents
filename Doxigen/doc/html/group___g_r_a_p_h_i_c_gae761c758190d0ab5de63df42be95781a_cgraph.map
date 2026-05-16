@@ -1,0 +1,24 @@
+<map id="GRPVECTORFILE::DetectFileFormatText" name="GRPVECTORFILE::DetectFileFormatText">
+<area shape="rect" id="Node000001" title="Detect file format text." alt="" coords="5,175,208,217"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf7d78f174cb8eeb52cafe94524d3885b" title="Close." alt="" coords="321,5,422,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,173,174,107,212,72,254,42,279,31,308,24,304,28,281,36,257,46,215,76,178,111,124,176"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4111cffe51475f0aa3e9060889a9d3ff" title="Close." alt="" coords="309,56,434,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,172,186,131,219,110,255,92,296,80,292,83,257,97,222,115,189,135,135,176"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="315,107,428,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,172,255,143,302,133,297,136,256,148,168,176"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga1623b979850a3cffed690ed4f29908ed" title="Get format char from file." alt="" coords="256,157,487,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="207,184,242,182,238,185,209,189"/>
+<area shape="rect" id="Node000006" href="$class_x_f_i_l_e.html#a43349ac3160e391c95164fe83825fdfc" title=" " alt="" coords="323,208,420,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="208,203,310,214,305,217,209,208"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac1ba7a50ab19469934c6083fdcdec985" title="Open." alt="" coords="311,283,432,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="166,215,322,275,317,278,165,221"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="323,333,420,360"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="128,215,183,268,219,296,257,319,310,338,305,339,255,324,215,300,180,272,126,220"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="305,384,438,411"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="120,215,143,251,174,293,212,335,257,370,292,387,287,386,254,374,208,339,170,296,139,254,119,220"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="330,282,323,274,328,264,345,258,371,256,401,259,417,268,412,268,399,264,371,261,346,263,332,268,328,273,335,283"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="546,283,684,309"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="432,293,533,296,528,296,432,299"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="535,384,694,411"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="438,395,522,397,517,397,438,400"/>
+</map>

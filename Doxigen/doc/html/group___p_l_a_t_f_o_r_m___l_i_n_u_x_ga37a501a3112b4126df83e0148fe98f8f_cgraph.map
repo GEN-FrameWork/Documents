@@ -1,0 +1,11 @@
+<map id="DIOLINUXDBUS_MESSAGE::GetResult" name="DIOLINUXDBUS_MESSAGE::GetResult">
+<area shape="rect" id="Node000001" title="Get result." alt="" coords="5,23,202,65"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="287,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,31,275,26,269,27,203,36"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga079930d936bef04d41719c34134af3ce" title="Trace error." alt="" coords="250,56,442,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,52,237,58,231,58,202,57"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="490,5,648,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,16,477,18,472,19,405,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="514,56,624,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,67,501,69,496,69,442,72"/>
+</map>

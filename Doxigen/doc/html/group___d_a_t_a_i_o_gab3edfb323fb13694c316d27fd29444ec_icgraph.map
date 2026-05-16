@@ -1,0 +1,32 @@
+<map id="DIODNSRESOLVER_DNSSERVER::GetIP" name="DIODNSRESOLVER_DNSSERVER::GetIP">
+<area shape="rect" id="Node000001" title="Get IP." alt="" coords="829,227,1067,269"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5751707b8b61082110ed3f392ffab3b6" title="Add DNS server." alt="" coords="572,5,761,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="923,213,865,138,825,97,780,62,760,51,760,46,783,58,828,93,869,134,928,214"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga528c14a919db18335d8b55355dea064e" title="Add DNS server." alt="" coords="572,72,761,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="909,216,851,173,780,129,754,118,754,112,783,124,854,168,914,217"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1ab2731dfd80ae409e83d4820dbbe229" title="Add DNS server." alt="" coords="572,139,761,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="860,222,737,185,737,179,865,221"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga1ccd3c8b1d4543b96ab9d34737837569" title="DNS server add DNS server." alt="" coords="279,207,500,249"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="811,244,501,235,500,229,816,242"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac19ff93f0f10a0f42247c3b4df66eb6b" title="DNS server add DNS server." alt="" coords="279,276,500,319"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="891,275,838,298,782,313,709,322,635,324,501,316,500,311,635,319,709,317,781,308,836,293,886,277"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gab18720d2f63e7199e6aafe93802ad27e" title="DNS server add DNS server." alt="" coords="279,347,500,389"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="899,276,843,307,782,329,710,346,636,358,501,369,500,364,636,352,709,341,781,324,841,302,894,278"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gacff3ce8e29350248133866301039cde8" title="DNS server is I pon list." alt="" coords="556,256,777,299"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="811,263,778,268,777,263,816,261"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gac02068342e11d4b1f705a4afb3e8a942" title="Resolve URL." alt="" coords="552,424,781,451"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="923,280,863,347,824,380,783,408,739,426,737,421,780,403,821,375,859,343,918,283"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac6e1ca0f02d782ab820457b4d5f8b40b" title="Add DNS server." alt="" coords="295,139,484,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="554,161,485,163,484,157,559,159"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga0ae62d182e35d827457b40d8aa27d16d" title="Ini." alt="" coords="295,72,484,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="558,135,481,118,481,113,563,134"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga294af428aaaf2c7a9f819e9eef87f27c" title="DNS server add DNS server." alt="" coords="5,347,227,389"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="261,369,228,371,227,365,266,367"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="538,255,501,250,500,245,543,254"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="538,287,501,292,500,287,543,286"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="582,305,505,333,458,349,456,344,503,328,587,303"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gaee9d6bbdaf1635ec5438b9734d1d312e" title="Resolve URL." alt="" coords="275,473,504,500"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="576,454,469,475,468,470,570,454"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#gaa035bbccf68d48621696b536d6d37989" title="Resolve URL." alt="" coords="275,423,504,449"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="534,437,504,439,504,434,539,437"/>
+</map>

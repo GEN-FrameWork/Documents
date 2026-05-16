@@ -1,0 +1,13 @@
+<map id="DIOWEBSERVER_CONNECTION::WebSocket_Write" name="DIOWEBSERVER_CONNECTION::WebSocket_Write">
+<area shape="rect" id="Node000001" title="Web socket write." alt="" coords="535,105,764,148"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga90555ae9afde00c83ddfd6099d67b306" title="Web socket write." alt="" coords="258,5,487,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,99,486,63,452,51,452,46,488,57,588,99"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6b0926b7987249ab7fc6b626bc421c57" title="Web socket write." alt="" coords="258,72,487,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="517,111,487,110,487,104,522,111"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab77f5dbd4736440a3518b5291dcc76d4" title="Websocket write." alt="" coords="270,139,474,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="517,143,475,150,475,145,522,142"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga45957343b3ed28aab2bbad87a293642c" title="Websocket write." alt="" coords="270,205,474,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="588,154,488,196,453,207,451,202,486,191,583,155"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga7566f858c404019d45d1b53914b2b5f2" title="Websocket write." alt="" coords="5,205,210,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="252,227,210,229,210,224,257,226"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GRPVECTORFILEDXFENTITYDEFPOINT::CopyTo" name="GRPVECTORFILEDXFENTITYDEFPOINT::CopyTo">
+<area shape="rect" id="Node000001" title="Copy to." alt="" coords="5,105,283,148"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga7e49340b974a9d8f72b024e20e1d06b1" title="Constructor of class." alt="" coords="331,5,616,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,102,330,57,360,51,355,53,331,63,202,107"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga28a563d8d5deb1cdfc704c96c62b6704" title="Set x." alt="" coords="335,72,612,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,110,321,108,316,110,284,115"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaf0632e8895668329cd79567fa4e02e5a" title="Set y." alt="" coords="335,139,612,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,138,322,144,316,145,283,143"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga6c2ea70474f4f832dd53454339d2c957" title="Set z." alt="" coords="335,205,612,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,146,331,191,361,201,355,201,330,196,201,151"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="DIOI2C3DCOMPASSLSM303DLHC::Configure" name="DIOI2C3DCOMPASSLSM303DLHC::Configure">
+<area shape="rect" id="Node000001" title="Configure." alt="" coords="5,23,240,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="574,5,744,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,36,559,21,558,26,240,41"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gadf72efac92017c649a5c471004a008f1" title="Write register." alt="" coords="288,56,526,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,52,275,57,270,57,240,57"/>
+<area shape="poly" id="edge7_Node000003_Node000002" title=" " alt="" coords="477,53,572,36,577,35,477,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="602,56,717,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,67,588,69,583,69,526,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="792,31,926,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="717,59,774,55,779,54,717,65"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="974,56,1133,83"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="717,67,961,69,956,69,717,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="926,50,961,57,955,57,926,55"/>
+</map>

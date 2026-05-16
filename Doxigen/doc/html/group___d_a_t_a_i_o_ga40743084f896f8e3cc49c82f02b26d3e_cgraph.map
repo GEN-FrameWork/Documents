@@ -1,0 +1,19 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER::SendEvent" name="DIOPROTOCOL_CONNECTIONSMANAGER::SendEvent">
+<area shape="rect" id="Node000001" title="Send event." alt="" coords="5,223,300,265"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6edc2ea543475460accedd06bc712c29" title="Get DIO protocol." alt="" coords="386,5,604,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,221,197,185,239,140,290,95,346,58,374,48,369,51,349,62,293,100,243,144,201,188,172,224"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga54737ae9c8306a00292b8d1cb150a798" title="Get DIO stream config." alt="" coords="386,72,604,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,220,254,172,300,146,347,124,373,117,369,120,349,129,302,151,257,176,185,224"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="415,139,575,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,220,275,196,347,175,402,165,397,167,348,180,276,201,211,224"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga2f14c58019f7239968a0df3ae21eaee9" title="Set DIO protocol." alt="" coords="348,189,642,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="299,227,334,225,330,228,301,232"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga484ee579868724b21a04f1b9db14cb9a" title="Set DIO stream config." alt="" coords="348,256,642,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="299,256,334,261,329,262,300,261"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga01dff60b137165f04f70f74312003a4a" title="Set DIO stream enum servers." alt="" coords="348,323,642,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="212,263,348,308,379,318,374,319,347,313,212,269"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga877d0f206e8da9e123826bc17b7d1775" title="Set protocol connection." alt="" coords="348,389,642,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="179,263,253,320,300,350,349,375,367,384,361,384,347,380,297,354,250,324,179,269"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gabb4cc3eff930b40f871e5f62e5913173" title="Set protocol connections manager." alt="" coords="348,456,642,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="168,263,199,303,240,351,291,400,349,442,361,450,355,449,346,446,287,405,236,355,195,306,168,268"/>
+</map>

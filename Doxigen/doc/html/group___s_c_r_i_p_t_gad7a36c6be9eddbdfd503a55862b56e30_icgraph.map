@@ -1,0 +1,7 @@
+<map id="SCRIPT_LIB_CFG::GetXFileCFG" name="SCRIPT_LIB_CFG::GetXFileCFG">
+<area shape="rect" id="Node000001" title="Get X file CFG." alt="" coords="458,13,678,40"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga80eea700679a796eea3c7dc56eab2244" title="Call_GetFileCFGValue." alt="" coords="257,13,410,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,27,411,29,411,24,445,27"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gadbd11f4db1eef8b1e5e8203e2ffcb8a8" title="Add library functions." alt="" coords="5,5,209,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,27,209,29,209,24,244,27"/>
+</map>

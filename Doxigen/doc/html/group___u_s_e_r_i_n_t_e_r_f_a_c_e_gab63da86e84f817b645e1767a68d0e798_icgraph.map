@@ -1,0 +1,17 @@
+<map id="UI_ELEMENT_PROGRESSBAR::GetLevel" name="UI_ELEMENT_PROGRESSBAR::GetLevel">
+<area shape="rect" id="Node000001" title="Get level." alt="" coords="844,135,1061,177"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga324183c867e6065e1cf0582c8e51c59d" title="Change automatic text element value." alt="" coords="574,101,796,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="826,141,797,139,797,134,832,141"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="601,168,769,211"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="831,171,770,181,770,176,826,172"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7f9018495a2e7652a55eb5ddd8aa29b5" title="Change text element value." alt="" coords="290,101,526,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="556,123,527,125,526,120,561,122"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga9d918814249cf94fda84ba0488fb7742" title="Change text element value." alt="" coords="5,5,242,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="336,96,241,63,205,51,205,46,243,57,341,94"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="5,72,242,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="271,109,242,108,242,103,277,108"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga36a6a729977d9742e19be1e117c50763" title="Update." alt="" coords="43,139,204,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="271,137,204,146,204,141,276,136"/>
+<area shape="rect" id="Node000007" href="$class_u_i___m_a_n_a_g_e_r.html#aa21026ec0f9ffd507f84bfc5562492f6" title=" " alt="" coords="43,189,204,216"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="334,149,242,180,195,191,194,186,241,175,329,150"/>
+</map>

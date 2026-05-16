@@ -1,0 +1,23 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION::GetType" name="DIOSTREAMTLS_MSG_EXTENSION::GetType">
+<area shape="rect" id="Node000001" title="get type" alt="" coords="301,305,548,348"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga683c94c883fba87294a2b5cca977748e" title="copy from" alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,290,385,240,351,178,307,115,280,87,251,62,234,51,232,46,254,58,284,83,311,112,356,175,390,238,413,291"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5ff446b74f00ba89d7062a5afd142b52" title="copy from" alt="" coords="5,72,253,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,292,375,255,340,210,299,166,251,129,231,118,230,113,254,124,302,162,345,207,379,252,405,292"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga0e113803f88322bfd25e13a9d9ee5896" title="copy from" alt="" coords="5,139,253,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="388,295,328,245,290,218,251,196,226,184,224,179,254,191,293,214,331,240,393,294"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t.html#ad9b0e679c61e97b0d0d4fb85d1679fad" title=" " alt="" coords="5,205,253,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="355,300,252,263,216,251,215,246,254,257,360,298"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gad4620e49b32e9c51d3089543efa90f1f" title="copy from" alt="" coords="5,272,253,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="283,312,254,310,252,305,288,310"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaa2071d7029a39e55724a4b41b14c1a60" title="copy to" alt="" coords="5,339,253,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="283,344,254,348,252,344,287,341"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga026d11d1f1a0a26cab46f93e7c00ef5d" title="copy to" alt="" coords="5,405,253,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="355,356,254,396,217,407,214,402,252,391,360,353"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gabd38000bea8d476dd248b95cbffda62f" title="copy to" alt="" coords="5,472,253,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="392,357,331,413,293,439,254,462,227,474,224,469,251,458,290,435,328,409,388,360"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t.html#aeb82b526749a0feaa6be61d3561a8572" title=" " alt="" coords="5,539,253,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="405,359,379,402,345,447,302,491,254,529,232,541,229,536,251,524,299,487,340,443,375,399,401,363"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gaa45fdcbb6d096e2cd0c147f8eb02076c" title="copy to" alt="" coords="5,605,253,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="412,361,390,416,356,478,311,542,284,570,254,596,234,607,232,602,251,591,280,567,307,538,351,475,385,413,408,364"/>
+</map>

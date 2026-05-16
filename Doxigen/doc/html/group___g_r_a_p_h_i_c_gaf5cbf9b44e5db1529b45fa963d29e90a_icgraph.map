@@ -1,0 +1,9 @@
+<map id="GRP2DREBUILDAREAS::GetBitmap" name="GRP2DREBUILDAREAS::GetBitmap">
+<area shape="rect" id="Node000001" title="Get bitmap." alt="" coords="809,5,990,48"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga65de81b6ed8b734940509269af2be564" title="Create rebuild area." alt="" coords="581,5,761,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="791,27,762,29,762,24,797,27"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaffb7abba42e9302db9edd8f33e61720b" title="Create rebuild area." alt="" coords="292,5,533,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,27,533,29,533,24,568,27"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga98d0155160f3950cfb0735a381dbb9f9" title="Pre draw function." alt="" coords="5,13,244,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,27,244,29,244,24,279,27"/>
+</map>

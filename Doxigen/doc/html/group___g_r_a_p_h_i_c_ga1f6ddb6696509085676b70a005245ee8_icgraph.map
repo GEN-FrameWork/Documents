@@ -1,0 +1,9 @@
+<map id="GRPBITMAPFILEBMPHEADER::DeleteAllPalette" name="GRPBITMAPFILEBMPHEADER::DeleteAllPalette">
+<area shape="rect" id="Node000001" title="Delete all palette." alt="" coords="284,72,498,115"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga2c0747ffb787b5cbe5a224e01d27593b" title="Load." alt="" coords="13,5,228,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,69,210,51,210,46,289,67"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga1ce930899e0dbbed305bd199161ef43f" title="Load." alt="" coords="13,72,228,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,94,229,96,228,91,271,93"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gab7f64d62d5b8fe711be5d85ef55432a6" title="Destructor of class." alt="" coords="5,139,236,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,118,211,141,209,135,284,119"/>
+</map>

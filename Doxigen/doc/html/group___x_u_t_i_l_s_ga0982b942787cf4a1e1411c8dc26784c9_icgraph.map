@@ -1,0 +1,11 @@
+<map id="XFILEXMLELEMENT::AddAtribute" name="XFILEXMLELEMENT::AddAtribute">
+<area shape="rect" id="Node000001" title="Add atribute." alt="" coords="682,35,906,61"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad3e76b7cbc842c527da0cf5230cea73e" title="Decode element." alt="" coords="448,5,634,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="664,33,635,32,635,27,669,33"/>
+<area shape="rect" id="Node000006" href="$group___c_i_p_h_e_r.html#ga84b74abe5a08f4217a88208b511f5c2e" title="Update file." alt="" coords="455,56,627,99"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="670,63,628,70,627,65,664,63"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa352f8f124794c0ca9608f598a496943" title="Decode line." alt="" coords="238,5,400,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,19,401,21,400,16,435,18"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9ff1be7441eb12f61a9cbab93cabeb75" title="Decode all lines." alt="" coords="5,5,190,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,19,191,21,190,16,225,18"/>
+</map>

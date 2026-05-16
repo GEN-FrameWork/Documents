@@ -1,0 +1,25 @@
+<map id="GRPWINDOWSSCREEN::Create" name="GRPWINDOWSSCREEN::Create">
+<area shape="rect" id="Node000001" title="Create." alt="" coords="5,132,229,159"/>
+<area shape="rect" id="Node000002" href="$class_x_m_a_p.html#a6dd238dccfceb726042b588a23107318" title=" " alt="" coords="334,81,424,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,129,322,105,317,108,191,134"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga6fa475c9228a35f6e835dfcd759eafbb" title="Create." alt="" coords="302,132,456,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,143,289,145,284,146,230,148"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#ga9a863f579f85fcca90d0f9867c742640" title="Get list screens." alt="" coords="277,183,482,209"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="190,157,294,178,289,180,190,162"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaa921cd73e39063458ef52ea7ad92ef8a" title="Create canvas." alt="" coords="530,107,733,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,135,517,131,512,132,457,140"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="810,5,1014,32"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="446,129,481,118,505,105,529,92,598,71,654,61,781,41,827,35,822,36,782,47,654,66,599,76,531,97,507,109,483,122,447,134"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="812,157,1012,184"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="457,146,800,164,795,166,457,152"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#ga2f0d20d8b617a48f13592778eb476a7b" title="Get instance." alt="" coords="536,208,727,235"/>
+<area shape="poly" id="edge9_Node000003_Node000011" title=" " alt="" coords="442,157,483,168,531,187,573,203,567,203,529,192,481,173,441,162"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga843fe43b70062ad911142db94e69a7f3" title="Copy propertys from." alt="" coords="781,56,1043,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,103,822,86,817,86,710,109"/>
+<area shape="poly" id="edge5_Node000004_Node000008" title=" " alt="" coords="654,104,710,72,780,41,804,37,810,36,782,47,712,77,656,109"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga1a9445c147fafbcf926caecaa5a13430" title="Get mode." alt="" coords="813,107,1011,133"/>
+<area shape="poly" id="edge6_Node000004_Node000009" title=" " alt="" coords="733,117,800,120,795,120,734,123"/>
+<area shape="poly" id="edge7_Node000004_Node000010" title=" " alt="" coords="710,131,822,154,817,154,709,137"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga444df6931e5e61b7265f54c1b340740a" title="Constructor of class." alt="" coords="807,208,1017,235"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="727,219,794,221,789,221,727,224"/>
+</map>

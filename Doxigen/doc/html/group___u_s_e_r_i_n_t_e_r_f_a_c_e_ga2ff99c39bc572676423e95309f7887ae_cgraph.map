@@ -1,0 +1,10 @@
+<map id="UI_MANAGER::ResetPreselect" name="UI_MANAGER::ResetPreselect">
+<area shape="rect" id="Node000001" title="Reset preselect." alt="" coords="5,67,214,93"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1aa705193411dd2f1bae3e9724214fa1" title="Elements set to redraw." alt="" coords="270,29,443,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,65,257,62,252,63,214,70"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga07dd565c77a4cae2797f4e06841bdc39" title="Set pre select." alt="" coords="262,96,451,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="214,90,249,96,243,96,214,95"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga404f87af2a57f1061b528d801ada2879" title="Elements set to redraw." alt="" coords="499,29,655,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,48,486,50,481,51,443,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="536,27,533,19,541,10,555,5,577,3,601,5,617,14,611,13,599,10,577,8,556,10,544,15,539,21,540,30"/>
+</map>

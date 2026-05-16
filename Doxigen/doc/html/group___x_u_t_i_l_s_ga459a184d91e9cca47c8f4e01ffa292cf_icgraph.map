@@ -1,0 +1,47 @@
+<map id="XFILETXT::ReadNLines" name="XFILETXT::ReadNLines">
+<area shape="rect" id="Node000001" title="Read N lines." alt="" coords="1105,373,1267,400"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga663cafd23c22ad4d85736f1611a4a831" title="Detect type." alt="" coords="820,348,1057,375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1086,377,1057,376,1057,371,1092,376"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab45ab798e4a30caa0b784cad7815db22" title="Read all file." alt="" coords="860,399,1017,425"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1087,397,1018,407,1017,401,1092,396"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1b2792708ad7f32d98b77d6b853d9b34" title="Add file." alt="" coords="516,5,729,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="843,404,819,389,802,368,791,347,782,306,785,264,794,223,802,182,805,142,796,101,786,82,770,62,751,46,730,36,729,31,754,42,774,58,790,79,801,100,811,141,808,183,799,224,790,265,787,305,796,345,807,365,822,385,848,404"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab9a542ef5067058393c9ab5f4373a2ae" title="Capabilities file load." alt="" coords="532,72,712,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="843,403,818,389,796,357,787,325,788,292,793,260,798,229,799,197,791,166,770,135,744,115,713,103,712,98,746,111,774,131,796,164,804,197,803,229,798,261,793,293,793,324,801,355,822,385,848,403"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4f45e0d284797cce4a60c8b5c058a50f" title="Open." alt="" coords="255,109,398,136"/>
+<area shape="poly" id="edge17_Node000003_Node000006" title=" " alt="" coords="843,403,818,389,799,362,792,335,791,308,795,280,798,254,798,228,790,203,771,179,752,171,719,163,619,149,400,130,398,124,620,143,720,158,754,166,774,175,794,201,803,227,803,254,800,281,797,308,797,334,804,360,822,385,848,403"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7e98c016493127b3c54301f61ef78117" title="Decode all lines." alt="" coords="530,189,715,216"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="842,402,819,389,803,369,795,348,794,307,793,267,786,248,771,230,745,214,716,205,715,200,747,209,774,226,790,245,798,266,799,307,800,347,807,366,822,385,847,402"/>
+<area shape="rect" id="Node000008" href="$group___c_i_p_h_e_r.html#ga825587d4855c06f34331abb81a048404" title="generate embedded headere" alt="" coords="472,240,772,283"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="843,400,819,389,807,377,800,365,794,341,788,318,781,307,771,297,754,286,754,281,774,293,785,304,793,316,799,340,805,363,811,374,822,385,848,400"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac35d7b39473bc713bc4fa6faf4835bd9" title="Get device handlers." alt="" coords="514,307,730,349"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="843,395,819,389,795,376,771,364,730,351,730,346,773,359,798,372,821,384,848,394"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga54b3bdd4a4d655f2907d73b06ad1134e" title="Get type hardware." alt="" coords="503,373,741,400"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="842,405,742,399,741,394,847,404"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga31c3a04c8644ef17d69d2e8e8de873c6" title="Host file." alt="" coords="551,424,693,451"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="841,420,694,434,693,429,846,419"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gadba6a6e59e887b1c44ee49cbbd18a30a" title="Is running." alt="" coords="520,475,725,501"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="880,432,773,465,718,477,716,471,772,460,885,430"/>
+<area shape="rect" id="Node000018" href="$group___g_r_a_p_h_i_c.html#gaf2c7abc3368ad7f5f207019a09c21e5f" title="Load." alt="" coords="524,525,721,552"/>
+<area shape="poly" id="edge16_Node000003_Node000018" title=" " alt="" coords="910,434,849,478,812,499,773,516,722,530,721,525,771,511,809,494,846,473,905,436"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gacaac27c3fa9bc9881412d67022ca7f04" title="Read and decode all lines." alt="" coords="522,576,723,619"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="919,436,859,504,818,538,774,566,724,585,722,580,771,562,815,533,855,500,915,439"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga2b13857ddd2b8711881f96044f624908" title="Read and decode all lines." alt="" coords="518,643,726,685"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="927,438,904,484,870,536,827,589,801,612,774,633,727,654,725,649,771,628,798,608,823,585,866,533,899,481,923,441"/>
+<area shape="rect" id="Node000021" href="$group___c_i_p_h_e_r.html#gac81c2e90e782bab336d5a9154058895f" title="read from file" alt="" coords="472,709,772,752"/>
+<area shape="poly" id="edge20_Node000003_Node000021" title=" " alt="" coords="931,438,913,496,881,566,860,603,835,639,806,671,774,699,754,711,753,706,771,695,803,668,831,635,855,600,876,564,908,494,927,442"/>
+<area shape="rect" id="Node000022" href="$group___x_u_t_i_l_s.html#ga6e93bf1397a8b8e9540674ff2434ba36" title="Serialization." alt="" coords="544,776,700,803"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="935,439,921,509,891,598,870,645,844,690,812,731,774,766,739,784,701,793,700,787,737,779,771,762,808,727,839,687,865,642,886,596,915,508,931,443"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="514,105,400,118,398,113,518,102"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga90b984d845b1803f1be9cde632dd32ac" title="Host file." alt="" coords="256,424,398,451"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="533,439,399,440,398,435,538,436"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga595406b5460f52c94a719285c20428dc" title="Activate." alt="" coords="230,475,424,501"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="501,489,425,491,424,485,506,487"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gaf2600be795793bf175bc8e938450ca49" title="Exec." alt="" coords="5,500,182,527"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="514,505,424,516,297,520,183,519,181,514,297,515,424,511,519,503"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="212,502,183,506,181,501,216,499"/>
+<area shape="rect" id="Node000023" href="$group___x_u_t_i_l_s.html#ga321cd5d7c4171cd2b3a915d55bcbfc2e" title="Close." alt="" coords="268,751,386,777"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="526,782,386,772,387,766,532,781"/>
+<area shape="rect" id="Node000027" href="$group___x_u_t_i_l_s.html#ga2bbf156b57f0ae43713568ddfadf6003" title="Open." alt="" coords="269,801,384,828"/>
+<area shape="poly" id="edge23_Node000022_Node000027" title=" " alt="" coords="532,797,385,812,385,807,526,797"/>
+</map>

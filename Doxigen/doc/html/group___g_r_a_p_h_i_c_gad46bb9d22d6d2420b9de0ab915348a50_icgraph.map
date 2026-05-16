@@ -1,0 +1,13 @@
+<map id="GRPBITMAP::GetBufferSize" name="GRPBITMAP::GetBufferSize">
+<area shape="rect" id="Node000001" title="Get buffer size." alt="" coords="710,72,900,99"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga930ae26fffacb1bd71026dfb590636b5" title="Capture content." alt="" coords="432,5,662,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,68,644,51,644,46,731,68"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaae912b2a3e36b03a0ffa3a963d02474b" title="Compare." alt="" coords="466,72,628,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="692,86,629,88,628,83,697,85"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaf73ac47344352df591067147b60b8545" title="Find sub bitmap." alt="" coords="448,123,646,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="721,102,619,125,618,119,716,103"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#ga7b8ad655c2e9a6ce5cac04142869f492" title="all_Window_GetPosX" alt="" coords="226,123,384,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="430,136,385,139,385,133,436,136"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#ga52d06ed6d5fb2c73904be02dc502d325" title="Add library functions." alt="" coords="5,115,178,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="207,136,178,139,178,133,212,136"/>
+</map>

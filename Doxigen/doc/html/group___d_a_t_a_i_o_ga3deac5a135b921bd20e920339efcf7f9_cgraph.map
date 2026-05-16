@@ -1,0 +1,15 @@
+<map id="DIOWEBSERVER_PLUGIN_CGI::DIOWEBSERVER_PLUGIN_CGI" name="DIOWEBSERVER_PLUGIN_CGI::DIOWEBSERVER_PLUGIN_CGI">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,35,264,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga32b82df251d71bd94418daee37baf571" title="Get name." alt="" coords="312,5,500,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,39,299,38,293,39,265,45"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="351,72,460,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,67,339,78,333,78,264,73"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="566,47,700,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,77,547,70,552,69,461,82"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="548,97,717,124"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,89,535,99,530,99,461,94"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="771,47,909,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="700,57,758,60,753,60,701,63"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="765,97,915,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="718,108,752,111,747,111,718,113"/>
+</map>

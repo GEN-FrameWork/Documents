@@ -1,0 +1,23 @@
+<map id="XFILECFGVALUE::GetValue" name="XFILECFGVALUE::GetValue">
+<area shape="rect" id="Node000001" title="Get value." alt="" coords="735,115,926,141"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga826b5db4a22c232be2b55703b6f161f1" title="Get value." alt="" coords="540,13,687,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,106,686,54,658,43,658,38,688,50,796,107"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga46b6bbcf5258ce4daa43b1cce4510737" title="Get value." alt="" coords="540,64,687,91"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="753,111,674,94,674,89,758,110"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga11ac0021f4e287384b8e038ce1db28b7" title="Load." alt="" coords="552,115,675,141"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="718,128,675,131,675,125,723,128"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga78add3e969e22eb5ed4eb1794ebdb9db" title="save" alt="" coords="552,165,676,192"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="758,145,674,167,673,162,753,146"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga7aae8ce7d6caa9e8db904849bd57b40f" title="Set value." alt="" coords="540,216,687,243"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="796,149,688,206,659,218,658,213,686,202,790,150"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#a6bf042c84c43c43749459bbc85c466aa" title=" " alt="" coords="257,148,492,191"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,45,541,54,464,102,403,150,400,145,461,98,539,50,550,47"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#ga80eea700679a796eea3c7dc56eab2244" title="Call_GetFileCFGValue." alt="" coords="298,13,451,40"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="521,27,452,29,451,24,527,26"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#ab5bf1b3da1ed08ed562a9a0ab4540706" title=" " alt="" coords="17,156,197,183"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="238,170,198,172,197,167,243,169"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="152,142,138,137,107,135,79,137,63,142,60,147,67,155,62,156,54,147,60,137,78,131,107,129,139,132,157,141"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#gadbd11f4db1eef8b1e5e8203e2ffcb8a8" title="Add library functions." alt="" coords="5,5,209,48"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="280,28,210,29,208,24,284,25"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="540,212,462,194,463,189,545,212"/>
+</map>

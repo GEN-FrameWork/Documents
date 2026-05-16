@@ -1,0 +1,15 @@
+<map id="XFILECFG::GetCFGValue" name="XFILECFG::GetCFGValue">
+<area shape="rect" id="Node000001" title="Get CFG value." alt="" coords="772,56,948,83"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_c_f_g.html#ade7e44ef9fc2587a1f4799829d2331e1" title=" " alt="" coords="517,5,724,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,52,687,35,687,30,781,52"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#a6bf042c84c43c43749459bbc85c466aa" title=" " alt="" coords="234,77,469,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="754,76,469,95,469,89,759,75"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga6a8ac4f5734804a38374e1d8981f4bb7" title="Del CFG value." alt="" coords="534,107,708,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="781,86,687,109,687,103,776,87"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga7a850cc4f628053b3eb58bf00763e4da" title="Do variable mapping." alt="" coords="234,5,468,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,19,469,21,469,16,504,18"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#ab5bf1b3da1ed08ed562a9a0ab4540706" title=" " alt="" coords="5,85,186,112"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,99,186,101,186,96,220,98"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="139,71,125,66,95,64,68,66,54,71,50,76,58,85,52,85,45,77,50,67,67,61,96,59,126,61,144,70"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="515,112,470,111,470,105,521,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DIOLINUXNETWORKMANAGER::GetConnectionState" name="DIOLINUXNETWORKMANAGER::GetConnectionState">
+<area shape="rect" id="Node000001" title="Get connection state." alt="" coords="5,39,228,81"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga4bbe6ed33c6309f1007527157c5e06f9" title="Delete." alt="" coords="276,5,472,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,43,263,41,258,42,229,48"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga0628c13ffc95147259e3bc8a3bd2a838" title="Get result." alt="" coords="276,72,472,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,72,263,79,258,79,228,77"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga079930d936bef04d41719c34134af3ce" title="Trace error." alt="" coords="520,80,712,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,91,507,93,501,93,473,96"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="760,80,871,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="713,91,747,93,742,93,713,96"/>
+</map>

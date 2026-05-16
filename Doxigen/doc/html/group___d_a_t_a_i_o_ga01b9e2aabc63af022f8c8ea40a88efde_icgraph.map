@@ -1,0 +1,7 @@
+<map id="DIODYNDNS::GetPublicIP" name="DIODYNDNS::GetPublicIP">
+<area shape="rect" id="Node000001" title="Get public IP." alt="" coords="511,13,692,40"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gabfc00f7db3078ddb6c9f63f50d06b601" title="Is changed public IP." alt="" coords="240,13,463,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,27,463,29,463,24,498,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga773808c710868c72c4b8a8039f18984d" title="assing all" alt="" coords="5,5,192,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,27,192,29,192,24,227,26"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIOI2CAIRQUALITYCCS811::GetStatus" name="DIOI2CAIRQUALITYCCS811::GetStatus">
+<area shape="rect" id="Node000001" title="Get status." alt="" coords="249,72,444,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga50f3ea05e21c14ec5da65f790d040da8" title="Have status error." alt="" coords="5,5,201,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,68,184,51,183,46,254,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga755b8569c01c1dbdd08cdf718a11c15c" title="Is app valid." alt="" coords="5,72,201,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,94,201,96,201,91,236,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3ace08ac9964b2db8cfeb303aeffb45d" title="Is data available." alt="" coords="5,139,201,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,119,184,141,183,135,249,120"/>
+</map>

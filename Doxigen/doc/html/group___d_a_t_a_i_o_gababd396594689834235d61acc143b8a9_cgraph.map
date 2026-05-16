@@ -1,0 +1,24 @@
+<map id="DIOURL::GetExtension" name="DIOURL::GetExtension">
+<area shape="rect" id="Node000001" title="Get extension." alt="" coords="5,207,165,233"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="216,80,336,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,204,149,166,211,123,234,112,230,116,214,128,153,170,105,208"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="585,80,735,107"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="165,213,367,196,466,183,536,167,587,143,628,117,633,115,589,147,538,172,467,188,368,201,166,218"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="394,131,531,157"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="119,204,163,188,212,173,298,157,382,149,377,151,299,163,213,179,165,193,121,208"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="213,232,340,259"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="165,228,200,234,195,236,166,233"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="394,283,532,309"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="114,231,161,251,213,268,297,283,380,293,375,294,297,288,212,273,159,256,114,236"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="221,333,332,360"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="103,231,153,270,214,312,235,326,229,326,211,317,149,274,102,236"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="406,29,520,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,77,399,59,394,62,329,82"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="336,91,572,92,567,95,337,96"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="328,105,399,125,394,127,329,110"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="430,28,425,21,429,11,442,5,463,3,485,5,498,14,493,14,483,10,463,8,443,10,433,15,430,20,436,29"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="518,54,593,75,588,76,518,59"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="388,232,537,259"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="340,243,375,245,370,246,341,248"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="329,257,399,278,394,278,328,262"/>
+</map>

@@ -1,0 +1,86 @@
+<map id="DIOIEC60870_5::CMD_C_TR_AA_ReadValues" name="DIOIEC60870_5::CMD_C_TR_AA_ReadValues">
+<area shape="rect" id="Node000001" title="CMDCTRAA read values." alt="" coords="5,839,171,881"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="502,236,618,263"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,838,99,721,123,552,140,466,161,387,186,323,201,299,217,281,247,259,280,244,315,233,351,227,423,225,489,233,485,236,423,231,352,233,316,239,282,249,249,264,220,285,205,302,191,326,166,389,145,467,128,553,105,722,94,838"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga692477cd14bdc5cee6a7537d1f07c297" title="CMDCACNA2 ini session." alt="" coords="236,169,408,212"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="88,838,101,714,125,532,142,438,163,351,188,279,202,251,217,229,229,219,227,224,221,232,206,254,193,281,168,353,148,439,130,533,106,715,94,838"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga56c2346e42a835db123e967187bce3a5" title="CMD request user data class2." alt="" coords="473,287,647,329"/>
+<area shape="poly" id="edge22_Node000001_Node000008" title=" " alt="" coords="89,838,100,729,125,573,142,493,163,420,188,362,202,340,217,323,243,305,272,292,334,277,398,275,460,282,455,285,398,281,335,283,274,297,246,310,220,327,206,343,192,364,168,422,147,494,130,574,106,730,94,839"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="504,353,617,380"/>
+<area shape="poly" id="edge23_Node000001_Node000012" title=" " alt="" coords="87,838,91,764,97,714,108,658,124,601,147,545,178,493,217,447,255,431,325,412,490,378,486,382,326,417,257,436,220,452,182,496,152,548,129,603,113,660,103,714,96,764,92,839"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="480,404,640,431"/>
+<area shape="poly" id="edge36_Node000001_Node000013" title=" " alt="" coords="87,838,94,771,113,677,130,626,152,577,181,531,217,491,251,477,313,461,467,432,463,435,314,466,253,482,220,496,185,534,157,579,135,628,118,678,99,771,93,839"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga47fce49954b7fd50de1918ac31558070" title="CMDCFSNA2 end session." alt="" coords="232,337,412,380"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="86,838,90,758,96,702,106,641,122,576,145,512,176,451,217,397,231,386,228,391,221,401,181,454,150,514,128,578,111,642,101,703,95,758,92,839"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gaa0795f66224ea08f057a0dd187a4d742" title="Get active power phase." alt="" coords="236,505,408,548"/>
+<area shape="poly" id="edge24_Node000001_Node000015" title=" " alt="" coords="90,838,101,782,124,707,141,667,162,628,187,591,217,558,224,554,222,559,221,562,191,594,166,630,146,669,129,709,107,784,95,839"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#ga7e6c8ec9488105589c6b73d6345d6997" title="Get date time." alt="" coords="236,572,408,615"/>
+<area shape="poly" id="edge25_Node000001_Node000016" title=" " alt="" coords="93,838,108,793,134,736,169,676,192,649,217,625,225,621,222,625,220,629,196,652,174,679,138,738,113,795,98,839"/>
+<area shape="rect" id="Node000017" href="$group___d_a_t_a_i_o.html#ga62cb48ddb801aa3ca64dd6961b101498" title="Get reactive power phase." alt="" coords="234,639,410,681"/>
+<area shape="poly" id="edge26_Node000001_Node000017" title=" " alt="" coords="98,837,144,766,178,726,217,691,227,687,224,691,220,696,181,729,148,769,103,839"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga17ae2a6e5d190c06baeab355b760e159" title="Get time label type a." alt="" coords="219,705,425,748"/>
+<area shape="poly" id="edge27_Node000001_Node000018" title=" " alt="" coords="110,837,158,797,217,758,231,753,228,757,220,762,161,801,115,840"/>
+<area shape="rect" id="Node000025" href="$group___d_a_t_a_i_o.html#gac8786dce61383e71bde4b73dca51fec9" title="Get total active power." alt="" coords="236,772,408,815"/>
+<area shape="poly" id="edge34_Node000001_Node000025" title=" " alt="" coords="163,836,231,818,228,822,167,840"/>
+<area shape="rect" id="Node000026" href="$group___d_a_t_a_i_o.html#gaa255e49b2b5e3e47ccee7b45e529aa61" title="Get total reactive power." alt="" coords="236,839,408,881"/>
+<area shape="poly" id="edge35_Node000001_Node000026" title=" " alt="" coords="169,858,223,858,219,862,172,862"/>
+<area shape="rect" id="Node000027" href="$group___d_a_t_a_i_o.html#gadd5c370c7e836b93f81b5135396d4f78" title="Set active export." alt="" coords="236,905,408,948"/>
+<area shape="poly" id="edge37_Node000001_Node000027" title=" " alt="" coords="164,879,232,899,227,902,166,884"/>
+<area shape="rect" id="Node000028" href="$group___d_a_t_a_i_o.html#ga88d08b8d0901cace7ded5d7489dbf34c" title="Set active import." alt="" coords="236,972,408,1015"/>
+<area shape="poly" id="edge38_Node000001_Node000028" title=" " alt="" coords="112,879,161,919,220,958,232,964,227,967,217,962,158,923,113,884"/>
+<area shape="rect" id="Node000029" href="$group___d_a_t_a_i_o.html#gac41aa4cba57cc28b14c229083d542fab" title="Set active power phase." alt="" coords="236,1039,408,1081"/>
+<area shape="poly" id="edge39_Node000001_Node000029" title=" " alt="" coords="100,879,148,951,181,991,220,1025,228,1030,223,1032,217,1029,178,994,144,954,101,884"/>
+<area shape="rect" id="Node000030" href="$group___d_a_t_a_i_o.html#ga49866865166b560015d7fe0dc56269e3" title="Set current phase." alt="" coords="236,1105,408,1148"/>
+<area shape="poly" id="edge40_Node000001_Node000030" title=" " alt="" coords="95,879,113,925,138,982,174,1041,196,1068,220,1091,226,1096,221,1098,217,1095,192,1071,169,1044,134,984,108,927,96,885"/>
+<area shape="rect" id="Node000031" href="$group___d_a_t_a_i_o.html#gaf0936e223530d2a5f5e79a81b7b3b240" title="Set power factor phase." alt="" coords="236,1172,408,1215"/>
+<area shape="poly" id="edge41_Node000001_Node000031" title=" " alt="" coords="92,879,107,937,129,1011,146,1051,166,1090,191,1126,221,1158,226,1163,221,1164,217,1162,187,1129,162,1093,141,1053,124,1013,101,938,93,884"/>
+<area shape="rect" id="Node000032" href="$group___d_a_t_a_i_o.html#gaab04236ba47cfd44b13e11d55b8c663a" title="Set reactive power phase." alt="" coords="234,1239,410,1281"/>
+<area shape="poly" id="edge42_Node000001_Node000032" title=" " alt="" coords="91,879,101,948,121,1040,137,1090,159,1139,186,1184,221,1225,224,1229,219,1230,217,1229,182,1188,154,1141,132,1091,116,1041,96,949,90,884"/>
+<area shape="rect" id="Node000033" href="$group___d_a_t_a_i_o.html#ga029c0efcf130f04267bbfb806298acd4" title="Set reactive q." alt="" coords="236,1305,408,1348"/>
+<area shape="poly" id="edge43_Node000001_Node000033" title=" " alt="" coords="89,879,96,959,113,1068,129,1128,152,1187,182,1243,221,1292,226,1298,221,1298,217,1295,177,1246,147,1189,124,1130,108,1070,91,959,89,885"/>
+<area shape="rect" id="Node000034" href="$group___d_a_t_a_i_o.html#ga5d6c04c2e56acea5f68e49129e02dd9d" title="Set total active power." alt="" coords="236,1372,408,1415"/>
+<area shape="poly" id="edge44_Node000001_Node000034" title=" " alt="" coords="92,879,110,982,137,1125,154,1199,174,1266,197,1321,221,1358,226,1365,221,1365,217,1362,192,1324,169,1268,149,1200,132,1127,105,983,92,884"/>
+<area shape="rect" id="Node000035" href="$group___d_a_t_a_i_o.html#gaf9d8f808d08dbe8f7b831baef3606a14" title="Set total power factor." alt="" coords="236,1439,408,1481"/>
+<area shape="poly" id="edge45_Node000001_Node000035" title=" " alt="" coords="92,879,107,994,133,1158,150,1242,171,1319,194,1382,221,1425,226,1432,221,1431,217,1428,189,1384,166,1320,145,1243,128,1159,102,995,91,884"/>
+<area shape="rect" id="Node000036" href="$group___d_a_t_a_i_o.html#gaca113d81ed0d92cf78603f48fc257a84" title="Set total reactive power." alt="" coords="236,1505,408,1548"/>
+<area shape="poly" id="edge46_Node000001_Node000036" title=" " alt="" coords="91,879,105,1006,129,1190,146,1284,167,1371,192,1443,206,1471,221,1492,226,1499,221,1498,217,1495,201,1473,187,1445,162,1373,141,1286,124,1190,100,1007,91,885"/>
+<area shape="rect" id="Node000037" href="$group___d_a_t_a_i_o.html#ga28792ddefbd7b3f2bcd052c6f87550d6" title="Set voltage phase." alt="" coords="236,1572,408,1615"/>
+<area shape="poly" id="edge47_Node000001_Node000037" title=" " alt="" coords="91,879,103,1018,125,1221,142,1327,163,1424,189,1504,204,1535,221,1558,226,1566,221,1564,217,1562,200,1538,184,1506,158,1425,137,1328,120,1222,97,1018,90,885"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="699,239,832,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="617,248,686,250,681,252,620,252"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="884,213,1043,240"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="616,235,695,224,784,220,871,221,866,224,784,225,696,229,619,240"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="831,241,870,237,866,240,834,246"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="407,210,490,230,486,233,410,214"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaea3e250784ee7871d38b0f1d2bd8e0df" title="CMD request status link." alt="" coords="482,36,638,79"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="350,167,405,128,472,88,486,83,482,87,474,93,408,133,354,170"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga612248178a7a5970a14c500ee720773e" title="CMD request user data class1." alt="" coords="473,103,647,145"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="399,167,469,148,465,152,402,171"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="358,210,474,272,488,279,483,281,472,277,360,215"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga687a2f52b6431b4494f887a133f3bfdb" title="CMD reset remote link." alt="" coords="482,169,638,212"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="407,189,469,189,464,192,410,193"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="700,61,831,88"/>
+<area shape="poly" id="edge13_Node000005_Node000011" title=" " alt="" coords="332,168,353,133,384,92,424,52,447,35,472,22,519,6,558,4,599,10,648,21,690,34,729,53,724,55,688,39,647,27,598,16,558,9,520,11,474,26,450,40,428,56,388,95,358,136,337,170"/>
+<area shape="poly" id="edge15_Node000005_Node000012" title=" " alt="" coords="339,210,396,275,433,309,474,339,491,348,487,350,472,344,430,313,392,278,340,215"/>
+<area shape="poly" id="edge16_Node000005_Node000013" title=" " alt="" coords="340,210,427,324,448,360,458,375,475,390,483,396,478,398,471,394,454,379,444,363,423,327,340,215"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gabfaf967d136d37f0c5dcf4ded0296dac" title="Get byte." alt="" coords="695,291,836,317"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="646,304,682,304,678,307,649,309"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="801,288,835,275,916,244,912,248,837,280,805,292"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="784,86,935,203,930,205,785,91"/>
+<area shape="poly" id="edge18_Node000014_Node000002" title=" " alt="" coords="355,335,409,303,472,272,492,266,488,270,474,277,412,308,359,338"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="410,338,459,328,456,332,414,342"/>
+<area shape="poly" id="edge20_Node000014_Node000012" title=" " alt="" coords="411,359,490,363,486,366,413,364"/>
+<area shape="poly" id="edge21_Node000014_Node000013" title=" " alt="" coords="410,378,490,398,486,401,412,383"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gad0bec954a744ea5e976275973cd6eea7" title="Set day." alt="" coords="486,688,635,715"/>
+<area shape="poly" id="edge28_Node000018_Node000019" title=" " alt="" coords="424,713,472,709,468,713,427,718"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga13a958415b92d0fd57f4cbac8851a88d" title="Set hours." alt="" coords="480,739,640,765"/>
+<area shape="poly" id="edge29_Node000018_Node000020" title=" " alt="" coords="424,735,467,741,462,743,427,740"/>
+<area shape="rect" id="Node000021" href="$group___x_u_t_i_l_s.html#ga69173332be1d9f8c586e1a88417b0515" title="Set minutes." alt="" coords="474,789,646,816"/>
+<area shape="poly" id="edge30_Node000018_Node000021" title=" " alt="" coords="390,746,426,758,474,775,498,783,493,785,472,780,424,763,392,751"/>
+<area shape="rect" id="Node000022" href="$group___x_u_t_i_l_s.html#ga001f98667032c95241a60a29bae990bf" title="Set month." alt="" coords="480,840,641,867"/>
+<area shape="poly" id="edge31_Node000018_Node000022" title=" " alt="" coords="405,746,427,758,443,775,451,793,459,810,475,826,483,832,478,834,471,830,455,813,446,795,439,778,423,762,407,751"/>
+<area shape="rect" id="Node000023" href="$group___x_u_t_i_l_s.html#ga5f69e1fb5fa02a3d1346dbf8b00a114d" title="Set to zero." alt="" coords="478,587,643,613"/>
+<area shape="poly" id="edge32_Node000018_Node000023" title=" " alt="" coords="404,703,423,691,439,675,446,658,455,640,471,623,482,619,479,623,475,627,459,644,451,660,443,678,427,695,408,707"/>
+<area shape="rect" id="Node000024" href="$group___x_u_t_i_l_s.html#ga794f5f740556e7309c1db19815f8b3b2" title="Set year." alt="" coords="484,637,636,664"/>
+<area shape="poly" id="edge33_Node000018_Node000024" title=" " alt="" coords="389,703,424,691,472,674,497,667,493,671,474,679,426,696,393,707"/>
+</map>

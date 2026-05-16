@@ -1,0 +1,24 @@
+<map id="XDATETIME::SetDateFromSeconds" name="XDATETIME::SetDateFromSeconds">
+<area shape="rect" id="Node000001" title="Set date from seconds." alt="" coords="778,157,1013,184"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga6441f94444f63dc0c927ada728afabed" title="Add hours." alt="" coords="546,5,709,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="867,146,808,97,770,70,729,46,701,35,701,30,731,42,773,65,811,92,873,147"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaed8dac023a96e7639689afc900aa03a3" title="Add minutes." alt="" coords="540,56,715,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="852,150,796,124,729,97,693,86,693,81,731,92,798,119,857,150"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad566682e128db1927cd42bcf65af936c" title="Add seconds." alt="" coords="538,107,717,133"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="804,154,702,137,702,131,809,154"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga04762e3b21e23e2e228d8d030ceefd8a" title="Get measure to date." alt="" coords="282,136,475,163"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="760,166,476,156,475,151,765,164"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga71db5c6d60495d4685e0ad774e7f5ade" title="Subtract hours." alt="" coords="533,208,722,235"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="809,187,702,210,701,205,804,188"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga89c6173c0090a0e993336d1303400cb7" title="Subtract minutes." alt="" coords="528,259,728,285"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="857,191,798,222,731,249,693,261,692,255,729,244,796,217,852,192"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga2da8aaee806c369ed78376d7e9591afb" title="Subtract seconds." alt="" coords="525,309,730,336"/>
+<area shape="poly" id="edge11_Node000001_Node000015" title=" " alt="" coords="872,194,811,249,773,276,731,300,701,311,700,306,729,295,770,272,808,245,867,196"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7905535610e352616cb1f642402f6cca" title="Get date time to string ISO8601." alt="" coords="280,48,477,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,70,478,72,477,67,528,69"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab6e330e6a2e5e4c4c3edcef8304763a6" title="To string." alt="" coords="47,56,190,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,71,192,72,190,67,266,68"/>
+<area shape="poly" id="edge6_Node000010_Node000011" title=" " alt="" coords="520,133,476,141,475,135,525,132"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a" title="Set N cycles." alt="" coords="5,136,232,163"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="264,150,233,152,231,147,269,148"/>
+</map>

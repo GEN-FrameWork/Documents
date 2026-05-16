@@ -1,0 +1,7 @@
+<map id="DIOSTREAM::WaitToFilledReadingBuffer" name="DIOSTREAM::WaitToFilledReadingBuffer">
+<area shape="rect" id="Node000001" title="Wait to filled reading buffer." alt="" coords="5,23,234,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa48e892d5c3e70987015f1858d4df326" title="Get in X buffer." alt="" coords="282,5,466,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,30,269,29,264,30,235,35"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="306,56,442,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,53,293,61,288,61,234,58"/>
+</map>

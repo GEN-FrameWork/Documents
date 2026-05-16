@@ -1,0 +1,12 @@
+<map id="DIOSMTPATTACHMENT::FileExists" name="DIOSMTPATTACHMENT::FileExists">
+<area shape="rect" id="Node000001" title="File exists." alt="" coords="688,27,867,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3cdb6421ac0d85ca5c256eca4f78fbde" title="Add attachment." alt="" coords="234,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,23,640,17,523,11,415,14,414,9,523,5,641,12,688,23"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga2648fa8a9a36fde6385bf34db9977a4d" title="Get size." alt="" coords="462,27,640,69"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="670,48,641,51,641,45,675,48"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga214f393ee836d672db12526ab54393b4" title="Send." alt="" coords="491,93,611,120"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="681,73,606,95,605,90,676,74"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae5c523ec03a4b970f20d1cd5f666b33b" title="Add attachment." alt="" coords="5,5,186,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,19,187,21,186,16,221,18"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="444,35,415,33,414,28,449,34"/>
+</map>

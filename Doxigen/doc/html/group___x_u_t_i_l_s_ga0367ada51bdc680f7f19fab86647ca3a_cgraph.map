@@ -1,0 +1,18 @@
+<map id="XFILERIFF::GetChunkNode" name="XFILERIFF::GetChunkNode">
+<area shape="rect" id="Node000001" title="Get chunk node." alt="" coords="5,64,192,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga28c468b5889e5d503529639d25394647" title="Get list node." alt="" coords="260,39,429,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,65,247,61,242,63,193,70"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3402be458202fba945709619a8084778" title="Get type from string." alt="" coords="240,89,449,116"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="192,84,227,90,222,91,192,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,38,296,30,301,20,317,14,344,12,374,15,391,24,385,24,373,20,344,17,318,19,304,24,301,29,308,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="497,64,682,91"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="449,89,484,88,479,89,450,94"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="533,115,646,141"/>
+<area shape="poly" id="edge8_Node000003_Node000011" title=" " alt="" coords="450,111,520,121,515,121,450,116"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="769,5,884,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="646,61,753,37,758,36,647,66"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae206a2a617576a15816d25771d92b037" title="convert character unicode to ASCIi" alt="" coords="730,56,923,99"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="683,75,717,77,712,77,683,80"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="761,123,892,149"/>
+<area shape="poly" id="edge7_Node000004_Node000009" title=" " alt="" coords="647,89,758,119,753,118,646,94"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="XWINDOWSVIRTUALDESKTOPMANAGER::AddDesktopToList" name="XWINDOWSVIRTUALDESKTOPMANAGER::AddDesktopToList">
+<area shape="rect" id="Node000001" title="Add desktop to list." alt="" coords="5,35,293,77"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga25cb267baca59cd89a180703f14a4097" title="Get name." alt="" coords="341,5,560,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,39,328,38,323,39,294,45"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="396,72,505,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,67,383,78,377,79,293,73"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="626,47,760,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="505,77,607,69,613,68,506,82"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="608,97,777,124"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="506,88,595,100,590,100,505,94"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="831,47,969,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="760,57,818,60,813,60,761,63"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="825,97,975,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="778,108,812,111,807,111,778,113"/>
+</map>

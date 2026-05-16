@@ -1,0 +1,9 @@
+<map id="MAINPROC::Factorys_Ini" name="MAINPROC::Factorys_Ini">
+<area shape="rect" id="Node000001" title="Factorys ini." alt="" coords="233,56,407,83"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga641c2e9bdbb8758108a5151e2a171a58" title="Ini." alt="" coords="5,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,53,157,35,157,30,245,51"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___e_s_p32.html#ga74328b651693b3abe3118a80246050c7" title="Ini." alt="" coords="16,56,174,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,70,174,72,174,67,220,69"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga7fb78297a711c95ff00f6c81ebd2793d" title="Ini." alt="" coords="16,107,174,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,86,158,109,157,103,240,87"/>
+</map>

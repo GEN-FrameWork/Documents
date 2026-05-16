@@ -1,0 +1,9 @@
+<map id="DIOI2C3DACCELEROMETERLSM303DLHC" name="DIOI2C3DACCELEROMETERLSM303DLHC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,295,256"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_i2_c_l_s_m303_d_l_h_c.html" title=" " alt="" coords="74,155,226,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,195,152,230,148,228,148,199"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="91,80,209,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,120,152,155,148,153,149,125"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="102,5,198,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,45,153,80,147,79,149,50"/>
+</map>

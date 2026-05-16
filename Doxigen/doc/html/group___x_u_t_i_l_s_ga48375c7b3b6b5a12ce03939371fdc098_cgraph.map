@@ -1,0 +1,7 @@
+<map id="XSTRING::IsNumber" name="XSTRING::IsNumber">
+<area shape="rect" id="Node000001" title="Is number." alt="" coords="5,43,152,69"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga187ff0c36507a8c259c6b8d0d0cc1244" title="Character is number." alt="" coords="200,5,346,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,42,187,39,182,41,153,48"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="204,72,342,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,64,191,72,186,73,152,70"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="INPDEVICE::DeleteAllButtons" name="INPDEVICE::DeleteAllButtons">
+<area shape="rect" id="Node000001" title="Delete all buttons." alt="" coords="361,213,562,240"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga7118230a58aeafdf23a2ee6093e4676d" title="Destructor of class." alt="" coords="35,5,283,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,200,420,169,390,131,353,93,311,62,284,49,283,44,314,58,357,89,394,127,424,166,447,200"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga6db2b7e415238437ada5ea6524b98c31" title="Destructor of class." alt="" coords="48,72,270,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="430,203,377,166,312,129,271,115,270,110,314,124,380,161,435,203"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gab75de32181bd479d56ddd890933e6b13" title="Destructor of class." alt="" coords="20,139,298,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,210,312,196,262,185,261,179,313,191,387,209"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga81c5076fc877362934b9b5ac2cd063a7" title="Destructor of class." alt="" coords="33,205,285,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="343,228,286,229,285,224,348,226"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga3f9e42164e32361c108f3b994ad65dec" title="Destructor of class." alt="" coords="5,272,313,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="382,245,313,263,262,274,260,269,312,257,386,243"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabf75588602d0fe234c5e389d95a36068" title="Destructor of class." alt="" coords="31,339,287,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="435,249,380,292,314,329,282,341,280,336,312,324,377,288,430,252"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf15970944fcb489f8bca6268fba18020" title="Destructor of class." alt="" coords="44,405,274,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="446,252,424,288,394,326,357,364,314,396,275,413,273,408,311,391,353,360,390,322,420,284,442,255"/>
+</map>

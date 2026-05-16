@@ -1,0 +1,18 @@
+<map id="DIOI2C3DACCELEROMETERLSM303DLHC::Configure" name="DIOI2C3DACCELEROMETERLSM303DLHC::Configure">
+<area shape="rect" id="Node000001" title="Configure." alt="" coords="5,16,258,59"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="593,24,763,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,14,305,10,425,3,545,10,605,21,600,21,545,15,425,8,306,15,259,20"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga03a58536cf6451e6d8d986d149a5de35" title="Read register." alt="" coords="306,24,545,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,35,293,37,288,38,258,40"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gadf72efac92017c649a5c471004a008f1" title="Write register." alt="" coords="306,75,544,102"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="258,57,332,72,327,72,258,62"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="545,35,580,37,575,38,546,40"/>
+<area shape="poly" id="edge9_Node000004_Node000002" title=" " alt="" coords="495,72,591,55,596,54,496,77"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="620,75,736,102"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="545,86,608,88,603,88,545,91"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="811,50,945,76"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="736,78,793,74,798,73,736,84"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="993,75,1152,102"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="736,86,980,88,975,88,736,91"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="945,69,980,76,974,76,945,74"/>
+</map>

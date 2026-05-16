@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['xbyte_0',['XBYTE',['../_x_base_8h.html#a7ba3d378cab4450418bec78e604d47da',1,'XBase.h']]],
+  ['xbytesig_1',['XBYTESIG',['../_x_base_8h.html#a8c57ea5a2c85c5f87d29de3c38686094',1,'XBase.h']]],
+  ['xchar_2',['XCHAR',['../_x_string_8h.html#a03209152a681f02e4ba73b6681dd4968',1,'XString.h']]],
+  ['xdword_3',['XDWORD',['../_x_base_8h.html#a0e5b572e67f127f1afb599e257c539cf',1,'XBase.h']]],
+  ['xdwordsig_4',['XDWORDSIG',['../_x_base_8h.html#ac3a0fef7b64e71b191f9ed82a205743b',1,'XBase.h']]],
+  ['xfilecobol_5ffd_5ftree_5',['XFILECOBOL_FD_TREE',['../_x_file_cobol_8h.html#a351d57d22547cff23f3a5d7731cea647',1,'XFileCobol.h']]],
+  ['xfilecobol_5ffd_5ftreenode_6',['XFILECOBOL_FD_TREENODE',['../_x_file_cobol_8h.html#a5d63e3b130dc39d1d09ac958eebfce6e',1,'XFileCobol.h']]],
+  ['xfilecobol_5ffd_5ftreenodeiterator_7',['XFILECOBOL_FD_TREENODEITERATOR',['../_x_file_cobol_8h.html#a9b106f1024c20a5f2ffb8ef2691aec07',1,'XFileCobol.h']]],
+  ['xfileriff_5flist_5fnode_8',['XFILERIFF_LIST_NODE',['../_x_file_r_i_f_f_8h.html#a2ab4f641194a5111d5d0eeb0a0879d32',1,'XFileRIFF.h']]],
+  ['xfileriff_5flist_5fnode_5fiterator_9',['XFILERIFF_LIST_NODE_ITERATOR',['../_x_file_r_i_f_f_8h.html#ab10aa7a14f3978859e643af77c9e6725',1,'XFileRIFF.h']]],
+  ['xfileriff_5fxtree_10',['XFILERIFF_XTREE',['../_x_file_r_i_f_f_8h.html#af766cca15202f3e40ada1c6e77791022',1,'XFileRIFF.h']]],
+  ['xlimb_11',['XLIMB',['../_x_m_p_integer_8h.html#a10f16054072b0f51e48a4932910d9725',1,'XMPInteger.h']]],
+  ['xmpinteger_5ffuncrandom_12',['XMPINTEGER_FUNCRANDOM',['../_x_m_p_integer_8h.html#ad2bb269acb31703d2fe9aac10134738f',1,'XMPInteger.h']]],
+  ['xqword_13',['XQWORD',['../_x_base_8h.html#a86128ef639d896f7b12288868ddb7ad5',1,'XBase.h']]],
+  ['xqwordsig_14',['XQWORDSIG',['../_x_base_8h.html#a0afbffdfb038fa7953779f6d954863cd',1,'XBase.h']]],
+  ['xreal_15',['XREAL',['../_x_base_8h.html#af1f0e6e6419b5c1813bbb44df7fb4138',1,'XBase.h']]],
+  ['xthreadfunction_16',['XTHREADFUNCTION',['../_x_thread_8h.html#a75cd5e654ca0f2255ae2473172af98d6',1,'XThread.h']]],
+  ['xudbl_17',['XUDBL',['../_x_m_p_integer_8h.html#a00861ce075605e9651d0e6b48de040c3',1,'XMPInteger.h']]],
+  ['xwindowsvirtualdesktopmanager_5fhook_5ffunc_18',['XWINDOWSVIRTUALDESKTOPMANAGER_HOOK_FUNC',['../_x_w_i_n_d_o_w_s_virtual_desktop_manager_8h.html#a8e3075191c1d37bfabce94e4b6ad8d90',1,'XWINDOWSVirtualDesktopManager.h']]],
+  ['xword_19',['XWORD',['../_x_base_8h.html#a3f1fe1487089bc987e3d549a9064e653',1,'XBase.h']]],
+  ['xwordsig_20',['XWORDSIG',['../_x_base_8h.html#a59f2380c4a488da48d4fbfc353577fdf',1,'XBase.h']]]
+];

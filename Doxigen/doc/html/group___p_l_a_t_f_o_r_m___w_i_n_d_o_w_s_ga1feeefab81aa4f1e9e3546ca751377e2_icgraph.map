@@ -1,0 +1,10 @@
+<map id="XWINDOWSSERVICEBASE::SetServiceStatus" name="XWINDOWSSERVICEBASE::SetServiceStatus">
+<area shape="rect" id="Node000001" title="Set service status." alt="" coords="671,29,866,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="806,13,793,10,768,8,746,10,731,15,726,21,727,30,723,27,721,19,729,10,744,5,769,3,794,5,812,14"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf26011db77642f3bc1c88ed3674618ff" title="Stop." alt="" coords="429,29,623,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="653,51,624,53,624,48,658,51"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6511645bbe2494af1d792d3be9c0c9dc" title="INAPI Service_WorkerThread." alt="" coords="228,37,381,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="411,51,381,53,381,48,416,51"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga569af246729f36ad5169242f2902a9c0" title="On start." alt="" coords="5,29,180,72"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="209,51,180,53,180,48,215,50"/>
+</map>

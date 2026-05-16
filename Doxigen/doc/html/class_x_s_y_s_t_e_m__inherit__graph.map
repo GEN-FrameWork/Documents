@@ -1,0 +1,13 @@
+<map id="XSYSTEM" name="XSYSTEM">
+<area shape="rect" id="Node000001" title="eXtended Utils System class" alt="" coords="250,5,335,32"/>
+<area shape="rect" id="Node000002" href="$class_x_e_s_p32_s_y_s_t_e_m.html" title="eXtended utils ESP32 system class" alt="" coords="5,80,132,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,40,109,82,107,77,240,35"/>
+<area shape="rect" id="Node000003" href="$class_x_l_i_n_u_x_s_y_s_t_e_m.html" title="LINUX eXtended Utils System class." alt="" coords="155,80,280,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,41,232,82,229,77,267,44"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_m32_s_y_s_t_e_m.html" title="eXtended utils STM32 system class" alt="" coords="305,80,432,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="317,40,358,80,353,79,316,45"/>
+<area shape="rect" id="Node000006" href="$class_x_w_i_n_d_o_w_s_s_y_s_t_e_m.html" title="WINDOWS eXtended Utils System class." alt="" coords="457,80,611,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="349,34,494,79,489,80,349,40"/>
+<area shape="rect" id="Node000004" href="$class_x_a_n_d_r_o_i_d_s_y_s_t_e_m.html" title="ANDROID eXtended System class." alt="" coords="144,155,292,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,121,220,156,216,153,216,124"/>
+</map>

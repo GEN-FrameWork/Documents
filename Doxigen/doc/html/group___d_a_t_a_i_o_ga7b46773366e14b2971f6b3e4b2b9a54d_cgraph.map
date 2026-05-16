@@ -1,0 +1,5 @@
+<map id="DIOMODBUS_CLIENT::~DIOMODBUS_CLIENT" name="DIOMODBUS_CLIENT::~DIOMODBUS_CLIENT">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,5,173,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga93fc101c73bf7fa13f509bd25c9dff10" title="Disconnect." alt="" coords="221,13,453,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,24,207,26,202,27,173,29"/>
+</map>

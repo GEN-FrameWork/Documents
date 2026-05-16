@@ -1,0 +1,65 @@
+<map id="XEVENT" name="XEVENT">
+<area shape="rect" id="Node000001" title="eXtended Utils Event base class" alt="" coords="5,869,81,896"/>
+<area shape="rect" id="Node000002" href="$class_a_p_p_f_l_o_w_c_h_e_c_k_r_e_s_o_u_r_c_e_s_h_a_r_d_w_a_r_e___x_e_v_e_n_t.html" title="Application Flow Check Resources Hardware eXtended Event class." alt="" coords="157,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,853,50,679,66,427,77,300,91,189,107,105,116,76,127,58,157,37,155,42,131,62,121,78,112,106,96,190,82,301,71,427,55,679,48,854"/>
+<area shape="rect" id="Node000003" href="$class_a_p_p_f_l_o_w_i_n_t_e_r_n_e_t_s_e_r_v_i_c_e_s___x_e_v_e_n_t.html" title="Application Flow Internet Services eXtended Event class." alt="" coords="195,72,418,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="43,853,51,692,68,461,79,345,93,244,108,167,117,141,127,125,158,102,196,91,193,95,160,107,131,128,122,143,113,169,98,245,84,346,73,461,57,692,48,854"/>
+<area shape="rect" id="Node000004" href="$class_a_p_p_f_l_o_w___x_e_v_e_n_t.html" title="Application Flow eXtended Event class." alt="" coords="233,139,380,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="43,854,52,702,69,486,94,286,109,215,117,191,127,176,150,158,176,148,204,142,234,142,230,145,205,148,178,153,152,163,131,179,122,193,114,216,99,286,74,487,57,702,48,854"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_a_p_p_l_i_c_a_t_i_o_n_u_p_d_a_t_e___x_e_v_e_n_t.html" title="Data Input/Output Application Update eXtended Event class." alt="" coords="213,189,400,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="41,854,42,723,51,540,62,446,77,360,98,290,111,263,127,242,145,227,166,216,214,205,210,210,168,221,148,232,131,246,116,266,103,292,82,362,67,447,57,540,47,723,47,854"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_c_a_m_e_r_a___x_e_v_e_n_t.html" title="Data Input/Output eXtended event camera class." alt="" coords="224,256,388,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="41,854,43,733,54,564,64,478,79,400,100,336,112,311,127,293,148,277,172,267,225,259,222,263,173,272,150,282,131,297,117,314,105,338,84,401,69,479,59,565,49,733,47,854"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r___x_e_v_e_n_t.html" title="Data Input/Output Core Protocol Connections Manager eXtended Event class." alt="" coords="140,307,473,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="42,854,46,745,59,597,70,522,84,454,103,398,127,360,143,348,141,352,131,363,108,400,89,455,75,523,64,597,52,745,47,854"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___x_e_v_e_n_t.html" title="Data Input/Output Core Protocol eXtended Event class." alt="" coords="197,373,416,400"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="43,854,48,754,62,621,72,554,87,493,104,444,127,410,159,389,198,379,194,384,161,394,131,414,109,446,92,495,78,555,67,622,53,755,48,854"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_d_n_s_p_r_o_t_o_c_o_l___m_i_t_m___s_e_r_v_e_r___x_e_v_e_n_t.html" title="Data Input/Output Domain Network System (DNS) protocol Man&#45;in&#45;the&#45;Middle (MitM) Server eXtended Event..." alt="" coords="212,424,401,467"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="44,854,52,767,67,654,91,547,108,505,127,477,145,462,166,452,213,441,210,445,168,457,148,467,131,480,112,508,97,549,72,655,57,768,49,854"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_i_e_c60870__5___x_e_v_e_n_t.html" title=" " alt="" coords="217,491,396,517"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="44,854,54,777,70,679,94,587,109,551,127,527,147,513,169,504,218,495,215,499,171,509,149,518,131,531,114,554,99,589,75,680,59,778,50,854"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_l_i_n_u_x_d_b_u_s___x_e_v_e_n_t.html" title="LINUX Data Input/Output DBus eXtended Event class." alt="" coords="214,541,398,568"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="46,853,57,787,74,704,98,628,111,598,127,578,146,565,168,555,216,547,212,551,169,560,149,569,131,582,116,601,102,629,79,705,62,788,51,854"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_m_o_d_b_u_s_e_l_e_c_t_r_i_c_m_e_t_e_r_x_e_v_e_n_t.html" title=" " alt="" coords="170,592,442,619"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="42,854,47,804,60,743,70,711,85,681,104,653,127,629,147,615,171,607,168,611,149,620,130,633,108,656,90,683,75,713,65,744,52,805,47,854"/>
+<area shape="rect" id="Node000013" href="$class_d_i_o_n_o_d_e___x_e_v_e_n_t.html" title="Data Input/Output Node eXtended Event class." alt="" coords="234,643,379,669"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="45,854,53,814,67,766,91,719,108,697,127,679,151,665,178,655,235,649,232,653,180,660,154,670,130,683,112,701,96,722,72,768,58,815,50,855"/>
+<area shape="rect" id="Node000014" href="$class_d_i_o_p_i_n_g___x_e_v_e_n_t.html" title="Data Input/Output Ping protocol eXtended Event class." alt="" coords="237,693,376,720"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="49,854,60,824,76,790,98,757,127,730,153,716,180,707,238,701,234,705,182,712,155,721,130,734,102,760,81,792,65,826,54,855"/>
+<area shape="rect" id="Node000015" href="$class_d_i_o_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r___x_e_v_e_n_t.html" title="Data Input/Output Protocol Connections Manager eXtended Event class." alt="" coords="159,744,454,787"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="61,856,90,824,127,796,160,784,157,788,130,801,94,828,66,858"/>
+<area shape="rect" id="Node000016" href="$class_d_i_o_p_r_o_t_o_c_o_l___x_e_v_e_n_t.html" title="Data Input/Output eXtended event Generic Binary Protocol eXtended Event class." alt="" coords="216,811,396,837"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="87,861,128,847,218,831,214,835,129,852,91,865"/>
+<area shape="rect" id="Node000017" href="$class_d_i_o_s_t_r_e_a_m_b_l_u_e_t_o_o_t_h_l_e_r_e_m_o_t_e_e_n_u_m_d_e_v_i_c_e_s___x_e_v_e_n_t.html" title="Data Input/Output Stream Bluetooth LE remote Enum Devices eXtension event class." alt="" coords="129,861,484,904"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="95,881,130,881,127,884,98,885"/>
+<area shape="rect" id="Node000018" href="$class_d_i_o_s_t_r_e_a_m___x_e_v_e_n_t.html" title="Data Input/Output eXtended Event class." alt="" coords="225,928,388,955"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="87,900,129,913,227,932,223,935,128,919,90,905"/>
+<area shape="rect" id="Node000019" href="$class_d_i_o_w_e_b_c_l_i_e_n_t___x_e_v_e_n_t.html" title="Data Input/Output Web Client Event class." alt="" coords="214,979,399,1005"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="62,906,93,938,130,964,171,979,216,988,211,991,169,984,127,969,89,942,63,911"/>
+<area shape="rect" id="Node000020" href="$class_d_i_o_w_e_b_p_a_g_e_h_t_m_l_c_r_e_a_t_o_r___x_e_v_e_n_t.html" title="Data Input/Output Web Page HTML Create eXtended Event class." alt="" coords="200,1029,413,1072"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="53,908,84,964,105,992,130,1015,163,1032,201,1044,197,1046,161,1037,127,1020,101,996,79,967,54,913"/>
+<area shape="rect" id="Node000021" href="$class_d_i_o_w_e_b_s_e_r_v_e_r___x_e_v_e_n_t.html" title="Data Input/Output Web Server eXtended Event class." alt="" coords="210,1096,402,1123"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="47,908,58,950,72,997,96,1044,112,1064,130,1082,168,1101,212,1112,207,1115,166,1106,127,1086,108,1068,91,1047,67,999,53,951,48,914"/>
+<area shape="rect" id="Node000022" href="$class_g_r_p_v_e_c_t_o_r_f_i_l_e___x_e_v_e_n_t.html" title="Graphic Vector File eXtended Event class." alt="" coords="209,1147,404,1173"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="45,909,52,961,65,1021,75,1052,90,1082,108,1109,130,1133,148,1144,167,1153,211,1163,206,1166,165,1158,145,1149,127,1137,104,1113,85,1085,70,1054,60,1023,47,961,45,914"/>
+<area shape="rect" id="Node000023" href="$class_g_r_p_x_e_v_e_n_t.html" title="Graphics XEvent class." alt="" coords="254,1197,358,1224"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="48,909,62,978,79,1060,102,1136,116,1165,130,1183,158,1201,190,1211,223,1215,256,1216,251,1219,222,1220,189,1216,156,1206,127,1187,111,1167,98,1138,74,1061,57,979,48,914"/>
+<area shape="rect" id="Node000024" href="$class_i_n_p_c_a_p_t_u_r_e___x_e_v_e_n_t.html" title="Input Capture eXtended Event class." alt="" coords="221,1248,392,1275"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="47,909,59,988,75,1085,99,1177,114,1211,131,1234,150,1248,172,1257,223,1267,218,1270,171,1262,148,1253,127,1238,109,1214,94,1178,70,1086,54,988,47,914"/>
+<area shape="rect" id="Node000025" href="$class_s_c_r_i_p_t___x_e_v_e_n_t.html" title="Script XEvent." alt="" coords="240,1299,372,1325"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="46,909,56,998,72,1111,83,1167,96,1217,112,1258,131,1285,154,1301,182,1311,211,1316,242,1318,237,1321,211,1321,181,1316,152,1306,127,1289,107,1260,91,1219,77,1168,66,1112,51,998,46,914"/>
+<area shape="rect" id="Node000026" href="$class_s_n_d_f_a_c_t_o_r_y___x_e_v_e_n_t.html" title="Sound Factory eXtended event class." alt="" coords="220,1349,393,1376"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="45,909,54,1008,68,1136,79,1200,93,1258,110,1305,131,1335,150,1350,172,1359,221,1369,217,1372,170,1364,147,1354,127,1339,105,1307,88,1259,74,1201,63,1136,49,1008,45,914"/>
+<area shape="rect" id="Node000027" href="$class_u_i___x_e_v_e_n_t.html" title="User Interface eXtended Event class." alt="" coords="258,1400,354,1427"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="45,909,52,1017,65,1161,75,1233,90,1298,108,1351,131,1386,158,1405,191,1415,225,1419,260,1419,255,1422,225,1424,190,1420,156,1410,127,1390,103,1353,84,1300,70,1234,59,1161,47,1018,45,914"/>
+<area shape="rect" id="Node000028" href="$class_x_b_e_r___x_e_v_e_n_t.html" title="eXtended Utils XBER XEvent class" alt="" coords="247,1451,366,1477"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="44,908,50,1026,61,1185,72,1265,86,1338,106,1398,118,1420,131,1437,156,1454,185,1465,216,1469,248,1471,244,1473,215,1474,184,1470,153,1459,127,1441,113,1423,101,1400,81,1340,66,1266,56,1186,45,1026,44,914"/>
+<area shape="rect" id="Node000029" href="$class_x_d_r_i_v_e_i_m_a_g_e_m_a_n_a_g_e_r___x_e_v_e_n_t.html" title="eXtended Utils Drive Image Mamanger Event class" alt="" coords="215,1501,398,1544"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="44,909,49,1036,59,1210,69,1298,84,1378,104,1444,117,1469,131,1487,148,1502,169,1512,217,1525,212,1527,167,1517,145,1506,127,1491,112,1472,99,1446,79,1379,64,1299,53,1210,43,1036,44,914"/>
+<area shape="rect" id="Node000030" href="$class_x_f_i_l_e_z_i_p___x_e_v_e_n_t.html" title="eXtended Utils ZIP File eXtended Event class" alt="" coords="236,1568,376,1595"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="46,909,58,1057,75,1262,100,1452,115,1519,123,1541,131,1554,153,1571,179,1581,208,1586,238,1589,233,1591,207,1591,178,1586,150,1575,127,1558,118,1544,110,1521,95,1453,70,1262,53,1057,46,914"/>
+<area shape="rect" id="Node000031" href="$class_x_l_i_c_e_n_s_e___x_e_v_e_n_t.html" title="eXtended Utils License generator and control class" alt="" coords="232,1619,381,1645"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="46,909,57,1068,74,1288,85,1398,98,1494,114,1567,122,1591,131,1605,152,1621,177,1631,204,1636,234,1640,229,1641,204,1642,176,1636,149,1626,127,1608,117,1593,109,1568,93,1495,80,1399,68,1289,52,1068,46,915"/>
+<area shape="rect" id="Node000032" href="$class_x_s_c_h_e_d_u_l_e_r___x_e_v_e_n_t.html" title="eXtended Utils Scheduler Event class" alt="" coords="219,1669,394,1696"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="46,909,56,1076,72,1314,83,1432,97,1536,113,1614,121,1640,131,1656,149,1670,171,1680,221,1691,216,1691,169,1685,146,1675,127,1659,117,1643,108,1616,91,1537,78,1433,67,1314,51,1077,45,914"/>
+</map>

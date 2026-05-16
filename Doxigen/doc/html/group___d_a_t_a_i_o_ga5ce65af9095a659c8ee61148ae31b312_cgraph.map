@@ -1,0 +1,27 @@
+<map id="DIOOBEXPUSH::SendFileList_AddFile" name="DIOOBEXPUSH::SendFileList_AddFile">
+<area shape="rect" id="Node000001" title="Send file list add file." alt="" coords="5,149,206,192"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga55a92c59fee149d33f24163713c54b3d" title="Generate file ID." alt="" coords="267,31,483,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,147,184,106,217,85,253,67,275,61,270,64,255,72,220,89,187,110,133,151"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga7904e5ecee6ee8a7570d188fdf2d4079" title="Get name send." alt="" coords="254,81,496,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="164,146,253,117,288,111,283,113,254,123,166,151"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaca1cc1b6e820ea2ebe5e464449c79c64" title="Get X path." alt="" coords="268,132,482,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,159,255,156,251,158,207,164"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="320,183,430,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="206,177,307,188,302,191,206,183"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga09dcfc3fb0e96b707cc3fc5339acffd6" title="Set error." alt="" coords="273,233,477,260"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="165,190,254,219,288,229,283,230,253,224,165,195"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga55750a13a2e069f5bc06d65a9aa8aa72" title="Set ID." alt="" coords="280,284,470,311"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="132,190,187,231,220,252,255,270,275,279,270,279,253,274,217,257,184,235,131,195"/>
+<area shape="rect" id="Node000003" href="$group___c_i_p_h_e_r.html#ga170fa5c716219e92d4724553d6e8e0ce" title="Do." alt="" coords="587,5,715,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,31,574,25,569,27,484,37"/>
+<area shape="rect" id="Node000004" href="$group___c_i_p_h_e_r.html#gab33e363f6374a0e559e99f2f80e5abf6" title="Get result CRC32." alt="" coords="544,56,758,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="483,51,531,58,526,59,484,57"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="584,157,718,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="429,188,571,178,566,179,430,194"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="566,208,736,235"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="430,198,554,212,548,213,430,204"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="812,157,950,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="719,168,799,170,794,171,719,173"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="806,208,956,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="736,219,794,221,788,222,737,224"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="XLINUXDATETIME::SetActualDateTime" name="XLINUXDATETIME::SetActualDateTime">
+<area shape="rect" id="Node000001" title="Set actual date time." alt="" coords="5,35,208,77"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad5e540309a6070c7435ef68b661c52cf" title="Is day ligth saving time." alt="" coords="282,5,490,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,43,269,39,264,40,209,48"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga2368e7c83e4871a493e5c39cd22cf1f6" title="Constructor of class." alt="" coords="256,72,517,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,64,243,70,237,70,208,69"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga063081fa3aa79f3c620da2fe29382ae7" title="Get actual date time." alt="" coords="565,64,768,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="518,92,552,94,547,94,518,97"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="562,77,533,79,533,74,567,77"/>
+</map>

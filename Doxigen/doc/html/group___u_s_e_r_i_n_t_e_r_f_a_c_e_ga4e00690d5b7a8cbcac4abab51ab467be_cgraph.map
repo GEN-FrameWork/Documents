@@ -1,0 +1,10 @@
+<map id="UI_SKINCANVAS::GetHeightString" name="UI_SKINCANVAS::GetHeightString">
+<area shape="rect" id="Node000001" title="Get height string." alt="" coords="5,23,202,65"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga20d723a3ff5e8ba09232e85aef396b14" title="Get font size." alt="" coords="250,5,460,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,31,237,30,232,31,202,37"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac1103832c9c5b27836962071dc736faa" title="Set font size." alt="" coords="250,56,460,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,51,238,57,232,57,202,57"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6fbab7908bac7c392ed81ad03facd6c1" title="Get canvas." alt="" coords="508,31,711,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,26,495,32,490,32,461,32"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="460,56,490,56,495,55,460,62"/>
+</map>

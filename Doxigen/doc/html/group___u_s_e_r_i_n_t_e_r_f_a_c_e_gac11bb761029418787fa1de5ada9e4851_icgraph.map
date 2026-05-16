@@ -1,0 +1,29 @@
+<map id="UI_SKIN::GetDrawMode" name="UI_SKIN::GetDrawMode">
+<area shape="rect" id="Node000001" title="Get draw mode." alt="" coords="511,247,677,273"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="227,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,232,563,195,537,148,503,102,461,62,444,51,443,46,465,58,507,98,541,146,567,192,585,233"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0e54359d6e3901bac4190ac6ef2d1842" title="Elements rebuild draw areas." alt="" coords="258,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,234,526,182,495,153,462,129,432,115,432,110,464,124,499,149,530,178,577,235"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab5f3c2b6fd20de69af6c5c7c3864c50a" title="Elements rebuild draw areas." alt="" coords="258,139,432,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="553,239,511,218,462,196,431,185,430,179,464,191,513,213,559,238"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf15723955c5ca15f9f998d72e52b248f" title="Elements rebuild draw areas." alt="" coords="258,205,432,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="493,248,432,241,432,236,498,246"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga05cd05403bd44e536c740abbc15e9cfd" title="Layout put background bitmap." alt="" coords="266,272,424,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="493,274,425,285,424,280,498,272"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae07881beaca5e204a0fdd99b20404392" title="Layout put background bitmap." alt="" coords="266,339,424,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="558,280,513,307,464,329,425,343,423,338,462,324,511,302,554,283"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga174367520ac2054f225a14eeb10667c8" title="Layout put background color." alt="" coords="266,405,424,448"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="577,284,530,342,499,371,464,396,425,413,423,408,462,391,495,367,526,338,572,287"/>
+<area shape="rect" id="Node000013" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga19f6a6559da58f2c7325c5de712b666b" title="Layout put background color." alt="" coords="266,472,424,515"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="584,286,567,328,541,374,507,422,465,462,425,482,423,477,461,458,503,418,537,372,563,325,580,289"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae62ef4a3810acd53125b08f9ceb019c9" title="Elements rebuild draw areas." alt="" coords="5,39,179,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,81,180,74,178,69,245,78"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga26f286bf2c8013d1e1185ade09e76e01" title="Elements rebuild draw areas." alt="" coords="5,105,179,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="241,109,180,118,178,113,245,105"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gabe8150764de6d33b7d767cbd94f46846" title="Layout put background." alt="" coords="13,339,171,381"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="248,361,172,363,171,357,252,359"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga48da0ccfcbd896eacadb446407175afd" title="Layout put background." alt="" coords="13,405,171,448"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="248,386,172,408,170,403,253,383"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="248,403,171,383,171,378,253,401"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="248,428,171,429,171,424,253,426"/>
+</map>

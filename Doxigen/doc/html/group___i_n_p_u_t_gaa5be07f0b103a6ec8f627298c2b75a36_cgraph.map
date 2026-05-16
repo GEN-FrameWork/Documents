@@ -1,0 +1,7 @@
+<map id="INPDEVICE::GetButton" name="INPDEVICE::GetButton">
+<area shape="rect" id="Node000001" title="Get button." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga0e525fcc7cc0acf0c75db01596c90d16" title="Get buttons." alt="" coords="216,5,385,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,32,203,30,198,31,169,37"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga16cb82fc4e8560ccbb2f45af4dcd65f8" title="Get ID." alt="" coords="229,56,372,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,51,217,59,211,59,168,56"/>
+</map>

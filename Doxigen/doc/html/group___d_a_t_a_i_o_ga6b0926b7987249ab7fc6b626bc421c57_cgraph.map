@@ -1,0 +1,25 @@
+<map id="DIOWEBSERVER_CONNECTION::WebSocket_Write" name="DIOWEBSERVER_CONNECTION::WebSocket_Write">
+<area shape="rect" id="Node000001" title="Web socket write." alt="" coords="5,129,235,172"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa27bd6e88dcc5332967df7973443d0e2" title="Web socket write." alt="" coords="283,129,512,172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,148,270,150,265,151,236,153"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="876,31,991,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,126,491,97,559,72,639,55,720,46,863,42,858,43,720,51,640,61,561,77,494,102,436,131"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="582,87,767,113"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="512,127,586,116,581,117,513,132"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="618,137,731,164"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="512,148,605,150,600,151,513,153"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="606,188,743,215"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="512,169,594,186,588,186,512,174"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gaab4c0a3d333b054e63e269b995444e24" title="Send." alt="" coords="560,239,789,281"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="441,170,498,197,561,224,581,234,576,233,559,229,496,202,440,175"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="1078,5,1211,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="991,34,1065,28,1060,29,992,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="1259,31,1418,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="991,41,1246,44,1241,44,992,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1212,25,1246,31,1241,32,1212,30"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="739,83,864,59,858,60,741,89"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gae206a2a617576a15816d25771d92b037" title="convert character unicode to ASCIi" alt="" coords="837,81,1030,124"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="768,98,824,101,819,102,768,104"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="868,148,999,175"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="740,111,790,123,866,144,861,144,789,128,740,117"/>
+</map>

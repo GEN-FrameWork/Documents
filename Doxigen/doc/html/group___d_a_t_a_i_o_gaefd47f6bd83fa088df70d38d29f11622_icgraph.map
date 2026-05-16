@@ -1,0 +1,5 @@
+<map id="DIOIEC60870_5::Disconnect" name="DIOIEC60870_5::Disconnect">
+<area shape="rect" id="Node000001" title="Disconnect." alt="" coords="283,5,474,32"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga21b0e1a33e61ca41a61bc152b3148ebe" title="Destructor of class." alt="" coords="5,5,235,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,19,235,21,235,16,270,19"/>
+</map>

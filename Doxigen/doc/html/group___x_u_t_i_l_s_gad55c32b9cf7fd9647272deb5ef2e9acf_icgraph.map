@@ -1,0 +1,11 @@
+<map id="XFILEINI::DeleteAllRemarks" name="XFILEINI::DeleteAllRemarks">
+<area shape="rect" id="Node000001" title="Delete all remarks." alt="" coords="443,64,633,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga321cd5d7c4171cd2b3a915d55bcbfc2e" title="Close." alt="" coords="277,64,395,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,78,396,80,395,75,430,77"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae16398e0db7f965f7846776616a020cf" title="check master creation" alt="" coords="5,5,229,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,59,228,47,183,35,183,30,229,41,281,58"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga4dbb6502b99c26aa75e4e4676c7770a3" title="Get version available." alt="" coords="23,56,211,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="258,78,211,80,211,75,264,77"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaecf90a532d43bbdb98589ac9867333bc" title="Destructor of class." alt="" coords="43,123,191,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="281,95,229,113,183,125,182,120,228,108,276,96"/>
+</map>

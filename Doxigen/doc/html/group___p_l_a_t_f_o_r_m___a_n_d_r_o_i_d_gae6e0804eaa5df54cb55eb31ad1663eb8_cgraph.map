@@ -1,0 +1,27 @@
+<map id="INPANDROIDDEVICEMOUSE::AddPosition" name="INPANDROIDDEVICEMOUSE::AddPosition">
+<area shape="rect" id="Node000001" title="Add position." alt="" coords="5,240,212,283"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga7d9fb0d7e91877f3a97930b7b9c7595c" title="Add point to motion." alt="" coords="260,131,477,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,237,259,190,324,163,319,166,261,194,158,242"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gadfd993e1bfb7ba5da59d3950c7e44731" title="Get x." alt="" coords="525,5,722,48"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="125,238,180,177,217,144,258,116,320,88,385,65,449,49,512,39,507,41,451,54,386,71,322,93,261,121,220,148,183,181,129,241"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#ga02972bce89abf3715627c160c8db2ffb" title="Get y." alt="" coords="525,189,722,232"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="211,240,259,233,389,221,512,215,507,217,389,226,260,239,213,245"/>
+<area shape="rect" id="Node000007" href="$group___i_n_p_u_t.html#ga62929b1592a0d3734d390d0f5990b566" title="Get cursor." alt="" coords="287,248,450,275"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="212,259,274,260,269,262,213,264"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="267,299,470,325"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="212,279,284,294,279,296,212,284"/>
+<area shape="rect" id="Node000011" href="$group___i_n_p_u_t.html#gab9e98d7b13e8add2fa3a0a6584a28b02" title="Set." alt="" coords="303,349,434,376"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="147,281,201,309,261,335,290,346,285,346,259,340,198,314,147,286"/>
+<area shape="rect" id="Node000012" href="$group___i_n_p_u_t.html#ga1ce10ffed0ebe66f67f37d82a457c986" title="Set is changed." alt="" coords="271,400,466,427"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="130,281,186,334,222,362,261,386,277,395,272,394,258,390,219,367,183,338,129,286"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga9e61d2f84523ebfae7ac1763ea9fd582" title="Get timer." alt="" coords="541,72,706,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,128,550,101,545,104,430,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,128,450,94,524,58,542,53,537,55,526,62,453,99,394,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,155,527,184,522,185,423,161"/>
+<area shape="rect" id="Node000006" href="$group___i_n_p_u_t.html#ga878652cdd4ceee84192456ba5369510d" title="Get z." alt="" coords="525,123,722,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="477,141,512,143,507,145,478,147"/>
+<area shape="rect" id="Node000008" href="$group___i_n_p_u_t.html#ga17d6a13e24c6702addbcc15b028614aa" title="Get cursors." alt="" coords="538,256,709,283"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="450,261,525,266,520,267,451,267"/>
+<area shape="rect" id="Node000009" href="$group___i_n_p_u_t.html#gacaa6186aa022d89e09eba659b7f51959" title="Get ID." alt="" coords="550,307,697,333"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="430,273,550,302,545,303,429,278"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="XVARIANT::operator XDATETIME" name="XVARIANT::operator XDATETIME">
+<area shape="rect" id="Node000001" title="operator XDATETIME" alt="" coords="5,175,148,217"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga580f6018996774252bbae5660c4d1b91" title="Copy from." alt="" coords="196,183,362,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,194,182,195,178,197,149,198"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="435,5,585,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,180,331,114,367,75,409,42,422,37,418,40,411,46,370,79,336,117,290,184"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7d9f594a636ee4b57f072216eb1939d1" title="Get hours." alt="" coords="430,56,591,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="292,180,341,137,373,113,409,92,428,87,423,89,411,97,376,117,344,141,295,184"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafac1807c4d262e7eb8c7777bab66fbde" title="Get milli seconds." alt="" coords="410,107,610,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="311,180,409,143,438,137,433,139,411,148,313,185"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7bda5d718cadddffaa4aed78c8bb3402" title="Get minutes." alt="" coords="424,157,596,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="361,184,411,181,406,183,363,189"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="429,208,591,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="362,202,416,210,411,211,362,208"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga4755ebb96abab2bf419a31af6dda1f7b" title="Get seconds." alt="" coords="422,259,599,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="313,207,411,244,438,254,433,254,409,249,312,212"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="434,309,586,336"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="294,207,344,251,376,275,411,295,428,304,423,304,409,300,373,279,341,255,293,212"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="420,360,601,387"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="289,207,336,275,370,313,411,346,423,354,417,353,409,350,367,317,331,278,287,212"/>
+</map>

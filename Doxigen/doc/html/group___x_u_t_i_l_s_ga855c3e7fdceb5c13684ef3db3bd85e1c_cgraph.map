@@ -1,0 +1,9 @@
+<map id="XMPINTEGER::LeftShift" name="XMPINTEGER::LeftShift">
+<area shape="rect" id="Node000001" title="Left shift." alt="" coords="5,31,173,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga298be227c8effa636167f68e35ce7b6c" title="Get MSB." alt="" coords="221,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,32,208,30,202,31,173,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="230,56,380,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,51,217,59,212,59,173,56"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="437,56,621,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,67,424,69,419,69,380,72"/>
+</map>

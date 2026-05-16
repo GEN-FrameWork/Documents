@@ -1,0 +1,5 @@
+<map id="INPCURSORMOTION::GetAngle" name="INPCURSORMOTION::GetAngle">
+<area shape="rect" id="Node000001" title="Get angle." alt="" coords="291,13,509,40"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gaf387ca6f6f98fdbf6cbb4d7082ebd3bd" title="Get direction by angle." alt="" coords="5,5,243,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,27,243,29,243,24,278,27"/>
+</map>

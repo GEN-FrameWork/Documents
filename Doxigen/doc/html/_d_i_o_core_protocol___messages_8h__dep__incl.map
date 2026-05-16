@@ -1,0 +1,18 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol/DIOCoreProtocol_Messages.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol/DIOCoreProtocol_Messages.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="250,5,489,64"/>
+<area shape="rect" id="Node000002" href="$_d_i_o_core_protocol___connection_8h.html" title=" " alt="" coords="250,112,489,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,77,372,113,367,111,368,82"/>
+<area shape="rect" id="Node000004" href="$_d_i_o_core_protocol___connections_manager_8cpp.html" title=" " alt="" coords="5,333,286,392"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="284,74,262,92,240,114,204,169,178,230,162,287,152,334,147,331,156,286,173,228,199,166,235,110,259,88,288,70"/>
+<area shape="rect" id="Node000007" href="$_d_i_o_core_protocol___messages_8cpp.html" title=" " alt="" coords="514,112,753,171"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="456,68,564,111,559,112,456,73"/>
+<area shape="rect" id="Node000003" href="$_d_i_o_core_protocol___connection_8cpp.html" title=" " alt="" coords="590,333,829,392"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,169,556,189,603,216,633,243,660,274,698,334,693,332,655,277,630,247,600,221,553,194,504,174"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="312,178,262,221,208,280,166,335,163,331,204,276,258,217,308,181"/>
+<area shape="rect" id="Node000005" href="$_d_i_o_core_protocol___connections_manager___x_event_8h.html" title=" " alt="" coords="273,219,589,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="395,182,417,219,411,218,393,187"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="516,281,641,333,636,333,516,286"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="347,283,219,335,217,330,342,284"/>
+<area shape="rect" id="Node000006" href="$_d_i_o_core_protocol___connections_manager___x_event_8cpp.html" title=" " alt="" coords="310,325,565,400"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="435,291,438,327,433,324,432,295"/>
+</map>

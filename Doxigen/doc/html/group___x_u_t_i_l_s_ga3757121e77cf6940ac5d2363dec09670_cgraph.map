@@ -1,0 +1,15 @@
+<map id="XSTRING::operator=" name="XSTRING::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,56,150,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="218,31,327,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,57,205,52,199,54,150,63"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="198,81,347,108"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,76,185,83,179,83,150,81"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="412,5,547,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,35,400,28,394,29,328,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="395,56,564,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="327,48,382,57,377,57,327,53"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="618,5,756,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,16,605,18,600,19,548,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="612,56,762,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="565,67,599,69,594,69,565,72"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="DIOI2C6AXISTRACKINGLSM303DLHC::Heading" name="DIOI2C6AXISTRACKINGLSM303DLHC::Heading">
+<area shape="rect" id="Node000001" title="Heading." alt="" coords="5,85,228,128"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gab8d77e710335b4eda214e8ba137da176" title="Cross." alt="" coords="560,5,768,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,83,275,75,547,38,543,42,276,80,229,88"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1c7451e6ed7bf21f6a57a48a5c0d3a83" title="Dot." alt="" coords="546,72,782,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,100,532,88,529,93,228,105"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaf8c8874c9661b89433c768c4c159adc5" title="Normalize." alt="" coords="283,115,490,157"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="228,116,270,122,265,124,229,121"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga246e12114af56838ba4642bbbd6f0df6" title="Read." alt="" coords="276,181,498,224"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="170,126,277,167,299,176,293,176,275,172,170,131"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaf44975fae1337991cd38a78cce561318" title="Constructor of class." alt="" coords="830,64,1046,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="767,46,823,60,818,60,767,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="783,83,817,85,812,86,783,88"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="491,130,629,122,782,108,817,106,812,107,783,113,630,127,491,135"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="490,114,575,101,570,103,491,120"/>
+</map>

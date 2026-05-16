@@ -1,0 +1,7 @@
+<map id="DIOI2CTOUCHSENSORAT42QT1060::GetStatus" name="DIOI2CTOUCHSENSORAT42QT1060::GetStatus">
+<area shape="rect" id="Node000001" title="Get status." alt="" coords="5,39,253,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0bbb2a9d871659cb7d22677253eb5b73" title="Is necessary update." alt="" coords="301,5,548,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,43,288,42,282,43,254,49"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga644bbf9734f44f09dfae7b4fed24b3b2" title="Set is necessary update." alt="" coords="301,72,548,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,71,288,78,282,78,253,77"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="XTHREAD::WaitToEnd" name="XTHREAD::WaitToEnd">
+<area shape="rect" id="Node000001" title="Wait to end." alt="" coords="593,31,750,57"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac753099f285b182d71e45fb609e7cb1f" title="End." alt="" coords="373,5,530,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,33,531,30,531,25,580,33"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9b23e8413050facf18e668073da9faac" title="End." alt="" coords="359,56,545,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="580,55,546,61,545,56,575,55"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga415d0e07b7fa9e6c136954760abca6a8" title="Destructor of class." alt="" coords="34,5,282,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,19,283,21,282,16,360,18"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga51584b9881bd7388ab75efed0209898b" title="Destructor of class." alt="" coords="5,56,311,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="341,69,311,72,311,67,346,69"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="DIOWEBCLIENT::Get" name="DIOWEBCLIENT::Get">
+<area shape="rect" id="Node000001" title="Get." alt="" coords="790,237,943,264"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_b_a_c_k_d_o_o_r.html#a881f36edb562ce0e00c0c8f12959a7cc" title=" " alt="" coords="518,56,734,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="839,225,795,185,741,139,695,109,654,86,655,81,698,105,744,135,799,181,844,227"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaf97ccf3845d30fb583020fdbe5917ee4" title="Download CFG." alt="" coords="510,149,742,176"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="827,229,787,210,741,191,704,179,704,174,743,185,789,205,832,230"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga2cae21bd9da3588d220e2d8765675942" title="File download." alt="" coords="532,200,720,243"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="773,240,721,235,721,230,778,239"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga03eb516f196460c84721bdf87fd3b63b" title="Get." alt="" coords="524,267,728,293"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="772,262,729,270,728,265,778,261"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga58aa2917810ad645dc963c334f3ac587" title="Get." alt="" coords="550,317,702,344"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="827,270,743,308,702,319,700,314,741,303,822,272"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga0901ce19c7298b67411d4a71fb743757" title="Load from URL." alt="" coords="536,368,717,395"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="846,274,801,319,773,340,744,358,714,370,713,365,741,354,770,336,798,315,841,276"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_b_a_c_k_d_o_o_r.html#a009d9de2a1b8a3aeb5a6c981b2c25bd9" title=" " alt="" coords="238,5,454,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="531,54,424,35,423,30,536,52"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_b_a_c_k_d_o_o_r.html#ad0b91304e6493bc88a2b1a38dbc2fae4" title=" " alt="" coords="238,56,454,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="500,70,455,72,454,67,505,68"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga86c1c6ef4f7c27a3cc5bcea843c81748" title="Download CFG." alt="" coords="230,107,462,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="516,147,438,137,438,131,521,146"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga3171496b7d4c2383265da1b41c433504" title="Download CFG." alt="" coords="230,157,462,184"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="492,167,463,170,462,165,497,166"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaf2600be795793bf175bc8e938450ca49" title="Exec." alt="" coords="258,208,434,235"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="541,181,414,210,413,205,546,179"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga12e8a63c3275c08aae43d51fc63df3f3" title="Exec." alt="" coords="5,183,182,209"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="240,212,183,207,182,202,245,210"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga9c462e1f4fcb180dbc0e6a4c85d52ab7" title="Exec." alt="" coords="5,233,182,260"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="240,233,183,240,181,235,244,230"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga32c3efc685d361295669b9f425de3ff4" title="Get." alt="" coords="244,267,448,293"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="506,280,449,283,448,277,511,280"/>
+</map>

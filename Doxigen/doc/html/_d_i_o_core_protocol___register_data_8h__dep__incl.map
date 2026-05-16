@@ -1,0 +1,17 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol/DIOCoreProtocol_RegisterData.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/CoreProtocol/DIOCoreProtocol_RegisterData.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="409,5,649,64"/>
+<area shape="rect" id="Node000002" href="$_d_i_o_core_protocol___connection_8h.html" title=" " alt="" coords="277,112,517,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,72,435,114,431,109,479,75"/>
+<area shape="rect" id="Node000007" href="$_d_i_o_core_protocol___register_data_8cpp.html" title=" " alt="" coords="541,112,781,171"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="577,71,628,112,622,112,576,76"/>
+<area shape="rect" id="Node000003" href="$_d_i_o_core_protocol___connection_8cpp.html" title=" " alt="" coords="5,333,245,392"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,179,261,198,228,221,201,247,177,277,141,334,137,331,172,274,197,244,225,217,258,194,297,176"/>
+<area shape="rect" id="Node000004" href="$_d_i_o_core_protocol___connections_manager_8cpp.html" title=" " alt="" coords="549,333,829,392"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="495,175,534,194,569,217,601,244,629,274,673,334,668,332,625,278,597,248,566,221,531,198,495,180"/>
+<area shape="rect" id="Node000005" href="$_d_i_o_core_protocol___connections_manager___x_event_8h.html" title=" " alt="" coords="239,219,555,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="399,184,399,220,395,217,395,189"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="316,283,195,335,193,330,311,284"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="486,281,617,333,612,333,485,286"/>
+<area shape="rect" id="Node000006" href="$_d_i_o_core_protocol___connections_manager___x_event_8cpp.html" title=" " alt="" coords="269,325,525,400"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="399,291,399,327,395,323,395,295"/>
+</map>

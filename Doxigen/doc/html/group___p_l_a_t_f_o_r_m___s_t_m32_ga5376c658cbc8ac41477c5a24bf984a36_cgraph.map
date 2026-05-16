@@ -1,0 +1,7 @@
+<map id="DIOSTM32GPIO::GetValue" name="DIOSTM32GPIO::GetValue">
+<area shape="rect" id="Node000001" title="Get value." alt="" coords="5,31,187,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga4d282cfa7507c4d22c07736502cfdb1a" title="Get group." alt="" coords="235,5,428,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,222,30,217,31,188,37"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac3212f52c3ff08015185d4af84128fd2" title="Get pin." alt="" coords="243,56,420,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,51,230,58,225,58,187,56"/>
+</map>

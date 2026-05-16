@@ -1,0 +1,5 @@
+<map id="XTIMER::Reset" name="XTIMER::Reset">
+<area shape="rect" id="Node000001" title="Reset." alt="" coords="5,13,121,40"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="169,5,378,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,24,156,26,150,27,121,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="INPDEVICE::ReleaseAllButtons" name="INPDEVICE::ReleaseAllButtons">
+<area shape="rect" id="Node000001" title="Release all buttons." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga5dc0db23f7e8e040061f5295045e7da8" title="Set pressed." alt="" coords="265,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,16,252,19,246,19,217,21"/>
+</map>

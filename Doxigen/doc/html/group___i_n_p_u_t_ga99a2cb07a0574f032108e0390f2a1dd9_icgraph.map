@@ -1,0 +1,15 @@
+<map id="INPSIMULATE::GetKDBCodeByLiteral" name="INPSIMULATE::GetKDBCodeByLiteral">
+<area shape="rect" id="Node000001" title="Get KDB code by literal." alt="" coords="687,53,902,95"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9313194cb9179fb9fa2605f5945c6527" title="Key click by literal." alt="" coords="233,53,412,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,46,687,32,639,19,589,11,550,8,510,11,461,19,410,35,364,55,362,50,408,30,459,14,510,5,550,3,590,6,640,14,689,27,736,46"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga0fa4d43bb2b6a767402673fdd0ae631b" title="Key press by literal." alt="" coords="460,53,639,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="669,74,640,77,640,71,674,74"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa077de23aa9b5817de8a4d7831113153" title="Key un press by literal." alt="" coords="460,143,639,186"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="723,101,610,145,609,140,718,102"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaecff80a9833581eb424fb94d110760bc" title="Key click by text." alt="" coords="5,53,185,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,75,186,77,185,71,220,73"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="442,74,413,77,412,71,447,74"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="585,37,573,34,550,31,528,33,515,38,510,44,511,53,507,51,505,43,512,34,527,28,550,26,574,28,590,37"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="477,137,377,99,378,93,483,137"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="585,127,573,124,550,122,528,124,515,129,510,135,511,144,507,141,505,133,512,124,527,119,550,117,574,119,590,128"/>
+</map>

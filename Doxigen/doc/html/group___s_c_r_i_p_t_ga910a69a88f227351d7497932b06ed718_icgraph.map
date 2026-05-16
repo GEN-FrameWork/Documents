@@ -1,0 +1,11 @@
+<map id="SCRIPT::AddReturnByType" name="SCRIPT::AddReturnByType">
+<area shape="rect" id="Node000001" title="Add return by type." alt="" coords="403,47,587,73"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga98b453fff432800b9460beab0d387a6c" title="Load." alt="" coords="237,17,344,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,45,344,41,344,36,390,44"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga1d9d6a172b73ba5f6e28649c35ef2a7b" title="Load add." alt="" coords="226,72,355,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,73,356,80,355,75,385,74"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gac32ce3d29c2daf482bc3acb6b827e47e" title="Cache all directory." alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,30,179,31,178,26,224,29"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#ga3b725c8922159969c48f2604c9d22bc0" title="Cache all list." alt="" coords="5,72,178,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,89,179,93,178,87,213,88"/>
+</map>

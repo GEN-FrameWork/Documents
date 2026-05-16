@@ -1,0 +1,9 @@
+<map id="GRPLINUXSCREENFRAMEBUFFER" name="GRPLINUXSCREENFRAMEBUFFER">
+<area shape="rect" id="Node000001" title="LINUX Graphics Frame Buffer Screen class." alt="" coords="19,155,267,181"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_s_c_r_e_e_n.html" title="Graphics Screen Class." alt="" coords="89,80,196,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,121,145,156,140,153,141,124"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="5,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,41,133,79,128,80,95,46"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="166,5,258,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,42,157,82,153,78,188,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SNDITEM::SetPlayCFG" name="SNDITEM::SetPlayCFG">
+<area shape="rect" id="Node000001" title="Set play CFG." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga82e793af0caf692594309b2a01ed4723" title="Copy from." alt="" coords="218,5,398,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,205,19,199,19,170,21"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#ga948dcdc82500fac56afda974588ce9c8" title="Constructor of class." alt="" coords="446,5,655,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,16,433,19,428,19,399,21"/>
+</map>

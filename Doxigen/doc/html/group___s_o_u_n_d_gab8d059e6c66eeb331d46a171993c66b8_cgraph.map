@@ -1,0 +1,19 @@
+<map id="SNDFACTORY::Sound_Play" name="SNDFACTORY::Sound_Play">
+<area shape="rect" id="Node000001" title="Sound play." alt="" coords="5,132,195,159"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gad5642d5693499dd9e0bff802f1208ef5" title="Get status." alt="" coords="281,5,430,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,130,168,86,203,62,242,42,268,34,264,37,244,46,206,67,171,90,118,133"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gad16bf9ad5501a6cf84fd4195d6582c6c" title="Set current playing time." alt="" coords="243,56,468,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,129,242,92,274,86,269,88,243,97,138,134"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#gad184ebc1ace609221785364057eff223" title="Set N times to play." alt="" coords="257,107,454,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,133,244,130,239,132,196,138"/>
+<area shape="rect" id="Node000005" href="$group___s_o_u_n_d.html#ga19f26866561c6cfc85976025a6ae8a57" title="Set play CFG." alt="" coords="273,157,438,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,152,261,160,256,162,195,157"/>
+<area shape="rect" id="Node000008" href="$group___s_o_u_n_d.html#ga8d6e416219cf0c00e27c8ecd1eb693b7" title="Set playing time." alt="" coords="264,208,446,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="137,157,243,193,274,204,269,204,242,199,136,162"/>
+<area shape="rect" id="Node000009" href="$group___s_o_u_n_d.html#ga3b8dad2a5fb75a7b9f4cbb77ea7a0132" title="Set status." alt="" coords="281,259,430,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="117,157,171,200,206,224,244,244,269,256,263,255,242,249,203,229,168,205,115,162"/>
+<area shape="rect" id="Node000006" href="$group___s_o_u_n_d.html#ga82e793af0caf692594309b2a01ed4723" title="Copy from." alt="" coords="516,157,696,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,168,503,170,498,171,438,173"/>
+<area shape="rect" id="Node000007" href="$group___s_o_u_n_d.html#ga948dcdc82500fac56afda974588ce9c8" title="Constructor of class." alt="" coords="744,157,954,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="697,168,732,170,726,171,697,173"/>
+</map>

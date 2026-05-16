@@ -1,0 +1,34 @@
+<map id="XWINDOWSPROCESSMANAGER::Application_ExecuteElevated" name="XWINDOWSPROCESSMANAGER::Application_ExecuteElevated">
+<area shape="rect" id="Node000001" title="application execute elevated" alt="" coords="5,276,239,319"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2b0667f31e229a2fd044eadabdfa6b2a" title="Application execute." alt="" coords="287,276,520,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,295,274,297,269,298,240,300"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="587,56,702,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,273,616,94,621,92,429,278"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae52f1473bb03e9d7260c7722e19ce223" title="Add format." alt="" coords="568,259,721,285"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="520,282,555,281,550,282,521,288"/>
+<area shape="rect" id="Node000039" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="982,259,1112,285"/>
+<area shape="poly" id="edge15_Node000002_Node000039" title=" " alt="" coords="472,317,562,340,675,358,736,363,798,363,859,358,919,345,946,335,972,322,1016,296,1021,294,975,327,948,340,920,351,860,363,798,369,735,368,674,363,561,345,472,322"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="789,309,900,336"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="520,301,776,318,771,319,521,307"/>
+<area shape="rect" id="Node000028" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="588,411,701,437"/>
+<area shape="poly" id="edge16_Node000002_Node000028" title=" " alt="" coords="440,317,569,390,597,405,592,404,567,394,439,322"/>
+<area shape="rect" id="Node000043" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="775,107,914,133"/>
+<area shape="poly" id="edge18_Node000002_Node000043" title=" " alt="" coords="458,273,792,140,797,139,460,278"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="778,5,911,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="699,53,777,35,772,37,701,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="968,56,1127,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="702,67,955,68,950,70,703,72"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="901,30,979,51,974,52,901,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="991,208,1104,235"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="707,255,769,244,877,231,978,225,973,226,878,236,770,249,708,261"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="769,259,920,285"/>
+<area shape="poly" id="edge8_Node000006_Node000011" title=" " alt="" coords="721,269,756,272,751,272,722,275"/>
+<area shape="rect" id="Node000018" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="973,157,1122,184"/>
+<area shape="poly" id="edge14_Node000006_Node000018" title=" " alt="" coords="673,256,717,236,769,217,865,194,960,181,955,182,866,199,770,223,719,241,675,261"/>
+<area shape="poly" id="edge13_Node000006_Node000015" title=" " alt="" coords="701,283,777,305,772,305,700,289"/>
+<area shape="poly" id="edge9_Node000011_Node000007" title=" " alt="" coords="900,255,974,240,979,238,902,261"/>
+<area shape="poly" id="edge10_Node000011_Node000039" title=" " alt="" coords="920,278,969,281,964,281,920,283"/>
+<area shape="poly" id="edge12_Node000011_Node000018" title=" " alt="" coords="864,256,909,225,967,194,980,191,985,189,969,198,912,230,866,261"/>
+<area shape="poly" id="edge11_Node000039_Node000011" title=" " alt="" coords="979,264,935,266,935,260,984,263"/>
+<area shape="poly" id="edge19_Node000043_Node000005" title=" " alt="" coords="900,103,979,86,974,88,902,109"/>
+</map>

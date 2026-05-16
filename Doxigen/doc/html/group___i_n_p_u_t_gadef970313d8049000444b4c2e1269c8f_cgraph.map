@@ -1,0 +1,7 @@
+<map id="INPCURSORMOTION::AddFromElipse" name="INPCURSORMOTION::AddFromElipse">
+<area shape="rect" id="Node000001" title="Add from elipse." alt="" coords="5,5,223,48"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga8f95846d2b702d18469d8422e6a6c3d7" title="Add point." alt="" coords="271,13,488,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,24,257,27,252,27,223,29"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga7dc68b4fb7ce70eaf373333de180b468" title="Set." alt="" coords="536,13,760,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,24,523,27,517,27,489,29"/>
+</map>

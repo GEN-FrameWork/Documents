@@ -1,0 +1,9 @@
+<map id="GRPBITMAPPIXELFORMATBUFFER::GetRenderBuffer" name="GRPBITMAPPIXELFORMATBUFFER::GetRenderBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="554,27,801,69"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ae6acefef5adede29142359ceed6e91d0" title="Get bitmap." alt="" coords="294,5,498,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,34,498,32,498,27,541,33"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ab7e54ba55651570a1e3e472c81c2bc4b" title="Put bitmap no alpha." alt="" coords="286,56,506,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="541,62,507,69,506,63,536,63"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ac85069cec134430dfdc83210b4fabf43" title="Draw framerate." alt="" coords="5,5,238,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,19,239,21,238,16,281,18"/>
+</map>

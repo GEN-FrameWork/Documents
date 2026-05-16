@@ -1,0 +1,9 @@
+<map id="DIOSTREAM::WaitToFlushXBuffers" name="DIOSTREAM::WaitToFlushXBuffers">
+<area shape="rect" id="Node000001" title="wait to flush Xbuffers" alt="" coords="5,56,237,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3f36a11a32e556307f910c66c09a2e1b" title="Is flush X buffers." alt="" coords="285,5,487,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,53,300,34,295,37,195,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4e758727995cd3a8553dc3d64d18590f" title="Reset X buffers." alt="" coords="289,56,483,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,67,275,69,270,70,238,72"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="318,107,454,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,81,305,104,300,105,194,86"/>
+</map>

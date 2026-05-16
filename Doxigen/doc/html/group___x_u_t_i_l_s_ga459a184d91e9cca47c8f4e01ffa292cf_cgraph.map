@@ -1,0 +1,29 @@
+<map id="XFILETXT::ReadNLines" name="XFILETXT::ReadNLines">
+<area shape="rect" id="Node000001" title="Read N lines." alt="" coords="5,232,168,259"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="274,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,230,105,192,130,141,167,87,189,63,214,42,235,30,261,24,257,27,237,35,217,46,193,67,171,90,135,144,110,195,95,232"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gac89021392bbe923e2a51fc208db30d9e" title="Add line." alt="" coords="263,80,400,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="96,230,144,178,177,148,214,123,250,109,246,113,217,128,180,153,148,182,101,233"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="500,119,630,145"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="103,230,152,197,182,180,215,167,284,148,356,137,487,130,482,132,357,142,286,154,217,172,185,185,155,201,107,233"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga44658199a2510a12bc33457883a8511a" title="Delete all lines." alt="" coords="244,181,418,208"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="154,229,251,210,247,214,156,234"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="275,232,388,259"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="167,243,261,244,257,247,169,248"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga1623b979850a3cffed690ed4f29908ed" title="Get format char from file." alt="" coords="216,283,447,309"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="154,257,251,278,246,280,155,262"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="495,245,634,272"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="104,256,153,290,184,307,216,319,280,334,331,338,382,333,446,319,492,301,530,282,535,280,494,306,448,324,383,338,331,344,279,339,215,324,182,312,151,295,104,262"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gadae3ac5c03e9a0ad87aff2b94f2f7725" title="Get size of line." alt="" coords="244,384,419,411"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="99,256,148,309,180,338,217,363,248,378,242,379,214,368,177,342,144,313,98,262"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad365e0f72bab9e0c4330c7dccd33dc76" title="Size of character." alt="" coords="238,435,425,461"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="94,256,112,292,138,336,173,382,217,421,227,428,222,427,214,425,169,386,134,339,107,294,93,262"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="498,9,631,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,17,485,20,480,23,390,22"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="682,93,842,120"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="389,28,680,88,676,91,390,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="598,34,717,86,712,87,598,39"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="292,80,285,71,290,61,306,55,331,53,360,56,376,65,370,66,358,61,331,59,307,61,293,65,290,71,297,79"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="630,121,669,118,664,120,631,126"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="582,243,729,130,734,128,585,247"/>
+</map>

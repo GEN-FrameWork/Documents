@@ -1,0 +1,10 @@
+<map id="XFILEXMLELEMENT::GetType" name="XFILEXMLELEMENT::GetType">
+<area shape="rect" id="Node000001" title="Get type." alt="" coords="715,29,920,56"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafa6383bd698671924ad32a3889b572a0" title="Encode elements." alt="" coords="475,29,667,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,43,668,45,668,40,703,43"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="611,14,598,10,571,8,546,10,533,15,530,20,536,30,531,28,524,21,529,11,545,5,571,3,600,5,616,15"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga51a777515ed2f3051ddae9a97996a20b" title="Encode all lines." alt="" coords="244,29,427,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,43,427,45,427,40,462,43"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1ffd8a4dccd0775213385a684ec6f1ae" title="Write and encode all lines." alt="" coords="5,21,196,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,43,196,45,196,40,231,42"/>
+</map>

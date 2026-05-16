@@ -1,0 +1,32 @@
+<map id="DIOSMTP::AddRecipient" name="DIOSMTP::AddRecipient">
+<area shape="rect" id="Node000001" title="Add recipient." alt="" coords="5,257,174,284"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6ff23ddc249f41bb311a9bb769b43594" title="Add recipient." alt="" coords="222,181,390,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,254,253,212,249,216,131,259"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="997,283,1108,309"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="174,270,982,292,982,297,174,276"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga65ec3be508ed92029eb0155117fdccbb" title="Get email." alt="" coords="439,156,655,183"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,183,426,182,421,183,391,188"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga9dad5f4ffb203f07189ba0255df11716" title="Get name." alt="" coords="438,207,656,233"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,201,425,207,420,207,391,206"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga977919cfdc4a4bb9207d4b459cc4bbbf" title="Is valid." alt="" coords="448,55,646,81"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="319,179,368,135,401,111,437,91,457,85,452,88,439,96,404,116,371,140,322,183"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="998,207,1107,233"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="335,206,383,227,439,243,575,263,683,266,791,258,929,243,980,237,985,237,930,248,792,263,683,272,575,268,437,248,381,232,334,211"/>
+<area shape="rect" id="Node000020" href="$group___d_a_t_a_i_o.html#ga197d8c9cc548e57f265674cdbd4c61e0" title="Set type." alt="" coords="442,105,652,132"/>
+<area shape="poly" id="edge17_Node000002_Node000020" title=" " alt="" coords="339,178,437,142,468,135,463,137,439,147,340,183"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaf8d66b154ca7b8eb8bad84b6fae017e7" title="Get domain." alt="" coords="704,81,930,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="647,75,691,82,686,82,647,81"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="978,56,1127,83"/>
+<area shape="poly" id="edge15_Node000005_Node000009" title=" " alt="" coords="581,52,638,32,704,16,767,7,817,3,867,6,930,16,974,29,1015,49,1010,49,972,34,929,21,867,11,817,8,768,12,705,21,639,37,583,57"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga410d5888bcc356287105269ae2297db6" title="Get user." alt="" coords="713,31,921,57"/>
+<area shape="poly" id="edge7_Node000005_Node000014" title=" " alt="" coords="646,57,700,54,695,55,647,62"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gaead21c974345fd5c3367a6a4aa093596" title="Resolve URL." alt="" coords="739,207,895,233"/>
+<area shape="poly" id="edge9_Node000005_Node000015" title=" " alt="" coords="635,79,658,91,675,108,684,126,691,144,706,162,734,182,765,201,760,200,731,187,703,166,687,147,679,129,671,112,655,96,634,85"/>
+<area shape="poly" id="edge14_Node000005_Node000017" title=" " alt="" coords="620,79,657,91,682,104,705,118,767,136,817,145,867,152,930,168,1009,200,1004,200,929,173,866,158,816,150,766,142,703,123,679,109,655,96,620,85"/>
+<area shape="poly" id="edge6_Node000006_Node000009" title=" " alt="" coords="930,80,965,79,960,80,931,85"/>
+<area shape="poly" id="edge8_Node000014_Node000009" title=" " alt="" coords="922,53,965,59,959,60,922,58"/>
+<area shape="poly" id="edge13_Node000015_Node000009" title=" " alt="" coords="839,204,1014,92,1020,91,841,209"/>
+<area shape="poly" id="edge11_Node000015_Node000015" title=" " alt="" coords="777,205,770,198,775,188,791,182,817,180,845,183,862,192,856,192,844,188,817,185,792,187,779,192,776,198,782,207"/>
+<area shape="poly" id="edge10_Node000015_Node000016" title=" " alt="" coords="861,231,996,278,991,277,861,237"/>
+<area shape="poly" id="edge12_Node000015_Node000017" title=" " alt="" coords="895,217,985,220,979,220,895,223"/>
+</map>

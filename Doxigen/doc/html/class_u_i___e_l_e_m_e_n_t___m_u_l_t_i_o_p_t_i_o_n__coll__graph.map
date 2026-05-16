@@ -1,0 +1,15 @@
+<map id="UI_ELEMENT_MULTIOPTION" name="UI_ELEMENT_MULTIOPTION">
+<area shape="rect" id="Node000001" title="User Interface Element Multi Option class." alt="" coords="142,256,344,283"/>
+<area shape="rect" id="Node000002" href="$class_u_i___e_l_e_m_e_n_t.html" title="User Interface Element class." alt="" coords="5,180,111,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,210,214,254,210,257,103,215"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="12,81,104,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,121,61,180,55,179,57,126"/>
+<area shape="rect" id="Node000004" href="$class_u_i___p_r_o_p_e_r_t_y___s_c_r_o_l_l_e_a_b_l_e.html" title="User Interface Property Scrolleable class." alt="" coords="134,180,352,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,220,246,257,241,254,241,224"/>
+<area shape="rect" id="Node000005" href="$class_u_i___p_r_o_p_e_r_t_y___s_e_l_e_c_t_a_b_l_e.html" title="User Interface Property Selectable class." alt="" coords="377,180,584,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="428,212,285,258,283,253,423,212"/>
+<area shape="rect" id="Node000006" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="444,81,517,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,122,483,181,478,178,479,126"/>
+<area shape="rect" id="Node000007" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="421,5,540,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="482,45,483,82,478,80,479,49"/>
+</map>

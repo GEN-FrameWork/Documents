@@ -1,0 +1,12 @@
+<map id="XBER::GetTagTypeName" name="XBER::GetTagTypeName">
+<area shape="rect" id="Node000001" title="Get tag type name." alt="" coords="5,56,177,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="229,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,53,224,35,220,38,148,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="414,56,553,83"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="177,67,400,67,398,72,177,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga5aabca00dbce9f5e3a277e9b73f42f38" title="Get tag type." alt="" coords="225,107,361,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,81,224,102,219,103,147,86"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="409,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,16,396,18,391,19,357,21"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="346,30,419,51,413,52,346,35"/>
+</map>

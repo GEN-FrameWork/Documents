@@ -1,0 +1,9 @@
+<map id="GRPCANVASAGG::PutBlendPixel" name="GRPCANVASAGG::PutBlendPixel">
+<area shape="rect" id="Node000001" title="Put blend pixel." alt="" coords="559,39,783,65"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a41abb471a779633c3fec273a4bbd7424" title="Put bitmap." alt="" coords="291,13,494,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,40,495,39,495,33,546,40"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a3063a684d31e221dad64651d641bcc57" title="Put bitmap alpha." alt="" coords="275,64,511,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="546,63,512,69,511,64,541,64"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#afe2cbe7d65fe75e1b0269d07168414c0" title="Release draw framerate." alt="" coords="5,5,227,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,27,228,29,227,24,278,26"/>
+</map>

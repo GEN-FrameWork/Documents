@@ -1,0 +1,21 @@
+<map id="XFILEDBF::InsertRecord" name="XFILEDBF::InsertRecord">
+<area shape="rect" id="Node000001" title="Insert record." alt="" coords="5,132,174,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="268,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,130,152,86,185,62,221,42,255,31,251,34,223,46,188,67,155,90,106,133"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="269,56,382,83"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="122,129,221,92,256,84,252,87,223,97,124,134"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaea2f8fb3f58d23139d51b152425b4b34" title="Get data." alt="" coords="222,107,430,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="173,134,209,132,204,134,175,139"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="478,132,617,159"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="174,143,463,143,461,148,174,148"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga9340c3eb3bc4328020ff1de0bda70dca" title="Is delete." alt="" coords="222,208,430,235"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="132,157,222,187,267,203,262,203,221,192,131,162"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga767b0a84617d04f9982a55ca22f7f4e5" title="Is open." alt="" coords="258,259,394,285"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="105,156,155,200,188,224,223,244,246,256,241,255,220,249,185,229,152,204,104,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="481,5,614,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,16,468,18,463,20,384,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="665,56,825,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="384,27,478,41,653,61,648,63,478,47,384,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="603,30,678,51,673,52,603,35"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="584,129,692,89,697,88,586,134"/>
+</map>

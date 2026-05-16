@@ -1,0 +1,17 @@
+<map id="XFACTORY::XFACTORY" name="XFACTORY::XFACTORY">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="748,31,919,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac035e321ff99c85b1312ca4e3a278af2" title="Get instance." alt="" coords="530,5,700,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="730,32,701,31,701,26,736,32"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac90e09ebcf9e3742ddda46ccdfee6f23" title="Set instance." alt="" coords="530,56,700,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="736,55,701,62,700,57,731,56"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="253,31,468,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,59,468,57,468,52,517,59"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="239,81,482,108"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="517,79,483,85,482,80,512,79"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="20,31,176,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,54,177,55,176,50,240,52"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="191,33,255,34,250,36,192,38"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,81,191,108"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="220,104,191,106,191,101,226,104"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="206,83,241,86,236,86,206,88"/>
+</map>

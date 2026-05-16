@@ -1,0 +1,10 @@
+<map id="SCRIPT::GetPath" name="SCRIPT::GetPath">
+<area shape="rect" id="Node000001" title="Get path." alt="" coords="452,31,578,57"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gae9f84a42c319e9c57bc4609d91ce0bd2" title="all_GetNameScript" alt="" coords="263,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,33,404,31,404,26,439,33"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga5a65c0c16dce31c0008b54867b1ab2b8" title="all_GetPathScript" alt="" coords="267,56,400,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="439,55,401,63,400,57,434,55"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gaa3f032ac84ba81c345e1c008472d667a" title="Add library functions." alt="" coords="5,23,215,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,29,215,35,215,29,250,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="249,60,215,59,215,53,254,60"/>
+</map>

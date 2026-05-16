@@ -1,0 +1,33 @@
+<map id="DIOCHECKTCPIPCONNECTION_CUT::GetMeasureTimeString" name="DIOCHECKTCPIPCONNECTION_CUT::GetMeasureTimeString">
+<area shape="rect" id="Node000001" title="Get measure time string." alt="" coords="5,103,230,145"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga455248fbec8f5d7bd7ea56edc268cedc" title="Add seconds." alt="" coords="313,15,467,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,100,277,59,327,45,322,48,279,64,172,104"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa23e5c101534a4808e24d59169dc7d53" title="Get measure N seconds." alt="" coords="278,73,502,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,109,264,107,260,110,231,114"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab0b380bd590991d71201c2988b0cb0ad" title="Get measure string." alt="" coords="297,140,482,167"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,133,285,141,279,143,231,139"/>
+<area shape="rect" id="Node000049" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="332,220,448,247"/>
+<area shape="poly" id="edge16_Node000001_Node000049" title=" " alt="" coords="173,143,343,212,338,215,172,148"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae9bae8dee3eb295618f0fcad6c117c79" title="Add milli seconds." alt="" coords="566,5,743,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,23,553,21,548,23,468,28"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="1081,107,1208,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="468,137,501,126,514,117,524,108,534,99,549,92,620,75,693,65,767,63,840,65,972,80,1078,102,1073,103,972,85,839,70,767,68,694,71,621,80,551,97,537,104,527,112,518,122,503,130,470,142"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1262,157,1400,184"/>
+<area shape="poly" id="edge15_Node000005_Node000008" title=" " alt="" coords="431,165,488,181,550,193,647,203,745,208,939,206,1112,194,1244,182,1249,182,1113,199,939,211,745,213,646,208,550,199,486,186,431,170"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="590,157,720,184"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="483,157,576,165,571,166,483,162"/>
+<area shape="rect" id="Node000045" href="$group___x_u_t_i_l_s.html#ga505cfe4be91b5c246961df931940151f" title="Get measure seconds." alt="" coords="554,107,756,133"/>
+<area shape="poly" id="edge13_Node000005_Node000045" title=" " alt="" coords="482,139,541,134,536,135,483,144"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1256,107,1405,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1208,117,1243,120,1238,120,1209,123"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1197,131,1267,153,1262,153,1196,137"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="845,157,995,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="720,176,832,179,827,180,720,181"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="982,154,1032,143,1065,138,1070,137,1033,148,983,159"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="996,168,1248,170,1243,171,996,173"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="842,163,735,165,735,160,847,162"/>
+<area shape="rect" id="Node000046" href="$group___x_u_t_i_l_s.html#ga3a6d9760e131422def32cb3d72fe4ee0" title="Get measure milli seconds." alt="" coords="807,107,1033,133"/>
+<area shape="poly" id="edge14_Node000045_Node000046" title=" " alt="" coords="756,117,795,120,789,120,757,123"/>
+<area shape="rect" id="Node000048" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="550,259,759,301"/>
+<area shape="poly" id="edge17_Node000049_Node000048" title=" " alt="" coords="448,241,537,259,532,259,448,246"/>
+</map>

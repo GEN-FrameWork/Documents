@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT_ANIMATION::SetMilliSecondsDelay" name="UI_ELEMENT_ANIMATION::SetMilliSecondsDelay">
+<area shape="rect" id="Node000001" title="Set milli seconds delay." alt="" coords="248,39,434,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf0080084511b93f943f5581efd107b86" title="Play." alt="" coords="9,5,196,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,45,196,42,196,37,235,44"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga61b35cf24682c1136d222b5a5fe3db25" title="Constructor of class." alt="" coords="5,72,200,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,76,201,82,200,77,235,75"/>
+</map>

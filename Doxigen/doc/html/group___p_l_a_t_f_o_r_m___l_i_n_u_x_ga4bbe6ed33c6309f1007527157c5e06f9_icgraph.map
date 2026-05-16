@@ -1,0 +1,9 @@
+<map id="DIOLINUXDBUS_MESSAGE::Delete" name="DIOLINUXDBUS_MESSAGE::Delete">
+<area shape="rect" id="Node000001" title="Delete." alt="" coords="276,72,472,115"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1718b14594426ef634782ea90a25acbc" title="Enable." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,68,202,51,202,46,277,67"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1fcb10276721de02de1e731fb817d0f1" title="Get connection state." alt="" coords="5,72,228,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,94,229,96,228,91,263,93"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1e1e982fbf3bf7c57a9a3bb81e68857e" title="Destructor of class." alt="" coords="10,139,223,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,119,202,141,201,135,271,120"/>
+</map>

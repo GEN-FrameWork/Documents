@@ -1,0 +1,7 @@
+<map id="DIOI2CMONITORGAUGELTC2942" name="DIOI2CMONITORGAUGELTC2942">
+<area shape="rect" id="Node000001" title="Data Input/Output I2C Monitor Gauge LTC2942 class." alt="" coords="5,155,235,181"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e_i2_c.html" title="Data Input/Output device I2C class." alt="" coords="61,80,179,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,121,122,155,118,153,118,124"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="72,5,168,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,45,123,80,117,79,119,50"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="GRPVECTORFILEDXFENTITYOBJTEXT::ApplyData" name="GRPVECTORFILEDXFENTITYOBJTEXT::ApplyData">
+<area shape="rect" id="Node000001" title="Apply data." alt="" coords="5,39,275,81"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gafd1fd045515de546213453bf4192b05b" title="Apply data." alt="" coords="323,39,558,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,57,310,59,305,61,275,63"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf4b2c8fe102a11ac43cc8d2376f2047c" title="Get data." alt="" coords="622,5,826,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,43,609,40,604,41,559,49"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gad05d5ca2368b40bbd441c5273b7716f7" title="Get data value." alt="" coords="606,72,841,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="559,71,593,78,588,78,559,77"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="936,21,1052,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="825,69,918,51,924,50,826,74"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gad2d135cf3bc2930de0171881051f3225" title="Get type." alt="" coords="892,72,1096,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="841,91,879,93,874,93,842,96"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gaae887d79c2889238fe8a30275b17a66e" title="Get values." alt="" coords="889,139,1099,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="813,113,893,135,887,134,813,118"/>
+</map>

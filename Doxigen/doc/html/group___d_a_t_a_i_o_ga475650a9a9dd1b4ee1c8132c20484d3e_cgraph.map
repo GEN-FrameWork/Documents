@@ -1,0 +1,40 @@
+<map id="DIOURL::EncodeUnsafeCharsFromString" name="DIOURL::EncodeUnsafeCharsFromString">
+<area shape="rect" id="Node000001" title="Encode unsafe chars from string." alt="" coords="5,219,207,261"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="892,24,1004,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,217,173,150,210,114,253,85,333,49,419,25,506,10,593,4,676,3,753,7,879,24,874,25,753,13,676,9,593,9,506,16,420,30,335,54,256,89,214,118,176,154,124,220"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="885,75,1012,101"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,217,185,175,218,154,254,136,335,103,406,80,471,64,532,56,595,53,662,55,826,67,872,74,867,75,825,72,662,60,595,59,533,61,472,70,408,85,337,108,256,141,221,159,188,180,134,220"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1086,176,1225,203"/>
+<area shape="poly" id="edge20_Node000001_Node000007" title=" " alt="" coords="122,259,176,325,214,360,256,388,336,423,402,438,472,441,561,440,752,440,833,434,866,426,895,415,953,383,1021,335,1056,307,1088,274,1135,217,1139,214,1092,278,1060,311,1025,340,955,387,897,420,867,432,834,439,752,445,561,445,472,446,401,443,334,429,253,393,210,364,173,329,121,264"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga5ea355cc5c4f54c3e763e6de2a0c2483" title="Encode unsafe char." alt="" coords="255,151,449,177"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="176,216,293,181,290,185,179,221"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="874,227,1023,253"/>
+<area shape="poly" id="edge25_Node000001_Node000016" title=" " alt="" coords="207,238,859,238,858,243,207,243"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="507,379,617,405"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="132,259,187,301,220,322,256,339,316,359,379,373,494,389,489,390,378,378,315,364,254,344,218,327,184,305,131,264"/>
+<area shape="rect" id="Node000042" href="$group___d_a_t_a_i_o.html#ga806c24a630a8f25f39b3bec52765f739" title="Is unsafe char." alt="" coords="271,303,432,329"/>
+<area shape="poly" id="edge21_Node000001_Node000042" title=" " alt="" coords="178,259,294,296,289,299,178,265"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="1088,125,1224,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="994,49,1024,60,1076,87,1123,117,1118,116,1074,92,1022,65,994,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="1071,24,1240,51"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1005,35,1058,37,1053,38,1006,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1288,49,1438,76"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1241,45,1276,52,1270,52,1241,51"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1012,82,1275,68,1270,69,1013,87"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="969,99,1015,130,1072,162,1089,171,1084,170,1070,167,1012,135,968,105"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="383,148,436,128,496,111,596,96,697,87,872,85,866,87,697,92,597,101,498,116,437,133,386,153"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="497,125,627,152"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="448,150,484,148,479,149,450,155"/>
+<area shape="poly" id="edge18_Node000008_Node000016" title=" " alt="" coords="450,172,826,219,861,226,856,226,825,224,450,178"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="675,125,826,152"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="627,145,662,147,657,148,628,150"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="770,123,815,92,872,60,885,58,890,56,875,65,818,97,772,127"/>
+<area shape="poly" id="edge15_Node000010_Node000003" title=" " alt="" coords="826,136,1074,138,1069,139,826,141"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="805,122,881,105,876,107,806,127"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="826,146,1074,178,1068,180,826,151"/>
+<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="672,131,644,133,643,127,677,129"/>
+<area shape="poly" id="edge17_Node000010_Node000016" title=" " alt="" coords="789,150,827,169,851,187,875,206,899,220,894,220,872,210,848,192,824,173,789,155"/>
+<area shape="poly" id="edge23_Node000042_Node000003" title=" " alt="" coords="412,327,534,347,611,353,694,355,780,348,865,333,947,305,985,286,1021,263,1033,253,1040,241,1046,216,1051,189,1058,175,1069,162,1074,161,1079,159,1073,166,1062,178,1056,191,1051,217,1045,243,1037,256,1025,268,988,291,949,310,866,338,780,354,694,360,611,359,534,352,412,333"/>
+<area shape="poly" id="edge24_Node000042_Node000016" title=" " alt="" coords="433,305,825,256,861,254,856,255,826,261,434,310"/>
+<area shape="poly" id="edge22_Node000042_Node000013" title=" " alt="" coords="397,327,450,346,516,373,510,373,448,351,396,333"/>
+</map>

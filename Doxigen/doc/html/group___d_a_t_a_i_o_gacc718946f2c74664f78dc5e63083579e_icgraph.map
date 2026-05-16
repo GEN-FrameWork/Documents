@@ -1,0 +1,13 @@
+<map id="DIOSTREAMICMP::DeleteDatagram" name="DIOSTREAMICMP::DeleteDatagram">
+<area shape="rect" id="Node000001" title="Delete datagram." alt="" coords="447,81,685,108"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gae2dede26eb89388e6e87584cdf7b7fd9" title="Read." alt="" coords="191,5,365,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,76,398,47,350,35,350,30,400,41,511,76"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad79833b68ef4c3432ff7321c7c8761f8" title="Read datagram." alt="" coords="162,56,394,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,83,394,82,394,77,434,83"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gafc0b17a88814523896df3980fc4dc476" title="Reset in X buffer." alt="" coords="162,107,394,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="429,107,395,112,394,107,434,106"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga99c79ff6d029f45517780ad66ec7007f" title="Reset out X buffer." alt="" coords="157,157,399,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,113,400,148,351,159,350,154,398,143,506,114"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="5,56,109,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,71,110,72,108,67,149,68"/>
+</map>

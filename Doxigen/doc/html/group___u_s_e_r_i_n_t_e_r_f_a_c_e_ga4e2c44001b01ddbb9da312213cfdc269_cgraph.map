@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT::~UI_ELEMENT" name="UI_ELEMENT::~UI_ELEMENT">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,13,210,40"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaff9e10f66a02c246bc73500f08dfe252" title="Delete all compose elements." alt="" coords="258,5,479,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,245,27,239,27,210,29"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="527,13,712,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,24,514,27,509,27,480,29"/>
+</map>

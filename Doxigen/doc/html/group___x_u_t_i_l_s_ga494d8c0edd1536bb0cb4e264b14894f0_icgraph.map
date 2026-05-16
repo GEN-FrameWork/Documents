@@ -1,0 +1,46 @@
+<map id="XPATH::GetDriveAndPath" name="XPATH::GetDriveAndPath">
+<area shape="rect" id="Node000001" title="Get drive and path." alt="" coords="803,131,978,157"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga5a65c0c16dce31c0008b54867b1ab2b8" title="all_GetPathScript" alt="" coords="588,13,722,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="859,120,812,87,754,54,723,43,722,37,756,50,815,83,864,120"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac479259bebb25b566c767177753101e7" title="Copy original files to backup." alt="" coords="560,64,750,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="817,127,744,110,743,105,822,126"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaf9f3e45f3c91081027a2c5bcf6a54f3a" title="Copy update files to original." alt="" coords="308,123,496,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="786,145,497,147,496,141,790,143"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga12bd66fa0392bb23b3415df1aa408442" title="Download." alt="" coords="308,189,496,232"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="786,159,497,200,495,195,790,156"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga2b75bbcfaa62ecdc79912b6ac68ed277" title="Set only drive and path." alt="" coords="555,307,755,333"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="861,166,676,309,673,304,857,168"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gaa3f032ac84ba81c345e1c008472d667a" title="Add library functions." alt="" coords="297,5,506,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,28,508,29,506,24,575,26"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaaac1ad5c8e4806a46aff72eafb00aa5a" title="Change files from download." alt="" coords="32,56,222,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,86,223,81,222,76,547,82"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="294,120,219,102,217,97,299,117"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaf0107df99a1809f843742a385ccc577f" title="Restore." alt="" coords="33,123,221,165"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="290,146,222,146,220,142,294,142"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga842aa645ad3fa869c2d0de8b3695fef2" title="Download." alt="" coords="33,189,221,232"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="290,212,222,213,220,208,295,209"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="631,294,578,238,544,207,506,180,484,169,484,163,508,175,547,202,582,234,636,295"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="614,299,564,274,506,246,477,235,477,230,508,242,567,269,619,299"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga932b5e7ef617b3dcc27cb7867b6e3fab" title="Del file." alt="" coords="328,256,476,283"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="567,304,472,286,472,281,573,302"/>
+<area shape="rect" id="Node000021" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7eabcc17acdb2d251a6f3d9691f2ee54" title="Exist." alt="" coords="321,307,482,333"/>
+<area shape="poly" id="edge15_Node000010_Node000021" title=" " alt="" coords="537,321,483,323,482,317,542,319"/>
+<area shape="rect" id="Node000023" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga641c2e9bdbb8758108a5151e2a171a58" title="Ini." alt="" coords="312,357,492,384"/>
+<area shape="poly" id="edge17_Node000010_Node000023" title=" " alt="" coords="567,338,473,359,471,354,572,336"/>
+<area shape="rect" id="Node000024" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="324,408,480,435"/>
+<area shape="poly" id="edge18_Node000010_Node000024" title=" " alt="" coords="621,341,568,372,508,398,471,410,470,405,506,394,565,367,616,343"/>
+<area shape="rect" id="Node000026" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="309,459,494,485"/>
+<area shape="poly" id="edge21_Node000010_Node000026" title=" " alt="" coords="634,344,580,399,546,426,508,449,479,461,478,456,506,444,543,422,577,395,630,346"/>
+<area shape="rect" id="Node000028" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga0859b309ba860961a65fea499f20376b" title="On start." alt="" coords="297,509,507,536"/>
+<area shape="poly" id="edge24_Node000010_Node000028" title=" " alt="" coords="641,345,620,383,590,424,552,465,508,500,484,511,482,506,506,495,548,461,585,421,615,380,637,348"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gab04df4c021280ebe042bdaa1fae31006" title="Backup adjust N files in compressed." alt="" coords="13,256,241,299"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="310,273,242,277,240,271,314,271"/>
+<area shape="rect" id="Node000022" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gacc640485a11d8ed6ed2b97d82a818cff" title="Make." alt="" coords="45,323,209,349"/>
+<area shape="poly" id="edge16_Node000021_Node000022" title=" " alt="" coords="303,327,210,334,208,329,308,324"/>
+<area shape="rect" id="Node000025" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="20,408,234,435"/>
+<area shape="poly" id="edge19_Node000024_Node000025" title=" " alt="" coords="306,431,235,433,234,427,311,429"/>
+<area shape="poly" id="edge20_Node000025_Node000024" title=" " alt="" coords="249,410,326,412,321,414,250,415"/>
+<area shape="rect" id="Node000027" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="5,459,249,485"/>
+<area shape="poly" id="edge22_Node000026_Node000027" title=" " alt="" coords="291,481,249,484,249,478,296,480"/>
+<area shape="poly" id="edge23_Node000027_Node000026" title=" " alt="" coords="264,460,311,463,306,464,264,466"/>
+</map>

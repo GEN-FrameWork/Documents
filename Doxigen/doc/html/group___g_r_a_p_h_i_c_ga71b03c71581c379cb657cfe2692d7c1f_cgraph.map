@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILE::CreateInstance" name="GRPVECTORFILE::CreateInstance">
+<area shape="rect" id="Node000001" title="Create instance." alt="" coords="5,31,237,57"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gab01a25949a4cd39dd6b00afa10964fca" title="Constructor of class." alt="" coords="285,5,540,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,31,272,31,266,32,238,37"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gadae02ade5902bb57dc78ddc95849b771" title="Set type." alt="" coords="317,56,508,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,51,304,60,299,60,237,57"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="588,5,770,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,16,575,18,570,19,540,21"/>
+</map>

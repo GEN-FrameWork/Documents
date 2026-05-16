@@ -1,0 +1,9 @@
+<map id="SNDOPENALFACTORY::Sound_Pause" name="SNDOPENALFACTORY::Sound_Pause">
+<area shape="rect" id="Node000001" title="Sound pause." alt="" coords="5,64,216,107"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gac1b267678e6287eb9cc6f4156d0345bd" title="Get item." alt="" coords="264,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,61,251,51,246,53,202,66"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gad5642d5693499dd9e0bff802f1208ef5" title="Get status." alt="" coords="278,72,427,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,83,265,85,259,86,216,88"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="266,123,438,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,105,273,119,268,119,215,110"/>
+</map>

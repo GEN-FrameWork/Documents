@@ -1,0 +1,27 @@
+<map id="GRPFACTORY::CreateBitmap" name="GRPFACTORY::CreateBitmap">
+<area shape="rect" id="Node000001" title="Create bitmap." alt="" coords="581,347,780,373"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga930ae26fffacb1bd71026dfb590636b5" title="Capture content." alt="" coords="294,5,524,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="671,330,656,275,629,201,610,163,588,126,562,92,531,62,516,51,516,46,535,58,566,88,592,123,615,161,634,199,661,273,676,332"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a6b99b118b7563208c8f904dcf9c90d22" title="Convert to mode." alt="" coords="286,72,533,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="667,332,649,288,620,233,581,176,557,151,531,129,514,118,514,113,535,125,561,147,585,173,624,230,653,286,672,333"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="307,139,512,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="661,334,609,265,573,227,532,196,511,185,511,179,534,191,577,224,613,262,666,334"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga814cb4a4c7c058ac75d4c2e39710c952" title="Create bitmap from buffer." alt="" coords="309,205,510,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="649,337,597,300,532,262,504,251,504,246,534,258,600,295,654,336"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga6843994e5c9bbe947b09c835509c54f7" title="Create bitmap from buffer." alt="" coords="307,272,512,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="606,343,499,318,499,313,611,342"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga7b15481dbd5dc66f5154266632341efd" title="Create bitmap from buffer." alt="" coords="308,339,510,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="563,361,512,363,510,357,568,359"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="307,405,512,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="606,379,500,407,498,402,611,377"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga69ed2b332c61759dafedaf177b03c2ff" title="Create bitmap from file." alt="" coords="309,472,510,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="654,382,600,425,534,462,505,474,503,469,532,458,597,420,649,385"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#gad8daa7409a348a5c147a15dfa25af96d" title="Create bitmap from file." alt="" coords="307,539,512,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="666,385,613,458,577,496,534,529,512,540,510,536,532,524,573,493,609,455,661,388"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#gac1f099f55a03a51c23a2f9381c643bc8" title="Create bitmap from file." alt="" coords="308,605,510,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="672,386,653,434,624,490,585,547,561,573,535,596,512,609,510,604,531,591,557,569,581,544,620,487,649,432,668,389"/>
+<area shape="rect" id="Node000012" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ae6acefef5adede29142359ceed6e91d0" title="Get bitmap." alt="" coords="307,672,512,699"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="676,387,662,447,635,521,616,560,594,598,567,632,535,662,513,675,511,670,531,658,563,629,589,595,612,558,630,519,657,446,672,390"/>
+<area shape="rect" id="Node000013" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ac85069cec134430dfdc83210b4fabf43" title="Draw framerate." alt="" coords="5,672,238,699"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="289,685,238,688,238,683,294,685"/>
+</map>

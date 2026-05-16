@@ -1,0 +1,11 @@
+<map id="DIOCLIPROTOCOL::DeleteFirstAnswer" name="DIOCLIPROTOCOL::DeleteFirstAnswer">
+<area shape="rect" id="Node000001" title="Delete first answer." alt="" coords="5,68,218,111"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="295,47,437,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,74,282,69,277,71,219,80"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gad8207b9f66c02e2b94cd153e1ca76c81" title="Get command." alt="" coords="266,97,466,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="218,99,253,105,248,106,218,104"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="514,5,660,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,47,502,39,496,40,438,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="514,72,660,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="438,68,502,80,496,80,437,73"/>
+</map>

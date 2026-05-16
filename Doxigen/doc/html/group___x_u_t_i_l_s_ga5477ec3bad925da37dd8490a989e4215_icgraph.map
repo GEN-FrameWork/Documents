@@ -1,0 +1,11 @@
+<map id="XFILECSV::HaveHeader" name="XFILECSV::HaveHeader">
+<area shape="rect" id="Node000001" title="Have header." alt="" coords="395,31,561,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1676db6b6b6f6f6155aa88d575c9df32" title="Close." alt="" coords="220,5,347,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,31,347,30,347,24,382,31"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad49692fae6e7b4c34c7f74a01bc08c7d" title="Open." alt="" coords="221,56,346,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,57,346,64,346,59,377,57"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga2b9f725d649c23806d08702387f18e16" title="Destructor of class." alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,19,172,21,172,16,207,18"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga66f26bc90f9ae3a645ce6d632a2af262" title="Constructor of class." alt="" coords="9,56,168,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,69,168,72,168,67,208,69"/>
+</map>

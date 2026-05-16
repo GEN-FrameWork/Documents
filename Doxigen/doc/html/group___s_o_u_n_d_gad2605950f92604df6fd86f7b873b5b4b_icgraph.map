@@ -1,0 +1,17 @@
+<map id="SNDFACTORY::DeleteAllItems" name="SNDFACTORY::DeleteAllItems">
+<area shape="rect" id="Node000001" title="Delete all items." alt="" coords="807,43,1013,69"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gae4079d1345a11557f38d2c5533a29e18" title="Delete all items." alt="" coords="548,5,759,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="789,43,760,41,760,36,795,42"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#ga988e41c22b9cc745788f688e3d58dcf8" title="End." alt="" coords="582,72,725,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="795,69,725,80,725,75,789,70"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gae11d0b6e4a3b3d83d5922a619a2326f5" title="Factorys end." alt="" coords="262,21,486,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,70,452,51,452,46,570,70"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf857e51d699f882d135ae962b4a8b6e9" title="Factorys end." alt="" coords="248,72,500,99"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="564,86,501,88,500,83,570,85"/>
+<area shape="rect" id="Node000008" href="$group___s_o_u_n_d.html#gaff7989b8919c68f76fe4cf69e375f61c" title="Destructor of class." alt="" coords="265,123,483,149"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="570,101,452,125,451,119,565,101"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga105c6b8ddb941fa4fbccce046fb10304" title="End." alt="" coords="20,21,185,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="244,36,186,37,185,32,249,34"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8fdc0c9ab880e4d578eb5fb486dd6c13" title="End." alt="" coords="5,72,200,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="229,86,200,88,200,83,235,85"/>
+</map>

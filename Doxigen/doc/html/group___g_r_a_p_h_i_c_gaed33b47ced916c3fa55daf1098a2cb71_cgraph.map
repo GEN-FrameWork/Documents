@@ -1,0 +1,23 @@
+<map id="GRPBITMAPFILE::Save" name="GRPBITMAPFILE::Save">
+<area shape="rect" id="Node000001" title="Save." alt="" coords="5,101,172,128"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gacb3d935f22863eec0800833ed5f57ea7" title="Create file from bitmap." alt="" coords="241,60,414,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,101,228,94,223,97,173,106"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga2886f15d8368da7c3293d4fbfabbef65" title="Get type from extenxion." alt="" coords="220,127,435,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,124,207,130,202,132,172,129"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="483,80,625,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,124,484,110,478,112,419,129"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga15bf9dc61ade260a93c19abe3d9a49ed" title="Get ext." alt="" coords="498,164,611,191"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="435,159,485,168,480,168,436,165"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="673,5,820,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="594,77,666,54,671,53,596,82"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="673,72,820,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="625,91,660,93,655,94,626,96"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="873,164,1012,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="611,175,860,177,855,178,611,180"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga913d9a5ff563e415893c6af33b9c28aa" title="Split." alt="" coords="697,189,796,216"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="611,182,685,194,680,194,611,187"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="868,227,1017,253"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="581,189,624,209,674,225,765,239,855,244,850,244,765,244,673,231,622,214,580,194"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="796,194,855,189,860,188,796,199"/>
+<area shape="poly" id="edge10_Node000009_Node000012" title=" " alt="" coords="796,209,857,223,851,223,796,215"/>
+</map>

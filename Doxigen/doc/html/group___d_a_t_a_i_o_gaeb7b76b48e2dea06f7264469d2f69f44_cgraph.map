@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER::WaitToAllConnectionsCanBeDeleted" name="DIOPROTOCOL_CONNECTIONSMANAGER::WaitToAllConnectionsCanBeDeleted">
+<area shape="rect" id="Node000001" title="Wait to all connections can be deleted." alt="" coords="5,39,300,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga75b716014d378c49dcfb20305a8c41ed" title="Is in use." alt="" coords="386,5,604,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,43,373,38,368,39,300,48"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga46d921bb5e7873ec4defe31841a021a3" title="Protocol connections get N available." alt="" coords="348,72,642,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,72,335,77,329,78,300,77"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOAPPLICATIONUPDATE_VERSIONDATA::CopyFrom" name="DIOAPPLICATIONUPDATE_VERSIONDATA::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="493,5,685,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga9b56a8335504fd1595f880b9da4a342f" title="Get previous version to restore." alt="" coords="241,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,27,445,29,445,24,480,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae0817a61b27dfeb5cc7ab1151f3e9c0f" title="Restore previous." alt="" coords="5,5,193,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,27,193,29,193,24,228,26"/>
+</map>

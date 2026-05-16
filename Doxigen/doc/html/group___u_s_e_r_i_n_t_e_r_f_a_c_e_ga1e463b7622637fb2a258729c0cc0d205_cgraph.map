@@ -1,0 +1,7 @@
+<map id="UI_MANAGER::SetLevelAuto" name="UI_MANAGER::SetLevelAuto">
+<area shape="rect" id="Node000001" title="Set level auto." alt="" coords="5,31,202,57"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0da97abb824c95c1bbda4805baf9c25a" title="Get Z level." alt="" coords="250,5,422,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,31,237,29,232,30,203,36"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga13c616492dda92c74802776e7db3b4a7" title="Set Z level." alt="" coords="250,56,422,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,52,237,58,232,58,202,57"/>
+</map>

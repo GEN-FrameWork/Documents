@@ -1,0 +1,15 @@
+<map id="GRPCANVASAGG::ReleaseDrawFramerate" name="GRPCANVASAGG::ReleaseDrawFramerate">
+<area shape="rect" id="Node000001" title="Release draw framerate." alt="" coords="5,103,227,145"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a41abb471a779633c3fec273a4bbd7424" title="Put bitmap." alt="" coords="277,81,480,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,109,264,107,259,108,228,114"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a4cba9642356cd24419add0bb3f2992eb" title="Raster font get height." alt="" coords="275,132,482,175"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="227,134,262,140,257,140,227,139"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="540,5,744,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,78,529,41,563,35,558,37,531,47,418,83"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_b_i_t_m_a_p.html#a63495c593c0238080f4ec81b859d4555" title=" " alt="" coords="563,56,721,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="480,82,550,78,545,79,481,88"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="542,107,742,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="481,102,529,109,524,109,481,107"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a8090f36dd6113e53c80ba7a154b08dd4" title="Put blend pixel." alt="" coords="530,157,754,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="446,106,483,118,507,130,531,143,555,153,550,152,529,148,505,135,481,122,446,111"/>
+</map>

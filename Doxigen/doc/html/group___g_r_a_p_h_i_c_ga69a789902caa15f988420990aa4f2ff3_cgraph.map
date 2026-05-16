@@ -1,0 +1,25 @@
+<map id="GRPBITMAPSEQUENCE::Copy" name="GRPBITMAPSEQUENCE::Copy">
+<area shape="rect" id="Node000001" title="Copy." alt="" coords="5,223,221,249"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga92c924c1e5e3beb73e3d5d4f48c8fd49" title="Add frame." alt="" coords="285,59,470,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,220,192,179,267,132,319,107,315,110,270,137,195,184,136,224"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga9adfa8c890144c2fdd4c298874883e74" title="Clone." alt="" coords="306,147,448,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,220,268,183,300,176,296,179,269,188,155,225"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga509e8a4059d3b4309f0e68eaa824bc6b" title="Get ajust x." alt="" coords="270,197,485,224"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="220,223,257,221,252,224,222,228"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga4d28920b548b649ec86932ee08972c83" title="Get ajust y." alt="" coords="270,248,485,275"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="221,244,257,249,252,250,222,249"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga540cb18d0bbf50644f63e4a0d731e299" title="Get bitmap." alt="" coords="269,299,486,325"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="154,247,269,284,301,294,295,295,268,289,153,253"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#ga26e05c1da2cb020576413a5a5901edd8" title="Constructor of class." alt="" coords="285,349,470,392"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="132,247,192,290,270,335,285,344,280,343,267,340,189,294,131,253"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaac11fb2c54c4d3ebb11f09e853f13860" title="Set ajust x." alt="" coords="535,5,749,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,56,569,35,564,37,471,61"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga97a498e972836221cf2e6b2ee061fc37" title="Set ajust y." alt="" coords="535,56,749,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="469,74,522,73,517,75,471,79"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gaf0e7edb4c5df1c6f9f51112509b7f9c2" title="Set bitmap." alt="" coords="534,107,750,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="470,91,537,103,532,104,470,97"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gadcfee87a80fbe25f2d403d11608a0248" title="Constructor of class." alt="" coords="548,157,736,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="449,160,536,166,530,167,449,165"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga278b17fb213236c19a423e879d5eeb10" title="Ajust time." alt="" coords="550,349,734,392"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="470,368,537,371,531,371,470,373"/>
+</map>

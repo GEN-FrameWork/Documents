@@ -1,0 +1,21 @@
+<map id="XBUFFER::FillBuffer" name="XBUFFER::FillBuffer">
+<area shape="rect" id="Node000001" title="Fill buffer." alt="" coords="568,152,711,179"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac47c71c5d41f5d417221a2f8d0898143" title="Convert to UTF8." alt="" coords="308,21,490,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="615,140,573,100,547,80,519,62,491,51,491,46,521,58,550,75,577,96,620,140"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad0683836da10af906b0b4a5070b0840b" title="Get record." alt="" coords="321,72,478,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="597,145,519,113,478,102,478,97,521,108,602,145"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga1022e7ce3c3bfc8633d6f4d9c840c209" title="Get record index." alt="" coords="305,123,494,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="550,155,495,150,494,145,555,154"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gada1805205ac598d5b714b2217097dbba" title="Read holding registers." alt="" coords="279,173,520,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="550,176,521,182,520,177,555,175"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gae7812615073557f51595d5bc3fdad651" title="Write from IMG file." alt="" coords="308,240,491,283"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="605,186,521,230,488,242,487,237,519,226,600,188"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga593dee9525f83015b2e5a1977895b26e" title="Constructor of class." alt="" coords="322,307,477,333"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="624,191,582,247,553,274,521,297,478,314,476,309,519,292,550,270,578,243,619,193"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gadf0a41b9e412a88ddac763ec09108ef8" title="File get manufactured." alt="" coords="24,5,212,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,70,213,49,212,44,319,67"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga35f44254787119d95727d1d47e9a3628" title="Get sentence." alt="" coords="5,72,231,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="302,87,232,88,230,83,307,84"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga223de95fdc3050e7941b944f3c0a03e1" title="File get manufactured MA cs." alt="" coords="21,123,215,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="286,140,216,144,215,139,291,138"/>
+</map>

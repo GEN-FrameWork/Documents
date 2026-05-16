@@ -1,0 +1,14 @@
+<map id="XFILEXMLELEMENT::GetName" name="XFILEXMLELEMENT::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="715,80,927,107"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafa6383bd698671924ad32a3889b572a0" title="Encode elements." alt="" coords="475,29,667,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="734,76,640,59,641,54,739,76"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga6b9843fae462c414060866244bf90c5c" title="Search child." alt="" coords="489,80,653,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="697,93,654,96,654,91,703,93"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga1390bbc4fd0785f79979ce39d7e228f4" title="Search element." alt="" coords="480,131,662,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="739,110,641,133,640,127,734,111"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="611,14,598,10,571,8,546,10,533,15,530,20,536,30,531,28,524,21,529,11,545,5,571,3,600,5,616,15"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga51a777515ed2f3051ddae9a97996a20b" title="Encode all lines." alt="" coords="244,29,427,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,43,428,45,427,40,462,42"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1ffd8a4dccd0775213385a684ec6f1ae" title="Write and encode all lines." alt="" coords="5,21,196,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,43,197,45,196,40,231,42"/>
+</map>

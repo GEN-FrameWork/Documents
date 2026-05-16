@@ -1,0 +1,15 @@
+<map id="XDATETIME::AddMinutes" name="XDATETIME::AddMinutes">
+<area shape="rect" id="Node000001" title="Add minutes." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga8005b8d3f065b4cb2dd1a208165ad5b6" title="Get secons from date." alt="" coords="510,5,738,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,37,495,22,495,27,180,43"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gacd20980f885927ed1f53a7a3ab351f62" title="Set date from seconds." alt="" coords="228,56,462,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,50,215,56,210,56,180,55"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="786,5,1021,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="739,16,773,19,768,19,739,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="797,56,1010,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="702,30,814,53,809,53,702,35"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga1300a113a438cf34914c33ed43b89bdb" title="Get date from N days." alt="" coords="512,56,737,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="462,67,498,69,493,69,462,72"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="701,53,809,36,814,35,702,58"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="737,67,784,69,779,69,737,72"/>
+</map>

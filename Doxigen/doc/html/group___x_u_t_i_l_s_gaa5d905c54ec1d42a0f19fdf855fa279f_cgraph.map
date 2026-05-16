@@ -1,0 +1,11 @@
+<map id="XSTRING::Compare" name="XSTRING::Compare">
+<area shape="rect" id="Node000001" title="Compare." alt="" coords="5,72,148,99"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="199,47,342,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,73,186,71,181,72,148,79"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="196,97,345,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,92,183,99,177,99,148,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="393,5,539,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,45,381,41,375,42,342,50"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="393,72,539,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="342,69,381,78,375,78,342,75"/>
+</map>

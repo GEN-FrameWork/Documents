@@ -1,0 +1,13 @@
+<map id="DIOATCMDS::MakeSimpleCommand" name="DIOATCMDS::MakeSimpleCommand">
+<area shape="rect" id="Node000001" title="Make simple command." alt="" coords="501,69,742,96"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga9896863e95e52aad331deed4a8fa8e4f" title="Basic." alt="" coords="288,17,430,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,66,430,47,430,42,538,66"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad14c1a8c72c453035e3197643b0d7a32" title="Get baud rate." alt="" coords="265,69,453,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="483,83,454,85,453,80,488,82"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga9b0b8f6133580106653c0cd4a8ac4957" title="Reset." alt="" coords="287,120,431,147"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="536,99,432,122,431,117,531,100"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab56a2ee245e7543f250576c51891be8b" title="Calcule baud rate stream UART." alt="" coords="5,5,217,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,30,218,31,217,26,275,28"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gad19eb07d5abffb8726f0c81f7d01a42d" title="Ini." alt="" coords="49,72,173,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,85,174,87,173,82,252,83"/>
+</map>

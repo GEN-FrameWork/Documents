@@ -1,0 +1,13 @@
+<map id="XFILECFG::SetValue" name="XFILECFG::SetValue">
+<area shape="rect" id="Node000001" title="Set value." alt="" coords="5,107,152,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="240,5,350,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,104,141,73,199,42,227,33,223,36,201,46,144,77,100,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gabcac61acd6c466f93f23e9881f2a6742" title="Get data." alt="" coords="223,56,367,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,104,222,85,218,88,140,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaadb73608cc79df9458cd90c6bfd218a0" title="Get type." alt="" coords="202,107,388,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,117,189,119,184,121,153,123"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab0b866a0988bc5983c54ca788eafbe1c" title="Get value." alt="" coords="200,157,390,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,131,222,152,218,154,139,137"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad49d3f95fe376160f500d202f53d1053" title="Set value." alt="" coords="200,208,390,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="98,131,144,163,201,194,220,203,215,203,199,198,141,167,97,137"/>
+</map>

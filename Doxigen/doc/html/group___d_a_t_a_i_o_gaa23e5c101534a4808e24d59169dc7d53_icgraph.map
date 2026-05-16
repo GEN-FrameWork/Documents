@@ -1,0 +1,7 @@
+<map id="DIOCHECKTCPIPCONNECTION_CUT::GetMeasureNSeconds" name="DIOCHECKTCPIPCONNECTION_CUT::GetMeasureNSeconds">
+<area shape="rect" id="Node000001" title="Get measure N seconds." alt="" coords="306,39,530,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga42b7c7cf5320b231285f40fe41a8b2f0" title="Check." alt="" coords="5,5,258,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,45,258,44,258,39,293,45"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga09e6dc2550dad43e138985a21c77ff66" title="Get measure time string." alt="" coords="19,72,244,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,75,245,83,244,78,293,75"/>
+</map>

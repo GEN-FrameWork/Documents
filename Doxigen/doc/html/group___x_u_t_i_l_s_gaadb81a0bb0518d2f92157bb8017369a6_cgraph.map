@@ -1,0 +1,33 @@
+<map id="XFILETXT::GetAllInBuffer" name="XFILETXT::GetAllInBuffer">
+<area shape="rect" id="Node000001" title="Get all in buffer." alt="" coords="5,195,177,221"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="243,107,358,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,192,224,143,244,137,239,141,226,148,121,196"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="245,384,357,411"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="101,219,148,291,184,333,226,370,235,377,230,376,223,374,180,337,144,294,99,224"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="444,5,575,32"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="98,193,116,164,145,127,181,90,223,59,274,38,328,24,381,17,432,15,427,18,381,22,329,29,276,43,226,64,184,94,149,130,121,167,103,195"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="246,157,356,184"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="168,192,233,181,229,185,171,196"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga17ff8b9cf9fe8e31b663fa7d4d3f1699" title="Get LF." alt="" coords="238,232,364,259"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="169,219,225,230,220,233,170,225"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gadc394551e572ffa1e6c3b9e3ac117f59" title="Get line." alt="" coords="233,283,368,309"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="119,219,226,268,244,277,239,278,224,273,119,225"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaea68e645b7632bd70b5def1c5c52551c" title="Get N lines." alt="" coords="225,333,377,360"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="105,219,156,268,190,295,226,319,238,327,233,327,223,324,187,299,153,272,105,224"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="440,56,579,83"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="101,193,150,141,185,114,224,92,274,76,326,66,377,62,427,63,422,65,378,67,327,71,275,81,226,97,188,118,154,145,105,196"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="443,107,576,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,117,430,119,425,121,360,123"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="642,81,802,108"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="358,131,409,141,468,148,531,149,594,143,639,130,683,114,678,116,641,135,595,148,532,155,468,153,408,146,359,137"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="576,110,630,105,625,107,578,115"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="442,359,578,385"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="357,388,429,382,424,382,358,393"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="425,409,594,436"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="358,401,412,411,407,411,357,407"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="647,409,797,436"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="594,420,635,423,629,423,594,425"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="559,30,595,41,677,75,672,75,593,47,560,35"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="265,231,259,223,263,214,278,207,301,205,326,208,340,216,335,217,324,213,301,211,279,213,267,217,264,223,270,232"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="579,75,629,83,624,84,580,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UI_SKINCANVAS::AddPositionSubElements" name="UI_SKINCANVAS::AddPositionSubElements">
+<area shape="rect" id="Node000001" title="Add position sub elements." alt="" coords="486,5,693,48"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1b773d5061fc623b80d78e5d6c0fc071" title="Calculate boundary line form." alt="" coords="246,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,27,438,29,438,24,473,27"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gada61b7cd6242028b4caff8d553fb167f" title="Calculate boundary line menu." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,27,198,29,198,24,233,26"/>
+</map>

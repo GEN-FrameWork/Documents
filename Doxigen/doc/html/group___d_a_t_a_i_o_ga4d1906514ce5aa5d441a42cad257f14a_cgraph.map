@@ -1,0 +1,26 @@
+<map id="DIOCLIPROTOCOL::AddCommand" name="DIOCLIPROTOCOL::AddCommand">
+<area shape="rect" id="Node000001" title="Add command." alt="" coords="5,125,237,152"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="622,5,733,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,122,284,85,458,50,610,27,605,29,459,55,285,91,163,127"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gafd224f72e8634c36817da9df6623b5c9" title="Get command." alt="" coords="290,100,519,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,126,277,124,272,126,238,131"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga5fa86a0f14317d874f11d8e572293573" title="To lower case." alt="" coords="593,173,762,200"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="237,146,579,176,576,180,237,151"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gabee88a36bab85a4bbc1d7872734c452a" title="Set." alt="" coords="285,201,524,228"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="174,150,285,180,340,197,334,197,284,185,174,155"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="434,97,497,70,571,41,610,33,605,35,573,47,499,75,436,102"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="606,56,749,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,97,593,83,588,84,492,102"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2c94554fe0fb5a20535beadd720ed5a3" title="Get command." alt="" coords="572,107,783,149"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="519,117,559,121,554,122,520,122"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="460,125,525,143,573,159,603,169,598,169,571,164,523,148,459,130"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="831,99,978,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="741,81,819,100,813,100,741,86"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="831,32,978,75"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="749,62,818,59,813,60,750,67"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="740,170,783,159,826,147,832,146,784,164,741,175"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaab35936c24b21a75ac8ca8c1e619f0a2" title="Character to lower." alt="" coords="831,165,978,208"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="762,184,818,187,813,187,763,189"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="835,232,974,259"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="732,198,838,228,833,227,732,203"/>
+</map>

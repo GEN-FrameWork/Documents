@@ -1,0 +1,21 @@
+<map id="Call_Window_SetBmpFindCFG" name="Call_Window_SetBmpFindCFG">
+<area shape="rect" id="Node000001" title="all_Window_SetBmpFindCFG" alt="" coords="5,189,211,216"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga6c730afc36860762f228936f8f2a1935" title="Bmp find CFG set diff limit percent." alt="" coords="261,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,187,173,125,213,89,257,58,271,53,267,56,260,62,216,93,177,129,122,191"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga4aad949097d043bba94a42beedcb21ff" title="Bmp find CFG set pixel margin." alt="" coords="273,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,187,188,156,258,124,278,119,274,122,260,129,191,161,135,191"/>
+<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="314,139,429,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,186,301,164,297,168,182,191"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gabbf602df960ebb8d3a3f052cd23c8487" title="Get param converted." alt="" coords="259,189,484,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,200,246,202,241,204,212,205"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="301,240,442,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,214,287,236,283,238,181,219"/>
+<area shape="rect" id="Node000008" href="$group___s_c_r_i_p_t.html#ga9b6211aae3517ced521a3907ca6ef648" title="Have error." alt="" coords="303,291,440,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,214,190,245,260,276,290,287,285,288,258,281,188,250,132,219"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga238f6ef465ea6b1cc7f9882aee8c868f" title="Set." alt="" coords="314,341,429,368"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="122,214,179,270,217,301,260,327,301,344,296,344,258,332,214,305,175,274,121,219"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga70075e357dea2d13c7e1763e8800cbc6" title="Get type." alt="" coords="532,189,676,216"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="484,200,519,202,514,203,485,205"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaf2a714cbc516e65c1939b46fad3a6793" title="Destroy." alt="" coords="534,341,675,368"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="430,352,521,355,515,355,430,357"/>
+</map>

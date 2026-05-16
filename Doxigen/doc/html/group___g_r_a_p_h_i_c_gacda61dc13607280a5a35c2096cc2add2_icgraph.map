@@ -1,0 +1,9 @@
+<map id="GRPBITMAPFILEBMPHEADER::GetHeight" name="GRPBITMAPFILEBMPHEADER::GetHeight">
+<area shape="rect" id="Node000001" title="Get height." alt="" coords="258,72,472,115"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,68,193,51,193,46,268,67"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="5,72,210,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,94,211,96,210,91,245,93"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gae022961d444f096cebd13c648f198cb9" title="Create file from bitmap." alt="" coords="5,139,210,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,118,193,141,192,135,262,120"/>
+</map>

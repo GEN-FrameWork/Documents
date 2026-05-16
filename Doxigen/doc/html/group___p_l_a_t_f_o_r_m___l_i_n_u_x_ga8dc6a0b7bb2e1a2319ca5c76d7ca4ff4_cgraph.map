@@ -1,0 +1,9 @@
+<map id="XLINUXFILE::Exist" name="XLINUXFILE::Exist">
+<area shape="rect" id="Node000001" title="Exist." alt="" coords="5,31,142,57"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1ee89c0998498c502effce26458b7703" title="Close." alt="" coords="190,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,32,177,30,172,31,143,37"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gae21c7364acc1f91efd7126ad090208d5" title="Open." alt="" coords="191,56,328,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,51,178,58,173,58,142,56"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabd2887093f9c961e2ad08f99a1acb731" title="Flush." alt="" coords="378,5,516,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,16,365,18,359,19,331,21"/>
+</map>

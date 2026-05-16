@@ -1,0 +1,17 @@
+<map id="XSHAREDMEMORYMANAGER::XSHAREDMEMORYMANAGER" name="XSHAREDMEMORYMANAGER::XSHAREDMEMORYMANAGER">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="792,39,1015,81"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab50e75658e5226808b41e60abc5c245a" title="Get instance." alt="" coords="530,5,744,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,44,745,43,745,37,780,44"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad7d6da455691836d2a3232fda61173a6" title="Set instance." alt="" coords="530,72,744,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="780,76,745,83,745,77,774,76"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="253,55,468,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,82,468,80,468,75,517,82"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="239,105,482,132"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="517,104,483,110,482,105,512,105"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="20,55,176,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,78,177,79,176,74,240,76"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="191,57,255,58,250,60,192,62"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,105,191,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="220,128,191,130,191,125,226,128"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="206,107,241,110,236,110,206,112"/>
+</map>

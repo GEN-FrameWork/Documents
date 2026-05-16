@@ -1,0 +1,30 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSConsole.h" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSConsole.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,287,64"/>
+<area shape="rect" id="Node000002" href="$_x_console_8h.html" title=" " alt="" coords="145,112,235,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,62,193,97,187,95,189,67"/>
+<area shape="rect" id="Node000003" href="$_x_string_8h.html" title=" " alt="" coords="279,187,354,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,137,284,178,279,179,212,142"/>
+<area shape="rect" id="Node000011" href="$_factory_base_8h.html" title=" " alt="" coords="9,261,115,288"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="180,142,85,251,81,248,178,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="142,336,203,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,208,226,227,201,242,180,263,174,276,170,291,170,322,165,319,165,290,169,274,176,260,197,238,224,222,281,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="190,261,259,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="303,213,254,254,251,250,298,215"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="427,336,492,363"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="354,200,389,205,425,215,460,233,488,260,494,276,494,293,480,325,476,321,488,292,489,277,484,263,457,237,423,220,387,210,355,205"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="283,261,350,288"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="318,212,319,247,314,244,315,216"/>
+<area shape="rect" id="Node000008" href="$_x_base_8h.html" title=" " alt="" coords="332,336,403,363"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="355,202,384,209,415,219,444,236,467,260,472,271,472,282,461,301,441,318,416,332,415,327,438,314,457,298,467,281,467,272,462,263,440,240,413,224,383,214,355,208"/>
+<area shape="rect" id="Node000009" href="$_x_vector_8h.html" title=" " alt="" coords="375,261,453,288"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="334,211,388,252,383,252,333,216"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="377,288,218,337,217,332,372,288"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="423,286,446,324,441,322,421,291"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="408,287,385,325,382,321,404,290"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="82,286,143,326,138,328,80,291"/>
+<area shape="poly" id="edge16_Node000011_Node000006" title=" " alt="" coords="116,281,247,301,415,335,409,336,246,307,116,286"/>
+<area shape="poly" id="edge17_Node000011_Node000008" title=" " alt="" coords="116,286,318,334,315,338,115,291"/>
+<area shape="rect" id="Node000012" href="$_g_e_n___defines_8h.html" title=" " alt="" coords="5,336,119,363"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="57,287,56,321,51,320,53,291"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="66,335,69,305,73,302,72,337"/>
+</map>

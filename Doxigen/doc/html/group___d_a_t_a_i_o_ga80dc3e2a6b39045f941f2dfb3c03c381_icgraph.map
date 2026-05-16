@@ -1,0 +1,37 @@
+<map id="DIOSCRAPERWEB::AddValue" name="DIOSCRAPERWEB::AddValue">
+<area shape="rect" id="Node000001" title="Add value." alt="" coords="935,107,1140,133"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gab9d8266a8ed9b4a93bb882aeb077c710" title="Add value." alt="" coords="683,31,887,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="981,101,887,72,845,61,845,55,888,67,986,101"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga8425c0d17a7a33815d31f4db4c9053f6" title="Add value." alt="" coords="683,81,887,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="917,109,888,108,888,102,923,108"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad71faa96375a62c6dbd18376fdf5c47f" title="Add value." alt="" coords="683,132,887,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="917,132,888,138,887,132,923,131"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gae8df5b02e4280111b316d8f928595378" title="Do." alt="" coords="702,183,868,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="986,138,888,173,846,185,845,179,887,168,981,140"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga6c0c895808db643dd750a70d90d9d89f" title="Do." alt="" coords="395,5,562,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="686,175,681,173,668,157,661,140,657,107,653,75,646,60,633,46,600,28,562,19,562,14,601,23,637,42,651,57,658,74,662,106,666,139,672,154,685,169,691,175"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gae485082d065ce8b7f766623717c5eced" title="Get." alt="" coords="339,56,618,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="688,175,681,173,664,153,657,133,650,114,633,97,613,86,614,81,637,93,654,111,662,131,669,151,685,169,693,176"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga9f5da6d440fabb5eef7067b92dacc3eb" title="Get." alt="" coords="322,107,635,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="701,178,682,173,658,160,634,148,592,137,592,131,636,143,660,155,684,168,707,178"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gaf58d6ded3a3e198a9cdf0c8cfe06250c" title="Get." alt="" coords="362,157,594,184"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="684,188,595,183,595,178,689,187"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga45f08179c278d36f9ce182156ea2624d" title="Get." alt="" coords="360,208,596,235"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="684,205,597,214,596,209,689,204"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gac18aa53149e47f654226acfa8498b398" title="Get." alt="" coords="347,259,610,285"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="737,215,636,249,581,261,580,255,634,244,732,216"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gadfed6ccad322966d034293989aeb3162" title="Get." alt="" coords="344,309,612,336"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="759,219,704,263,671,283,636,300,600,311,598,306,634,295,669,278,701,258,755,221"/>
+<area shape="rect" id="Node000017" href="$group___d_a_t_a_i_o.html#gab00821104b696ca89cee26b26078096a" title="Get." alt="" coords="360,360,597,387"/>
+<area shape="poly" id="edge16_Node000005_Node000017" title=" " alt="" coords="769,221,715,289,678,323,636,350,598,365,597,360,634,346,675,318,711,285,764,223"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga7305433a45e5d0d58484bd702253d5be" title="Web get manufactured." alt="" coords="45,99,234,141"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="304,121,235,123,233,117,308,119"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga09a2fc6a41378a84bac0c2b118fc5851" title="Get." alt="" coords="21,208,258,235"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="342,222,259,224,258,219,347,220"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga725e12ba5ffd428b97b1032c2bf02530" title="Get." alt="" coords="8,259,271,285"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="328,273,272,275,271,269,334,271"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#ga886d7ba0a2f632b8bb55edf61bc54522" title="Get." alt="" coords="5,309,274,336"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="326,323,274,325,274,320,331,322"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga666250151ae23257736d27745488d9e8" title="Get." alt="" coords="21,360,258,387"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="342,373,258,376,258,371,347,373"/>
+</map>

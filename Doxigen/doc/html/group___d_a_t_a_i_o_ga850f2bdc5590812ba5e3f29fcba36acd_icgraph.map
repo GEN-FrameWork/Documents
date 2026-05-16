@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_MESSAGES::FindRequest" name="DIOCOREPROTOCOL_MESSAGES::FindRequest">
+<area shape="rect" id="Node000001" title="Find request." alt="" coords="294,39,534,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac123a7ab4928878f27b324cffa89c082" title="Add request." alt="" coords="5,5,246,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,45,246,43,246,38,281,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gacad098f71ec212abf3064e321c3267bd" title="Add response." alt="" coords="5,72,246,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,76,247,82,246,77,281,75"/>
+</map>

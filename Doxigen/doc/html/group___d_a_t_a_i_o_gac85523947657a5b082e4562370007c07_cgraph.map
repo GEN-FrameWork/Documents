@@ -1,0 +1,30 @@
+<map id="DIOSTREAMUARTCONFIG::GetToString" name="DIOSTREAMUARTCONFIG::GetToString">
+<area shape="rect" id="Node000001" title="Get to string." alt="" coords="5,222,195,265"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf33a81aa06ed745e4d26cc5d08b1d1b4" title="Get to string." alt="" coords="243,222,432,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,241,229,242,225,245,196,246"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="916,21,1043,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,221,364,184,393,138,431,93,454,73,479,57,532,34,587,19,645,9,702,4,811,6,903,19,898,20,810,12,702,10,645,14,588,24,533,39,481,62,457,77,435,96,397,141,369,186,350,224"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="510,72,640,98"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="354,220,406,164,440,134,479,108,497,102,493,104,481,113,444,138,409,168,358,224"/>
+<area shape="rect" id="Node000042" href="$group___d_a_t_a_i_o.html#ga2221004a571c4ee12ca584632057dcde" title="Get baud rate." alt="" coords="480,122,669,165"/>
+<area shape="poly" id="edge10_Node000002_Node000042" title=" " alt="" coords="381,219,479,174,497,170,493,172,481,179,383,224"/>
+<area shape="rect" id="Node000043" href="$group___d_a_t_a_i_o.html#ga7920f30ea31fc2c125027e06f9df66d6" title="Get data bits." alt="" coords="480,189,669,232"/>
+<area shape="poly" id="edge11_Node000002_Node000043" title=" " alt="" coords="432,228,467,225,462,227,433,233"/>
+<area shape="rect" id="Node000044" href="$group___d_a_t_a_i_o.html#ga5181e2e1af6341575c39845b80975640" title="Get flow control." alt="" coords="480,256,669,298"/>
+<area shape="poly" id="edge12_Node000002_Node000044" title=" " alt="" coords="432,254,467,261,462,262,433,260"/>
+<area shape="rect" id="Node000045" href="$group___d_a_t_a_i_o.html#ga8e77411d630dcc864f479573af363293" title="Get local device name." alt="" coords="480,322,669,365"/>
+<area shape="poly" id="edge13_Node000002_Node000045" title=" " alt="" coords="382,263,481,308,498,316,492,316,479,313,382,268"/>
+<area shape="rect" id="Node000046" href="$group___d_a_t_a_i_o.html#ga825e74edc767341bf49656bcf52ddc0c" title="Get parity." alt="" coords="480,389,669,432"/>
+<area shape="poly" id="edge14_Node000002_Node000046" title=" " alt="" coords="357,263,411,319,445,348,481,375,491,382,486,381,479,379,441,353,407,322,356,268"/>
+<area shape="rect" id="Node000047" href="$group___d_a_t_a_i_o.html#gacbb6f3b54916832c2146418b308c7e41" title="Get port." alt="" coords="480,456,669,498"/>
+<area shape="poly" id="edge15_Node000002_Node000047" title=" " alt="" coords="349,263,370,302,399,350,437,399,482,442,488,448,483,447,478,446,433,402,395,353,366,305,348,268"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1091,21,1240,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1043,32,1078,34,1073,35,1044,37"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1096,72,1235,98"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1031,46,1102,67,1097,67,1031,51"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="717,72,868,98"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="639,91,704,93,699,95,641,96"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="844,68,915,51,911,53,846,73"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="868,82,1083,84,1078,86,868,88"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="714,77,656,79,654,74,719,76"/>
+</map>

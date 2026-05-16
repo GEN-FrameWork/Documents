@@ -1,0 +1,17 @@
+<map id="XFILECOBOL_FIELD::GetPIC" name="XFILECOBOL_FIELD::GetPIC">
+<area shape="rect" id="Node000001" title="Get PIC." alt="" coords="454,195,655,221"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3743c597a187291bd4630d891587a6de" title="Calculate data size node." alt="" coords="230,29,404,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,184,474,136,405,86,384,75,383,70,407,82,477,132,532,184"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gadb74812d45b1467aebe7b392098582c8" title="Calculate position data." alt="" coords="230,120,404,163"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="487,190,396,166,396,161,492,189"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gac50d51ac6eeebedff530d38223ab7f6e" title="Get field data." alt="" coords="228,187,406,229"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="436,209,407,211,406,205,441,207"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga894c6e3c612648a264ea86cc44510e1a" title="Get field data." alt="" coords="228,253,406,296"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="492,225,396,255,395,250,487,227"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac143597aa0e74870fa98e82d9edc007c" title="Get field data." alt="" coords="228,320,406,363"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="527,230,472,271,407,310,382,322,381,317,405,306,469,267,522,232"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="352,14,340,10,317,8,296,10,283,15,278,21,279,29,274,28,272,19,280,10,295,5,317,3,341,5,357,13"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6a45e431c402312d42aa09fad8f160a4" title="Calculate data size." alt="" coords="5,29,180,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,52,181,53,179,48,216,49"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="352,105,340,101,317,99,296,101,283,105,278,111,279,120,274,119,272,110,280,101,295,95,317,93,341,96,357,104"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="XSYSTEM::XSYSTEM" name="XSYSTEM::XSYSTEM">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="913,132,1071,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad4ed9230e407e1a42abd73796f6eda35" title="Get instance." alt="" coords="636,5,800,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="966,120,922,83,894,63,864,46,833,35,800,28,800,23,834,30,866,42,897,58,925,78,971,122"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga29189cab62d37dce2a557b9170ea3a26" title="Set instance." alt="" coords="636,56,799,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="945,125,865,97,800,83,800,77,866,92,950,125"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___e_s_p32.html#gaab06af125146b682044da43a8e68235b" title="Constructor of class." alt="" coords="598,107,837,133"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="895,137,838,134,838,128,900,137"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga43e5397f5dde29e8333cb64d1d3748df" title="Constructor of class." alt="" coords="599,157,836,184"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="895,154,837,162,837,157,901,154"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga27b63ec074b09d04c8bcbbb709ef35e0" title="Constructor of class." alt="" coords="597,208,838,235"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="950,165,866,199,817,210,816,205,865,193,945,166"/>
+<area shape="rect" id="Node000012" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga4426ebd663a66b52100f69730a536270" title="Constructor of class." alt="" coords="570,259,865,285"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="971,169,925,212,897,232,866,249,834,261,833,255,864,244,894,228,922,208,966,171"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="273,31,488,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="618,63,488,55,488,49,623,61"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="259,81,502,108"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="618,77,503,88,502,83,623,76"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="20,31,176,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,54,177,55,176,50,260,51"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="191,33,275,34,271,37,192,38"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,81,191,108"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="241,105,192,106,191,101,245,102"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="206,83,261,85,256,87,207,88"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gabe5d1fc7d0c4cd7479551a920124f184" title="Constructor of class." alt="" coords="239,157,522,184"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="580,171,522,173,522,168,586,170"/>
+</map>

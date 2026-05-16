@@ -1,0 +1,15 @@
+<map id="GRPCANVAS::~GRPCANVAS" name="GRPCANVAS::~GRPCANVAS">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,48,211,75"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga70fdce71ec1a4b51ec4525c42d68ae65" title="Delete all rebuild areas." alt="" coords="259,7,439,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,45,245,42,241,44,210,50"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga7015ccf055e83d3f75e8f19d2776588c" title="Rebuild all areas." alt="" coords="259,73,439,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,73,246,79,240,81,210,78"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga3461b402dfaabf0116ed843980c36d30" title="Get bitmap." alt="" coords="487,5,720,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="408,70,486,41,520,35,514,37,488,47,410,75"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga40921b7125ad1371f106c7407a282e65" title="Get X pos." alt="" coords="492,56,716,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="439,83,479,82,473,83,440,88"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga85d9ae6da936bec74df8e0c139c0bcf1" title="Get Y pos." alt="" coords="492,107,716,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="439,101,479,107,473,108,440,106"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga6a7187cd641f234940445b98a04825d2" title="Put bitmap no alpha." alt="" coords="514,157,694,200"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="407,114,488,143,512,153,507,152,486,148,406,119"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="GRPBITMAP::PutBlendPixel" name="GRPBITMAP::PutBlendPixel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="301,147,491,173"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a6b99b118b7563208c8f904dcf9c90d22" title="Convert to mode." alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,137,315,100,251,62,224,51,223,46,254,58,318,95,370,136"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="27,72,231,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,143,217,118,217,113,327,141"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga7b15481dbd5dc66f5154266632341efd" title="Create bitmap from buffer." alt="" coords="28,139,230,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,161,231,163,230,157,288,159"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="27,205,231,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,179,218,207,217,202,327,176"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gac1f099f55a03a51c23a2f9381c643bc8" title="Create bitmap from file." alt="" coords="28,272,230,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="370,182,318,225,254,262,225,274,223,269,251,258,315,220,365,185"/>
+</map>

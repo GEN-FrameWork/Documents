@@ -1,0 +1,7 @@
+<map id="COMPRESS_LZW::LZW_GIF_Decode" name="COMPRESS_LZW::LZW_GIF_Decode">
+<area shape="rect" id="Node000001" title="LZWGIF decode." alt="" coords="536,5,733,48"/>
+<area shape="rect" id="Node000002" href="$group___c_o_m_p_r_e_s_s.html#ga762ba87564dac1b656f0a7e5a6f16ae9" title="LZW decode." alt="" coords="268,13,488,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,27,488,29,488,24,523,27"/>
+<area shape="rect" id="Node000003" href="$group___c_o_m_p_r_e_s_s.html#ga9d6d982b37074f7b1e189ba3c1acb381" title="Decompress." alt="" coords="5,13,220,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,27,220,29,220,24,254,27"/>
+</map>

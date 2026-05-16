@@ -1,0 +1,24 @@
+<map id="MAINPROCANDROID" name="MAINPROCANDROID">
+<area shape="rect" id="Node000001" title="ANDROID Main Proc class." alt="" coords="279,439,437,465"/>
+<area shape="rect" id="Node000002" href="$class_a_n_d_r_o_i_d_n_a_t_i_v_e_a_c_t_i_v_i_t_y___h_a_n_d_l_e_r.html" title=" " alt="" coords="5,347,199,389"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,392,321,437,316,439,181,397"/>
+<area shape="rect" id="Node000003" href="$class_a_n_d_r_o_i_d_n_a_t_i_v_e_i_n_p_u_t___h_a_n_d_l_e_r.html" title=" " alt="" coords="223,347,397,389"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,401,353,439,348,437,328,405"/>
+<area shape="rect" id="Node000004" href="$class_m_a_i_n_p_r_o_c.html" title="Main Procedure class." alt="" coords="420,355,514,381"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="441,390,376,441,374,436,436,392"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="318,5,497,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="459,37,477,54,496,87,507,116,512,143,513,170,508,228,506,299,508,311,506,323,496,342,483,357,480,352,492,339,501,322,502,311,501,299,502,227,507,170,507,144,502,117,491,89,473,58,459,43"/>
+<area shape="rect" id="Node000011" href="$class_a_p_p_f_l_o_w_b_a_s_e.html" title="Application Flow Base class." alt="" coords="334,147,456,173"/>
+<area shape="poly" id="edge10_Node000011_Node000005" title=" " alt="" coords="395,44,394,56,391,106,395,147,390,146,385,106,388,56,393,48"/>
+<area shape="rect" id="Node000006" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="191,197,256,224"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="239,234,256,255,274,273,304,291,348,313,439,354,434,354,345,317,302,296,271,277,252,258,239,240"/>
+<area shape="rect" id="Node000007" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="157,5,239,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="197,45,202,122,211,163,222,197,216,197,206,165,197,123,196,50"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="203,45,218,86,229,105,244,121,264,134,287,144,336,156,331,158,285,149,261,139,240,125,225,108,213,88,202,50"/>
+<area shape="rect" id="Node000010" href="$class_a_p_p_f_l_o_w_m_a_i_n.html" title="Application Flow Main Base class." alt="" coords="352,248,473,275"/>
+<area shape="poly" id="edge7_Node000004_Node000010" title=" " alt="" coords="427,286,463,355,458,354,425,290"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="401,186,413,249,408,247,399,191"/>
+<area shape="rect" id="Node000012" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="556,5,648,32"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="609,45,619,99,623,159,623,370,618,385,604,398,559,418,499,434,437,444,437,439,498,428,557,413,601,393,614,382,618,369,618,159,614,99,607,50"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="579,41,530,84,471,125,427,148,424,144,469,120,527,79,575,44"/>
+</map>

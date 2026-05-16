@@ -1,0 +1,8 @@
+<map id="DIOI2C3DACCELEROMETERLSM303DLHC::Read" name="DIOI2C3DACCELEROMETERLSM303DLHC::Read">
+<area shape="rect" id="Node000001" title="Read." alt="" coords="5,5,258,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="593,13,763,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,24,578,24,577,29,258,29"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga03a58536cf6451e6d8d986d149a5de35" title="Read register." alt="" coords="306,39,545,65"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,35,293,40,288,40,258,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="545,37,575,37,580,37,546,43"/>
+</map>

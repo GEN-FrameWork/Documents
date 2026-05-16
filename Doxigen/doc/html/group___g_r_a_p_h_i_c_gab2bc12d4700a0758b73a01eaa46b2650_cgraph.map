@@ -1,0 +1,17 @@
+<map id="GRPVECTORFILEDXFENTITYOBJELLIPSE::ApplyData" name="GRPVECTORFILEDXFENTITYOBJELLIPSE::ApplyData">
+<area shape="rect" id="Node000001" title="Apply data." alt="" coords="5,51,295,93"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gafd1fd045515de546213453bf4192b05b" title="Apply data." alt="" coords="343,51,578,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,69,330,71,324,73,296,75"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf4b2c8fe102a11ac43cc8d2376f2047c" title="Get data." alt="" coords="642,5,846,48"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="261,47,342,36,490,26,629,25,623,26,490,31,343,41,262,53"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gad05d5ca2368b40bbd441c5273b7716f7" title="Get data value." alt="" coords="626,84,861,127"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="258,91,343,103,481,109,613,111,607,111,480,114,342,108,258,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="578,50,629,45,624,46,579,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="579,83,613,90,608,90,579,89"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="956,33,1072,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="845,81,938,63,944,62,846,86"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gad2d135cf3bc2930de0171881051f3225" title="Get type." alt="" coords="912,84,1116,127"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="861,103,899,105,894,105,862,108"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gaae887d79c2889238fe8a30275b17a66e" title="Get values." alt="" coords="909,151,1119,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="833,125,913,147,907,146,833,130"/>
+</map>

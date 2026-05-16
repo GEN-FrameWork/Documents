@@ -1,0 +1,26 @@
+var class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b =
+[
+    [ "DIOSTREAMDEVICEUSB", "group___d_a_t_a_i_o.html#gaec42b77641943d10e3d13610db730eb8", null ],
+    [ "~DIOSTREAMDEVICEUSB", "group___d_a_t_a_i_o.html#ga588504526072da3af685d53571a6604a", null ],
+    [ "DebugPrintInfo", "group___d_a_t_a_i_o.html#ga64acb6c5283e4e72a31fe030195f6001", null ],
+    [ "GetClass", "group___d_a_t_a_i_o.html#gaddba0bd1d754af5ed0d9be5f0dd32a0d", null ],
+    [ "GetDescriptor", "group___d_a_t_a_i_o.html#ga53efc6291ac2d604e95ba8b4776b5ff1", null ],
+    [ "GetLocation", "group___d_a_t_a_i_o.html#ga0144b8c77fee1d0e70d12c2db0919366", null ],
+    [ "GetParentID", "group___d_a_t_a_i_o.html#gae142ea195eb87abf5e66a33b95175b2e", null ],
+    [ "GetProductID", "group___d_a_t_a_i_o.html#ga5c55be2bf44e6cbd141ef7d29b24b2bc", null ],
+    [ "GetSerialString", "group___d_a_t_a_i_o.html#ga713e184339681e876813bdc6afce88d8", null ],
+    [ "GetVendorID", "group___d_a_t_a_i_o.html#ga33d6b7a8d3b5dc6b057314dc7c5ea85e", null ],
+    [ "IsHUB", "group___d_a_t_a_i_o.html#ga667f4843a8b3e1fd6440802b06ed64fa", null ],
+    [ "SetClass", "group___d_a_t_a_i_o.html#gadc1b8974b96a809f9b984a4b075f32d2", null ],
+    [ "SetIsHUB", "group___d_a_t_a_i_o.html#gadf5be2df5de7632e813db180449fe096", null ],
+    [ "SetProductID", "group___d_a_t_a_i_o.html#ga520a31450526247c291a7295c8763d1f", null ],
+    [ "SetVendorID", "group___d_a_t_a_i_o.html#ga855c4a313c6f3f8b0f1215890617a228", null ],
+    [ "classdev", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#ab7ed06eaa2a9bbbc57f333820840e62d", null ],
+    [ "descriptor", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#af456c51bf3f17cfb46d7a8d9e653d5c0", null ],
+    [ "isHUB", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#a31756944ce0f237b69b1d597fdfe8ced", null ],
+    [ "location", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#a132a4b8fab4719237b5b2e4642894630", null ],
+    [ "parentID", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#aa8b3a7bb1ae28bf4e73c4ed600a4a4d1", null ],
+    [ "productID", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#ac7012bf81c6c087c9348f119f5cc7fef", null ],
+    [ "serialstring", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#a714581ceea2a2bbc59e5604042840a4a", null ],
+    [ "vendorID", "class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_u_s_b.html#ac60811992ff55b51e5ed85a798eafe44", null ]
+];

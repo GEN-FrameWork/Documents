@@ -1,0 +1,5 @@
+<map id="DIOWEBSERVER::IsSendingAnyPage" name="DIOWEBSERVER::IsSendingAnyPage">
+<area shape="rect" id="Node000001" title="Is sending any page." alt="" coords="5,13,256,40"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga086ad53bbe82ef91a38887e64d26f8cd" title="Is request in progress." alt="" coords="304,5,533,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,24,290,27,285,27,256,29"/>
+</map>

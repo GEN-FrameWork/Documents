@@ -1,0 +1,9 @@
+<map id="DIODNSPROTOCOL_MITM_SERVER::AddDNSServer" name="DIODNSPROTOCOL_MITM_SERVER::AddDNSServer">
+<area shape="rect" id="Node000001" title="Add DNS server." alt="" coords="5,64,195,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gab3edfb323fb13694c316d27fd29444ec" title="Get IP." alt="" coords="243,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,62,251,51,246,53,196,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga1955ea08de61edcd19d7806e64ed9aaa" title="Set." alt="" coords="286,72,437,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,83,273,85,267,86,195,88"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga107e217119bd7a0b75d00af98678419a" title="Set port." alt="" coords="243,123,480,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,104,251,118,246,119,195,109"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="DIOSCRAPERWEBCACHE::Add" name="DIOSCRAPERWEBCACHE::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,72,226,99"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0074da4f9d4ab5ec86126210e2d2d955" title="Get." alt="" coords="274,47,492,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,72,261,71,256,72,226,78"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="556,97,666,124"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="226,88,541,105,540,110,226,94"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="540,47,682,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,57,527,60,522,60,493,63"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,71,543,95,538,95,446,77"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="730,5,877,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="682,45,712,42,717,42,683,50"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="730,72,877,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="683,70,717,78,712,78,682,75"/>
+</map>

@@ -1,0 +1,26 @@
+var class_g_r_p_w_i_n_d_o_w_s_s_c_r_e_e_n =
+[
+    [ "GRPWINDOWSSCREEN", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga10900165b19a3f1f09a01c173366e2d1", null ],
+    [ "~GRPWINDOWSSCREEN", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga718db86b45c7bd3217d4cdb8d5fef74d", null ],
+    [ "CaptureContent", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga930ae26fffacb1bd71026dfb590636b5", null ],
+    [ "Create", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab27facc03a2e864a87e033cedec6cc8f", null ],
+    [ "Delete", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga51efe52c03b4136d3b7a32aa768808d8", null ],
+    [ "Get_Position", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6b8d4e051428e55577042c2afef62408", null ],
+    [ "GetDesktopHandle", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga28bb3d348de17ac0300c8bf03d561bd6", null ],
+    [ "GetHandle", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga3c958ca8d2ff2da8e11dd8d6bcfe8bf5", null ],
+    [ "GetHDC", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa162413c7f180fcc6f0e3af4347a2091", null ],
+    [ "GetHInfo", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf4f92f2abd73692d4fc112b63506b74b", null ],
+    [ "GetShellHandle", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1c2ca02a918810dc116d32eec03da205", null ],
+    [ "Maximize", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa80eb814bf478db9c78ed047e592cb38", null ],
+    [ "Minimize", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6c0c75a9edae639dfcbb7c633ed18ebf", null ],
+    [ "Resize", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9321b38b30ced1f7ed32031b67cb92e0", null ],
+    [ "Set_Focus", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga49a61e96eb7ae6cce8a154bd596ece26", null ],
+    [ "Set_Position", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9e1b1554a2f7c752fed32617cf31a9c8", null ],
+    [ "SetHandle", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gafd177d671d2775337d961e7546b01f28", null ],
+    [ "SetHDC", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga4802ee6015ae41cb6eeb562eed03afa5", null ],
+    [ "Show", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2f7a273f95b5ab43ebd9fe58902e8e89", null ],
+    [ "ShowCursor", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga166ec35e198048e0487bf1eb88648778", null ],
+    [ "Update", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab577f80a8ae39e98324223c848666303", null ],
+    [ "Update", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga35cd432db1582951db7dee6d27558e50", null ],
+    [ "UpdateTransparent", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabc2f3386d99ab3b02c7d215d33648e3d", null ]
+];

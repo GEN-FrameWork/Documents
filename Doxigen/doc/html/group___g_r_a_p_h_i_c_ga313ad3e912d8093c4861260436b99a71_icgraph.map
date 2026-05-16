@@ -1,0 +1,25 @@
+<map id="GRPBITMAP::GetBuffer" name="GRPBITMAP::GetBuffer">
+<area shape="rect" id="Node000001" title="Get buffer." alt="" coords="816,151,980,177"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga930ae26fffacb1bd71026dfb590636b5" title="Capture content." alt="" coords="530,55,760,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="850,144,767,112,732,101,732,95,769,107,856,144"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaae912b2a3e36b03a0ffa3a963d02474b" title="Compare." alt="" coords="564,121,725,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="798,153,726,147,726,141,803,152"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a70a83a54d29006fb00e71739c5d323bd" title="Copy from." alt="" coords="521,172,768,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="798,176,769,182,769,176,804,175"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#gaf73ac47344352df591067147b60b8545" title="Find sub bitmap." alt="" coords="546,272,743,299"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="857,184,769,229,676,274,674,269,767,224,852,185"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aeeeb41329c6dfc3a5cfd979153a6d097" title="Crop." alt="" coords="226,5,473,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="523,163,519,162,507,150,500,136,494,111,489,85,482,74,471,62,456,51,456,46,475,58,487,70,494,84,500,109,505,135,512,146,523,158,528,164"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#af9c817826e6aaae297ca8d90eb9b5b36" title="Flip horizontal." alt="" coords="226,72,473,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="533,166,520,162,495,146,472,129,444,118,444,113,474,124,499,141,522,158,538,166"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a18e462e197946854620fe6169f60c5e6" title="Flip vertical." alt="" coords="226,139,473,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="503,178,474,177,473,171,508,177"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a5970a5814b7bdba1ada66fee2874dd18" title="Rotate." alt="" coords="226,205,473,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="503,210,474,215,473,210,508,208"/>
+<area shape="rect" id="Node000009" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aa1d563b170bc591eb63468a73622c9ed" title="Scale." alt="" coords="226,272,473,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="580,220,474,263,437,274,435,269,472,257,575,222"/>
+<area shape="rect" id="Node000011" href="$group___s_c_r_i_p_t.html#ga7b8ad655c2e9a6ce5cac04142869f492" title="all_Window_GetPosX" alt="" coords="270,339,428,365"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="576,303,474,329,420,341,420,335,472,324,571,303"/>
+<area shape="rect" id="Node000012" href="$group___s_c_r_i_p_t.html#ga52d06ed6d5fb2c73904be02dc502d325" title="Add library functions." alt="" coords="5,331,178,373"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="252,352,178,355,178,349,257,352"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="DIOWEBSERVER_CONNECTION::GetDIOStream" name="DIOWEBSERVER_CONNECTION::GetDIOStream">
+<area shape="rect" id="Node000001" title="Get DIO stream." alt="" coords="925,119,1155,161"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa3c0034631a2b5b2d5d78274d3d9e5c1" title="Deactivate." alt="" coords="633,5,862,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="978,112,876,69,825,51,825,46,878,64,983,111"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga005b202d42da6f6b78249577bca8cbdc" title="Resolve request." alt="" coords="20,111,248,153"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="908,138,570,135,249,134,248,129,570,129,913,136"/>
+<area shape="rect" id="Node000004" href="$group___a_p_p_f_l_o_w.html#ga440f26ab73fc5bae002da3a00cdf2f42" title="Send request." alt="" coords="618,181,877,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="907,165,824,183,823,178,913,164"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga834329423c00bebeac52b3c5c945d849" title="Un subscribe all pages." alt="" coords="640,283,855,325"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="990,169,789,285,787,280,985,170"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="665,178,570,164,401,148,249,139,248,133,402,142,570,159,670,177"/>
+<area shape="rect" id="Node000005" href="$group___a_p_p_f_l_o_w.html#ga72508ff63a6f7077651ad88a24e63605" title="Generate response error." alt="" coords="324,173,557,216"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="600,195,558,197,557,192,605,194"/>
+<area shape="rect" id="Node000007" href="$group___a_p_p_f_l_o_w.html#gab3b25da02712d5333203221f5c8ec17e" title="Send request." alt="" coords="311,240,570,267"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="657,212,515,242,514,237,662,211"/>
+<area shape="rect" id="Node000008" href="$group___a_p_p_f_l_o_w.html#gaae7da1ef3bf4f44d58c01bf7eb70f7f2" title="Send request." alt="" coords="311,291,570,317"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="711,215,646,251,571,281,529,293,527,287,569,276,644,246,706,217"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="316,171,242,157,241,151,321,169"/>
+<area shape="rect" id="Node000006" href="$group___a_p_p_f_l_o_w.html#gaa2cc141b4eb304115d951430efd744a0" title="Generate response error." alt="" coords="17,177,251,220"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,197,252,200,251,195,311,195"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga90c89f8beb125291b71cfd4173126aff" title="End." alt="" coords="359,341,522,368"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="628,324,522,344,522,339,623,324"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga3ee6c32efec1e6408500ab66d6b708f3" title="Destructor of class." alt="" coords="5,341,263,368"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="341,355,263,357,263,352,346,355"/>
+</map>

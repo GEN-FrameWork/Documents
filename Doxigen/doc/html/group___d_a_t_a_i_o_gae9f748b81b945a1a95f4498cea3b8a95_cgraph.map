@@ -1,0 +1,28 @@
+<map id="DIOCOREPROTOCOL::Commands_Add" name="DIOCOREPROTOCOL::Commands_Add">
+<area shape="rect" id="Node000001" title="Commands add." alt="" coords="5,168,269,195"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga322e49a8cf7d7f60c1e413dd6ab48e10" title="Commands get." alt="" coords="317,67,578,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,165,236,138,316,109,371,96,366,99,317,115,238,143,171,170"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaa84e4e920764d83d21ef294d0cb6af2c" title="Get type string." alt="" coords="626,101,862,144"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="228,165,316,153,613,129,609,133,317,159,230,170"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="393,168,502,195"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="269,179,380,180,375,182,270,184"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga7e0ff1a961cf0b2081b3cdf4818e457c" title="Set bidirectionality mode." alt="" coords="329,219,566,261"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="212,193,319,214,314,216,212,198"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gab6a3d1ef8dcadaefbf80a957f88fad94" title="Set type." alt="" coords="329,285,566,328"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="162,193,231,231,318,271,339,280,333,280,316,276,228,236,161,198"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="673,51,815,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="578,70,660,68,655,69,579,76"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="545,91,613,103,608,104,545,97"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="912,5,1058,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="815,50,899,40,894,41,816,56"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="912,72,1058,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="816,70,899,82,894,83,816,75"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="677,168,811,195"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="502,179,664,181,659,182,503,184"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="660,219,829,245"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="503,188,650,215,645,216,503,193"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="916,168,1054,195"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="812,179,903,181,897,182,812,184"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="910,219,1060,245"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="829,229,897,232,892,232,830,235"/>
+</map>

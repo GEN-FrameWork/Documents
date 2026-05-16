@@ -1,0 +1,13 @@
+<map id="XSYSTEM::GetPlatform" name="XSYSTEM::GetPlatform">
+<area shape="rect" id="Node000001" title="Get platform." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="217,31,326,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,41,203,44,198,44,169,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="392,5,526,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,34,378,29,373,30,327,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="374,56,543,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="327,49,361,56,356,56,326,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="597,5,735,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,16,584,18,579,19,527,21"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="591,56,741,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="544,67,578,69,573,69,544,72"/>
+</map>

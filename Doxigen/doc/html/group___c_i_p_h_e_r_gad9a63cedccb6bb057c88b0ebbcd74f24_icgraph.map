@@ -1,0 +1,28 @@
+<map id="CIPHER::GetResult" name="CIPHER::GetResult">
+<area shape="rect" id="Node000001" title="Get result." alt="" coords="774,187,915,213"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaeb8bdd70c32c3e502b1d1513cf83aba5" title="Cipher expiration date." alt="" coords="506,56,726,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,174,779,135,753,114,725,97,698,86,698,81,728,92,756,110,782,131,825,175"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gab85e5207798ab50fba51857096244e90" title="Generate." alt="" coords="542,5,691,32"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="828,172,788,109,759,75,725,46,691,31,691,26,728,42,763,71,792,106,833,173"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga92398f44ea41d7c2706e63682fa0a7c5" title="Read." alt="" coords="548,107,685,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="801,179,725,148,686,136,685,131,727,143,806,179"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga4cbf2275241784344b2a4c1d3339cc7c" title="Read." alt="" coords="533,157,699,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="756,189,700,184,700,179,762,189"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga3e89378356dd98efcc713c52b3753777" title="Read." alt="" coords="520,208,712,251"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="757,211,713,220,712,214,762,210"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga5211e8a4ba1eff228fbcb28742d2f67b" title="Write." alt="" coords="548,275,684,301"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="811,221,771,246,727,265,685,278,684,273,725,260,769,241,806,223"/>
+<area shape="rect" id="Node000012" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1f418433b42f52e7c992f7de26fc6f31" title="Write." alt="" coords="534,325,699,352"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="826,225,784,273,757,296,728,316,700,327,698,322,725,311,754,292,780,269,821,227"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8b20a5148e16b547752da749e6e46e37" title="Write." alt="" coords="520,376,712,419"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="833,226,793,298,763,334,728,366,707,378,706,373,725,362,759,331,788,294,828,229"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae16398e0db7f965f7846776616a020cf" title="check master creation" alt="" coords="235,5,458,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,53,422,35,421,30,529,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad6332d3010d60294d4dbdb1e2f146d99" title="Load from buffer." alt="" coords="252,56,440,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="488,70,442,72,440,67,493,68"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga8cd2c5dbdbe74970b17bb76c6cc19318" title="Load from file." alt="" coords="8,31,184,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,60,185,55,183,50,239,57"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga0901ce19c7298b67411d4a71fb743757" title="Load from URL." alt="" coords="5,81,187,108"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="235,82,189,88,186,83,239,79"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="524,20,459,21,457,16,529,18"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="DIOSMTP::AddAttachment" name="DIOSMTP::AddAttachment">
+<area shape="rect" id="Node000001" title="Add attachment." alt="" coords="5,76,186,103"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga24c4851bf2735011df5ee2805e45a259" title="File exists." alt="" coords="460,5,638,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,73,168,44,200,30,233,20,287,11,342,7,447,12,442,14,342,13,287,16,234,25,202,35,170,49,119,78"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2648fa8a9a36fde6385bf34db9977a4d" title="Get size." alt="" coords="234,35,412,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,74,221,70,216,72,187,79"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga4226510b8c99a6105a950edd22ae61b3" title="Get X path." alt="" coords="234,101,412,144"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="186,100,221,107,216,108,187,105"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="268,168,378,195"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="122,101,174,127,235,154,256,163,250,163,233,158,172,132,122,106"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="412,42,447,39,442,41,413,47"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="482,143,616,169"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="377,173,469,165,464,166,378,178"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="464,193,634,220"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="378,185,452,195,446,196,378,190"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="692,143,830,169"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="617,153,679,156,674,156,617,159"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="686,193,836,220"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="634,204,673,207,668,207,634,209"/>
+</map>

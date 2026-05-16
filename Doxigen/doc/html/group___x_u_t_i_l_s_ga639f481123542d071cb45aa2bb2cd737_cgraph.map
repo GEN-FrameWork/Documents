@@ -1,0 +1,13 @@
+<map id="XFILEINISECTION::XFILEINISECTION" name="XFILEINISECTION::XFILEINISECTION">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,56,265,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3ef9db37e2df4f59432f4cefcf0a421f" title="Clean the attributes of the class: Default initialize." alt="" coords="313,56,491,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,67,300,69,294,70,265,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="604,31,731,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,58,591,51,586,52,492,63"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga8f44898a055f3f74ca4e59fda66f414f" title="Reset selection key." alt="" coords="539,81,795,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="491,75,526,81,521,81,491,81"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="843,5,993,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="731,35,825,28,831,27,731,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="849,56,987,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="731,48,836,61,831,61,731,53"/>
+</map>

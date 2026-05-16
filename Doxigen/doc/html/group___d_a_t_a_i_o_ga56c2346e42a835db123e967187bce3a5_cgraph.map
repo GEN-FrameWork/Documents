@@ -1,0 +1,7 @@
+<map id="DIOIEC60870_5::CMD_RequestUserDataClass2" name="DIOIEC60870_5::CMD_RequestUserDataClass2">
+<area shape="rect" id="Node000001" title="CMD request user data class2." alt="" coords="5,5,180,48"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gabfaf967d136d37f0c5dcf4ded0296dac" title="Get byte." alt="" coords="228,13,368,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,24,215,26,210,27,180,29"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="416,13,575,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,24,403,27,398,27,369,29"/>
+</map>

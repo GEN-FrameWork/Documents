@@ -1,0 +1,20 @@
+<map id="XDATETIME::AddMonths" name="XDATETIME::AddMonths">
+<area shape="rect" id="Node000001" title="Add months." alt="" coords="5,75,177,101"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga2c4031d8136d1dedca440bb92602b7e9" title="Add days." alt="" coords="440,49,600,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,72,224,60,328,55,428,58,422,59,328,60,225,65,153,77"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga6b0fb3898610aa34b196c3d2d6cbbd93" title="Add years." alt="" coords="225,75,386,101"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="177,85,212,88,206,88,177,91"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf8e81a81c48e8738383c1493849574cf" title="Is valid date." alt="" coords="434,112,606,139"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="155,99,225,111,324,119,421,125,416,125,324,124,224,116,155,105"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1300a113a438cf34914c33ed43b89bdb" title="Get date from N days." alt="" coords="654,56,880,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,62,641,66,636,66,601,67"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="928,5,1162,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="600,48,654,41,914,24,909,25,655,47,601,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="844,53,950,36,956,35,845,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="939,56,1151,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="880,67,926,69,920,69,880,72"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="386,76,428,74,422,74,387,81"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="386,99,427,109,422,109,386,105"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="682,112,852,139"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="607,123,669,125,664,125,607,128"/>
+</map>

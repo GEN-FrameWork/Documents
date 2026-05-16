@@ -1,0 +1,15 @@
+<map id="XPATH::GetNamefile" name="XPATH::GetNamefile">
+<area shape="rect" id="Node000001" title="Get namefile." alt="" coords="482,64,627,91"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gae9f84a42c319e9c57bc4609d91ce0bd2" title="all_GetNameScript" alt="" coords="278,13,419,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,60,406,43,406,38,485,59"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gafb5829088910155d9830e551ed92c26c" title="Load." alt="" coords="275,64,422,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,78,422,80,422,75,469,77"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga93da6aec111e925a53a5f1eba34d9a7b" title="Set only namefile." alt="" coords="263,115,434,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="485,94,406,117,405,111,480,96"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gaa3f032ac84ba81c345e1c008472d667a" title="Add library functions." alt="" coords="5,5,215,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,28,216,29,215,24,265,26"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gafc152b509940f00eb7236bf66ae3c27d" title="Application get running list." alt="" coords="8,89,212,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,121,213,121,212,115,250,120"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga518acc548ab101fbdf7d95ec17c8538a" title="Application is running." alt="" coords="8,156,212,199"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="269,144,213,159,212,153,263,145"/>
+</map>

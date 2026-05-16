@@ -1,0 +1,13 @@
+<map id="XSHAREDMEMORYMANAGER::SetInstance" name="XSHAREDMEMORYMANAGER::SetInstance">
+<area shape="rect" id="Node000001" title="Set instance." alt="" coords="530,23,744,65"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="253,5,468,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,33,468,31,468,26,517,33"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="239,56,482,83"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="517,55,483,61,482,56,512,55"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="20,5,176,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,28,177,30,176,24,240,27"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="191,7,255,9,250,10,192,13"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,56,191,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="220,78,191,81,191,75,226,78"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="206,58,241,60,236,61,206,63"/>
+</map>

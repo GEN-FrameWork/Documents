@@ -1,0 +1,11 @@
+<map id="GRP2DREBUILDAREAS::RebuildAllAreas" name="GRP2DREBUILDAREAS::RebuildAllAreas">
+<area shape="rect" id="Node000001" title="Rebuild all areas." alt="" coords="5,73,186,116"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga3461b402dfaabf0116ed843980c36d30" title="Get bitmap." alt="" coords="234,5,467,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,70,233,41,266,35,261,37,234,47,152,75"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga40921b7125ad1371f106c7407a282e65" title="Get X pos." alt="" coords="238,56,462,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,83,225,81,220,83,187,88"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga85d9ae6da936bec74df8e0c139c0bcf1" title="Get Y pos." alt="" coords="238,107,462,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,101,225,107,220,108,186,106"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga6a7187cd641f234940445b98a04825d2" title="Put bitmap no alpha." alt="" coords="260,157,440,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,114,235,143,259,152,253,152,233,148,153,119"/>
+</map>

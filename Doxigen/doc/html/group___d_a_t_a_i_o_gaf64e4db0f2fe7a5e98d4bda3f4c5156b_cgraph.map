@@ -1,0 +1,5 @@
+<map id="DIOPIFACE::ReadInputs" name="DIOPIFACE::ReadInputs">
+<area shape="rect" id="Node000001" title="Read inputs." alt="" coords="5,13,174,40"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga259876950ca53134f350454f11b45aaa" title="Write register." alt="" coords="222,5,389,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,209,26,203,27,174,29"/>
+</map>

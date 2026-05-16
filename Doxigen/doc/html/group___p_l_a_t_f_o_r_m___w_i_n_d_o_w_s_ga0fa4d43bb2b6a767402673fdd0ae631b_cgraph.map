@@ -1,0 +1,16 @@
+<map id="INPWINDOWSSIMULATE::Key_PressByLiteral" name="INPWINDOWSSIMULATE::Key_PressByLiteral">
+<area shape="rect" id="Node000001" title="Key press by literal." alt="" coords="5,97,185,140"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="49,96,47,87,55,78,71,73,95,71,121,73,138,81,133,82,120,78,95,76,72,78,58,83,52,89,54,97"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga99a2cb07a0574f032108e0390f2a1dd9" title="Get KDB code by literal." alt="" coords="233,64,447,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,104,219,101,214,103,186,109"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7cc62c2032daf5fc55d1ee03637a47ea" title="Key press." alt="" coords="250,131,430,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="185,128,237,137,232,138,185,134"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="495,47,637,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,71,482,69,477,70,448,76"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="497,97,635,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,95,484,101,479,101,447,100"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="685,5,832,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="637,45,672,42,667,43,638,50"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="685,72,832,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="638,70,672,78,667,78,638,75"/>
+</map>

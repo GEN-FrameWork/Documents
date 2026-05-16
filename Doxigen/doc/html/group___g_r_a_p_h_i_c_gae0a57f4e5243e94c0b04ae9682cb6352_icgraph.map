@@ -1,0 +1,11 @@
+<map id="GRPVECTORFILEDXFENTITYDEFVERTEX::GetIniWidth" name="GRPVECTORFILEDXFENTITYDEFVERTEX::GetIniWidth">
+<area shape="rect" id="Node000001" title="Get ini width." alt="" coords="688,72,977,115"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga77a55bbcdb87b205f548bf2e17af705e" title="Copy from." alt="" coords="351,72,640,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="670,94,641,96,640,91,675,93"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga68f716b9b838caaf776cf8f0183b2d7d" title="Constructor of class." alt="" coords="5,5,303,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,69,267,51,267,46,370,68"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga095d2fd367da59bec823cba2f7aa99fa" title="operator =" alt="" coords="9,72,299,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,94,299,96,299,91,338,93"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga6e79dd7700d47db64e6bb5fbce3bc7ed" title="operator =" alt="" coords="9,139,299,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,118,267,141,266,135,365,119"/>
+</map>

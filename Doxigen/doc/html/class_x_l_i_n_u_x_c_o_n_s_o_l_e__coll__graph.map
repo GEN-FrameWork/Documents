@@ -1,0 +1,7 @@
+<map id="XLINUXCONSOLE" name="XLINUXCONSOLE">
+<area shape="rect" id="Node000001" title="LINUX eXtended Utils Console class." alt="" coords="5,155,141,181"/>
+<area shape="rect" id="Node000002" href="$class_x_c_o_n_s_o_l_e.html" title="eXtended Utils Console base class" alt="" coords="25,80,121,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,121,76,155,70,153,71,124"/>
+<area shape="rect" id="Node000003" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="13,5,133,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,45,76,80,70,79,72,50"/>
+</map>

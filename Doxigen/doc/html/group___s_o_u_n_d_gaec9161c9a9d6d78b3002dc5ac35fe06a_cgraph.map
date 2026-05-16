@@ -1,0 +1,76 @@
+<map id="SNDOPENALFACTORY::Update" name="SNDOPENALFACTORY::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="5,731,221,757"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gad25dbf5ebe629166afc66d5fafdb54ed" title="Add one N times played." alt="" coords="273,5,496,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,730,126,601,155,396,176,287,202,188,232,105,249,73,267,49,283,37,280,42,271,53,253,76,237,107,207,189,182,289,161,397,131,602,118,730"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga8210bbf1532d9f6a916d4b2204f04318" title="Check transition." alt="" coords="278,157,491,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,730,112,641,118,574,129,499,148,420,176,340,215,266,239,232,267,201,284,189,281,194,270,205,243,235,219,269,180,343,153,421,134,500,123,575,118,641,116,730"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga02082325b435cf97f6b4c03a48cdfe86" title="Get current state." alt="" coords="558,56,772,83"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="113,730,126,609,155,420,176,321,202,230,232,156,249,128,267,107,302,82,341,64,383,52,426,45,511,43,587,52,583,55,511,48,427,51,384,57,343,69,305,87,270,111,253,131,236,158,207,232,181,322,161,421,132,610,118,730"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae7a2cc2cad190a10cb7154ff24c0609e" title="Get event." alt="" coords="578,107,752,133"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="113,730,127,615,157,436,178,343,203,258,233,189,249,162,267,143,289,131,318,122,394,112,480,109,565,112,561,115,480,114,394,117,319,127,291,136,270,147,253,166,237,191,208,259,183,344,162,437,132,616,118,731"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="579,208,751,235"/>
+<area shape="poly" id="edge35_Node000001_Node000006" title=" " alt="" coords="114,730,131,632,164,484,185,408,210,338,237,281,252,260,267,245,289,233,318,224,394,214,481,211,566,214,561,217,481,216,395,219,320,229,291,238,270,249,256,264,242,284,215,340,191,409,169,485,136,633,119,731"/>
+<area shape="rect" id="Node000010" href="$group___s_o_u_n_d.html#gac4c6fd4226e171ffc57e85b5dcb5b072" title="Get counter play." alt="" coords="293,259,476,285"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="112,730,117,653,125,598,138,536,158,471,185,407,221,347,267,295,281,287,278,292,270,299,225,350,189,409,163,473,144,537,131,599,123,654,117,730"/>
+<area shape="rect" id="Node000011" href="$group___s_o_u_n_d.html#gaf1ef89242712e8bf554ec0ab9e9bf177" title="Get current playing time." alt="" coords="271,309,498,336"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="113,730,121,661,145,557,164,500,191,443,225,391,267,346,275,342,272,347,270,350,229,394,195,446,169,502,150,558,126,662,118,731"/>
+<area shape="rect" id="Node000012" href="$group___s_o_u_n_d.html#gab5c23889bc636ca5b398501ba1b1f9db" title="Get duration." alt="" coords="304,360,464,387"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="113,730,125,668,151,578,171,529,197,480,228,435,267,397,291,384,288,388,270,401,232,439,201,483,176,531,156,580,130,670,119,731"/>
+<area shape="rect" id="Node000013" href="$group___s_o_u_n_d.html#gac1b267678e6287eb9cc6f4156d0345bd" title="Get item." alt="" coords="296,411,473,453"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="116,730,132,681,163,611,207,536,235,501,267,470,286,459,283,463,270,474,239,504,212,539,167,614,137,683,121,731"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga3a6d9760e131422def32cb3d72fe4ee0" title="Get measure milli seconds." alt="" coords="272,528,497,555"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="120,729,141,695,174,650,217,603,267,564,281,559,278,563,270,569,220,607,178,653,145,698,124,731"/>
+<area shape="rect" id="Node000017" href="$group___s_o_u_n_d.html#ga10e7ba1da00b901262ae06850e7fde21" title="Get N times to play." alt="" coords="286,579,483,605"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="125,729,183,673,223,641,267,615,286,609,282,613,270,620,226,646,186,677,129,731"/>
+<area shape="rect" id="Node000018" href="$group___s_o_u_n_d.html#gaf56d138d761f4da13c17c6fd3c639c92" title="Get playing time." alt="" coords="293,629,476,656"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="136,728,195,697,268,665,295,658,292,662,270,671,198,701,140,732"/>
+<area shape="rect" id="Node000019" href="$group___s_o_u_n_d.html#ga9536ac10fb9fc77ba8a1197ae9b62f4b" title="Get sound file." alt="" coords="300,680,469,707"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="187,728,296,708,292,712,190,732"/>
+<area shape="rect" id="Node000020" href="$group___s_o_u_n_d.html#gaa8b955bfeaccfa167498f75fe9674e6c" title="Get sound note." alt="" coords="296,731,472,757"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="220,742,283,742,278,746,223,746"/>
+<area shape="rect" id="Node000021" href="$group___s_o_u_n_d.html#ga7c70f973de7422b46c9bd5fac96a4069" title="Get source." alt="" coords="296,781,473,824"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="177,756,282,779,278,782,179,760"/>
+<area shape="rect" id="Node000022" href="$group___s_o_u_n_d.html#gab53c221cdc9c62e94fd76111fb59912d" title="Get timer play." alt="" coords="299,848,470,875"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="132,755,193,794,230,815,270,834,293,842,288,845,268,838,228,820,190,799,134,760"/>
+<area shape="rect" id="Node000023" href="$group___s_o_u_n_d.html#gac5eedf9f148278fd76e05dc390ae63e8" title="Get type." alt="" coords="315,899,454,925"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="125,755,183,819,224,854,270,884,302,898,297,900,267,889,221,859,180,823,125,761"/>
+<area shape="rect" id="Node000024" href="$group___s_o_u_n_d.html#gae543f392187402d99b75833b2ddbc068" title="Is P laying." alt="" coords="551,975,779,1001"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="118,755,136,804,165,869,185,903,209,935,238,963,270,986,311,1004,354,1015,399,1021,444,1023,529,1016,604,1004,599,1007,530,1022,444,1028,398,1027,353,1020,309,1009,267,990,234,967,205,938,181,906,161,871,131,806,118,761"/>
+<area shape="rect" id="Node000025" href="$group___s_o_u_n_d.html#gaadf6cdd33e58c5cdbc615593ab11fdac" title="Pause." alt="" coords="281,1051,488,1077"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="118,755,135,809,164,883,184,923,209,962,237,998,270,1030,291,1043,285,1045,267,1034,233,1002,204,965,180,925,159,885,130,810,118,761"/>
+<area shape="rect" id="Node000026" href="$group___s_o_u_n_d.html#ga7b76141f58bedcfa3e724a625d89e73e" title="Play." alt="" coords="286,949,482,976"/>
+<area shape="poly" id="edge27_Node000001_Node000026" title=" " alt="" coords="121,755,144,793,176,842,218,893,243,916,270,935,281,942,276,944,267,940,240,920,215,896,171,845,139,796,121,761"/>
+<area shape="rect" id="Node000027" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="304,1101,464,1128"/>
+<area shape="poly" id="edge29_Node000001_Node000027" title=" " alt="" coords="116,755,130,818,156,908,176,957,201,1005,232,1049,270,1087,292,1101,287,1103,267,1091,228,1053,197,1008,171,959,151,910,125,820,116,761"/>
+<area shape="rect" id="Node000028" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="608,477,723,504"/>
+<area shape="poly" id="edge30_Node000001_Node000028" title=" " alt="" coords="116,730,133,686,164,625,184,594,208,563,236,536,267,514,307,495,349,481,393,473,437,468,521,468,594,476,590,479,520,473,437,473,394,478,351,487,309,500,270,518,239,540,212,567,188,597,168,628,138,688,121,731"/>
+<area shape="rect" id="Node000029" href="$group___s_o_u_n_d.html#ga5413d5532a3512b0172f37e8d9807423" title="Reset play." alt="" coords="269,1152,500,1179"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="115,755,126,826,150,930,169,986,195,1042,229,1094,270,1138,276,1143,271,1144,267,1142,225,1097,191,1045,164,988,145,931,121,827,115,761"/>
+<area shape="rect" id="Node000030" href="$group___s_o_u_n_d.html#ga389a2a3d938570b5742434e60866552f" title="Set counter play." alt="" coords="293,1203,476,1229"/>
+<area shape="poly" id="edge33_Node000001_Node000030" title=" " alt="" coords="115,755,123,834,131,889,144,951,163,1015,189,1079,225,1138,270,1189,282,1198,277,1199,267,1193,221,1141,185,1081,158,1017,138,952,125,890,117,835,114,761"/>
+<area shape="rect" id="Node000031" href="$group___s_o_u_n_d.html#gad16bf9ad5501a6cf84fd4195d6582c6c" title="Set current playing time." alt="" coords="272,1253,497,1280"/>
+<area shape="poly" id="edge34_Node000001_Node000031" title=" " alt="" coords="114,755,119,841,126,902,137,971,156,1044,184,1116,221,1182,244,1212,270,1239,275,1244,270,1245,267,1243,240,1216,217,1185,179,1118,151,1046,132,973,120,903,114,841,114,760"/>
+<area shape="rect" id="Node000032" href="$group___s_o_u_n_d.html#ga7b5de59813e9cb10142ed5d0fd5c1eae" title="Set item." alt="" coords="294,1304,474,1347"/>
+<area shape="poly" id="edge36_Node000001_Node000032" title=" " alt="" coords="114,755,118,848,123,915,134,990,152,1070,180,1150,219,1225,243,1259,271,1290,283,1302,278,1302,267,1294,239,1262,214,1228,175,1152,147,1072,129,991,118,915,112,848,113,760"/>
+<area shape="rect" id="Node000033" href="$group___s_o_u_n_d.html#ga8d6e416219cf0c00e27c8ecd1eb693b7" title="Set playing time." alt="" coords="293,1371,476,1397"/>
+<area shape="poly" id="edge37_Node000001_Node000033" title=" " alt="" coords="116,755,134,874,164,1056,185,1151,210,1238,239,1310,254,1337,271,1357,282,1367,276,1367,267,1361,250,1340,234,1312,205,1240,180,1152,159,1057,128,875,116,761"/>
+<area shape="rect" id="Node000034" href="$group___s_o_u_n_d.html#ga3b8dad2a5fb75a7b9f4cbb77ea7a0132" title="Set status." alt="" coords="310,1421,458,1448"/>
+<area shape="poly" id="edge38_Node000001_Node000034" title=" " alt="" coords="116,755,132,882,161,1079,182,1183,207,1278,237,1356,253,1386,270,1407,298,1426,293,1426,267,1411,249,1389,232,1358,202,1280,177,1184,156,1080,126,883,115,761"/>
+<area shape="rect" id="Node000035" href="$group___s_o_u_n_d.html#ga3e4be6cc0fc6eb3b5dc718429c4edaa8" title="Stop." alt="" coords="286,1472,483,1499"/>
+<area shape="poly" id="edge39_Node000001_Node000035" title=" " alt="" coords="116,755,130,890,158,1103,179,1215,204,1318,235,1402,252,1434,271,1458,275,1465,270,1463,267,1462,248,1437,230,1404,199,1319,173,1216,153,1104,125,891,115,760"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,155,471,123,547,92,576,85,572,89,549,97,473,128,413,159"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="461,155,574,135,570,138,464,159"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,182,575,203,570,206,464,187"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4e991bedff5697fb8ab9d00ac52e4398" title="State transition." alt="" coords="562,157,768,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="490,168,548,169,544,172,493,173"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaadfffca2012364631ecb94cec8cb149e" title="Get output." alt="" coords="830,183,1050,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="767,178,818,183,813,186,770,183"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga1f143ce7a2981c7756db2ff798b34ca5" title="Get state." alt="" coords="855,132,1025,159"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="767,159,842,153,837,156,770,163"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga2bb77088d5e60b8686bf171f7bfb0f54" title="Get measure micro seconds." alt="" coords="548,528,782,555"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="496,539,535,540,530,543,499,544"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="835,495,1045,537"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="781,528,822,526,818,528,784,533"/>
+<area shape="poly" id="edge28_Node000026_Node000024" title=" " alt="" coords="482,969,538,975,533,977,484,974"/>
+<area shape="poly" id="edge31_Node000028_Node000016" title=" " alt="" coords="722,493,823,504,818,506,724,498"/>
+</map>

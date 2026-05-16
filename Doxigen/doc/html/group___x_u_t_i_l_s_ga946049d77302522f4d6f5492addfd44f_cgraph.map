@@ -1,0 +1,9 @@
+<map id="XFILEDBF::WriteRecord" name="XFILEDBF::WriteRecord">
+<area shape="rect" id="Node000001" title="Write record." alt="" coords="5,56,171,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaea2f8fb3f58d23139d51b152425b4b34" title="Get data." alt="" coords="219,5,427,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,53,245,35,240,37,154,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9340c3eb3bc4328020ff1de0bda70dca" title="Is delete." alt="" coords="219,56,427,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,67,205,69,200,70,172,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga767b0a84617d04f9982a55ca22f7f4e5" title="Is open." alt="" coords="255,107,390,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,81,245,102,240,104,153,86"/>
+</map>

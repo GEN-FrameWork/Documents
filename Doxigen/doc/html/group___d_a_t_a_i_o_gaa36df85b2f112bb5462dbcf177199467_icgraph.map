@@ -1,0 +1,15 @@
+<map id="DIOSTREAM::IsFlushOutXBuffer" name="DIOSTREAM::IsFlushOutXBuffer">
+<area shape="rect" id="Node000001" title="Is flush out X buffer." alt="" coords="840,97,1057,124"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1181440828a330086a88a4fc45c2f9cf" title="wait to flush out Xbuffer" alt="" coords="590,89,792,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="822,111,793,113,793,108,827,111"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaa3c0034631a2b5b2d5d78274d3d9e5c1" title="Deactivate." alt="" coords="313,5,542,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="611,84,541,63,505,51,505,46,543,57,617,84"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="376,72,479,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="572,100,479,93,479,88,577,99"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga94eb5362e9d61b7f55958c3082623768" title="Send activation." alt="" coords="314,123,540,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="572,122,541,128,541,122,577,122"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga32b2b0be5aed494dab83602d5ba57b3d" title="Write." alt="" coords="342,173,513,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="619,137,543,164,497,175,496,170,541,159,614,138"/>
+<area shape="rect" id="Node000007" href="$group___a_p_p_f_l_o_w.html#ga440f26ab73fc5bae002da3a00cdf2f42" title="Send request." alt="" coords="5,173,265,200"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="324,187,265,189,265,184,329,187"/>
+</map>

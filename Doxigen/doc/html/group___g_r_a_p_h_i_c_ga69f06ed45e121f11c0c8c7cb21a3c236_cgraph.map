@@ -1,0 +1,13 @@
+<map id="GRPBITMAPFILEJPG::CreateFileFromBitmap" name="GRPBITMAPFILEJPG::CreateFileFromBitmap">
+<area shape="rect" id="Node000001" title="Create file from bitmap." alt="" coords="5,131,207,173"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga65b0ccaf50dd769a2481d39483fee3c9" title="Close." alt="" coords="270,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,128,190,93,253,58,271,53,266,55,256,62,192,97,139,132"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gadbc41519652512b18c6c31dd0351e464" title="Create." alt="" coords="270,72,442,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,128,258,116,253,118,201,133"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="255,139,458,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,149,242,151,237,153,208,155"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_b_i_t_m_a_p.html#a63495c593c0238080f4ec81b859d4555" title=" " alt="" coords="277,189,436,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="207,170,274,185,269,186,207,175"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="257,240,456,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="144,171,197,199,256,226,279,235,274,235,254,230,194,204,143,176"/>
+</map>

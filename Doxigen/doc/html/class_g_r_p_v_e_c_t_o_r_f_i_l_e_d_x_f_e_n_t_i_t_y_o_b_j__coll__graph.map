@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFENTITYOBJ" name="GRPVECTORFILEDXFENTITYOBJ">
+<area shape="rect" id="Node000001" title="Graphic Vector File DXF Entity Obj class." alt="" coords="5,321,241,348"/>
+<area shape="rect" id="Node000002" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="82,180,164,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,221,126,321,120,320,121,223"/>
+<area shape="rect" id="Node000003" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="84,81,162,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,121,126,180,120,179,122,126"/>
+<area shape="rect" id="Node000004" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="63,5,183,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,44,126,81,120,81,122,50"/>
+</map>

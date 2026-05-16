@@ -1,0 +1,9 @@
+<map id="XLINUXDIR::ChangeTo" name="XLINUXDIR::ChangeTo">
+<area shape="rect" id="Node000001" title="Change to." alt="" coords="5,31,167,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga13b691e56cfd5c48184c2ae6cf607914" title="Convert to UTF8." alt="" coords="215,5,397,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,32,202,30,196,32,167,37"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="249,56,362,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,51,236,61,231,61,167,56"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="445,5,583,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,16,432,18,427,19,398,21"/>
+</map>

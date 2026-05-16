@@ -1,0 +1,21 @@
+<map id="XSCHEDULERTASK::SetTimeLimits" name="XSCHEDULERTASK::SetTimeLimits">
+<area shape="rect" id="Node000001" title="Set time limits." alt="" coords="5,183,245,209"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga580f6018996774252bbae5660c4d1b91" title="Copy from." alt="" coords="293,183,459,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,193,279,195,275,197,246,199"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="532,5,682,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,180,428,114,464,75,506,42,520,37,515,40,508,46,467,79,433,117,387,184"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7d9f594a636ee4b57f072216eb1939d1" title="Get hours." alt="" coords="526,56,688,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="389,180,438,137,470,113,506,92,525,87,520,89,508,97,473,117,441,141,392,184"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafac1807c4d262e7eb8c7777bab66fbde" title="Get milli seconds." alt="" coords="507,107,707,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,180,506,143,535,137,530,139,508,148,410,185"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7bda5d718cadddffaa4aed78c8bb3402" title="Get minutes." alt="" coords="521,157,693,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="458,184,508,181,503,182,460,190"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="526,208,688,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="459,202,513,210,508,211,459,208"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga4755ebb96abab2bf419a31af6dda1f7b" title="Get seconds." alt="" coords="518,259,696,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="410,207,508,244,535,254,530,254,506,249,409,212"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="531,309,683,336"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="391,207,441,251,473,275,508,295,525,304,520,304,506,300,470,279,438,255,390,212"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="516,360,698,387"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="386,207,433,275,467,313,508,346,520,354,514,353,506,350,464,317,428,278,384,212"/>
+</map>

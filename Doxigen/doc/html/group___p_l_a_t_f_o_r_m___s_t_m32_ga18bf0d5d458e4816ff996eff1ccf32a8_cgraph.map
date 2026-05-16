@@ -1,0 +1,19 @@
+<map id="XSTM32FILE_NOTUNICODE::ActualizeSize" name="XSTM32FILE_NOTUNICODE::ActualizeSize">
+<area shape="rect" id="Node000001" title="Actualize size." alt="" coords="5,151,204,193"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga5cf19cc1ab1c75d0f8234b504f8539ae" title="Exist." alt="" coords="252,151,450,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,169,238,172,233,172,205,175"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="498,79,683,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,148,531,111,536,110,418,153"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga66e2dbd897e717ce38e395d6ad87b754" title="Get ptr char." alt="" coords="512,159,670,185"/>
+<area shape="poly" id="edge6_Node000002_Node000010" title=" " alt="" coords="450,169,498,172,493,172,451,175"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="522,209,660,236"/>
+<area shape="poly" id="edge8_Node000002_Node000012" title=" " alt="" coords="451,190,512,206,507,205,450,196"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="770,5,885,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="629,75,731,41,754,37,759,36,732,47,631,81"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gae206a2a617576a15816d25771d92b037" title="convert character unicode to ASCIi" alt="" coords="731,56,924,99"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="684,84,718,84,713,85,684,89"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="762,123,893,149"/>
+<area shape="poly" id="edge5_Node000003_Node000008" title=" " alt="" coords="666,103,750,121,744,121,666,109"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="771,173,884,200"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="670,174,758,182,753,182,670,180"/>
+</map>

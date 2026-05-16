@@ -1,0 +1,30 @@
+<map id="DIOATCMDS::Basic" name="DIOATCMDS::Basic">
+<area shape="rect" id="Node000001" title="Basic." alt="" coords="5,243,148,269"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0e6e1c7fb697545e637a2e0820250411" title="Make simple command." alt="" coords="196,243,437,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,254,182,255,178,257,149,259"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga28c4ee007ec35664f4fcac3fa114c88f" title="Send command." alt="" coords="485,141,684,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,240,535,173,530,175,355,245"/>
+<area shape="rect" id="Node000023" href="$group___d_a_t_a_i_o.html#ga2d95511e562e325b9d74effe5347eb45" title="Wait to process answer." alt="" coords="486,311,683,353"/>
+<area shape="poly" id="edge11_Node000002_Node000023" title=" " alt="" coords="367,267,495,305,490,306,366,273"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="1003,15,1115,41"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,139,616,113,647,81,687,49,731,26,797,9,866,3,931,5,990,14,985,15,931,10,866,8,798,14,733,31,690,54,651,85,620,117,598,143"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga4bf1447e52033426895483db2c394d18" title="Add send command." alt="" coords="732,40,955,67"/>
+<area shape="poly" id="edge4_Node000003_Node000008" title=" " alt="" coords="607,138,663,107,731,76,758,70,753,72,733,81,665,112,610,143"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="751,91,936,117"/>
+<area shape="poly" id="edge7_Node000003_Node000011" title=" " alt="" coords="656,138,760,120,755,122,657,143"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga80444f4a8c0c4ba2fea4e1047c0c4eb0" title="Get command." alt="" coords="753,141,934,168"/>
+<area shape="poly" id="edge8_Node000003_Node000018" title=" " alt="" coords="684,152,740,154,735,155,685,157"/>
+<area shape="rect" id="Node000019" href="$group___d_a_t_a_i_o.html#gaa4f5199dc1cb63fefae8b3dd5d807f15" title="Get command." alt="" coords="748,192,939,219"/>
+<area shape="poly" id="edge9_Node000003_Node000019" title=" " alt="" coords="657,166,760,188,754,189,657,171"/>
+<area shape="rect" id="Node000021" href="$group___x_u_t_i_l_s.html#ga66e2dbd897e717ce38e395d6ad87b754" title="Get ptr char." alt="" coords="764,243,923,269"/>
+<area shape="poly" id="edge10_Node000003_Node000021" title=" " alt="" coords="609,166,665,197,733,228,758,238,753,238,731,233,663,202,608,171"/>
+<area shape="poly" id="edge5_Node000008_Node000004" title=" " alt="" coords="954,38,990,36,984,37,956,43"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="1004,293,1114,320"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="936,65,956,77,979,98,998,123,1026,178,1045,233,1055,279,1051,276,1040,234,1022,180,993,126,975,102,953,81,936,70"/>
+<area shape="poly" id="edge15_Node000023_Node000009" title=" " alt="" coords="683,324,991,310,986,311,684,329"/>
+<area shape="rect" id="Node000024" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="772,344,915,371"/>
+<area shape="poly" id="edge12_Node000023_Node000024" title=" " alt="" coords="684,339,759,349,754,349,684,344"/>
+<area shape="rect" id="Node000027" href="$group___d_a_t_a_i_o.html#ga9eaf61a44d3d493b69666cfbee518e73" title="Delete answer." alt="" coords="748,395,939,421"/>
+<area shape="poly" id="edge13_Node000023_Node000027" title=" " alt="" coords="645,351,733,380,765,391,760,390,732,385,644,357"/>
+<area shape="poly" id="edge14_Node000027_Node000009" title=" " alt="" coords="922,392,954,380,996,356,1030,331,1035,329,999,360,956,385,924,397"/>
+</map>

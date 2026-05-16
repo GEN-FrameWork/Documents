@@ -1,0 +1,18 @@
+<map id="APPFLOWWEBSERVER::GenerateMessagePage" name="APPFLOWWEBSERVER::GenerateMessagePage">
+<area shape="rect" id="Node000001" title="Generate message page." alt="" coords="5,95,239,137"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#gae498ead80fdbb5d05a08507ed5601111" title="Generate message page." alt="" coords="287,65,520,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,101,274,100,268,101,240,106"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="849,132,960,159"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="239,118,834,140,834,145,239,123"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga37fc22a5b0734c410ff446232d16c227" title="Printf." alt="" coords="568,65,781,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,84,555,86,550,87,521,89"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="1046,5,1158,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="713,62,766,36,829,16,881,8,934,5,1033,11,1028,11,935,10,882,13,830,21,768,41,714,67"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="829,31,980,57"/>
+<area shape="poly" id="edge4_Node000003_Node000008" title=" " alt="" coords="781,64,811,61,817,60,782,69"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="1028,56,1177,83"/>
+<area shape="poly" id="edge8_Node000003_Node000015" title=" " alt="" coords="781,80,1015,73,1009,73,782,85"/>
+<area shape="poly" id="edge7_Node000003_Node000012" title=" " alt="" coords="761,106,837,128,832,127,760,111"/>
+<area shape="poly" id="edge5_Node000008_Node000004" title=" " alt="" coords="980,32,1028,28,1034,27,981,37"/>
+<area shape="poly" id="edge6_Node000008_Node000015" title=" " alt="" coords="980,51,1015,58,1010,58,980,56"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="INPWINDOWSSIMULATE::Key_Click" name="INPWINDOWSSIMULATE::Key_Click">
+<area shape="rect" id="Node000001" title="Key click." alt="" coords="5,39,185,81"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7cc62c2032daf5fc55d1ee03637a47ea" title="Key press." alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,44,220,41,215,43,186,49"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9622c322ab2b0d3e8a4e61de8bd8cbc7" title="Key un press." alt="" coords="233,72,412,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,71,220,78,214,78,185,76"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="XFILECSV::XFILECSV" name="XFILECSV::XFILECSV">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,105,164,132"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad49692fae6e7b4c34c7f74a01bc08c7d" title="Open." alt="" coords="226,80,350,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,106,213,102,208,104,165,111"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga205601eaa0984971ff6a9224e35ecc17" title="Constructor of class." alt="" coords="212,131,364,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="164,126,199,132,194,133,164,131"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga5477ec3bad925da37dd8490a989e4215" title="Have header." alt="" coords="460,5,626,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,77,411,41,447,35,442,36,413,47,320,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac1ba7a50ab19469934c6083fdcdec985" title="Open." alt="" coords="482,80,603,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="350,91,469,93,464,94,350,96"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="501,79,494,71,499,61,515,55,543,53,573,56,590,65,584,65,571,61,543,59,517,61,502,65,499,71,506,80"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="721,80,860,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="604,91,708,93,703,94,604,96"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga8969fc85c324376119a164693ecf446c" title="Create primary file." alt="" coords="418,131,668,157"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="364,141,404,144,399,144,365,147"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga8a5c206cbd56fd59051bc95a50fe988a" title="Constructor of class." alt="" coords="412,181,673,208"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="356,155,413,167,457,178,452,178,411,172,356,161"/>
+</map>

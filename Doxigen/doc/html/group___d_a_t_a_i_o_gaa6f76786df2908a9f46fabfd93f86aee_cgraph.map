@@ -1,0 +1,14 @@
+<map id="DIOI2CGPIOMCP2317::Configure" name="DIOI2CGPIOMCP2317::Configure">
+<area shape="rect" id="Node000001" title="Configure." alt="" coords="5,48,171,91"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac0b34e8b97400e47ebe8eac464563b30" title="Send command." alt="" coords="219,48,384,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,67,206,69,200,70,171,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="460,31,575,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,57,447,52,441,53,385,62"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="432,81,602,108"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="385,76,419,83,414,83,384,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="650,5,784,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,34,632,29,637,29,575,39"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="832,31,991,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="575,41,819,44,814,44,576,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="784,25,819,32,813,32,784,30"/>
+</map>

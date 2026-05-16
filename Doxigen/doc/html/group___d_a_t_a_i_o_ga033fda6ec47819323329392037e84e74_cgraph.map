@@ -1,0 +1,22 @@
+<map id="DIODNSPROTOCOLCLIENT::DecodeDNSFormat" name="DIODNSPROTOCOLCLIENT::DecodeDNSFormat">
+<area shape="rect" id="Node000001" title="Decode DNS format." alt="" coords="5,124,202,167"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="263,56,376,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,121,267,87,263,90,168,126"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="256,107,383,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,131,242,128,237,130,203,136"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="263,157,376,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="202,154,250,162,244,163,202,160"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="250,208,389,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="167,165,267,202,262,203,166,170"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="454,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,53,453,35,448,37,377,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="437,56,606,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="375,67,424,69,419,70,376,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="654,81,804,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="607,77,642,84,636,84,607,82"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="383,113,641,99,636,101,384,119"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="452,157,591,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="376,131,453,153,448,153,376,137"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="442,208,601,235"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="389,219,429,221,424,221,389,224"/>
+</map>

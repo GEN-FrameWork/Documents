@@ -1,0 +1,7 @@
+<map id="CIPHERCERTIFICATEX509::IsSelfSigned" name="CIPHERCERTIFICATEX509::IsSelfSigned">
+<area shape="rect" id="Node000001" title="is self signed" alt="" coords="5,39,196,81"/>
+<area shape="rect" id="Node000002" href="$group___c_i_p_h_e_r.html#ga98933c8045ca4ed9fbcd93ac396ae474" title="get issuer Id" alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,44,231,41,226,43,197,49"/>
+<area shape="rect" id="Node000003" href="$group___c_i_p_h_e_r.html#ga5f75df6b9c0408f9331d71444c0ae9ec" title="get subject Id" alt="" coords="244,72,434,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,71,231,78,226,78,196,76"/>
+</map>

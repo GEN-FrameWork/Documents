@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html" title="eXtended Utils Serializable class" alt="" coords="5,233,130,260"/>
+<area shape="rect" id="Node000001" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___h_e_a_d_e_r.html" title="Data Input/Output Core Protocol Header class." alt="" coords="204,5,426,32"/>
+<area shape="poly" id="edge461_Node000000_Node000001" title=" " alt="" coords="73,218,86,178,106,130,136,82,155,60,176,42,205,28,202,32,179,46,159,64,140,85,111,132,91,180,78,220"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___r_e_g_i_s_t_e_r_d_a_t_a.html" title="Data Input/Output Core Protocol Register Data class." alt="" coords="181,56,450,83"/>
+<area shape="poly" id="edge462_Node000000_Node000002" title=" " alt="" coords="78,218,115,154,143,120,176,92,202,81,199,85,179,97,147,124,119,157,83,220"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_n_o_d_e.html" title="Data Input/Output NODE (Base class for a control of nodes) class." alt="" coords="273,107,358,133"/>
+<area shape="poly" id="edge463_Node000000_Node000003" title=" " alt="" coords="87,220,125,179,150,159,177,143,225,126,275,120,271,123,226,131,179,148,153,164,129,183,91,223"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_n_o_d_e_i_t_e_m.html" title="Data Input/Output Node item (Base for DIONODESENSOR, DIONODEACTUATOR, ...) class." alt="" coords="257,157,374,184"/>
+<area shape="poly" id="edge464_Node000000_Node000004" title=" " alt="" coords="106,224,177,193,259,176,255,180,178,199,109,228"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_n_o_d_e_i_t_e_m_v_a_l_u_e.html" title="Data Input/Output Node Item Value class." alt="" coords="236,208,395,235"/>
+<area shape="poly" id="edge465_Node000000_Node000005" title=" " alt="" coords="144,236,237,228,233,231,146,241"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_n_o_d_e_i_t_e_m_v_a_l_u_e_u_n_i_t_f_o_r_m_a_t.html" title="Data Input/Output Node Item value unit format class." alt="" coords="192,259,438,285"/>
+<area shape="poly" id="edge466_Node000000_Node000006" title=" " alt="" coords="144,252,194,258,190,261,146,257"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_w_e_b_s_e_r_v_e_r___r_e_s_o_l_v_e_e_n_d_p_o_i_n_t.html" title="Data Input/Output Web Server Resolve EndPoint class." alt="" coords="180,309,450,336"/>
+<area shape="poly" id="edge467_Node000000_Node000007" title=" " alt="" coords="107,265,179,295,224,308,219,310,177,300,107,270"/>
+<area shape="rect" id="Node000010" href="$class_x_i_n_t_e_r_p_o_l_a_t_o_r.html" title="eXtended Utils Interpolator class" alt="" coords="249,360,382,387"/>
+<area shape="poly" id="edge470_Node000000_Node000010" title=" " alt="" coords="89,270,129,310,153,330,179,346,213,359,251,368,246,369,212,364,176,350,150,334,125,314,89,275"/>
+<area shape="rect" id="Node000011" href="$class_x_w_i_n_d_o_w_s_w_i_n_g_e_t___e_l_e_m_e_n_t_r_e_s_u_l_t.html" title=" " alt="" coords="178,411,453,437"/>
+<area shape="poly" id="edge471_Node000000_Node000011" title=" " alt="" coords="81,271,119,337,147,369,179,396,203,410,198,410,176,401,143,373,115,340,80,277"/>
+<area shape="rect" id="Node000012" href="$class_x_w_i_n_d_o_w_s_w_i_n_g_e_t___l_i_s_t_r_e_s_u_l_t.html" title=" " alt="" coords="195,461,436,488"/>
+<area shape="poly" id="edge472_Node000000_Node000012" title=" " alt="" coords="76,272,91,314,111,361,140,408,159,429,179,447,200,461,195,461,176,452,155,433,136,411,106,364,86,315,75,277"/>
+<area shape="rect" id="Node000008" href="$class_a_p_p_f_l_o_w_e_x_t_e_n_d_e_d___a_p_p_l_i_c_a_t_i_o_n_s_t_a_t_u_s.html" title="Application Flow Extended Application Status class." alt="" coords="501,284,807,311"/>
+<area shape="poly" id="edge468_Node000007_Node000008" title=" " alt="" coords="465,309,503,308,498,309,466,314"/>
+<area shape="rect" id="Node000009" href="$class_a_p_p_f_l_o_w_e_x_t_e_n_d_e_d___i_n_t_e_r_n_e_t_s_t_a_t_u_s.html" title="Application Flow Extended Internet Status class." alt="" coords="511,335,797,361"/>
+<area shape="poly" id="edge469_Node000007_Node000009" title=" " alt="" coords="466,331,513,337,508,338,466,337"/>
+</map>

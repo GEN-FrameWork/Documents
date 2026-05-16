@@ -1,0 +1,13 @@
+<map id="XBUFFERBITS::ReadSE" name="XBUFFERBITS::ReadSE">
+<area shape="rect" id="Node000001" title="Read SE." alt="" coords="5,31,177,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga349241970b9151e47749c6b9764aecc9" title=" " alt="" coords="225,31,397,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,41,212,44,206,44,177,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4a871a7fd2855666a415a9fc217de578" title="Is EOF." alt="" coords="875,5,1035,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,27,445,16,556,9,667,7,861,13,856,14,667,12,556,14,445,21,372,33"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7a44bc85f6fb2f41d5e9be8453ca705b" title="Read u." alt="" coords="445,31,608,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,41,432,44,426,44,398,47"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga447e99a38908718923815f98e5d80251" title="Read U1." alt="" coords="656,31,827,57"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="372,55,445,67,527,72,608,67,663,61,669,61,609,72,527,77,445,72,372,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="609,41,643,44,638,44,609,47"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="827,31,857,30,862,30,828,36"/>
+</map>

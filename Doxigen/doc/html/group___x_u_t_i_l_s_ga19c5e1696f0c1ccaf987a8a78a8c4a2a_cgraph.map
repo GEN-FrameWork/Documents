@@ -1,0 +1,23 @@
+<map id="XSTRING::Split" name="XSTRING::Split">
+<area shape="rect" id="Node000001" title="Split." alt="" coords="5,207,121,233"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="179,43,296,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,204,167,117,212,78,208,82,171,121,80,208"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="178,131,298,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,204,193,162,190,166,97,208"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="561,131,711,157"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="121,227,200,237,299,242,406,237,460,230,512,217,564,194,605,168,610,166,566,199,514,223,461,235,407,243,298,247,199,242,121,232"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="366,181,502,208"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="121,213,351,198,349,203,122,219"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="183,283,293,309"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="96,231,193,275,189,277,96,237"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="169,333,307,360"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="76,231,116,275,142,298,170,319,180,327,175,326,167,324,138,302,112,278,75,237"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="355,5,513,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,42,348,34,343,37,298,47"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="377,80,491,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,128,367,110,363,112,294,132"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="298,141,548,142,544,146,299,147"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="292,155,367,176,362,178,293,161"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="400,79,395,71,399,62,412,55,434,53,458,56,472,65,466,65,456,61,434,59,414,61,403,65,400,71,406,80"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="490,105,568,126,562,127,491,110"/>
+</map>

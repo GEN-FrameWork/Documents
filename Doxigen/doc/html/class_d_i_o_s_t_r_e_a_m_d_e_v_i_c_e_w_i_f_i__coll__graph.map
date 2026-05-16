@@ -1,0 +1,18 @@
+<map id="DIOSTREAMDEVICEWIFI" name="DIOSTREAMDEVICEWIFI">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream Device Wifi class." alt="" coords="168,321,350,348"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e_i_p.html" title="Data Input/Output Stream Device IP class." alt="" coords="176,245,342,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,285,261,322,257,319,257,289"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m_d_e_v_i_c_e.html" title="Data Input/Output Stream Device class." alt="" coords="5,147,158,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,178,238,243,233,246,117,184"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="41,5,122,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,45,84,146,79,146,81,50"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_m_a_c.html" title="Data Input/Output MAC class." alt="" coords="181,147,256,173"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="223,186,234,220,250,245,245,244,229,222,221,191"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_i_p.html" title="Data Input/Output IP class." alt="" coords="280,147,339,173"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="298,186,267,247,263,243,294,189"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_i_p_a_d_d_r_e_s_s.html" title=" " alt="" coords="246,5,370,32"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="307,45,308,56,308,123,310,147,305,145,303,123,303,56,305,50"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="310,45,312,147,307,145,307,49"/>
+<area shape="rect" id="Node000010" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="362,147,542,173"/>
+<area shape="poly" id="edge8_Node000002_Node000010" title=" " alt="" coords="416,180,285,247,283,242,411,182"/>
+</map>

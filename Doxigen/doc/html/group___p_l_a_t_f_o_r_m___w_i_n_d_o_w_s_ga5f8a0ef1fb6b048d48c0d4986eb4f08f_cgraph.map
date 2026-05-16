@@ -1,0 +1,31 @@
+<map id="INPWINDOWSDEVICEMOUSE::Update" name="INPWINDOWSDEVICEMOUSE::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="5,296,219,339"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga7d9fb0d7e91877f3a97930b7b9c7595c" title="Add point to motion." alt="" coords="267,101,484,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,294,180,221,220,180,265,144,294,132,291,136,268,149,223,184,184,224,129,297"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gadfd993e1bfb7ba5da59d3950c7e44731" title="Get x." alt="" coords="532,5,729,48"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="119,294,138,250,169,193,211,135,237,109,265,87,325,57,390,37,455,26,519,22,514,25,456,31,391,42,327,62,268,92,240,113,215,138,173,196,143,252,124,296"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#ga02972bce89abf3715627c160c8db2ffb" title="Get y." alt="" coords="532,189,729,232"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="129,294,185,238,223,209,266,188,334,172,405,168,474,173,537,185,532,186,473,178,405,173,335,177,268,193,226,214,188,242,133,297"/>
+<area shape="rect" id="Node000007" href="$group___i_n_p_u_t.html#gaeb09b76edea544f7524de32cc80e8fa3" title="Get key code." alt="" coords="284,203,466,229"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,293,204,265,266,239,292,232,288,235,268,244,206,270,153,297"/>
+<area shape="rect" id="Node000008" href="$group___i_n_p_u_t.html#gaa3208e8520fbf71047cfc6d2ac1a2edc" title="Get state." alt="" coords="296,253,455,280"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="218,294,289,282,285,285,220,299"/>
+<area shape="rect" id="Node000009" href="$group___i_n_p_u_t.html#gae7811b2c96e716ece556d4bb25a2c658" title="Is enabled." alt="" coords="295,304,456,331"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="218,315,281,316,277,319,220,320"/>
+<area shape="rect" id="Node000010" href="$group___i_n_p_u_t.html#ga1ce10ffed0ebe66f67f37d82a457c986" title="Set is changed." alt="" coords="278,355,472,381"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="218,335,290,350,285,352,219,340"/>
+<area shape="rect" id="Node000011" href="$group___i_n_p_u_t.html#ga5dc0db23f7e8e040061f5295045e7da8" title="Set pressed." alt="" coords="288,405,463,432"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="151,337,206,365,268,391,293,400,288,401,266,396,204,369,152,342"/>
+<area shape="rect" id="Node000012" href="$group___i_n_p_u_t.html#ga7c8702f570e2bdc8ad2bdb5ea870d3d4" title="Set state." alt="" coords="296,456,454,483"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="134,337,192,390,228,418,268,442,285,450,279,451,265,446,225,423,188,394,133,342"/>
+<area shape="rect" id="Node000013" href="$group___i_n_p_u_t.html#gae5fad21eb3b131b527418a43f9d33180" title="Set x." alt="" coords="305,507,446,533"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="126,337,150,372,182,414,222,457,268,492,293,506,288,506,265,497,218,461,178,418,146,375,126,342"/>
+<area shape="rect" id="Node000014" href="$group___i_n_p_u_t.html#ga1ad8eb2e3cec322dda19e1e872475504" title="Set y." alt="" coords="305,557,446,584"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="122,337,144,382,174,438,216,495,241,521,268,543,293,558,288,557,265,548,237,525,212,499,170,441,139,384,121,342"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga9e61d2f84523ebfae7ac1763ea9fd582" title="Get timer." alt="" coords="548,72,713,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,100,535,95,530,98,486,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,99,531,57,553,52,548,55,533,63,417,103"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,126,485,144,510,160,533,175,547,183,542,183,531,180,507,164,483,149,434,131"/>
+<area shape="rect" id="Node000006" href="$group___i_n_p_u_t.html#ga878652cdd4ceee84192456ba5369510d" title="Get z." alt="" coords="532,123,729,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="484,125,519,130,514,132,485,130"/>
+</map>

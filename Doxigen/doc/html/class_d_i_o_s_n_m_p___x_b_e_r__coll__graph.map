@@ -1,0 +1,17 @@
+<map id="DIOSNMP_XBER" name="DIOSNMP_XBER">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,279,337,305"/>
+<area shape="rect" id="Node000002" href="$class_x_b_e_r.html" title="eXtended Utils Basic Encoding Rules (BER) encoding class (https://en.wikipedia.org/wiki/X...." alt="" coords="244,203,302,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,243,275,280,271,277,271,246"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,104,98,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,136,165,176,246,205,241,207,162,181,85,142"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="122,104,203,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,143,175,162,185,177,213,196,246,209,240,210,211,201,181,181,170,164,166,148"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="124,5,201,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,45,165,104,160,103,161,50"/>
+<area shape="rect" id="Node000007" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="229,104,314,131"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="274,144,275,204,270,201,270,148"/>
+<area shape="rect" id="Node000008" href="$class_x_v_a_r_i_a_n_t.html" title="eXtended Utils Variant class" alt="" coords="338,104,426,131"/>
+<area shape="poly" id="edge6_Node000002_Node000008" title=" " alt="" coords="359,140,289,204,286,200,354,142"/>
+<area shape="rect" id="Node000009" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="451,104,607,131"/>
+<area shape="poly" id="edge7_Node000002_Node000009" title=" " alt="" coords="489,137,386,181,303,208,302,203,384,176,484,138"/>
+</map>

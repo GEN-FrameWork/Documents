@@ -1,0 +1,25 @@
+<map id="XINTERPOLATOR::Serialize" name="XINTERPOLATOR::Serialize">
+<area shape="rect" id="Node000001" title="Serialize." alt="" coords="5,107,197,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="290,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,104,177,73,244,42,278,33,273,35,246,46,179,78,126,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga5975038e0fce3d8b8cac0ea152260066" title="Set current." alt="" coords="245,56,449,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,104,266,85,262,88,170,109"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gacff899b0385a3d04c1a26d463647ab07" title="Set position." alt="" coords="267,107,426,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="196,117,254,119,249,121,198,123"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae82bd806b981ad98fbc6f21f121291ff" title="Set target." alt="" coords="248,157,446,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="169,131,266,152,262,155,170,137"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafa68acb2a56d6b05cd55d47a79339680" title="Update." alt="" coords="255,208,438,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="124,131,179,162,246,194,268,203,263,203,244,198,177,167,124,137"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf7f0433b0028eb9155774e7985e52df0" title="Get maximun." alt="" coords="506,5,721,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,53,527,35,522,36,422,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga288a783c32e93993e69997722c0195d7" title="Get minimun." alt="" coords="508,56,719,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="449,67,494,69,489,70,450,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga81e7ae6b2c9fe4932b42a10cc826085a" title="Get multiplicator." alt="" coords="497,107,729,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="421,81,527,103,522,104,421,86"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga2429451a75a21da90043e8e93feab9ee" title="Interpolate." alt="" coords="512,208,714,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="439,219,499,221,494,222,439,224"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga879b1be5923024a5d87f8781fae7263a" title="Interpolate linear." alt="" coords="777,167,980,209"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="715,206,759,203,765,202,715,211"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga729fa33aa46d7ed16f4921f027827737" title="Interpolate relative." alt="" coords="777,233,980,276"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="715,231,765,240,759,240,715,237"/>
+</map>

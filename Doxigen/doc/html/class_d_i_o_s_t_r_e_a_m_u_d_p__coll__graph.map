@@ -1,0 +1,35 @@
+<map id="DIOSTREAMUDP" name="DIOSTREAMUDP">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream UDP class." alt="" coords="248,620,379,647"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="515,223,616,249"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,262,568,336,568,536,563,552,548,566,501,590,440,609,380,623,379,618,439,604,499,585,545,562,558,549,563,536,563,336,564,267"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="410,81,502,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,117,489,130,559,222,554,223,485,134,477,123"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g.html" title="Data Input/Output Stream Config class." alt="" coords="392,273,545,300"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="459,121,470,274,465,272,457,126"/>
+<area shape="rect" id="Node000004" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="526,81,610,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="569,121,568,223,563,221,566,126"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="635,81,707,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="667,121,656,162,633,200,617,214,600,224,597,220,614,210,629,197,651,160,664,125"/>
+<area shape="rect" id="Node000006" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="449,5,568,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="550,36,646,80,641,82,550,42"/>
+<area shape="rect" id="Node000007" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="308,81,386,108"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="465,41,376,83,373,79,469,37"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="350,121,362,162,372,181,385,197,407,207,439,216,517,229,512,231,438,221,405,212,382,201,367,184,357,164,349,126"/>
+<area shape="rect" id="Node000012" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="180,223,261,249"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="291,99,255,111,238,120,224,134,214,155,212,179,219,222,214,222,207,179,209,154,220,130,235,116,253,106,295,96"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_s_t_r_e_a_m_u_d_p_c_o_n_f_i_g.html" title="Data Input/Output Stream UDP Config class." alt="" coords="222,521,405,548"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="316,562,316,621,311,618,312,566"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="477,313,484,356,482,378,476,400,449,442,413,477,375,504,341,523,339,519,372,500,410,473,445,439,471,398,477,377,478,356,475,318"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g_s_t_r_i_n_g.html" title="Data Input/Output Stream Config String class." alt="" coords="23,423,228,449"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="164,454,291,520,287,522,163,459"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_u_r_l.html" title="Data Input/Output URL class." alt="" coords="89,324,162,351"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="78,360,50,377,24,398,9,422,9,435,13,448,37,482,66,512,99,538,134,560,205,595,269,619,263,620,203,600,131,565,96,542,62,516,33,485,9,451,3,436,4,421,20,395,47,373,81,355"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="126,364,128,423,123,422,125,369"/>
+<area shape="poly" id="edge18_Node000008_Node000012" title=" " alt="" coords="257,255,294,284,311,302,324,323,342,369,347,408,343,449,332,498,323,523,319,519,327,497,337,448,342,408,337,370,319,325,307,305,291,288,257,261"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="197,263,139,326,135,322,199,258"/>
+<area shape="rect" id="Node000013" href="$class_d_i_o_i_p.html" title="Data Input/Output IP class." alt="" coords="252,423,311,449"/>
+<area shape="poly" id="edge15_Node000008_Node000013" title=" " alt="" coords="279,462,284,496,301,521,296,520,279,498,276,467"/>
+<area shape="rect" id="Node000014" href="$class_d_i_o_i_p_a_d_d_r_e_s_s.html" title=" " alt="" coords="187,324,310,351"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="273,360,281,374,287,399,286,423,281,421,281,400,276,376,272,365"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="235,363,233,382,236,398,245,410,259,422,254,422,242,414,231,400,228,382,233,367"/>
+</map>

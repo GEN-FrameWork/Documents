@@ -1,0 +1,36 @@
+<map id="XFILE::Open" name="XFILE::Open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1333,228,1430,255"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gabf9fd727e4d4dbd86275853b5a6dd886" title="Add file." alt="" coords="1118,35,1250,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1370,212,1357,182,1339,144,1315,107,1283,76,1250,59,1250,54,1287,71,1319,103,1344,141,1362,180,1374,215"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#gae761c758190d0ab5de63df42be95781a" title="Detect file format text." alt="" coords="1083,85,1285,128"/>
+<area shape="poly" id="edge7_Node000001_Node000013" title=" " alt="" coords="1359,215,1327,179,1284,142,1263,131,1264,126,1286,138,1330,175,1364,216"/>
+<area shape="rect" id="Node000015" href="$group___c_i_p_h_e_r.html#ga1ce8654a3a7637e238a43ce0d40a1747" title="Do." alt="" coords="1142,152,1226,179"/>
+<area shape="poly" id="edge9_Node000001_Node000015" title=" " alt="" coords="1342,220,1284,193,1227,176,1227,171,1286,188,1348,220"/>
+<area shape="rect" id="Node000016" href="$group___s_o_u_n_d.html#ga6ea0297792113c434f9027b43188f0fc" title="Load file." alt="" coords="1101,203,1266,229"/>
+<area shape="poly" id="edge10_Node000001_Node000016" title=" " alt="" coords="1315,233,1267,229,1267,224,1320,233"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga8cd2c5dbdbe74970b17bb76c6cc19318" title="Load from file." alt="" coords="1096,253,1272,280"/>
+<area shape="poly" id="edge11_Node000001_Node000017" title=" " alt="" coords="1315,250,1272,258,1272,253,1320,249"/>
+<area shape="rect" id="Node000018" href="$group___x_u_t_i_l_s.html#ga35d48f1586906b38fbfa0f0e30caea14" title="Open." alt="" coords="1135,304,1232,331"/>
+<area shape="poly" id="edge12_Node000001_Node000018" title=" " alt="" coords="1347,262,1286,294,1234,310,1233,305,1284,290,1342,264"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#ga8e86902115c96bb3404de5c2f8506984" title="Overwrite content." alt="" coords="1100,355,1268,381"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="1365,266,1331,309,1310,328,1286,345,1261,357,1259,351,1284,340,1307,324,1327,305,1360,269"/>
+<area shape="rect" id="Node000023" href="$group___x_u_t_i_l_s.html#gae7812615073557f51595d5bc3fdad651" title="Write from IMG file." alt="" coords="1092,405,1276,448"/>
+<area shape="poly" id="edge17_Node000001_Node000023" title=" " alt="" coords="1372,268,1340,333,1316,367,1287,395,1267,407,1266,402,1283,391,1312,363,1336,330,1368,271"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab93b10e6f323812a1d595d88445f9e6c" title="Backup adjust N files." alt="" coords="248,13,475,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1100,35,1034,29,891,21,779,20,523,25,477,26,475,21,523,20,779,14,891,15,1035,24,1105,34"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga932b5e7ef617b3dcc27cb7867b6e3fab" title="Del file." alt="" coords="842,39,991,65"/>
+<area shape="poly" id="edge4_Node000002_Node000011" title=" " alt="" coords="1100,50,992,54,991,48,1105,49"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad88817a75f1366d81d67c63c80f1abfa" title="Backup control limits." alt="" coords="5,5,200,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,28,201,29,199,24,234,25"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gab04df4c021280ebe042bdaa1fae31006" title="Backup adjust N files in compressed." alt="" coords="523,35,750,77"/>
+<area shape="poly" id="edge5_Node000011_Node000012" title=" " alt="" coords="824,54,751,57,750,52,829,53"/>
+<area shape="poly" id="edge6_Node000012_Node000003" title=" " alt="" coords="505,43,476,41,475,36,510,41"/>
+<area shape="rect" id="Node000014" href="$group___g_r_a_p_h_i_c.html#ga663cafd23c22ad4d85736f1611a4a831" title="Detect type." alt="" coords="798,93,1035,120"/>
+<area shape="poly" id="edge8_Node000013_Node000014" title=" " alt="" coords="1064,107,1035,109,1035,104,1069,106"/>
+<area shape="rect" id="Node000020" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga102aaa3a465ad2bcaee2171b0c10b141" title="Erase." alt="" coords="846,304,987,331"/>
+<area shape="poly" id="edge14_Node000019_Node000020" title=" " alt="" coords="1092,351,987,333,987,328,1097,351"/>
+<area shape="rect" id="Node000021" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga13068395169204d1a20353b7c6caf864" title="Erase." alt="" coords="832,355,1001,381"/>
+<area shape="poly" id="edge15_Node000019_Node000021" title=" " alt="" coords="1081,368,1002,371,1002,365,1087,368"/>
+<area shape="rect" id="Node000022" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1abdd361d6d3cdf1c44923bcea96332c" title="Erase." alt="" coords="820,405,1013,448"/>
+<area shape="poly" id="edge16_Node000019_Node000022" title=" " alt="" coords="1107,385,1013,408,1013,403,1102,386"/>
+</map>

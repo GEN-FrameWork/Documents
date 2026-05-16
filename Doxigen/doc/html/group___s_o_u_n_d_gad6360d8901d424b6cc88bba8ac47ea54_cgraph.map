@@ -1,0 +1,13 @@
+<map id="SNDOPENALFACTORY::~SNDOPENALFACTORY" name="SNDOPENALFACTORY::~SNDOPENALFACTORY">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,64,180,107"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gacb05db0d5cde5b1c6a6816cc6fc47e92" title="End." alt="" coords="228,72,424,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,83,215,85,209,86,180,88"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gab0c0f8c44563a50626dafde258ee373d" title="Sound stop all." alt="" coords="472,64,682,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,83,459,85,454,86,425,88"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#gac1b267678e6287eb9cc6f4156d0345bd" title="Get item." alt="" coords="730,5,908,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="667,61,712,52,718,51,668,66"/>
+<area shape="rect" id="Node000005" href="$group___s_o_u_n_d.html#gad5642d5693499dd9e0bff802f1208ef5" title="Get status." alt="" coords="744,72,894,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="683,83,731,85,726,85,683,88"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="733,123,905,149"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="682,105,740,119,734,119,682,110"/>
+</map>

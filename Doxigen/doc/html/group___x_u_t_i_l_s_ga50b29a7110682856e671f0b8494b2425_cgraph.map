@@ -1,0 +1,21 @@
+<map id="XPROCESS::Compare" name="XPROCESS::Compare">
+<area shape="rect" id="Node000001" title="Compare." alt="" coords="5,216,163,243"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="261,5,371,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,215,103,179,129,132,164,83,185,61,209,42,247,26,243,30,212,46,189,65,168,87,133,135,108,182,93,217"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga5764fd0cbebc0d68f3c588dc0bbbf186" title="Get ID." alt="" coords="246,56,386,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,214,137,155,171,121,209,92,234,83,230,87,212,97,174,125,141,158,96,217"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga2d1f11b7b0bc67ee1cb23453dc1a2d68" title="Get name." alt="" coords="236,107,396,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,214,147,178,210,143,231,137,227,140,212,148,150,183,104,217"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa9c9ecad834bdacd11384239c7e23e13" title="Get path." alt="" coords="240,157,392,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="135,213,210,193,244,187,239,190,211,199,138,218"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga326bb13491a0e4928d05a38bc941909a" title="Get window border width." alt="" coords="211,208,421,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="162,227,197,228,193,231,164,232"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga5c0209124ee071ff48b7d8be5dd8148f" title="Get window rect." alt="" coords="216,275,416,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,241,211,260,244,270,239,271,210,265,137,246"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaaaea783c8520240c4ceb978fc9fe27cf" title="Get window title." alt="" coords="217,325,414,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="102,240,150,276,212,311,231,320,226,321,210,316,147,280,102,246"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga24d1307aafde5d5809ba1376c7b64a22" title="Get window title height." alt="" coords="217,376,414,419"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="95,240,142,299,175,333,212,362,221,369,216,369,209,366,171,337,138,303,94,246"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gace5a698ad9f799dd3751490317f6f83c" title="Constructor of class." alt="" coords="226,443,406,469"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="90,241,107,280,131,331,167,384,188,408,212,429,221,436,215,435,209,433,184,412,162,387,127,333,102,282,89,246"/>
+</map>

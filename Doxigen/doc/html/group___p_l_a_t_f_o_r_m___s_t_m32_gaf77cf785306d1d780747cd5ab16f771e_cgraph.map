@@ -1,0 +1,7 @@
+<map id="XSTM32TIMER::XSTM32TIMER" name="XSTM32TIMER::XSTM32TIMER">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,13,221,40"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="269,13,384,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,24,256,27,250,27,221,29"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="432,5,641,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,24,419,27,414,27,384,29"/>
+</map>

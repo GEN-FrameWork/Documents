@@ -1,0 +1,12 @@
+<map id="UI_SKIN::CalculateBoundaryLine_ListBox" name="UI_SKIN::CalculateBoundaryLine_ListBox">
+<area shape="rect" id="Node000001" title="Calculate boundary line list box." alt="" coords="783,39,976,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga470e812323fb3ce883205776f4a7aa62" title="Calculate boundary line." alt="" coords="519,47,735,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,60,736,63,736,57,770,60"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6117b6d636ac9166a017b47205f3543a" title="Calcule boundary line all elements." alt="" coords="290,39,471,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,60,472,63,471,57,506,60"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="419,23,405,20,380,17,357,19,343,24,337,30,339,39,334,37,332,29,340,20,356,14,380,12,407,14,424,23"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="5,5,242,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="271,47,242,45,242,39,277,46"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga13f15a88d38869251c3ae0f3d2989724" title="Set element position." alt="" coords="21,72,226,115"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="272,74,227,83,226,77,277,73"/>
+</map>

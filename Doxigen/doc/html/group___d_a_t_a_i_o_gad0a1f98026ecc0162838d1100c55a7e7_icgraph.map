@@ -1,0 +1,23 @@
+<map id="DIOSTREAMDEVICE::GetName" name="DIOSTREAMDEVICE::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="649,197,865,224"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga50db67de2f6f09c33db54a09ebf955f8" title="Check net interface." alt="" coords="347,5,529,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="734,184,679,123,641,90,600,62,565,48,530,39,529,33,567,43,602,58,645,86,683,119,740,185"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga5a819c1c22a5c560fbae7371259cd3f4" title="Copy to." alt="" coords="335,72,540,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="725,187,670,149,636,129,600,113,541,97,541,92,602,108,638,125,673,145,730,187"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gabf3438b7607b7660892ac87ae09d8b83" title="Get device by name." alt="" coords="337,123,538,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="674,194,600,180,539,167,539,162,602,175,679,193"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabec8f888d4868b7c0ca0f59cadaea766" title="Get devices." alt="" coords="327,189,549,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="631,211,550,213,549,208,636,210"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gafaf7c533f3ea61fed511580a0694fe07" title="Search." alt="" coords="278,256,598,299"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="674,229,602,247,547,258,546,253,600,241,679,227"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga9d0acfe536de225af8531de05f87758b" title="Search." alt="" coords="289,323,586,365"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="729,233,672,276,602,313,569,325,567,319,600,308,669,271,725,235"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga654acdc42b0a6ae7accbe8b9b8c696c5" title="Search." alt="" coords="275,389,601,432"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="741,236,718,272,686,310,647,348,602,380,577,391,576,386,600,375,643,344,682,307,713,269,737,239"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga420282e2b1a3490f8541393aafcc4f9d" title="Check net interface." alt="" coords="25,5,207,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,28,208,29,206,24,333,25"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga0b9f09fdc988e4de91c302267979a1de" title="Copy from." alt="" coords="5,72,227,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,87,228,88,226,83,322,84"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga82eb6dbb39d8a3a08612268fa98ba75a" title="Get device by name." alt="" coords="15,123,217,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="320,146,218,147,216,141,324,142"/>
+</map>

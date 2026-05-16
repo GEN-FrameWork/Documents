@@ -1,0 +1,5 @@
+<map id="DIOSPITOUCHSCREENSTMPE610" name="DIOSPITOUCHSCREENSTMPE610">
+<area shape="rect" id="Node000001" title="Data Input/Output SPI STMPE610 (Touch Screen) class." alt="" coords="5,80,245,107"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="77,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,46,127,81,123,78,123,50"/>
+</map>

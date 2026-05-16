@@ -1,0 +1,15 @@
+<map id="UI_ELEMENT::IsPreSelect" name="UI_ELEMENT::IsPreSelect">
+<area shape="rect" id="Node000001" title="Is pre select." alt="" coords="438,113,618,140"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac78008dc843b1d53f8e6f1655f9a3187" title="Draw edit text." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,106,389,62,363,51,363,46,391,58,489,106"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0c948f064ba7ecb76a2c5e0888b626f7" title="Draw list box." alt="" coords="222,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="420,111,391,109,390,103,425,110"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac9f0d012294aa1ed54f4bcbed5f73cf9" title="Draw multi option." alt="" coords="222,139,390,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,143,391,150,390,145,425,142"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga51483d52372a907497eb69dab87844f1" title="Draw option." alt="" coords="222,205,390,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="489,147,391,196,364,207,362,202,389,191,484,148"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae431007e16929e417b98fd84923775eb" title="Draw button." alt="" coords="5,172,174,215"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,212,174,209,174,204,209,211"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga74b4a12dd28e3987ce14322a48665215" title="Draw check box." alt="" coords="5,239,174,281"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="204,242,175,250,174,244,209,242"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GRPBITMAPFILETGAHEADER::GetWidth" name="GRPBITMAPFILETGAHEADER::GetWidth">
+<area shape="rect" id="Node000001" title="Get width." alt="" coords="256,72,468,115"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga7b15481dbd5dc66f5154266632341efd" title="Create bitmap from buffer." alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,68,191,51,191,46,265,67"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gac1f099f55a03a51c23a2f9381c643bc8" title="Create bitmap from file." alt="" coords="5,72,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,94,209,96,208,91,243,93"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga890584bcc55b89714e6ddd430caee5ca" title="Create file from bitmap." alt="" coords="5,139,208,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,118,192,141,190,135,260,120"/>
+</map>

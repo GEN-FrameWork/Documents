@@ -1,0 +1,25 @@
+var class_d_i_o_i2_c_a_i_r_q_u_a_l_i_t_y_c_c_s811 =
+[
+    [ "DIOI2CAIRQUALITYCCS811", "group___d_a_t_a_i_o.html#ga5e734b2f7457d0094a13134f541311e2", null ],
+    [ "~DIOI2CAIRQUALITYCCS811", "group___d_a_t_a_i_o.html#gaa30d39e01b14bf8b1fdfb7753ab1c00b", null ],
+    [ "End", "group___d_a_t_a_i_o.html#gae30407a970d25d05456c443578040a9d", null ],
+    [ "GetApp_Version", "group___d_a_t_a_i_o.html#ga604ef1b1172cbc9db3cb996fa91aaad4", null ],
+    [ "GetBaseline", "group___d_a_t_a_i_o.html#ga068ee6474c3705a66e1ed089dfaf6035", null ],
+    [ "GetBoot_Version", "group___d_a_t_a_i_o.html#ga0dee90c2a9b80127e22274d1a7bad84f", null ],
+    [ "GetHW_ID", "group___d_a_t_a_i_o.html#gadc11281643add6f5663c5ee27aad0f61", null ],
+    [ "GetHW_Version", "group___d_a_t_a_i_o.html#gad8a462cf86712c971a54e712e053471f", null ],
+    [ "GetReferenceResistance", "group___d_a_t_a_i_o.html#ga14f68121b11da3cc199d1fadfbd4c9dc", null ],
+    [ "GetStatus", "group___d_a_t_a_i_o.html#gaebf96b35bc67451780ffb78a5f2fb0b5", null ],
+    [ "GetStatusErrorCode", "group___d_a_t_a_i_o.html#ga63b30f5b30ad420f42c364df8ca0f1c9", null ],
+    [ "HaveStatusError", "group___d_a_t_a_i_o.html#ga50f3ea05e21c14ec5da65f790d040da8", null ],
+    [ "IsAppValid", "group___d_a_t_a_i_o.html#ga755b8569c01c1dbdd08cdf718a11c15c", null ],
+    [ "IsDataAvailable", "group___d_a_t_a_i_o.html#ga3ace08ac9964b2db8cfeb303aeffb45d", null ],
+    [ "ReadData", "group___d_a_t_a_i_o.html#ga81247767d4b9d4ad789a8cc56a641443", null ],
+    [ "ReadNTC", "group___d_a_t_a_i_o.html#gaf0fc4c1e741db620b476d6e2fb369d03", null ],
+    [ "ResetDevice", "group___d_a_t_a_i_o.html#gacd187232ee4642a888976d78eebdffbc", null ],
+    [ "SetBaseline", "group___d_a_t_a_i_o.html#gab1384b63535a51cd81eff66b821bce5d", null ],
+    [ "SetDriveMode", "group___d_a_t_a_i_o.html#ga46ee3231709d336730f71e2459a5ff11", null ],
+    [ "SetEnvironmentalData", "group___d_a_t_a_i_o.html#ga3a4a8a822c254a2c34d1ad2006c6b041", null ],
+    [ "SetInterrupt", "group___d_a_t_a_i_o.html#ga389345ad35b089b41ed6b6d2d51834f0", null ],
+    [ "SetReferenceResistance", "group___d_a_t_a_i_o.html#ga4df7625ee43cb975354cbe3896442094", null ]
+];

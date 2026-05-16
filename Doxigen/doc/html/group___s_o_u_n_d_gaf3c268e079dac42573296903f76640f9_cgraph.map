@@ -1,0 +1,5 @@
+<map id="SNDFACTORY::Sound_IsAnyPlaying" name="SNDFACTORY::Sound_IsAnyPlaying">
+<area shape="rect" id="Node000001" title="Sound is any playing." alt="" coords="5,5,246,32"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gad5642d5693499dd9e0bff802f1208ef5" title="Get status." alt="" coords="294,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,16,281,19,275,19,246,21"/>
+</map>

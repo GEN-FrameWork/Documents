@@ -1,0 +1,7 @@
+<map id="INPDEVICE::SetScreen" name="INPDEVICE::SetScreen">
+<area shape="rect" id="Node000001" title="Set screen." alt="" coords="287,35,451,61"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga0b3100d72d0c3b8d57d5272f5a91769d" title="Create device." alt="" coords="5,5,239,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,37,239,35,239,30,274,36"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga6aa5ba4ee8c6b9a1ba82bfb36dcb39e5" title="Create device." alt="" coords="31,56,213,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,60,214,69,213,64,274,59"/>
+</map>

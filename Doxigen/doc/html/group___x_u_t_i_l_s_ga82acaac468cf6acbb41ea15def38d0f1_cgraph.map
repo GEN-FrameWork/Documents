@@ -1,0 +1,9 @@
+<map id="XDATETIME::GetMonthString" name="XDATETIME::GetMonthString">
+<area shape="rect" id="Node000001" title="Get month string." alt="" coords="5,31,202,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="250,31,377,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,41,237,44,232,44,202,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="425,5,574,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,33,407,31,412,31,378,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="430,56,569,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="377,50,418,58,413,58,377,55"/>
+</map>

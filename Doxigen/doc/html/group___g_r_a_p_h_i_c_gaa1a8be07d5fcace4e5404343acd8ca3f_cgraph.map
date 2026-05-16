@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFTEXTSECTIONENTITIES::AddEntity" name="GRPVECTORFILEDXFTEXTSECTIONENTITIES::AddEntity">
+<area shape="rect" id="Node000001" title="Add entity." alt="" coords="5,56,322,99"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="419,5,530,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,53,406,31,401,33,281,58"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga49acc40534cdfe6d48ea9d7f7bac7821" title="Get name." alt="" coords="370,56,579,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,75,357,77,351,78,322,80"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="405,123,544,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,97,392,120,387,120,280,102"/>
+</map>

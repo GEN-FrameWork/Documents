@@ -1,0 +1,21 @@
+<map id="DIOIEC60870_5::GetTimeLabelTypeB" name="DIOIEC60870_5::GetTimeLabelTypeB">
+<area shape="rect" id="Node000001" title="Get time label type b." alt="" coords="5,200,212,243"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4755ebb96abab2bf419a31af6dda1f7b" title="Get seconds." alt="" coords="271,5,448,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,198,142,164,173,121,212,78,258,42,272,37,268,40,261,46,216,82,177,125,146,167,124,201"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad0bec954a744ea5e976275973cd6eea7" title="Set day." alt="" coords="285,56,434,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,198,183,145,219,116,258,92,275,87,271,90,261,97,222,121,186,149,131,201"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga13a958415b92d0fd57f4cbac8851a88d" title="Set hours." alt="" coords="279,107,440,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,198,198,169,259,143,283,137,279,140,261,148,201,174,149,202"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga8fdd926431ba86f4744585312be6482b" title="Set milli seconds." alt="" coords="260,157,459,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,198,277,186,272,189,213,203"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga69173332be1d9f8c586e1a88417b0515" title="Set minutes." alt="" coords="274,208,445,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="211,219,261,220,256,223,213,224"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga001f98667032c95241a60a29bae990bf" title="Set month." alt="" coords="279,259,440,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="212,240,277,254,272,256,213,245"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga464db2ab1abdcf3f515de690340f518e" title="Set seconds." alt="" coords="271,309,448,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="147,240,201,268,261,295,283,304,278,305,259,300,198,273,147,246"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga5f69e1fb5fa02a3d1346dbf8b00a114d" title="Set to zero." alt="" coords="277,360,442,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="130,241,186,294,222,322,261,346,276,354,271,354,258,350,219,326,183,298,129,246"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga794f5f740556e7309c1db19815f8b3b2" title="Set year." alt="" coords="284,411,435,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="122,240,146,276,177,318,216,361,261,396,272,405,267,404,258,401,212,365,173,322,142,279,122,246"/>
+</map>

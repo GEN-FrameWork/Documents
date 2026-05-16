@@ -1,0 +1,18 @@
+<map id="DIONODEITEM::Serialize" name="DIONODEITEM::Serialize">
+<area shape="rect" id="Node000001" title="Serialize." alt="" coords="5,56,180,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gabc77fadae387fdcc4a629e0b8fd1822e" title="Item handler get." alt="" coords="237,5,460,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,53,265,34,261,37,165,58"/>
+<area shape="rect" id="Node000003" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a98a601086a654ea57be6291f5b1ba7e7" title=" " alt="" coords="242,56,456,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,229,68,224,70,181,72"/>
+<area shape="rect" id="Node000004" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a33b4397ba6c59e73d574b7f2e0a91053" title=" " alt="" coords="228,107,470,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,81,265,102,260,104,164,86"/>
+<area shape="rect" id="Node000005" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a1175d36bd99e244fc4280880d962939d" title=" " alt="" coords="518,31,714,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,103,469,92,517,73,555,63,560,62,519,79,471,97,426,109"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga71c010105e4789a76d52d6f3579792ae" title="Constructor of class." alt="" coords="762,56,998,83"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="470,106,750,81,744,83,470,111"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="558,132,674,159"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="470,129,546,138,540,139,471,134"/>
+<area shape="rect" id="Node000008" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="546,183,687,209"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="395,131,519,168,548,178,543,178,517,173,394,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="715,51,749,56,744,57,715,56"/>
+</map>

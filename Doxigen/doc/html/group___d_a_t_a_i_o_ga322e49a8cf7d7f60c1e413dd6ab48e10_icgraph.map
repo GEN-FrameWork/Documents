@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL::Commands_Get" name="DIOCOREPROTOCOL::Commands_Get">
+<area shape="rect" id="Node000001" title="Commands get." alt="" coords="668,5,929,32"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gae9f748b81b945a1a95f4498cea3b8a95" title="Commands add." alt="" coords="357,5,620,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,19,621,21,621,16,655,19"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaf6b82b128a60b800e7ddfb3415b4829f" title="Constructor of class." alt="" coords="5,5,309,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,19,309,21,309,16,344,19"/>
+</map>

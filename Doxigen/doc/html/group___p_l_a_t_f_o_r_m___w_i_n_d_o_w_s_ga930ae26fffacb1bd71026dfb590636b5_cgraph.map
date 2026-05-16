@@ -1,0 +1,17 @@
+<map id="GRPWINDOWSSCREEN::CaptureContent" name="GRPWINDOWSSCREEN::CaptureContent">
+<area shape="rect" id="Node000001" title="Capture content." alt="" coords="5,124,236,167"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga460b48b220289471646b4fe476c87006" title="Create bitmap." alt="" coords="286,5,485,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,122,208,81,283,42,305,36,300,38,285,46,211,86,152,126"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga313ad3e912d8093c4861260436b99a71" title="Get buffer." alt="" coords="304,56,467,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,121,283,92,314,86,309,88,284,97,190,126"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gad46bb9d22d6d2420b9de0ab915348a50" title="Get buffer size." alt="" coords="291,107,480,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,132,278,130,273,131,237,137"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="284,157,487,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,154,271,159,266,160,236,159"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga2f0d20d8b617a48f13592778eb476a7b" title="Get instance." alt="" coords="290,208,480,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,165,284,193,314,203,309,204,283,199,189,170"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="286,259,485,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="151,164,211,205,285,244,305,254,300,253,283,249,208,210,150,170"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga444df6931e5e61b7265f54c1b340740a" title="Constructor of class." alt="" coords="535,208,745,235"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="481,219,522,221,517,222,481,224"/>
+</map>

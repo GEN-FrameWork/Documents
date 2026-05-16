@@ -1,0 +1,9 @@
+<map id="XSTRING::Base64_EncodeBlock" name="XSTRING::Base64_EncodeBlock">
+<area shape="rect" id="Node000001" title="Base64 encode block." alt="" coords="716,13,934,40"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga09a4db670a05c45b15f0ad37318288ba" title="Base64 encode." alt="" coords="484,13,668,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="698,27,669,29,669,24,703,27"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga61dbc7f33192259807766c84302d00ba" title="Convert binary to base64." alt="" coords="250,5,436,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,27,437,29,437,24,471,27"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab7805e30032bd7d9d149edf1dfb5b39c" title="Convert to base64." alt="" coords="5,13,202,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="232,27,202,29,202,24,237,26"/>
+</map>

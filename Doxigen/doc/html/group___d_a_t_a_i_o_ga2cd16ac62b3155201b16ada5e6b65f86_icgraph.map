@@ -1,0 +1,11 @@
+<map id="DIOSTREAMICMPDATAGRAM::GetAddress" name="DIOSTREAMICMPDATAGRAM::GetAddress">
+<area shape="rect" id="Node000001" title="Get address." alt="" coords="447,48,656,91"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad79833b68ef4c3432ff7321c7c8761f8" title="Read datagram." alt="" coords="162,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,47,354,35,354,30,434,47"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gafc0b17a88814523896df3980fc4dc476" title="Reset in X buffer." alt="" coords="162,56,394,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,70,395,72,394,67,434,69"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga99c79ff6d029f45517780ad66ec7007f" title="Reset out X buffer." alt="" coords="157,107,399,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,91,354,109,353,103,429,92"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,20,110,21,108,16,149,17"/>
+</map>

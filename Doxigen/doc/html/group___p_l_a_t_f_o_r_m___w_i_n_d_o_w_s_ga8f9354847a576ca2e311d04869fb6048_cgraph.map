@@ -1,0 +1,5 @@
+<map id="WINDOWSSERVICE::On_Stop" name="WINDOWSSERVICE::On_Stop">
+<area shape="rect" id="Node000001" title="On stop." alt="" coords="5,13,214,40"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa783faac1cb931e2a7ebc94a5b69dc15" title="Must restart service." alt="" coords="262,5,491,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,24,249,27,243,27,214,29"/>
+</map>

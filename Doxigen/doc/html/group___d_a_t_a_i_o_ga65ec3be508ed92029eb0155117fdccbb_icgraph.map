@@ -1,0 +1,15 @@
+<map id="DIOSMTPRECIPIENT::GetEmail" name="DIOSMTPRECIPIENT::GetEmail">
+<area shape="rect" id="Node000001" title="Get email." alt="" coords="438,107,654,133"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6ff23ddc249f41bb311a9bb769b43594" title="Add recipient." alt="" coords="222,56,390,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,103,372,86,373,81,467,103"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga0fbb1cb570cd4a27e4271a47ac3d9120" title="Del recipient." alt="" coords="223,107,388,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="420,120,389,123,389,117,425,120"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga214f393ee836d672db12526ab54393b4" title="Send." alt="" coords="246,157,366,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="467,137,367,161,366,155,462,137"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga12592f6ca22311c0f3aa632466e6b929" title="Add recipient." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,53,150,35,149,30,233,51"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa3459341eb96145263771e478aa8d3e9" title="Add recipient." alt="" coords="5,56,174,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,70,175,72,174,67,209,68"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac40feb5e13ad2685553f20c09d8fcc74" title="Add recipient." alt="" coords="5,107,174,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="228,88,150,109,149,104,233,86"/>
+</map>

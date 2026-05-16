@@ -1,0 +1,25 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSSharedMemoryManager.h" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Windows/XWINDOWSSharedMemoryManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,258,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,112,96,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,67,77,101,73,99,108,62"/>
+<area shape="rect" id="Node000003" href="$_x_shared_memory_manager_8h.html" title=" " alt="" coords="120,112,300,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,62,191,100,186,101,157,67"/>
+<area shape="rect" id="Node000004" href="$_x_base_8h.html" title=" " alt="" coords="117,336,188,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,137,183,192,161,262,155,322,150,319,156,261,178,191,202,141"/>
+<area shape="rect" id="Node000005" href="$_x_string_8h.html" title=" " alt="" coords="279,187,354,213"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="229,137,288,177,283,178,229,142"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="276,210,228,229,202,244,180,263,165,291,157,322,153,319,160,289,176,260,199,240,225,224,281,207"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="492,336,552,363"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="355,198,394,202,438,212,481,230,500,243,516,260,525,274,529,290,529,323,525,319,524,291,520,276,512,263,496,247,478,235,436,217,393,207,355,204"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="191,261,259,288"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="303,213,254,254,251,250,298,215"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="371,336,436,363"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="328,211,364,260,395,323,390,321,360,263,326,216"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="283,261,350,288"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="318,212,319,247,315,244,315,216"/>
+<area shape="rect" id="Node000010" href="$_x_vector_8h.html" title=" " alt="" coords="424,261,503,288"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="343,211,427,254,422,254,342,217"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="426,287,204,339,203,334,423,283"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="475,286,505,325,500,323,473,291"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="455,287,425,326,422,322,451,290"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="XSTRING::Insert" name="XSTRING::Insert">
+<area shape="rect" id="Node000001" title="insert" alt="" coords="5,156,128,183"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="180,131,292,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,158,167,153,162,156,129,163"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="176,80,296,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="95,153,175,116,190,112,186,115,177,121,98,158"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="561,80,711,107"/>
+<area shape="poly" id="edge15_Node000001_Node000008" title=" " alt="" coords="128,177,206,186,303,191,409,186,462,179,512,167,564,144,605,118,610,115,566,148,514,172,463,184,409,192,303,196,206,191,128,182"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="181,232,290,259"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="99,181,192,224,188,227,98,186"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="360,131,497,157"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,141,348,143,343,145,293,147"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="344,232,513,259"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,155,391,224,386,225,263,160"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="561,232,711,259"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="514,243,548,245,543,246,514,248"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="289,105,363,125,358,127,290,110"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="372,29,486,56"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="289,77,363,59,358,62,291,82"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="296,91,547,92,543,95,297,96"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="395,28,390,21,394,11,407,5,429,3,452,5,465,14,460,14,450,10,429,8,409,10,398,15,395,20,401,29"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="486,54,566,75,561,76,487,59"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="291,243,331,245,326,246,291,248"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="362,283,496,309"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="290,257,363,278,358,278,289,262"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="567,283,705,309"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="496,293,554,296,549,296,496,299"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="INPSIMULATE::Mouse_SetPos" name="INPSIMULATE::Mouse_SetPos">
+<area shape="rect" id="Node000001" title="Mouse set pos." alt="" coords="454,5,611,48"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gac3343108b07a623cac803530ea0ddece" title="Call_Mouse_SetPos." alt="" coords="266,13,406,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,27,406,29,406,24,441,27"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga7b7ae7c499b3ae5f3af449b264f6578b" title="Add library functions." alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,27,218,29,218,24,253,27"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XLOGBASE::Backup_AdjustNFilesInCompressed" name="XLOGBASE::Backup_AdjustNFilesInCompressed">
+<area shape="rect" id="Node000001" title="Backup adjust N files in compressed." alt="" coords="726,5,954,48"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab93b10e6f323812a1d595d88445f9e6c" title="Backup adjust N files." alt="" coords="451,13,678,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="708,27,679,29,679,24,713,27"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad88817a75f1366d81d67c63c80f1abfa" title="Backup control limits." alt="" coords="209,5,403,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,27,404,29,403,24,438,27"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga999c650a847ac2c867058f2dfe22aee6" title="Add entry." alt="" coords="5,13,161,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="191,27,161,29,161,24,196,26"/>
+</map>

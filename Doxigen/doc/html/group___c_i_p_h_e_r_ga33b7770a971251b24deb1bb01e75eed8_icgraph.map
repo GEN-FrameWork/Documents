@@ -1,0 +1,17 @@
+<map id="CIPHER::Uncipher" name="CIPHER::Uncipher">
+<area shape="rect" id="Node000001" title="Uncipher." alt="" coords="246,157,379,184"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga92398f44ea41d7c2706e63682fa0a7c5" title="Read." alt="" coords="33,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,144,252,95,226,68,196,46,171,34,170,29,199,42,229,64,256,91,297,144"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga60258b70456df1ac680ae2f29ade3283" title="Read." alt="" coords="33,56,170,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,148,242,122,197,97,167,86,166,81,199,92,245,118,285,147"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga4cbf2275241784344b2a4c1d3339cc7c" title="Read." alt="" coords="18,107,185,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,154,161,137,160,131,241,152"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2650f5f7ae6ab4bfef37438f04760276" title="Read." alt="" coords="18,157,185,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="228,172,186,173,184,168,232,169"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga3e89378356dd98efcc713c52b3753777" title="Read." alt="" coords="5,208,198,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="245,190,182,210,180,205,249,187"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabf20dc77a23e64938a59693f24d27f9f" title="Read." alt="" coords="5,275,198,317"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="289,193,248,232,199,265,175,276,173,272,196,260,245,227,284,196"/>
+<area shape="rect" id="Node000008" href="$group___c_i_p_h_e_r.html#gaf9712639cfcaca8f7e33122a2730f842" title="Uncipher." alt="" coords="35,341,168,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="301,197,262,266,233,301,199,332,170,346,168,341,196,327,230,298,258,263,297,200"/>
+</map>

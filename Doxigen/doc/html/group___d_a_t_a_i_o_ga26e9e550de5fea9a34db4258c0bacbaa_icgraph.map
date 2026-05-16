@@ -1,0 +1,8 @@
+<map id="DIOSTREAMDEVICE::DIOSTREAMDEVICE" name="DIOSTREAMDEVICE::DIOSTREAMDEVICE">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="528,5,819,32"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0b9f09fdc988e4de91c302267979a1de" title="Copy from." alt="" coords="5,5,227,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,21,227,21,227,16,513,16"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5a819c1c22a5c560fbae7371259cd3f4" title="Copy to." alt="" coords="275,31,480,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="515,32,481,38,480,33,510,33"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="257,33,227,32,227,27,262,32"/>
+</map>

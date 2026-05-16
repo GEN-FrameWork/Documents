@@ -1,0 +1,5 @@
+<map id="DIOSPIGPIOMCP23S17::Read_Bit" name="DIOSPIGPIOMCP23S17::Read_Bit">
+<area shape="rect" id="Node000001" title="Read bit." alt="" coords="5,5,173,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga09ae605a68a291526290166a479a5d82" title="Read register." alt="" coords="221,5,388,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,24,207,26,202,27,173,29"/>
+</map>

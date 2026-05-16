@@ -1,0 +1,9 @@
+<map id="XSTRING::Add" name="XSTRING::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,31,118,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="182,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,34,169,29,164,31,119,39"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="166,56,335,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,49,153,56,148,56,118,54"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="383,56,532,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="335,67,370,69,365,69,336,72"/>
+</map>

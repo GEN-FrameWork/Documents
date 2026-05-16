@@ -1,0 +1,5 @@
+<map id="DIOTEMHUMSENSORAM2301" name="DIOTEMHUMSENSORAM2301">
+<area shape="rect" id="Node000001" title="Data Input/Output AOSONG AM2301 Sensor (Temperature and humidity module) class." alt="" coords="5,80,215,107"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="62,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,46,112,81,108,78,108,50"/>
+</map>

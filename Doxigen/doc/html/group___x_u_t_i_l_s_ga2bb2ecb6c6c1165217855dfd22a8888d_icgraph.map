@@ -1,0 +1,31 @@
+<map id="XSTRING::ConvertFromUTF8" name="XSTRING::ConvertFromUTF8">
+<area shape="rect" id="Node000001" title="Convert from UTF8." alt="" coords="766,232,965,259"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7066f76efd092aaa0d7e35bc9b49e301" title="application operation" alt="" coords="470,5,695,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="848,218,827,184,798,141,761,98,717,62,695,51,695,45,720,58,764,94,802,137,832,181,853,219"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6470995c6c6848e2df45e80516ed8f00" title="Convert from UTF8." alt="" coords="484,72,682,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="842,219,790,165,755,137,717,113,682,100,682,95,720,108,758,132,793,162,847,220"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga76f47bb0547a98cb42cf3f2f53dd6cca" title="Convert from X buffer." alt="" coords="478,123,687,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="830,223,779,193,717,164,680,153,680,147,719,159,782,188,835,223"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaacec4fc8e029cb0cfbc7fe5161ba444f" title="Get actual." alt="" coords="502,173,663,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="788,228,718,215,661,203,661,198,719,209,793,228"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga435aa957faaada5d3b9b06782571501d" title="get result" alt="" coords="454,224,711,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="748,246,712,248,711,243,753,245"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga55b06cd8ca8f74147621fe4cc91d59b6" title="Next search." alt="" coords="497,291,668,317"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="788,263,719,281,661,293,660,287,718,276,793,262"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga1b1c853b40b7101b505d761a83e9df54" title="Read." alt="" coords="447,341,718,384"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="834,266,781,302,719,332,686,343,685,338,717,327,779,297,829,268"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga856c137dd459f5070948ee55117dd856" title="Received msg." alt="" coords="460,408,706,435"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="849,270,796,337,760,371,720,398,692,410,691,405,717,394,757,367,793,334,844,273"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga4482c684b34168a6db003fbf62024662" title="Show debug." alt="" coords="464,459,701,485"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="855,271,835,314,806,362,767,409,720,449,696,461,695,455,717,444,763,406,801,359,830,311,850,274"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga5160d83010b792b05fc10742a379449f" title="Convert from UTF16." alt="" coords="194,97,399,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,126,400,122,399,117,465,124"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa55e25269b01092e6e834490475c4707" title="Convert from UTF32." alt="" coords="194,148,399,175"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="460,148,400,155,398,150,465,145"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gadc5a1b8bdcc627079ccd5c96272212f6" title="Delete." alt="" coords="5,291,146,317"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="481,306,146,307,146,301,483,302"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga08d630228343352029f53bbbe5d6683f" title="First search." alt="" coords="212,316,381,343"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="479,314,382,324,381,319,484,312"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="112,276,100,272,75,269,52,271,40,276,37,281,43,290,38,291,32,282,36,272,51,266,76,264,102,267,117,274"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="194,319,147,315,146,309,199,317"/>
+</map>

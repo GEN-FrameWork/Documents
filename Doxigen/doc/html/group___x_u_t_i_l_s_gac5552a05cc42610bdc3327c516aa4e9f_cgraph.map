@@ -1,0 +1,15 @@
+<map id="XBER::GetDump" name="XBER::GetDump">
+<area shape="rect" id="Node000001" title="Get dump." alt="" coords="5,81,128,108"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="37,81,33,73,36,63,48,57,67,55,87,57,99,66,93,66,85,62,66,60,49,62,40,67,38,72,43,81"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="176,56,291,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,83,163,80,158,81,129,88"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga382624063e23e538d2e313ad1a70fbe1" title="Constructor of class." alt="" coords="182,107,285,133"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="128,101,169,110,164,110,128,107"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="364,5,497,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,53,363,36,358,37,289,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="569,31,729,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="291,63,556,48,551,51,292,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,24,556,33,551,33,497,29"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="339,107,521,133"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="285,117,326,120,321,120,285,123"/>
+</map>

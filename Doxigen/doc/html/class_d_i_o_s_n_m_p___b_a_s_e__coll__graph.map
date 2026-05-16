@@ -1,0 +1,35 @@
+<map id="DIOSNMP_BASE" name="DIOSNMP_BASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,640,301,667"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_u_d_p_c_o_n_f_i_g.html" title="Data Input/Output Stream UDP Config class." alt="" coords="232,443,414,469"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,476,256,507,242,524,231,542,225,568,225,594,235,640,230,638,220,595,219,567,226,540,238,521,253,503,285,480"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_s_t_r_e_a_m_u_d_p.html" title="Data Input/Output Stream UDP class." alt="" coords="345,541,475,568"/>
+<area shape="poly" id="edge18_Node000012_Node000002" title=" " alt="" coords="346,479,401,541,396,541,344,484"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g.html" title="Data Input/Output Stream Config class." alt="" coords="414,344,568,371"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,381,400,421,353,444,351,440,398,416,464,378"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="481,203,573,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="522,242,497,345,492,342,518,246"/>
+<area shape="rect" id="Node000013" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="592,344,694,371"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="545,240,606,318,631,344,626,343,603,322,543,245"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g_s_t_r_i_n_g.html" title="Data Input/Output Stream Config String class." alt="" coords="26,344,231,371"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="167,375,251,416,300,441,295,443,249,421,168,381"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_u_r_l.html" title="Data Input/Output URL class." alt="" coords="92,203,165,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="129,242,131,344,126,343,128,247"/>
+<area shape="poly" id="edge19_Node000012_Node000006" title=" " alt="" coords="92,240,60,266,27,298,16,316,9,334,9,351,16,369,39,393,75,418,173,466,281,508,371,540,366,541,279,513,171,471,72,423,35,397,12,372,4,352,4,333,11,313,23,295,56,262,95,236"/>
+<area shape="rect" id="Node000007" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="210,104,292,131"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="247,144,241,225,242,273,250,319,263,356,281,390,316,442,311,442,276,393,258,358,245,321,237,273,236,225,245,149"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="222,143,147,204,142,200,224,138"/>
+<area shape="rect" id="Node000008" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="458,5,535,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="448,40,285,106,282,101,452,36"/>
+<area shape="poly" id="edge17_Node000013_Node000008" title=" " alt="" coords="530,38,580,73,636,121,688,182,709,216,726,252,736,288,734,304,725,322,712,336,695,346,693,341,709,332,721,318,729,302,730,288,721,254,705,219,684,185,632,125,577,77,531,43"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_i_p.html" title="Data Input/Output IP class." alt="" coords="333,344,391,371"/>
+<area shape="poly" id="edge8_Node000002_Node000010" title=" " alt="" coords="353,383,330,444,326,441,349,387"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_i_p_a_d_d_r_e_s_s.html" title=" " alt="" coords="333,203,457,229"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="436,236,449,252,458,271,461,287,459,304,449,322,426,337,393,350,390,345,424,332,445,318,453,302,456,287,453,272,445,255,435,242"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="393,242,379,321,370,345,365,342,374,319,390,246"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="377,576,261,642,259,637,372,576"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="620,380,426,543,423,539,614,381"/>
+<area shape="rect" id="Node000014" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="780,203,864,229"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="814,242,794,285,780,305,762,322,730,340,695,351,693,346,728,336,759,318,776,301,790,282,810,246"/>
+<area shape="rect" id="Node000015" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="598,203,670,229"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="621,241,619,254,613,287,619,319,633,344,628,343,614,321,607,287,614,253,618,245"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XCONSOLE::GetChar" name="XCONSOLE::GetChar">
+<area shape="rect" id="Node000001" title="Get char." alt="" coords="427,39,579,65"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gae8a3349786b0662e8b161a814858eb24" title="Call console get char." alt="" coords="224,13,379,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,41,379,39,379,34,414,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga602867224a265830e0189519bbcc8baa" title="Wait key." alt="" coords="225,64,378,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="414,63,378,70,378,65,409,64"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga52822bb5ec3f5e185e674eb6032c6318" title="Add library functions." alt="" coords="5,5,176,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,27,176,29,176,24,210,26"/>
+</map>

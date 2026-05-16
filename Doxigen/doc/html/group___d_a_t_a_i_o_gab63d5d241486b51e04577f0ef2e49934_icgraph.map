@@ -1,0 +1,9 @@
+<map id="DIOI2CPWMCONTROLERPCA9685::SendCommand" name="DIOI2CPWMCONTROLERPCA9685::SendCommand">
+<area shape="rect" id="Node000001" title="Send command." alt="" coords="293,72,532,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac9541f5fc552145800c6b05f251594a4" title="Reset." alt="" coords="5,5,245,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,69,220,51,220,46,305,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2e66bfe4d7bc51d1232333a02979741e" title="Set PWM." alt="" coords="5,72,245,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,94,246,96,245,91,280,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa1f2cbbe1cdd7bf4b9b0efdc7e0e9e0b" title="Set PWM frequency." alt="" coords="5,139,245,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,118,221,141,219,135,300,119"/>
+</map>

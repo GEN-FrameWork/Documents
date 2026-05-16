@@ -1,0 +1,17 @@
+<map id="INPCURSORMOTIONPOINT::GetX" name="INPCURSORMOTIONPOINT::GetX">
+<area shape="rect" id="Node000001" title="Get x." alt="" coords="542,123,739,165"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga7d9fb0d7e91877f3a97930b7b9c7595c" title="Add point to motion." alt="" coords="272,55,489,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,118,493,103,431,85,431,79,495,97,556,117"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae6e0804eaa5df54cb55eb31ad1663eb8" title="Add position." alt="" coords="9,5,215,48"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="603,112,554,76,524,59,493,45,423,28,350,19,279,16,216,18,215,13,279,11,350,13,424,22,495,40,527,54,557,72,608,112"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga5f8a0ef1fb6b048d48c0d4986eb4f08f" title="Update." alt="" coords="5,80,219,123"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="525,137,219,113,219,107,528,133"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#gabb9ed72510c7e73939b16d26c00155c2" title="Get module." alt="" coords="267,156,494,183"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="524,156,495,161,494,156,529,155"/>
+<area shape="rect" id="Node000006" href="$group___i_n_p_u_t.html#ga238c66fdeababf1a3e145fd1d060a445" title="Is in rect." alt="" coords="273,207,488,233"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="570,170,495,197,450,209,449,203,493,192,564,172"/>
+<area shape="rect" id="Node000007" href="$group___i_n_p_u_t.html#gab0f5bb56e4f7424f93c671265d4620fc" title="Is position in rect." alt="" coords="276,257,484,284"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="605,175,554,214,495,248,462,259,461,254,493,243,552,210,600,176"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,53,216,45,215,40,277,51"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,85,220,91,218,86,259,82"/>
+</map>

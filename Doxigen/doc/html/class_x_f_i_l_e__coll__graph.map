@@ -1,0 +1,12 @@
+<map id="XFILE" name="XFILE">
+<area shape="rect" id="Node000001" title="eXtended Utils File class" alt="" coords="41,355,100,381"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,49,52,94,52,270,58,317,68,355,63,354,52,318,46,271,46,93,57,44"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="88,81,165,108"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="84,41,119,80,113,82,85,46"/>
+<area shape="rect" id="Node000003" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="90,256,154,283"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,296,79,356,75,353,106,297"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="87,180,168,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,219,126,256,121,255,124,224"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="128,121,130,180,125,179,126,126"/>
+</map>

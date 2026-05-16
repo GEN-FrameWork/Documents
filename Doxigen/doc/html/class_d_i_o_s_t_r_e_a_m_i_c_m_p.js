@@ -1,0 +1,28 @@
+var class_d_i_o_s_t_r_e_a_m_i_c_m_p =
+[
+    [ "DIOSTREAMICMP", "group___d_a_t_a_i_o.html#gaa0c37c1f53d574c2f03eb729d445b4c7", null ],
+    [ "~DIOSTREAMICMP", "group___d_a_t_a_i_o.html#ga2f173365a65bbf78673f0c764de5c1ba", null ],
+    [ "AddDatagram", "group___d_a_t_a_i_o.html#ga5a45d52122f07fc4e97026df8cd4aa97", null ],
+    [ "AddDatagram", "group___d_a_t_a_i_o.html#ga8528d252f3f64bed483012aa64eb4e02", null ],
+    [ "Close", "class_d_i_o_s_t_r_e_a_m_i_c_m_p.html#a1ab09be0aa3dbbeb0adb662130c5bb3b", null ],
+    [ "DeleteAllDatagrams", "group___d_a_t_a_i_o.html#ga6eec33e0c90488c0e5409107b48c2187", null ],
+    [ "DeleteDatagram", "group___d_a_t_a_i_o.html#gacc718946f2c74664f78dc5e63083579e", null ],
+    [ "Disconnect", "class_d_i_o_s_t_r_e_a_m_i_c_m_p.html#a0ced5baa26d2b5f69d5f106702153e17", null ],
+    [ "GetConfig", "group___d_a_t_a_i_o.html#ga9e815b8de3c627925891032fea313e80", null ],
+    [ "GetDatagram", "group___d_a_t_a_i_o.html#gab34d0ed7e80ba9bbff8da51bef15a15a", null ],
+    [ "GetDatagramsVector", "group___d_a_t_a_i_o.html#gad93fff9ce1b3415a0a0d668d0c0b4b51", null ],
+    [ "GetFirstDatagram", "group___d_a_t_a_i_o.html#ga12c56e6650c5c633e03914b8a18887e1", null ],
+    [ "GetHost", "group___d_a_t_a_i_o.html#ga95876efe4fbcd3ebd53d3bb9584187a6", null ],
+    [ "Open", "class_d_i_o_s_t_r_e_a_m_i_c_m_p.html#a04ed899ed05ed7f827f271e23658ed88", null ],
+    [ "Read", "group___d_a_t_a_i_o.html#gae2dede26eb89388e6e87584cdf7b7fd9", null ],
+    [ "ReadDatagram", "group___d_a_t_a_i_o.html#gad79833b68ef4c3432ff7321c7c8761f8", null ],
+    [ "ResetInXBuffer", "group___d_a_t_a_i_o.html#gafc0b17a88814523896df3980fc4dc476", null ],
+    [ "ResetOutXBuffer", "group___d_a_t_a_i_o.html#ga99c79ff6d029f45517780ad66ec7007f", null ],
+    [ "ResetXBuffers", "group___d_a_t_a_i_o.html#gaa259baae058607f745a023a690673e95", null ],
+    [ "SetConfig", "group___d_a_t_a_i_o.html#ga3253727079004629f48769e1963495cd", null ],
+    [ "Write", "group___d_a_t_a_i_o.html#gacde69d5ccb42ce76429cb7c818edb414", null ],
+    [ "WriteDatagram", "group___d_a_t_a_i_o.html#ga156c081a32ad72a34968785279617cb6", null ],
+    [ "WriteDatagram", "group___d_a_t_a_i_o.html#ga195b2f6b4b7beeee2db4a3a85da71b00", null ],
+    [ "config", "class_d_i_o_s_t_r_e_a_m_i_c_m_p.html#ad97553727a32656da5427f92611eda5b", null ],
+    [ "host", "class_d_i_o_s_t_r_e_a_m_i_c_m_p.html#a835f5ba3925383159b46fea96124dbb7", null ]
+];

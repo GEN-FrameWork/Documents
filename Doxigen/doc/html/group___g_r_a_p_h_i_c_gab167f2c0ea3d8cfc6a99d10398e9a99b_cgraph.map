@@ -1,0 +1,7 @@
+<map id="GRPCANVAS::Buffer_Create" name="GRPCANVAS::Buffer_Create">
+<area shape="rect" id="Node000001" title="Buffer create." alt="" coords="5,13,199,40"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaae1f66fba0cef9994d40d32f1ea97ebf" title="Get bytesper pixel." alt="" coords="247,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,234,26,228,27,199,29"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga69b8e2d1cb844110594e9d08ce079ed0" title="Get bitsper pixel." alt="" coords="512,5,718,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,24,499,27,494,27,465,29"/>
+</map>

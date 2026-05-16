@@ -1,0 +1,8 @@
+<map id="DIOSTREAM::ReadStr" name="DIOSTREAM::ReadStr">
+<area shape="rect" id="Node000001" title="Read str." alt="" coords="226,31,383,57"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="339,15,328,12,304,9,282,11,270,16,267,21,273,31,268,29,262,22,266,12,281,6,304,4,330,7,345,16"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga60b7dbaaddd01fb79384c99ab06e9ae3" title="Read." alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,33,178,32,178,26,213,32"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab1a9214df476bf339fe53f89002c5040" title="Read str." alt="" coords="13,56,170,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="208,56,171,63,170,57,213,55"/>
+</map>

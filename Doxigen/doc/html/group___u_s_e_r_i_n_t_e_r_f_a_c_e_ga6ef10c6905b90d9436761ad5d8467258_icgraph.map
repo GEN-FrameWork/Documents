@@ -1,0 +1,15 @@
+<map id="UI_ELEMENT_TEXT::GetSizeFont" name="UI_ELEMENT_TEXT::GetSizeFont">
+<area shape="rect" id="Node000001" title="Get size font." alt="" coords="254,180,480,207"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaac296b3cf31321edef17171873ba4d97" title="Calculate boundary line edit text." alt="" coords="9,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,169,282,117,244,88,204,62,182,51,181,46,207,58,247,83,285,113,345,169"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0b6f53a23c02a7ae4fa210a5ac710a99" title="Calculate boundary line list box." alt="" coords="9,72,202,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="318,175,205,129,175,118,173,113,207,124,323,172"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga3167d1cea2fb0608bb84b93aba7ccb00" title="Calculate boundary line text." alt="" coords="9,139,202,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,178,203,175,201,170,244,176"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac78008dc843b1d53f8e6f1655f9a3187" title="Draw edit text." alt="" coords="21,205,190,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,210,191,218,189,213,245,208"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0c948f064ba7ecb76a2c5e0888b626f7" title="Draw list box." alt="" coords="21,272,190,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="318,214,207,262,175,274,173,269,205,258,323,212"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1426b017c576d9502bb933e9a5422104" title="Draw text." alt="" coords="5,339,206,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="346,217,286,275,248,304,207,329,178,341,177,336,204,324,245,300,283,271,341,219"/>
+</map>

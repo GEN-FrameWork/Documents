@@ -1,0 +1,35 @@
+<map id="XSTRING::ConvertToLongLong" name="XSTRING::ConvertToLongLong">
+<area shape="rect" id="Node000001" title="Convert to long long." alt="" coords="5,132,211,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac99848518f5b9cb06ba6c39121b2aa62" title="Are valid characters." alt="" coords="259,56,460,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,129,300,86,296,90,156,134"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="549,5,659,32"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="122,130,178,84,217,60,258,41,330,23,404,13,474,10,536,13,531,14,474,15,404,18,331,28,260,47,219,65,182,88,126,133"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="530,107,679,133"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="211,137,515,122,513,127,211,143"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="267,157,452,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="211,153,254,159,249,161,212,158"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga66e2dbd897e717ce38e395d6ad87b754" title="Get ptr char." alt="" coords="280,208,438,235"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="148,157,259,193,288,203,283,204,258,199,148,162"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="290,259,428,285"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="126,157,184,200,221,224,260,244,278,253,273,253,258,249,218,228,181,204,125,162"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,53,536,32,531,34,428,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="536,56,672,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,67,523,69,518,70,461,72"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,81,524,102,519,104,428,86"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="546,157,662,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="452,168,533,170,528,171,453,173"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gae206a2a617576a15816d25771d92b037" title="convert character unicode to ASCIi" alt="" coords="508,208,700,251"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="418,182,500,203,495,204,418,187"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="539,275,669,301"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="438,182,462,194,478,211,486,228,494,245,510,261,527,272,522,271,506,265,490,248,482,230,474,214,458,198,438,187"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="748,157,882,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="662,168,735,170,730,171,663,173"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="930,208,1089,235"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="662,179,749,193,917,214,912,214,748,199,662,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="869,182,944,204,938,204,869,187"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="750,267,880,293"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="669,283,737,283,731,283,670,288"/>
+<area shape="poly" id="edge13_Node000012_Node000009" title=" " alt="" coords="861,263,946,240,951,239,862,269"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="548,325,661,352"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="438,233,462,245,478,261,486,279,494,296,510,311,535,326,530,325,506,315,490,299,482,281,474,264,458,249,437,238"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DIOSTREAMICMPDATAGRAM::IsToSend" name="DIOSTREAMICMPDATAGRAM::IsToSend">
+<area shape="rect" id="Node000001" title="Is to send." alt="" coords="731,23,941,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga12c56e6650c5c633e03914b8a18887e1" title="Get first datagram." alt="" coords="436,31,683,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="713,44,684,47,684,41,718,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae2dede26eb89388e6e87584cdf7b7fd9" title="Read." alt="" coords="185,5,360,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,32,360,29,360,24,423,32"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad79833b68ef4c3432ff7321c7c8761f8" title="Read datagram." alt="" coords="157,56,388,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="423,56,389,62,388,56,418,56"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="5,56,109,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="139,70,109,72,109,67,144,69"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="DIOAPPLICATIONUPDATE::GetPreviousVersionToRestore" name="DIOAPPLICATIONUPDATE::GetPreviousVersionToRestore">
+<area shape="rect" id="Node000001" title="Get previous version to restore." alt="" coords="5,236,210,279"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="295,13,412,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,234,139,197,170,151,210,103,256,61,289,44,285,48,259,65,214,106,175,154,144,200,122,237"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gade5e8694d491fb90d1c53bd1c0211558" title="Compare." alt="" coords="260,169,448,212"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,233,260,215,256,218,190,238"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga04cf1e60ee90c4b247f9ce33f9435779" title="Get sub version." alt="" coords="538,139,756,181"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="130,234,185,191,220,170,257,155,324,140,393,134,460,134,524,140,519,142,460,139,393,139,325,145,258,160,222,175,188,195,134,237"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga114a9e136a0da97f7c2b937a9966b0cb" title="Get sub version error." alt="" coords="538,56,756,115"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="124,234,179,178,216,149,257,126,322,103,391,88,459,81,524,79,520,81,459,86,392,94,324,108,259,130,219,153,182,182,128,237"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gadc90cc7f89a8655dc54131c2deeba929" title="Get version." alt="" coords="549,205,744,248"/>
+<area shape="poly" id="edge20_Node000001_Node000007" title=" " alt="" coords="191,277,258,288,355,301,397,299,449,288,463,282,473,274,497,258,537,246,532,248,499,262,476,278,466,287,451,293,398,305,355,306,257,293,192,282"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga1b8db9edd39d638f5d1fbb392542b7ce" title="Copy from." alt="" coords="258,236,450,279"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="209,255,244,256,239,259,211,260"/>
+<area shape="rect" id="Node000012" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="589,421,704,448"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="126,276,181,336,218,366,259,390,298,405,340,417,424,432,505,437,576,439,571,440,505,442,424,437,338,422,297,410,257,394,215,370,178,339,125,282"/>
+<area shape="rect" id="Node000013" href="$class_x_v_e_c_t_o_r.html#af236d7ba949819590acc6d9efb7f733c" title=" " alt="" coords="284,353,424,380"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="147,276,259,332,295,348,290,348,257,337,146,282"/>
+<area shape="rect" id="Node000014" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="283,455,424,481"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="122,276,176,354,215,397,259,434,283,449,278,448,256,438,211,400,172,357,120,281"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="568,5,726,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,23,554,20,549,23,414,28"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,178,524,172,520,174,449,183"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="398,166,497,124,525,117,520,119,499,129,401,171"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="447,200,536,212,531,214,448,205"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="423,233,449,222,472,206,497,191,525,183,520,185,499,196,475,210,451,226,425,238"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="432,233,448,222,465,199,471,174,477,149,485,137,496,125,526,109,521,112,500,129,489,140,482,151,476,176,470,201,452,226,435,238"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="450,245,536,238,531,239,451,250"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga12964d98401a1dc55ef13a683242fdf6" title="Constructor of class." alt="" coords="498,339,795,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="395,276,445,301,499,324,519,333,514,333,497,329,442,306,395,282"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gaa690f82b2751cc04351657bc3908d517" title="System must be init." alt="" coords="527,272,766,315"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="450,267,514,276,509,277,451,272"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gad5a40f06d3432822dd342f1774f5e0b0" title="Clean the attributes of the class: Default initialize." alt="" coords="843,347,1031,389"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="795,365,830,368,825,368,796,371"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="397,378,499,407,576,424,571,424,497,412,396,383"/>
+</map>

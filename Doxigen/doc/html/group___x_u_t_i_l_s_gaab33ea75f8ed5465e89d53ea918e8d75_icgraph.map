@@ -1,0 +1,22 @@
+<map id="XFILEXDB::OpenFile" name="XFILEXDB::OpenFile">
+<area shape="rect" id="Node000001" title="Open file." alt="" coords="785,123,932,149"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad76553d392b2835b8157691aafa5fcdf" title="Convert file from DBF." alt="" coords="521,5,737,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="824,113,784,89,736,62,709,51,709,46,738,58,787,84,830,114"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf439f0990784d83719e04412a7d0ae33" title="Get position." alt="" coords="548,72,710,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="777,119,693,102,693,97,782,119"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad0683836da10af906b0b4a5070b0840b" title="Get record." alt="" coords="297,115,454,141"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="767,136,455,132,455,127,772,134"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga1022e7ce3c3bfc8633d6f4d9c840c209" title="Get record index." alt="" coords="534,173,724,200"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="782,153,693,175,692,170,777,154"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga41fa7802b2412ca47f624ceb78ed560b" title="Ini." alt="" coords="575,224,683,251"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="830,158,787,189,738,214,684,231,683,226,736,210,785,184,825,159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="530,102,455,117,454,112,535,101"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gadf0a41b9e412a88ddac763ec09108ef8" title="File get manufactured." alt="" coords="24,195,212,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,147,280,156,171,197,170,192,278,151,305,145"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga35f44254787119d95727d1d47e9a3628" title="Get sentence." alt="" coords="5,115,231,141"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="279,129,232,131,231,125,284,127"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga223de95fdc3050e7941b944f3c0a03e1" title="File get manufactured MA cs." alt="" coords="279,165,473,208"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="516,187,473,189,473,184,522,186"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="559,237,213,223,213,217,560,232"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="557,224,473,209,474,203,563,224"/>
+</map>

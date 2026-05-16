@@ -1,0 +1,11 @@
+<map id="GRPSCREEN::GetViewport" name="GRPSCREEN::GetViewport">
+<area shape="rect" id="Node000001" title="Get viewport." alt="" coords="5,72,193,99"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="251,47,394,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,72,238,69,233,70,194,77"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga87e7a15d81e478cb38b12d60b3470bde" title="Get ID." alt="" coords="241,97,404,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,93,228,100,222,100,193,99"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="452,5,598,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,46,439,41,434,42,394,51"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="452,72,598,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="394,69,439,79,434,79,394,74"/>
+</map>

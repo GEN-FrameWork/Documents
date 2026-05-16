@@ -1,0 +1,12 @@
+<map id="XWINDOWSDATETIME::XWINDOWSDATETIME" name="XWINDOWSDATETIME::XWINDOWSDATETIME">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="539,13,858,40"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab6a3c7f0e191c7b8c9abb8c4a895d084" title="Get actual date time." alt="" coords="259,5,491,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,36,491,38,491,33,526,35"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf767a119449b7706577496075b3cfd69" title="Set actual date time." alt="" coords="259,72,490,115"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="618,43,482,74,482,69,613,44"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="506,15,541,17,536,18,507,20"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga0474a1150318f6af025214281b29ec5c" title="Read." alt="" coords="5,13,211,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,27,212,29,211,24,246,26"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga72fbc061c88d1599b7acf5ce93c5feaf" title="Write." alt="" coords="6,80,210,107"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="241,93,211,96,211,91,246,93"/>
+</map>

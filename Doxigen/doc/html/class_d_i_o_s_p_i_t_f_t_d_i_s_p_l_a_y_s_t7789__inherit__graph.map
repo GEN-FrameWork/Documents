@@ -1,0 +1,11 @@
+<map id="DIOSPITFTDISPLAYST7789" name="DIOSPITFTDISPLAYST7789">
+<area shape="rect" id="Node000001" title="Data Input/Output SPI Display TFT ST7789 class." alt="" coords="103,155,295,181"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_i_s_p_l_a_y_d_e_v_i_c_e.html" title="Data Input/Output Display Device (generic display device class)." alt="" coords="43,80,195,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,115,188,154,183,154,143,120"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_d_i_s_p_l_a_y_d_e_v_i_c_e___c_o_n_f_i_g.html" title=" " alt="" coords="5,5,217,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,45,120,80,115,79,113,50"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_d_e_v_i_c_e_s_p_i.html" title="Data Input/Output device SPI class." alt="" coords="224,80,342,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,116,215,157,212,152,254,118"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="240,5,336,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="288,46,286,81,282,78,285,50"/>
+</map>

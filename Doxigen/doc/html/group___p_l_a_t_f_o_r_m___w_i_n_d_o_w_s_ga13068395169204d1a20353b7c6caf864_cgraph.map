@@ -1,0 +1,28 @@
+<map id="XWINDOWSFILE::Erase" name="XWINDOWSFILE::Erase">
+<area shape="rect" id="Node000001" title="Erase." alt="" coords="5,220,175,247"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac4e6f1e36fbd86451ef92cc7b0d97481" title="Exist." alt="" coords="226,93,391,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,217,271,125,270,131,116,222"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="472,296,582,323"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,244,394,281,459,296,454,296,394,287,175,249"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga8e86902115c96bb3404de5c2f8506984" title="Overwrite content." alt="" coords="224,195,392,221"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="174,221,211,218,206,221,176,226"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gae4d3272dfd7abca52a5154e8a4e14c9e" title="Slash normalize." alt="" coords="223,296,394,323"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="131,245,255,289,251,292,131,250"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga360fde933ecc4ac32c56f65131c60da5" title="Close." alt="" coords="442,43,611,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,90,453,72,449,75,370,95"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga86695b1ca17297c83c2fe0b11c392acb" title="Delete struct handle." alt="" coords="659,5,868,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="611,43,646,41,641,42,613,48"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7375532c9720320cac5d87353293d219" title="Flush." alt="" coords="680,72,847,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="612,64,667,73,662,74,612,69"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaf7d78f174cb8eeb52cafe94524d3885b" title="Close." alt="" coords="476,195,577,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="393,205,463,207,458,209,393,211"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga3d5b9c0020c23ffb0ded5aeb105a6fb1" title="Get size." alt="" coords="470,245,583,272"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="369,219,457,242,452,242,369,225"/>
+<area shape="rect" id="Node000010" href="$class_x_f_i_l_e.html#a43349ac3160e391c95164fe83825fdfc" title=" " alt="" coords="478,93,575,120"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="329,192,379,161,441,130,465,123,461,125,443,134,382,166,332,196"/>
+<area shape="rect" id="Node000011" href="$class_x_f_i_l_e.html#a11b53fb5e02808927df9d01236e84eb9" title=" " alt="" coords="478,144,575,171"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="368,191,466,171,461,173,370,197"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="394,307,459,309,453,310,394,312"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="458,347,596,373"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="369,321,454,343,448,343,369,326"/>
+</map>

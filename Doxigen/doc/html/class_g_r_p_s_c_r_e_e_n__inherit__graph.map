@@ -1,0 +1,15 @@
+<map id="GRPSCREEN" name="GRPSCREEN">
+<area shape="rect" id="Node000001" title="Graphics Screen Class." alt="" coords="338,80,445,107"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_a_n_d_r_o_i_d_s_c_r_e_e_n.html" title="ANDROID Graphics Screen class." alt="" coords="5,155,175,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,113,143,157,142,151,323,108"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_d_i_s_p_l_a_y_d_e_v_i_c_e.html" title="Graphics Display Device (screen class for display devices)." alt="" coords="199,155,357,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,115,299,156,297,152,356,116"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_l_i_n_u_x_s_c_r_e_e_n_f_r_a_m_e_b_u_f_f_e_r.html" title="LINUX Graphics Frame Buffer Screen class." alt="" coords="380,155,629,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="425,113,487,154,482,154,423,118"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_w_i_n_d_o_w_s_s_c_r_e_e_n.html" title="WINDOWS Graphics Screen class." alt="" coords="652,155,829,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="461,106,682,154,677,154,460,112"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="254,5,390,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,41,382,80,377,79,344,46"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="414,5,507,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="441,42,405,82,402,77,436,45"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="DIOSMTPATTACHMENT::GetXPath" name="DIOSMTPATTACHMENT::GetXPath">
+<area shape="rect" id="Node000001" title="Get X path." alt="" coords="462,48,640,91"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3cdb6421ac0d85ca5c256eca4f78fbde" title="Add attachment." alt="" coords="234,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,46,387,35,387,30,450,46"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga92a168b8f270b89c176a80990d0dccd1" title="Del attachment." alt="" coords="235,56,412,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,70,413,72,413,67,449,69"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga214f393ee836d672db12526ab54393b4" title="Send." alt="" coords="264,107,384,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="450,92,385,109,384,104,444,93"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae5c523ec03a4b970f20d1cd5f666b33b" title="Add attachment." alt="" coords="5,5,186,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,20,187,21,186,16,221,18"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga32becba6b1be7efd532de05b405d2c9b" title="Del attachment." alt="" coords="7,56,184,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,70,185,72,184,67,222,69"/>
+</map>

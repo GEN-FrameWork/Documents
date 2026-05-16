@@ -1,0 +1,11 @@
+<map id="UI_MANAGER::Element_Get" name="UI_MANAGER::Element_Get">
+<area shape="rect" id="Node000001" title="Element get." alt="" coords="5,56,200,83"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga427782ec7073c19526b70f1c49bc8202" title="Element get." alt="" coords="248,31,442,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,57,235,55,230,56,201,62"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="290,81,400,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,77,277,87,272,88,200,82"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7292e474dabbe7851bc3f8aba6cede7c" title="Elements get." alt="" coords="494,5,678,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,31,481,30,476,30,443,36"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga44ddfe5b7f9e92eb21c68b96817e4986" title="Layouts get." alt="" coords="490,56,682,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="443,52,477,58,472,58,443,57"/>
+</map>

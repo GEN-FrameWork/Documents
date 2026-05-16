@@ -1,0 +1,25 @@
+<map id="DIOSTREAMUSBLOCALENUMDEVICES::FindDevice" name="DIOSTREAMUSBLOCALENUMDEVICES::FindDevice">
+<area shape="rect" id="Node000001" title="Find device." alt="" coords="5,252,278,295"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga074c8fae7d27b492e28fff8b43edc794" title="Find device." alt="" coords="326,68,598,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,250,229,186,275,150,324,120,341,115,337,118,327,125,278,155,232,190,164,254"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="407,135,517,161"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,250,241,209,325,171,394,155,390,158,327,176,244,214,177,254"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga8f2564a2a3bf2799bfad845a50e583a2" title="Get class." alt="" coords="371,185,552,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="246,249,358,227,354,230,248,254"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gafe44ed04be298530c38c718312123fb5" title="Get location." alt="" coords="371,252,552,295"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="277,271,358,272,353,274,279,276"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gae3f38a0b9e2f6bda8670e381a0f65c3d" title="Get product ID." alt="" coords="371,319,552,361"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="247,293,359,317,354,319,247,298"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gabf78d38affc9e7e153752b21c0b97e03" title="Get vendor ID." alt="" coords="371,385,552,428"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="177,293,245,332,327,371,359,384,353,384,325,376,243,337,176,298"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="393,452,531,479"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="160,293,190,326,229,366,275,405,327,438,380,457,375,457,325,442,272,410,225,370,186,330,159,298"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="665,47,807,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,72,652,68,647,70,599,77"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga0144b8c77fee1d0e70d12c2db0919366" title="Get location." alt="" coords="646,97,826,140"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="598,101,633,107,628,108,599,107"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="874,5,1021,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="807,46,861,40,856,41,808,51"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="874,72,1021,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="807,69,862,79,856,80,808,74"/>
+</map>

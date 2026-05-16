@@ -1,0 +1,9 @@
+<map id="DIOWEBSERVER_CONNECTION::WebSocket_WritePingPong" name="DIOWEBSERVER_CONNECTION::WebSocket_WritePingPong">
+<area shape="rect" id="Node000001" title="Web socket write ping pong." alt="" coords="576,27,805,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa5e6234b7a5656c54835dc8a9a0da2df" title="Websocket ping." alt="" coords="291,5,528,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="558,34,529,34,529,28,563,34"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaf6558dbe0879fef3d0c7b7b595b5e4da" title="Web socket write ping pong." alt="" coords="295,56,524,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,61,525,68,524,63,558,62"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga3f0540a69fbbc24772c67e2849eeca8d" title="Websocket ping." alt="" coords="5,5,243,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,19,243,21,243,16,278,18"/>
+</map>

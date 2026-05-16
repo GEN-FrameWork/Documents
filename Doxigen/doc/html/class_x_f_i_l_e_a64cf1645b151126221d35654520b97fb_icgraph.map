@@ -1,0 +1,24 @@
+<map id="XFILE::Erase" name="XFILE::Erase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="783,208,884,235"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga587fd9ff4cd60273b6fdafe9d07386c3" title="Delete." alt="" coords="532,29,675,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,192,807,164,788,131,764,97,734,70,706,56,676,48,675,43,707,51,737,66,768,94,793,128,812,162,825,195"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga705b4313b6e5344e85a8f5e60a3b581a" title="Delete." alt="" coords="506,104,701,147"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="800,198,770,180,734,161,701,149,701,143,736,156,772,175,805,199"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga4546737ff221702e61816d9143028a26" title="Delete temporal un zip file." alt="" coords="499,171,708,213"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="765,213,709,208,709,203,771,213"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga35c851bd17e3c348ce230d423336514c" title="Erase." alt="" coords="554,237,654,264"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="765,230,655,247,654,242,771,229"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gadba6a6e59e887b1c44ee49cbbd18a30a" title="Is running." alt="" coords="501,288,706,315"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="802,243,770,263,736,278,697,290,696,285,734,274,768,258,797,244"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga0ae671e4e5b040ec0ab9adb62412a175" title="Destructor of class." alt="" coords="472,339,735,365"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="818,247,784,291,761,312,737,329,710,341,709,335,734,324,758,308,780,287,813,249"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="642,15,630,10,604,8,579,10,566,15,563,20,570,29,565,28,558,21,563,11,578,5,604,3,631,5,647,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="639,88,627,85,604,83,582,85,569,89,563,95,565,105,560,102,558,94,566,85,581,79,604,77,628,80,645,88"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gafb5829088910155d9830e551ed92c26c" title="Load." alt="" coords="254,179,400,205"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="481,193,401,195,400,189,486,191"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga595406b5460f52c94a719285c20428dc" title="Activate." alt="" coords="230,263,424,289"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="483,291,424,288,424,282,488,290"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gaf2600be795793bf175bc8e938450ca49" title="Exec." alt="" coords="5,288,182,315"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="485,304,182,304,182,299,486,299"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="211,289,183,294,182,289,217,288"/>
+</map>

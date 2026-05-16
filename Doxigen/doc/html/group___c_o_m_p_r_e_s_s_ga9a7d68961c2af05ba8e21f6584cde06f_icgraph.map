@@ -1,0 +1,19 @@
+<map id="COMPRESSBASE::SetType" name="COMPRESSBASE::SetType">
+<area shape="rect" id="Node000001" title="Set type." alt="" coords="604,165,794,192"/>
+<area shape="rect" id="Node000002" href="$group___c_o_m_p_r_e_s_s.html#ga90e89369d15d000b015a756dbe5576f2" title="Constructor of class." alt="" coords="8,140,242,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,152,658,125,629,92,595,62,555,38,484,15,426,9,366,17,294,39,246,60,203,88,141,142,137,138,200,84,244,55,292,34,365,12,426,3,486,10,557,34,598,57,633,88,662,121,684,153"/>
+<area shape="rect" id="Node000003" href="$group___c_o_m_p_r_e_s_s.html#ga7bab20ce5c41da57a8cabbf98184d8aa" title="Constructor of class." alt="" coords="298,48,551,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="660,157,612,132,555,105,523,94,523,89,557,100,614,127,666,157"/>
+<area shape="rect" id="Node000004" href="$group___c_o_m_p_r_e_s_s.html#ga90b9322d53d40f40379c21f27fea5269" title="Constructor of class." alt="" coords="298,115,550,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,162,501,145,500,139,610,161"/>
+<area shape="rect" id="Node000005" href="$group___c_o_m_p_r_e_s_s.html#ga4e2aac56cb16d466069ea1ab3d9caab0" title="Constructor of class." alt="" coords="5,191,245,217"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="616,196,556,207,394,214,245,212,245,207,394,209,556,201,622,195"/>
+<area shape="rect" id="Node000006" href="$group___c_o_m_p_r_e_s_s.html#ga47c3f91bdff959837bf821bc313cef0c" title="Constructor of class." alt="" coords="297,165,552,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="586,179,553,181,552,176,591,178"/>
+<area shape="rect" id="Node000007" href="$group___c_o_m_p_r_e_s_s.html#gad2ad332a2d61ecde92fc140b5cac6684" title="Constructor of class." alt="" coords="297,267,552,293"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="663,199,612,227,557,251,495,269,494,263,555,246,610,222,658,201"/>
+<area shape="rect" id="Node000008" href="$group___c_o_m_p_r_e_s_s.html#gab2ea1b125f31daa10cbacfd8a8abac4d" title="Destructor of class." alt="" coords="293,317,556,344"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="680,203,628,258,594,285,557,308,527,319,526,314,555,303,591,281,624,254,675,205"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="279,167,243,166,242,161,284,166"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="279,192,246,196,244,191,284,190"/>
+</map>

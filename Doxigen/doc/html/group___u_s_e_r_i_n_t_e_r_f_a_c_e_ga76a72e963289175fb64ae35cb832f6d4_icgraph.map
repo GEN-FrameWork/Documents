@@ -1,0 +1,8 @@
+<map id="UI_SKIN_TEXTBOX_PART::GetXPos" name="UI_SKIN_TEXTBOX_PART::GetXPos">
+<area shape="rect" id="Node000001" title="Get X pos." alt="" coords="455,5,639,48"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba15bc7bc62cf656a541a97bc9c4f2f9" title="Draw text box." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,23,407,25,222,25,175,26,174,21,222,20,407,20,442,23"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8321da5771467d2644f259389acdea03" title="Text box generate lines." alt="" coords="222,35,407,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="442,40,408,47,407,42,437,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="204,42,174,40,174,35,209,42"/>
+</map>

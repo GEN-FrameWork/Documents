@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_HEADER::GetBlockAmount" name="DIOCOREPROTOCOL_HEADER::GetBlockAmount">
+<area shape="rect" id="Node000001" title="Get block amount." alt="" coords="276,39,498,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga33fc85daa2e0a5b8b1e6def750a52f27" title="Compare." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,45,228,43,228,38,263,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4e22a65b190943a5f6bd814ada672c93" title="Copy from." alt="" coords="5,72,228,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,76,228,82,228,77,263,75"/>
+</map>

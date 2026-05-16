@@ -1,0 +1,17 @@
+<map id="SNDOPENALPLAYITEM::GetItem" name="SNDOPENALPLAYITEM::GetItem">
+<area shape="rect" id="Node000001" title="Get item." alt="" coords="779,93,957,136"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga731e0a79ad2522df3d0de8f0d1307046" title="Sound pause." alt="" coords="504,5,714,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="800,87,730,63,695,51,695,46,732,57,805,87"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gaa935c331677adaf0a9343058f137e670" title="Sound stop." alt="" coords="487,72,731,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="761,103,732,102,732,97,766,103"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#gab0c0f8c44563a50626dafde258ee373d" title="Sound stop all." alt="" coords="504,123,714,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="761,127,715,135,715,129,766,126"/>
+<area shape="rect" id="Node000008" href="$group___s_o_u_n_d.html#gaec9161c9a9d6d78b3002dc5ac35fe06a" title="Update." alt="" coords="502,189,717,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="815,143,732,180,690,191,689,186,730,175,809,144"/>
+<area shape="rect" id="Node000005" href="$group___s_o_u_n_d.html#gae4079d1345a11557f38d2c5533a29e18" title="Delete all items." alt="" coords="228,93,439,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="486,131,440,129,439,123,491,131"/>
+<area shape="rect" id="Node000006" href="$group___s_o_u_n_d.html#gacb05db0d5cde5b1c6a6816cc6fc47e92" title="End." alt="" coords="235,160,432,187"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="486,157,432,166,432,160,491,157"/>
+<area shape="rect" id="Node000007" href="$group___s_o_u_n_d.html#gad6360d8901d424b6cc88bba8ac47ea54" title="Destructor of class." alt="" coords="5,152,180,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="217,174,180,176,180,171,222,173"/>
+</map>

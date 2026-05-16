@@ -1,0 +1,15 @@
+<map id="XFILECOBOL::ReadRecord" name="XFILECOBOL::ReadRecord">
+<area shape="rect" id="Node000001" title="Read record." alt="" coords="5,123,191,149"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="271,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,120,168,82,237,42,259,35,254,38,240,46,171,86,118,124"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab620598096307be1739877f6045f4904" title="Get data." alt="" coords="239,56,417,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,120,229,101,225,105,154,125"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="258,123,398,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,133,245,135,240,137,192,139"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae8c639a4fad9694e775f0ebb33962e7a" title="Get type." alt="" coords="239,173,417,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="153,147,229,168,224,170,153,153"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga879929bb99b88141a4d7a69c6723c642" title="Is open." alt="" coords="251,240,405,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="117,147,171,186,240,226,257,235,252,234,237,230,168,190,116,152"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="465,123,624,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="398,133,452,136,447,136,398,139"/>
+</map>

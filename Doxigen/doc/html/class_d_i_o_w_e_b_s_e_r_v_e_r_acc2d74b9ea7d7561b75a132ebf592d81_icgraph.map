@@ -1,0 +1,24 @@
+<map id="DIOWEBSERVER::Websocket_GetNextConnection" name="DIOWEBSERVER::Websocket_GetNextConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="828,160,1033,203"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0fe13b4c4e063fde890d155b034e4713" title="Websocket get connection." alt="" coords="576,101,780,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="819,156,773,147,773,142,824,156"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaa5e6234b7a5656c54835dc8a9a0da2df" title="Websocket ping." alt="" coords="291,5,528,32"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="897,148,846,103,814,80,779,62,717,42,652,28,588,21,529,18,528,12,588,15,653,23,719,37,781,58,816,76,849,99,902,149"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gab77f5dbd4736440a3518b5291dcc76d4" title="Websocket write." alt="" coords="307,61,512,104"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="889,150,840,119,810,103,780,92,712,77,641,71,574,70,513,73,511,68,573,64,642,65,712,72,781,87,812,99,842,114,895,151"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga45957343b3ed28aab2bbad87a293642c" title="Websocket write." alt="" coords="307,139,512,181"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="810,178,512,167,512,162,815,175"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga0e8a96aae9c6e1510894ea1a34119e92" title="Websocket get connection." alt="" coords="576,219,780,261"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="824,206,774,221,773,215,819,207"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga55a35830b7c4648b30cbb169e2a33f51" title="Websocket get connection." alt="" coords="576,285,780,328"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="888,211,838,246,781,276,753,287,752,282,779,271,835,241,883,213"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gaf55473416bf97141b36299080f2aec5f" title="Websocket get connection." alt="" coords="576,352,780,395"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="908,214,854,280,820,314,782,342,760,354,758,349,779,338,816,309,851,277,903,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="622,94,527,52,474,35,473,30,529,47,627,93"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="558,106,512,100,511,95,563,105"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="558,140,512,148,511,143,563,138"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3f0540a69fbbc24772c67e2849eeca8d" title="Websocket ping." alt="" coords="5,5,243,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,20,244,21,242,16,277,17"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga7566f858c404019d45d1b53914b2b5f2" title="Websocket write." alt="" coords="22,139,226,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="290,161,228,163,226,157,294,159"/>
+</map>

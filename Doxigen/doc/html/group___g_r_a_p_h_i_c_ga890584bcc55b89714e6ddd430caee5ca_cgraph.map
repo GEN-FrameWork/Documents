@@ -1,0 +1,21 @@
+<map id="GRPBITMAPFILETGA::CreateFileFromBitmap" name="GRPBITMAPFILETGA::CreateFileFromBitmap">
+<area shape="rect" id="Node000001" title="Create file from bitmap." alt="" coords="5,272,208,315"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga65b0ccaf50dd769a2481d39483fee3c9" title="Close." alt="" coords="276,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,270,132,226,162,169,203,109,227,82,254,58,264,53,260,57,257,62,231,86,207,113,166,171,137,228,118,272"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gadbc41519652512b18c6c31dd0351e464" title="Create." alt="" coords="276,72,448,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,270,173,199,211,159,254,124,266,120,262,124,257,129,214,163,177,202,124,273"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga309b518053d503a3b30cf90054085b44" title="Get bits per pixel." alt="" coords="256,139,468,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,270,188,230,254,191,271,186,266,189,257,196,190,235,137,274"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga7c86e02cd301e99c2c33369f95d11051" title="Get header info." alt="" coords="256,205,468,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="190,269,265,251,261,254,192,274"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga49861521dbd2a66743e8d2388e53d362" title="Get height." alt="" coords="256,272,468,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="207,291,242,292,238,295,209,296"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga0829efc8aa7f6e50a5c6058617aa80d8" title="Get height." alt="" coords="260,339,464,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="202,313,288,333,283,336,203,318"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p_b_i_t_m_a_p.html#a63495c593c0238080f4ec81b859d4555" title=" " alt="" coords="283,389,441,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="140,312,194,345,257,375,279,384,274,385,255,380,192,349,140,318"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga3eb3337280dd53b6942aedc24b4869cf" title="Get width." alt="" coords="256,440,468,483"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="127,312,183,369,218,399,257,426,268,433,263,433,254,430,215,404,179,373,126,318"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga5cc313280bd36df2306a440639752388" title="Get width." alt="" coords="262,507,462,533"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="118,312,140,353,170,401,209,451,257,493,267,500,262,499,254,497,205,455,165,404,135,355,117,317"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XFILESENTENCES" name="XFILESENTENCES">
+<area shape="rect" id="Node000001" title="eXtended Utils Sentences HASH file class" alt="" coords="5,229,147,256"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_x_d_b.html" title="eXtended Utils Dialog Sentence file class" alt="" coords="33,155,119,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,195,79,230,73,228,74,199"/>
+<area shape="rect" id="Node000003" href="$class_x_f_i_l_e_h_a_s_h.html" title="eXtended Utils HASH file class (file with HASH included)" alt="" coords="28,80,124,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,120,79,155,73,154,75,125"/>
+<area shape="rect" id="Node000004" href="$class_x_f_i_l_e_c_o_n_t_a_i_n_e_r.html" title=" " alt="" coords="7,5,145,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,45,79,80,73,79,75,50"/>
+</map>

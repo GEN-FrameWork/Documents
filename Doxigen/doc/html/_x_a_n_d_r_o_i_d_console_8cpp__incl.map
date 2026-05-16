@@ -1,0 +1,29 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/Platforms/Android/XANDROIDConsole.cpp" name="E:/Projects/GEN_FrameWork/GEN/Platforms/Android/XANDROIDConsole.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,5,385,64"/>
+<area shape="rect" id="Node000002" href="$_g_e_n___defines_8h.html" title=" " alt="" coords="110,261,224,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,66,222,88,203,113,187,147,178,183,170,247,165,245,173,182,182,145,198,111,219,84,246,62"/>
+<area shape="rect" id="Node000008" href="$_x_a_n_d_r_o_i_d_console_8h.html" title=" " alt="" coords="212,112,364,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="289,62,291,97,286,95,287,67"/>
+<area shape="rect" id="Node000016" href="$_g_e_n___control_8h.html" title=" " alt="" coords="396,112,506,139"/>
+<area shape="poly" id="edge12_Node000001_Node000016" title=" " alt="" coords="341,62,417,104,412,105,341,67"/>
+<area shape="rect" id="Node000003" href="$_factory_base_8h.html" title=" " alt="" coords="176,336,283,363"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,286,204,325,198,325,170,291"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,336,153,363"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="150,290,108,328,104,324,154,287"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="223,336,195,302,197,297,229,336"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,411,173,437"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="217,362,171,403,168,398,212,364"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,411,262,437"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="232,361,232,396,227,394,228,365"/>
+<area shape="rect" id="Node000006" href="$_x_base_8h.html" title=" " alt="" coords="286,411,357,437"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="247,361,297,401,291,401,245,366"/>
+<area shape="rect" id="Node000009" href="$_x_l_i_n_u_x_console_8h.html" title=" " alt="" coords="224,187,353,213"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="289,137,291,172,286,170,287,142"/>
+<area shape="rect" id="Node000010" href="$_x_console_8h.html" title=" " alt="" coords="248,261,337,288"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="290,212,293,247,288,245,288,216"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="284,287,252,326,249,322,279,290"/>
+<area shape="rect" id="Node000017" href="$_x_feedback___control_8h.html" title=" " alt="" coords="377,187,525,213"/>
+<area shape="poly" id="edge13_Node000016_Node000017" title=" " alt="" coords="452,137,453,172,449,170,450,141"/>
+<area shape="rect" id="Node000015" href="$_x_memory___control_8h.html" title=" " alt="" coords="549,187,686,213"/>
+<area shape="poly" id="edge14_Node000016_Node000015" title=" " alt="" coords="480,137,577,180,572,181,480,142"/>
+</map>

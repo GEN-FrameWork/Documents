@@ -1,0 +1,26 @@
+var _d_i_o_stream_t_l_s_messages_extension_8h =
+[
+    [ "DIOSTREAMTLS_MSG_EXTENSION", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_LIST&lt; T, S &gt;", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___l_i_s_t" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_n_i___s_e_r_v_e_r_n_a_m_e.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_n_i___s_e_r_v_e_r_n_a_m_e" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_SNI", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_n_i.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_n_i" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_SUPPORTEDGROUPS", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_u_p_p_o_r_t_e_d_g_r_o_u_p_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_u_p_p_o_r_t_e_d_g_r_o_u_p_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_ECPOINTFORMATS", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___e_c_p_o_i_n_t_f_o_r_m_a_t_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___e_c_p_o_i_n_t_f_o_r_m_a_t_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_SIGNATUREALGORITHMS", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_i_g_n_a_t_u_r_e_a_l_g_o_r_i_t_h_m_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_i_g_n_a_t_u_r_e_a_l_g_o_r_i_t_h_m_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_ALPN", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___a_l_p_n.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___a_l_p_n" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_EMS", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___e_m_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___e_m_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_SUPPORTEDVERSIONS", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_u_p_p_o_r_t_e_d_v_e_r_s_i_o_n_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___s_u_p_p_o_r_t_e_d_v_e_r_s_i_o_n_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_PSKKEYEXCHANGEMODES", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___p_s_k_k_e_y_e_x_c_h_a_n_g_e_m_o_d_e_s.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___p_s_k_k_e_y_e_x_c_h_a_n_g_e_m_o_d_e_s" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_KEY", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___k_e_y.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___k_e_y" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_KEYSHARE", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___k_e_y_s_h_a_r_e.html", "class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___e_x_t_e_n_s_i_o_n___k_e_y_s_h_a_r_e" ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_ALPN", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a4397de3f614ac2a8c785943a03a5508b", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_ECPOINTFORMATS", "_d_i_o_stream_t_l_s_messages_extension_8h.html#aa9de9f81d254294a8108b8fce47fcb6b", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_EMS", "_d_i_o_stream_t_l_s_messages_extension_8h.html#ab3257f5cb002c3d19759e0dff02bc890", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_KEYSHARE", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a91e78a0b765ac98a780a52efc398f5c3", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_PSKKEYEXCHANGEMODES", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a6742ede7cfb2ef439809904eef31a0e7", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_SESSIONTICKET", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a1514510ecfbf5d026e9b617c3c5edb0c", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_SIGNATUREALGORITHMS", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a9169e84315927b1ac8102978778b0dd5", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_SNI", "_d_i_o_stream_t_l_s_messages_extension_8h.html#ae184ab117795da25f16c0638e062669a", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_SUPPORTEDGROUPS", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a9789e87398d98c806100789b4507b802", null ],
+    [ "DIOSTREAMTLS_MSG_EXTENSION_TYPE_SUPPORTEDVERSIONS", "_d_i_o_stream_t_l_s_messages_extension_8h.html#a9a296d5c37fb80d9d33da5017909d201", null ]
+];

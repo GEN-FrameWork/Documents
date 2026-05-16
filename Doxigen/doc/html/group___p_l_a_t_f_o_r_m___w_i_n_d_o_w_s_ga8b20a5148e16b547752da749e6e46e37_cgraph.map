@@ -1,0 +1,15 @@
+<map id="XWINDOWSFILEBORLAND::Write" name="XWINDOWSFILEBORLAND::Write">
+<area shape="rect" id="Node000001" title="Write." alt="" coords="5,64,198,107"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga14745a0bcc7ac08fd0c535f515f6cae1" title="Actualize size." alt="" coords="246,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,61,239,51,234,53,192,66"/>
+<area shape="rect" id="Node000004" href="$group___c_i_p_h_e_r.html#ga0fc06658fae446ff6610e286e158eb77" title="Cipher." alt="" coords="282,72,402,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,83,269,85,264,86,198,88"/>
+<area shape="rect" id="Node000007" href="$group___c_i_p_h_e_r.html#gad9a63cedccb6bb057c88b0ebbcd74f24" title="Get result." alt="" coords="272,123,412,149"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,103,263,119,258,119,198,108"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac286e2fc7c0e20d91066964b8c37b4ee" title="Flush." alt="" coords="503,5,695,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,24,490,26,485,27,439,29"/>
+<area shape="rect" id="Node000005" href="$group___c_i_p_h_e_r.html#ga491605bfd782fc1524b9f94d0d982dd2" title="Get." alt="" coords="486,72,712,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,83,473,85,468,86,402,88"/>
+<area shape="rect" id="Node000006" href="$group___c_i_p_h_e_r.html#ga617de7ca065e58b8b29d54c246ab7e05" title="Get key." alt="" coords="536,123,662,149"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="402,94,524,121,519,121,401,100"/>
+</map>

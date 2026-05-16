@@ -1,0 +1,28 @@
+<map id="XFILEJSONOBJECT::Clone" name="XFILEJSONOBJECT::Clone">
+<area shape="rect" id="Node000001" title="Clone." alt="" coords="5,208,194,235"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab26a62374a4c8b5993981ef5f8b22823" title="Add." alt="" coords="261,31,438,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,206,158,139,196,100,240,67,255,62,251,65,243,72,199,104,162,142,112,209"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9416e365fe376db98a570522adae083b" title="Clone." alt="" coords="260,81,440,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,206,167,162,203,138,241,118,261,112,256,115,243,122,205,143,170,166,118,209"/>
+<area shape="rect" id="Node000008" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="292,132,408,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="134,205,241,168,279,160,275,163,242,173,137,210"/>
+<area shape="rect" id="Node000009" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="279,183,420,209"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="193,209,266,203,261,206,195,214"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gadfe889c6d6ed8fc1fd1601fb8cf4d9eb" title="Get values." alt="" coords="243,233,457,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="193,228,229,233,225,235,195,233"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga37daaef83b2833f4840fd2799052921f" title="Set father." alt="" coords="244,284,456,311"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="136,232,242,269,272,279,267,280,241,275,136,238"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga71a9a82044faeaebd6f145ead01d7efa" title="Constructor of class." alt="" coords="506,309,786,336"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="114,233,168,279,204,303,243,320,322,338,403,344,482,343,554,338,548,339,482,348,403,350,321,343,241,325,201,307,165,283,114,238"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga52c36b40c0959cb85a15076c50a11934" title="Set is array." alt="" coords="242,385,458,412"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="111,233,164,296,201,333,243,364,272,380,266,380,240,369,197,337,160,300,110,238"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4cf31167b5703df2d111ed7d6d37ef2c" title="Get value." alt="" coords="547,5,745,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,78,457,67,481,54,505,42,535,35,530,37,507,46,483,59,459,72,423,83"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga9418536327f3d4e5c97bebf412de962f" title="Set name." alt="" coords="546,56,746,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="439,84,533,78,528,80,441,90"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga97d8062e976b4c61eb802309bda522c6" title="Set type." alt="" coords="550,107,743,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="440,100,537,110,532,111,441,105"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad0ee1ff07979f99794bd6cb9d7e66cd5" title="Constructor of class." alt="" coords="516,157,777,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="421,106,459,118,483,131,507,143,535,153,530,154,505,148,481,135,457,122,422,111"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="456,304,493,309,488,310,456,309"/>
+</map>

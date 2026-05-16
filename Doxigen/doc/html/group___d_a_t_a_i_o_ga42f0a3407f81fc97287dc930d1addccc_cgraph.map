@@ -1,0 +1,7 @@
+<map id="DIONODEITEMHANDLER_GPIODIGITAL::Open" name="DIONODEITEMHANDLER_GPIODIGITAL::Open">
+<area shape="rect" id="Node000001" title="Open." alt="" coords="5,39,187,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaff7af2a391de6e10ae0d0cc4ab7bb3d6" title="Get entry ID." alt="" coords="243,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,45,230,41,225,42,188,50"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga986f0b808df070f34960ba227356d1b1" title="Get write mode." alt="" coords="235,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,70,222,77,216,77,187,75"/>
+</map>

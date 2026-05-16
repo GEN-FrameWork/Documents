@@ -1,0 +1,22 @@
+<map id="DIOPING::SetInstance" name="DIOPING::SetInstance">
+<area shape="rect" id="Node000001" title="Set instance." alt="" coords="5,132,162,159"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga87867d2631585df573df31460db7fd67" title="Constructor of class." alt="" coords="210,132,353,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,143,196,144,191,146,163,148"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="450,31,566,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,129,343,98,400,67,438,57,433,59,402,72,346,102,301,134"/>
+<area shape="rect" id="Node000006" href="$group___c_i_p_h_e_r.html#ga170fa5c716219e92d4724553d6e8e0ce" title="Do." alt="" coords="444,81,572,108"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="344,129,433,111,428,113,345,134"/>
+<area shape="rect" id="Node000007" href="$group___c_i_p_h_e_r.html#gab33e363f6374a0e559e99f2f80e5abf6" title="Get result CRC32." alt="" coords="401,132,615,159"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="353,143,388,145,383,146,354,148"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="417,183,599,209"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="345,157,433,178,428,179,344,162"/>
+<area shape="rect" id="Node000009" href="$group___c_i_p_h_e_r.html#gab01cc6a04a2c4ee67dcca98c7b233913" title="Reset result." alt="" coords="416,233,600,260"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="301,157,346,188,402,219,422,229,417,228,400,224,343,193,299,162"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="667,5,800,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,35,654,27,649,29,567,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="852,31,1011,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="566,41,839,43,834,45,566,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="800,25,839,32,833,32,801,30"/>
+<area shape="rect" id="Node000010" href="$group___c_i_p_h_e_r.html#ga6844bc505aecfe2b878ef45f9d905e3e" title="Reset result." alt="" coords="663,233,804,260"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="601,244,650,247,645,247,601,249"/>
+</map>

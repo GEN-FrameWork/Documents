@@ -1,0 +1,12 @@
+<map id="XFILECOBOL::CapabilitiesFile_GetFile" name="XFILECOBOL::CapabilitiesFile_GetFile">
+<area shape="rect" id="Node000001" title="Capabilities file get file." alt="" coords="5,48,186,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="234,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,45,229,35,224,37,184,50"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="414,56,553,83"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="186,67,400,67,397,72,186,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="242,107,352,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,89,230,102,225,103,183,94"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="409,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,16,396,18,391,19,362,21"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="350,30,420,51,415,52,349,35"/>
+</map>

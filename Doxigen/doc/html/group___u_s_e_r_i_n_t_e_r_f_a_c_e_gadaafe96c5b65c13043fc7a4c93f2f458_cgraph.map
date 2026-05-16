@@ -1,0 +1,7 @@
+<map id="UI_ELEMENT::SetBoundaryLine" name="UI_ELEMENT::SetBoundaryLine">
+<area shape="rect" id="Node000001" title="Set boundary line." alt="" coords="5,13,217,40"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gacaf7a6e4d2fd032b3e0cce5bdff8b256" title="Copy from." alt="" coords="265,13,482,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,252,27,247,27,217,29"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga08e968649c9f35ce1c847de987267a63" title="Constructor of class." alt="" coords="530,5,700,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,24,517,27,512,27,482,29"/>
+</map>

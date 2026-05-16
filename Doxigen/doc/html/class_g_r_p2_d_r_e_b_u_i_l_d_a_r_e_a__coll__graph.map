@@ -1,0 +1,9 @@
+<map id="GRP2DREBUILDAREA" name="GRP2DREBUILDAREA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,279,169,305"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p.html" title="Graphics Bitmap class." alt="" coords="37,180,137,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,221,90,279,84,278,85,224"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="19,104,155,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,143,90,180,84,179,86,148"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_r_e_c_t_b_a_s_e.html" title=" " alt="" coords="6,5,168,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,45,90,104,84,103,86,50"/>
+</map>

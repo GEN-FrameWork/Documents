@@ -1,0 +1,14 @@
+<map id="DIOSTREAM" name="DIOSTREAM">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream class." alt="" coords="157,223,258,249"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,81,98,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,117,110,156,153,197,188,222,183,222,150,201,106,160,71,122"/>
+<area shape="rect" id="Node000003" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="121,81,206,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,121,159,160,162,179,168,197,177,210,189,223,184,222,173,214,163,200,157,181,154,160,157,125"/>
+<area shape="rect" id="Node000004" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="237,81,309,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,120,256,133,215,224,211,221,251,131,257,124"/>
+<area shape="rect" id="Node000005" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="268,5,387,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,43,284,83,280,79,307,46"/>
+<area shape="rect" id="Node000006" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="345,81,422,108"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="347,42,377,81,371,81,345,47"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="387,122,383,163,375,183,363,201,345,211,320,219,259,231,258,226,318,214,343,206,359,197,370,181,377,162,383,125"/>
+</map>

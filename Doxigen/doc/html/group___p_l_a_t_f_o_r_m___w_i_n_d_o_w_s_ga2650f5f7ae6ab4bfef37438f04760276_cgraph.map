@@ -1,0 +1,11 @@
+<map id="XWINDOWSFILE::Read" name="XWINDOWSFILE::Read">
+<area shape="rect" id="Node000001" title="Read." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="Node000002" href="$group___c_i_p_h_e_r.html#ga33b7770a971251b24deb1bb01e75eed8" title="Uncipher." alt="" coords="220,31,353,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,41,207,44,202,44,172,47"/>
+<area shape="rect" id="Node000003" href="$group___c_i_p_h_e_r.html#ga0fc06658fae446ff6610e286e158eb77" title="Cipher." alt="" coords="401,31,520,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,41,388,44,383,44,354,47"/>
+<area shape="rect" id="Node000004" href="$group___c_i_p_h_e_r.html#ga491605bfd782fc1524b9f94d0d982dd2" title="Get." alt="" coords="568,5,795,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="520,35,550,34,556,33,521,40"/>
+<area shape="rect" id="Node000005" href="$group___c_i_p_h_e_r.html#ga617de7ca065e58b8b29d54c246ab7e05" title="Get key." alt="" coords="619,56,744,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="521,48,606,60,601,60,520,53"/>
+</map>

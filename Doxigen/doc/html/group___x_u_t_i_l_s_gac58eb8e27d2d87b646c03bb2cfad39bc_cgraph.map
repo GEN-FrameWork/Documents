@@ -1,0 +1,32 @@
+<map id="XBER::Sequence_AddTo" name="XBER::Sequence_AddTo">
+<area shape="rect" id="Node000001" title="Sequence add to." alt="" coords="5,184,174,211"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3d8f4600bd95640f59b5bd86c120375a" title="Copy." alt="" coords="262,133,360,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,181,249,160,245,163,152,186"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga382624063e23e538d2e313ad1a70fbe1" title="Constructor of class." alt="" coords="466,208,569,235"/>
+<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="174,199,451,215,449,220,174,205"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaec7513d71a9b14de464fba00df081518" title="Sequence get size." alt="" coords="222,259,400,285"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="132,209,257,252,253,255,131,214"/>
+<area shape="poly" id="edge8_Node000002_Node000002" title=" " alt="" coords="275,132,269,125,274,115,288,109,311,107,335,109,350,118,345,118,334,114,311,112,289,114,277,119,275,124,281,133"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="460,56,575,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,130,447,92,467,88,462,90,449,97,349,135"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="459,107,576,133"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="359,138,446,129,441,130,361,143"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="661,157,792,184"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="360,147,648,165,643,167,360,152"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="350,158,401,176,467,202,462,202,399,181,350,163"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="660,5,793,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,53,656,35,651,37,577,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="866,107,1025,133"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="576,70,688,78,818,92,870,103,865,103,817,97,688,83,576,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="772,30,819,48,911,98,905,98,817,53,771,35"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="647,107,806,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="577,117,635,120,629,120,577,123"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="787,154,867,138,873,137,788,159"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="635,208,818,235"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="570,219,622,221,617,221,570,224"/>
+<area shape="poly" id="edge17_Node000011_Node000009" title=" " alt="" coords="368,255,448,238,453,237,369,261"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="276,257,269,250,274,240,288,234,311,232,335,235,350,244,345,243,334,240,311,237,289,239,277,244,275,249,280,259"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="448,259,587,285"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="400,269,435,272,430,272,401,275"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="588,277,640,278,698,274,759,264,817,244,850,224,880,198,924,147,929,145,884,201,853,228,819,249,760,269,699,280,640,283,588,282"/>
+</map>

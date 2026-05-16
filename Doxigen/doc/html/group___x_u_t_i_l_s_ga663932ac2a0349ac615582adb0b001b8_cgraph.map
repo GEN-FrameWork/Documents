@@ -1,0 +1,7 @@
+<map id="XBUFFER::Bit_GetData" name="XBUFFER::Bit_GetData">
+<area shape="rect" id="Node000001" title="Bit get data." alt="" coords="5,31,170,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="218,5,331,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,30,205,28,200,29,171,35"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4d1da17fcb47e6bff9f2dbc0e680d593" title="Swap double word (4 bytes) hi1 lo1 h2 lo2 &gt; lo2 hi2 lo1 hi1." alt="" coords="221,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,53,208,60,202,60,170,58"/>
+</map>

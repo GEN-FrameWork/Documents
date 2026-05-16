@@ -1,0 +1,22 @@
+<map id="XBUFFER::Insert" name="XBUFFER::Insert">
+<area shape="rect" id="Node000001" title="Insert." alt="" coords="5,144,131,171"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="199,43,314,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,142,125,111,177,79,194,74,190,77,180,84,128,115,88,146"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="191,93,322,120"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="119,141,191,123,187,126,122,146"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="200,144,313,171"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="131,155,186,156,182,159,132,160"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="382,169,521,196"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="118,169,179,180,276,186,369,187,364,188,276,191,178,185,119,174"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="179,245,334,272"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="89,169,131,196,180,224,207,239,202,239,177,229,128,200,88,174"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="385,5,518,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,43,372,33,367,35,315,47"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="569,81,729,108"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="314,59,556,84,552,87,315,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,30,601,75,596,76,488,35"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="386,107,517,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="321,108,374,114,369,115,322,114"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="517,109,556,106,551,107,518,114"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="483,166,601,115,606,114,485,171"/>
+</map>

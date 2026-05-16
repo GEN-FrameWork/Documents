@@ -1,0 +1,14 @@
+<map id="XDATETIME::IsTheSameDay" name="XDATETIME::IsTheSameDay">
+<area shape="rect" id="Node000001" title="Is the same day." alt="" coords="5,132,202,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaace026f66773f2bb3bec45c8c947f084" title="Is the same day." alt="" coords="250,107,446,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,133,237,131,231,132,203,138"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="494,157,675,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="202,148,479,163,478,168,202,153"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="510,5,660,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,104,425,73,493,42,511,38,516,36,495,46,428,78,373,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="504,56,666,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,103,501,87,507,86,414,109"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="508,107,661,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="446,117,496,120,490,120,447,123"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="414,131,507,153,501,153,414,137"/>
+</map>

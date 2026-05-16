@@ -1,0 +1,7 @@
+<map id="XSYSTEM::SetEnviromentVariable" name="XSYSTEM::SetEnviromentVariable">
+<area shape="rect" id="Node000001" title="Set enviroment variable." alt="" coords="5,31,231,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="336,5,446,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,31,323,25,318,26,231,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gafbd9f4761e9e0f61b497797b97df3dc6" title="Set enviroment variable." alt="" coords="279,56,504,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,52,266,57,260,58,231,57"/>
+</map>

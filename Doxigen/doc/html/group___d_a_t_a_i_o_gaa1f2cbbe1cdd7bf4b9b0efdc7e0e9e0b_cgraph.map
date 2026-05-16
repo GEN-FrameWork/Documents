@@ -1,0 +1,16 @@
+<map id="DIOI2CPWMCONTROLERPCA9685::SetPWMFrequency" name="DIOI2CPWMCONTROLERPCA9685::SetPWMFrequency">
+<area shape="rect" id="Node000001" title="Set PWM frequency." alt="" coords="5,56,245,99"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="327,5,498,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,53,331,35,326,37,233,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6371026b83634bbf0f6d461d6c8b9ceb" title="Read command." alt="" coords="293,56,532,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,75,280,77,274,78,245,80"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab63d5d241486b51e04577f0ef2e49934" title="Send command." alt="" coords="293,123,532,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,97,305,118,300,119,220,102"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="580,131,695,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="532,141,567,144,562,144,532,147"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="743,105,877,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="696,133,725,131,730,131,696,138"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="925,131,1084,157"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="696,141,912,144,906,144,696,147"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="877,125,912,132,906,131,877,130"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="XFILECSV::SetHeader" name="XFILECSV::SetHeader">
+<area shape="rect" id="Node000001" title="Set header." alt="" coords="5,97,161,124"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga97c3a92e7138c157520599a7b7c4d602" title="Copy." alt="" coords="209,97,400,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,108,195,110,190,112,161,113"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga40340b52d2156e5c9cc545ff7bceafb1" title="Delete all elements." alt="" coords="464,5,678,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,94,447,57,474,52,469,54,449,63,343,99"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1f4fefef3ef94717810249b472209754" title="Get element." alt="" coords="456,72,686,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="400,99,443,97,438,98,401,104"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga600a84a1da26fd4847a89aede9a92932" title="Get N elements." alt="" coords="448,123,694,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="401,117,435,123,430,123,401,122"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0f78b49c170a67c8b118b072124c1962" title="Constructor of class." alt="" coords="458,173,684,216"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="343,122,449,159,474,169,469,168,447,164,342,127"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="742,72,853,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="686,83,729,85,724,86,687,88"/>
+</map>

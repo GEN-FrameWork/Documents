@@ -1,0 +1,9 @@
+<map id="SNDPLAYCFG::CopyFrom" name="SNDPLAYCFG::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="746,5,927,32"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga19f26866561c6cfc85976025a6ae8a57" title="Set play CFG." alt="" coords="534,5,698,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,19,699,21,699,16,734,19"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gab8d059e6c66eeb331d46a171993c66b8" title="Sound play." alt="" coords="297,5,486,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,19,487,21,486,16,521,19"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#ga9e4c07b78b2c9c7861023a7cff5b4c4e" title="Sound play." alt="" coords="5,5,249,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,19,249,21,249,16,284,19"/>
+</map>

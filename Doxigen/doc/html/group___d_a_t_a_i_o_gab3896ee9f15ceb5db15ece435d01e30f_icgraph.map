@@ -1,0 +1,11 @@
+<map id="DIOATCMDS::MakeCommandWithSimpleAnswer" name="DIOATCMDS::MakeCommandWithSimpleAnswer">
+<area shape="rect" id="Node000001" title="Make command with simple answer." alt="" coords="284,73,512,116"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad4dfdfc71f978641d0889490d1e5672c" title="Get IMEI." alt="" coords="31,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,69,235,47,189,35,189,30,236,41,319,67"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0d8acd1bcbe4c6cedf17bfff1973f495" title="Get IMSI." alt="" coords="31,56,210,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,84,211,80,210,75,271,82"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga8d2104af8558022f1cb4ece4df4f50f6" title="Get manufactured." alt="" coords="5,107,236,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,107,237,112,236,107,271,106"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaa2737df6a52cd8a1dc6ea167934b22cd" title="Get model." alt="" coords="27,157,214,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="319,121,236,148,189,159,188,154,235,143,314,122"/>
+</map>

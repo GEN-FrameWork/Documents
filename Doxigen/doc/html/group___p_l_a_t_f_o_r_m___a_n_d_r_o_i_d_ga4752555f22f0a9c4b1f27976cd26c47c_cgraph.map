@@ -1,0 +1,17 @@
+<map id="GRPANDROIDSCREEN::Update" name="GRPANDROIDSCREEN::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="5,97,225,124"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga7494305abd8481700b6e66a194ea1c19" title="Buffer get." alt="" coords="299,5,474,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,94,202,68,272,41,302,35,297,37,274,47,204,73,146,99"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gab887fce477778abe690c6fdc74fc6d8c" title="Copy buffer render to screen." alt="" coords="277,56,497,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,95,264,92,259,94,226,100"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gaae1f66fba0cef9994d40d32f1ea97ebf" title="Get bytesper pixel." alt="" coords="278,123,496,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,121,265,128,260,129,225,127"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gaf0c140b4c72a493645dad4f292a51977" title="Is equal size to." alt="" coords="273,189,501,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,122,204,148,274,175,302,185,297,185,272,180,202,153,144,127"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga69b8e2d1cb844110594e9d08ce079ed0" title="Get bitsper pixel." alt="" coords="576,123,782,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="496,141,562,144,557,144,496,147"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gad0b363a7111b72fe11542e51f2a2bf44" title="Constructor of class." alt="" coords="549,189,808,216"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="502,200,536,203,531,203,502,205"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga308a9ec00ce148b1bad9fd5e339a3f32" title="Default." alt="" coords="856,189,1043,216"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="809,200,843,203,838,203,809,205"/>
+</map>

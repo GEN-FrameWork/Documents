@@ -1,0 +1,7 @@
+<map id="DIOSTREAMUARTCONFIG::GetBaudRate" name="DIOSTREAMUARTCONFIG::GetBaudRate">
+<area shape="rect" id="Node000001" title="Get baud rate." alt="" coords="480,5,669,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf33a81aa06ed745e4d26cc5d08b1d1b4" title="Get to string." alt="" coords="243,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,27,433,29,433,24,467,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac85523947657a5b082e4562370007c07" title="Get to string." alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,27,195,29,195,24,230,26"/>
+</map>

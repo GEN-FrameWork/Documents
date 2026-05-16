@@ -1,0 +1,12 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::CopyFrom" name="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::CopyFrom">
+<area shape="rect" id="Node000001" title="copy from" alt="" coords="596,39,843,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad4620e49b32e9c51d3089543efa90f1f" title="copy from" alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,54,253,36,253,31,582,50"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2008c932276172556386aaf0353630e8" title="list add" alt="" coords="301,68,548,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="578,74,549,80,548,74,583,73"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="303,65,233,51,233,46,308,63"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa45fdcbb6d096e2cd0c147f8eb02076c" title="copy to" alt="" coords="5,72,253,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="282,92,254,94,253,89,287,91"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9bfa12a6cfb7c20366c125adde0f5e8c" title="get from buffer" alt="" coords="5,139,253,181"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="320,114,222,141,221,135,315,115"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="XFILESENTENCES::XFILESENTENCES" name="XFILESENTENCES::XFILESENTENCES">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,132,275,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga61576601f938b804b0108f6095278e02" title="Set." alt="" coords="558,107,682,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,136,544,122,540,126,275,141"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga1cf989cdbf22318a8daec52694401dfe" title="Constructor of class." alt="" coords="323,157,482,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="275,156,310,161,305,162,275,161"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacc30b633f21110f6761edbd0a057fc30" title="Set ID." alt="" coords="819,5,957,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="640,104,691,72,756,42,806,30,801,32,758,46,693,77,642,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gabebb301c80d9b8b6e36820e1331079f4" title="Set ID string." alt="" coords="802,56,974,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="681,106,801,85,796,87,683,111"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab5237d491cca84a6da175f8e30dff91b" title="Set type." alt="" coords="812,107,964,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="682,117,799,120,793,120,682,123"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gab0cdd8fbd29e3ae6d5f4f9d08d20a668" title="Set version." alt="" coords="804,157,972,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="682,129,801,154,796,154,682,134"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="462,154,547,137,542,138,464,159"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaad8488d0e59839dc936af3f5d374c754" title="Constructor of class." alt="" coords="530,208,709,235"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="463,182,547,204,542,204,463,187"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga8969fc85c324376119a164693ecf446c" title="Create primary file." alt="" coords="763,208,1013,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="710,219,750,221,745,221,710,224"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga8a5c206cbd56fd59051bc95a50fe988a" title="Constructor of class." alt="" coords="757,259,1019,285"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="695,233,802,255,796,255,694,238"/>
+</map>

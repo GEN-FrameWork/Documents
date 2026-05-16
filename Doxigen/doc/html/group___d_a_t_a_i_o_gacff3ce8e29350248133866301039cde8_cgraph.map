@@ -1,0 +1,9 @@
+<map id="DIODNSRESOLVER::DNSServer_IsIPonList" name="DIODNSRESOLVER::DNSServer_IsIPonList">
+<area shape="rect" id="Node000001" title="DNS server is I pon list." alt="" coords="5,27,227,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga40f4823a5c9df6bac7cc72981f5a7e03" title="Compare." alt="" coords="301,5,486,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,34,288,29,283,31,228,39"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab3edfb323fb13694c316d27fd29444ec" title="Get IP." alt="" coords="275,56,512,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,57,262,63,257,63,227,62"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaa7fc98655c9aab8feb85758307d928f5" title="Get." alt="" coords="560,5,712,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,16,547,18,542,19,486,21"/>
+</map>

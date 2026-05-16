@@ -1,0 +1,9 @@
+<map id="UI_COLORS::Get" name="UI_COLORS::Get">
+<area shape="rect" id="Node000001" title="Get." alt="" coords="5,47,133,73"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="181,47,323,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,57,167,59,162,61,133,63"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="371,5,517,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,45,358,42,353,43,324,50"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="371,72,517,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="323,70,358,78,353,78,323,75"/>
+</map>

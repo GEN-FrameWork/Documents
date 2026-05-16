@@ -1,0 +1,29 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Drivers/I2C/DIOI2CLightSensorTSL2561.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Drivers/I2C/DIOI2CLightSensorTSL2561.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,5,362,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="59,336,119,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,66,159,100,103,144,51,199,29,230,11,262,9,280,17,297,32,313,51,327,47,329,28,317,13,300,4,281,6,261,24,227,47,196,99,140,156,96,210,62"/>
+<area shape="rect" id="Node000003" href="$_x_base_8h.html" title=" " alt="" coords="393,336,465,363"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,62,353,84,382,110,410,147,427,180,439,215,449,261,449,293,442,324,438,320,444,292,444,262,434,216,423,182,406,150,378,114,350,88,320,67"/>
+<area shape="rect" id="Node000004" href="$_x_string_8h.html" title=" " alt="" coords="175,187,251,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,62,241,113,223,173,218,171,236,111,251,67"/>
+<area shape="rect" id="Node000010" href="$_d_i_o_device_i2_c_8h.html" title=" " alt="" coords="250,112,368,139"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="277,62,298,98,292,98,276,67"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="205,215,111,326,107,322,200,213"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="232,211,304,259,401,327,396,327,301,264,231,217"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="365,261,434,288"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="246,211,355,254,350,256,245,217"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="143,336,208,363"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="212,213,185,322,180,320,207,215"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="21,261,88,288"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="184,216,97,257,95,252,187,212"/>
+<area shape="rect" id="Node000008" href="$_x_vector_8h.html" title=" " alt="" coords="212,261,291,288"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="221,211,240,248,235,247,219,216"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="226,288,132,332,130,327,221,289"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="283,286,387,329,381,330,282,291"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="241,288,201,328,198,323,236,290"/>
+<area shape="rect" id="Node000009" href="$_x_memory___control_8h.html" title=" " alt="" coords="232,336,370,363"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="261,286,286,324,281,322,259,291"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="290,141,243,179,240,175,294,138"/>
+<area shape="rect" id="Node000011" href="$_d_i_o_device_8h.html" title=" " alt="" coords="275,187,372,213"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="313,137,321,172,316,171,310,142"/>
+</map>

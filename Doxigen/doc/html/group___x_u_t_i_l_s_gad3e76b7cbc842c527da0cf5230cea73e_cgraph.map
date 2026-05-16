@@ -1,0 +1,40 @@
+<map id="XFILEXML::DecodeElement" name="XFILEXML::DecodeElement">
+<area shape="rect" id="Node000001" title="Decode element." alt="" coords="5,217,192,244"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga0982b942787cf4a1e1411c8dc26784c9" title="Add atribute." alt="" coords="240,40,463,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,215,156,148,194,109,238,76,253,71,249,74,241,81,198,113,160,151,111,218"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="291,91,412,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,215,168,175,239,133,279,120,274,123,241,138,171,179,118,219"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gacae4462012fcb5ee07db15505877d40a" title="Delete character." alt="" coords="511,167,695,193"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="127,214,179,194,239,177,305,169,372,165,498,169,493,171,372,171,306,174,240,182,181,199,131,219"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga37a6f22f73b76ead56af6ae87b6f507f" title="Delete no characters." alt="" coords="247,192,456,219"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="191,219,234,216,229,218,193,224"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="775,255,903,281"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="192,233,760,261,759,266,192,238"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="296,293,406,320"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="143,242,240,272,289,288,284,289,239,277,143,247"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gaed2b9ff77db260f74fd92dc6a3f709c1" title="Set name." alt="" coords="246,344,456,371"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="115,242,169,286,204,309,241,329,260,339,255,339,239,334,201,314,166,290,114,247"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga1eb65741e525e9a0a410be64a0ac0662" title="Set type." alt="" coords="250,395,453,421"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="109,242,160,310,198,348,241,380,254,389,249,388,238,385,194,352,156,313,107,247"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="546,116,660,143"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,107,533,121,528,123,412,113"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="764,21,914,48"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="410,94,437,87,462,76,476,64,484,51,493,38,510,27,542,16,576,8,645,3,711,6,770,17,765,18,710,12,645,8,577,13,544,21,512,32,497,42,489,54,480,68,464,81,439,92,413,99"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="535,41,671,68"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="411,90,522,70,517,72,413,95"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="563,115,556,107,561,97,577,91,603,89,632,92,648,101,643,101,630,97,603,95,578,97,565,101,562,107,568,116"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="638,113,792,53,787,55,640,118"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga7ee44788f0c4c71e32d634a155cf6b78" title="Delete characters." alt="" coords="743,153,935,180"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="695,172,731,172,725,173,696,177"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="998,204,1136,231"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="696,185,744,189,986,210,980,211,743,195,696,191"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="983,153,1152,180"/>
+<area shape="poly" id="edge14_Node000007_Node000010" title=" " alt="" coords="654,163,743,139,839,131,935,139,995,150,990,150,934,144,839,137,744,144,655,168"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="903,178,992,200,986,200,903,183"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="934,164,970,166,964,167,935,169"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1200,204,1349,231"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1125,178,1205,200,1200,200,1125,183"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="455,192,498,190,493,191,456,197"/>
+<area shape="poly" id="edge19_Node000013_Node000009" title=" " alt="" coords="902,251,986,235,992,234,903,256"/>
+<area shape="poly" id="edge18_Node000013_Node000011" title=" " alt="" coords="903,262,1019,255,1152,240,1197,235,1202,234,1152,245,1019,260,904,268"/>
+</map>

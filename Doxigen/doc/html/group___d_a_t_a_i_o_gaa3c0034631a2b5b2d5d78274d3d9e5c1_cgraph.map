@@ -1,0 +1,15 @@
+<map id="DIOWEBSERVER_CONNECTION::Deactivate" name="DIOWEBSERVER_CONNECTION::Deactivate">
+<area shape="rect" id="Node000001" title="Deactivate." alt="" coords="5,56,235,99"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_t_c_p_i_p.html#ad419c2350c71fd333608d06b24bb0f55" title="Disconnect." alt="" coords="290,5,505,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,53,318,35,313,37,225,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4b087fd3732500c2aa91e1ef3136c491" title="Get DIO stream." alt="" coords="283,56,512,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,75,270,77,265,78,236,80"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1181440828a330086a88a4fc45c2f9cf" title="wait to flush out Xbuffer" alt="" coords="296,123,498,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,97,293,118,288,119,212,102"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaa36df85b2f112bb5462dbcf177199467" title="Is flush out X buffer." alt="" coords="560,80,776,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,122,575,111,581,110,499,128"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga512968bb89fa682039517d33ba85e422" title="Reset out X buffer." alt="" coords="564,131,772,157"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="499,141,551,144,546,144,499,147"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="600,181,736,208"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="499,160,588,179,583,179,499,166"/>
+</map>

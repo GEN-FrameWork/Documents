@@ -1,0 +1,11 @@
+<map id="DIOWEBCLIENT::Post" name="DIOWEBCLIENT::Post">
+<area shape="rect" id="Node000001" title="Post." alt="" coords="5,56,164,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="234,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,53,221,35,217,38,143,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="221,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,67,208,69,203,70,164,72"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga55fe9764c2132abdf51091d90d90d0bc" title="Post." alt="" coords="212,107,370,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="142,81,221,102,216,103,142,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="418,56,577,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="361,67,405,69,400,70,361,72"/>
+</map>

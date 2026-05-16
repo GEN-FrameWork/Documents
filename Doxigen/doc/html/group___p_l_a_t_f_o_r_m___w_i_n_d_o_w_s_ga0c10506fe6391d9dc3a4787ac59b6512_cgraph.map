@@ -1,0 +1,19 @@
+<map id="DIOWINDOWSSTREAMI2C::DIOWINDOWSSTREAMI2C" name="DIOWINDOWSSTREAMI2C::DIOWINDOWSSTREAMI2C">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,99,205,141"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad16e9b3883c432b0dfa08589cd597e24" title="Constructor of class." alt="" coords="253,107,484,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,117,240,120,235,120,206,123"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae678dcfeb2f9d70b6f7c9d4a367c861e" title="Add state." alt="" coords="550,56,722,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,103,544,87,550,86,443,109"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga891b7016f98e2982f2a5797eddf7422f" title="Constructor of class." alt="" coords="541,107,730,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="484,117,528,120,523,120,485,123"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gabdea3dd151898971bb9485705d225298" title="Constructor of class." alt="" coords="532,157,739,184"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="443,131,550,154,544,154,442,137"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9445c1c1a8d0e33f7a8421d5a61344ef" title="Get ID." alt="" coords="796,5,991,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,53,804,36,810,35,708,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga1f143ce7a2981c7756db2ff798b34ca5" title="Get state." alt="" coords="808,56,979,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="722,67,795,69,790,70,722,72"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="802,107,985,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="731,117,789,120,784,120,731,123"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gabcbc6f518f88c8968722d3b4ed2b16bc" title="Set current state." alt="" coords="787,157,1000,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="740,168,774,171,769,171,740,173"/>
+</map>

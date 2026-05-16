@@ -1,0 +1,8 @@
+<map id="DIOI2C3DCOMPASSLSM303DLHC::Read" name="DIOI2C3DCOMPASSLSM303DLHC::Read">
+<area shape="rect" id="Node000001" title="Read." alt="" coords="5,5,240,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="575,13,745,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,24,560,24,559,29,240,29"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga03a58536cf6451e6d8d986d149a5de35" title="Read register." alt="" coords="288,39,527,65"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,34,275,40,269,40,240,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="527,37,557,37,562,37,528,43"/>
+</map>

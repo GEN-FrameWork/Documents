@@ -1,0 +1,10 @@
+<map id="XBUFFERBITS::WriteUE" name="XBUFFERBITS::WriteUE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,177,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga953be4b787cc815eb3068820b12080da" title="Write u." alt="" coords="225,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,31,212,30,206,30,177,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0e11b8763a66f0463a345882c4c447dd" title="Write U1." alt="" coords="435,31,604,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="177,41,420,41,419,47,177,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,26,422,32,417,32,388,31"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4a871a7fd2855666a415a9fc217de578" title="Is EOF." alt="" coords="652,31,813,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="605,41,640,44,634,44,605,47"/>
+</map>

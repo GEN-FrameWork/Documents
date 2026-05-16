@@ -1,0 +1,11 @@
+<map id="DIOSTREAMTCPIPSERVER::GetMultiSocketStreams" name="DIOSTREAMTCPIPSERVER::GetMultiSocketStreams">
+<area shape="rect" id="Node000001" title="Get multi socket streams." alt="" coords="632,39,828,81"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga4a440e68a7725b2e6ec764d9e86c697c" title="Disconnect." alt="" coords="333,5,570,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,46,570,43,570,38,619,46"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf85bbbcc1211957e791454d3628afb9f" title="Disconnect." alt="" coords="319,72,584,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,73,585,80,584,75,614,74"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga93b3794f3d9381a461af61dc89c5d8b9" title="Close." alt="" coords="20,5,256,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,27,257,29,256,24,320,26"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaec5427b3d63cd80f3cb098dfb3a76d11" title="Close." alt="" coords="5,72,271,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,93,271,96,271,91,306,93"/>
+</map>

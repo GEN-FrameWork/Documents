@@ -1,0 +1,17 @@
+<map id="XSTM32DIR::GetActual" name="XSTM32DIR::GetActual">
+<area shape="rect" id="Node000001" title="Get actual." alt="" coords="5,81,168,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="394,107,521,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,98,380,112,378,117,168,103"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="216,56,325,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,81,203,78,198,80,168,86"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="590,95,740,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="521,114,572,113,578,113,522,119"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="596,19,734,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,103,541,92,625,54,630,52,543,97,511,109"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="390,5,525,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="322,53,389,37,394,36,323,58"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="373,56,542,83"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="325,67,360,69,354,70,326,72"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="525,20,583,26,578,27,526,26"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="533,81,578,91,572,91,533,86"/>
+</map>

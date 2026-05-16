@@ -1,0 +1,17 @@
+<map id="XBUFFER::GetWithMaskArg" name="XBUFFER::GetWithMaskArg">
+<area shape="rect" id="Node000001" title="Get with mask arg." alt="" coords="5,81,198,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="266,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,78,245,41,268,36,263,38,247,47,143,83"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="267,56,380,83"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="198,81,254,77,249,78,199,86"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="449,107,588,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="198,98,435,113,432,117,198,103"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="246,157,401,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="144,106,270,150,265,153,143,111"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="452,5,585,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,16,439,18,434,19,382,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="636,56,796,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="381,29,449,41,624,62,619,63,449,47,381,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="574,30,649,51,644,52,574,35"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="573,103,644,88,649,87,574,109"/>
+</map>

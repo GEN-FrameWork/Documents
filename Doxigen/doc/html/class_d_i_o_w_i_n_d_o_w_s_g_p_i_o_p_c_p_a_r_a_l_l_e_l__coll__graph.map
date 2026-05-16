@@ -1,0 +1,5 @@
+<map id="DIOWINDOWSGPIOPCPARALLEL" name="DIOWINDOWSGPIOPCPARALLEL">
+<area shape="rect" id="Node000001" title="WINDOWS Data Input/Output GPIO (General Purpose Input/Output) PC Parallel." alt="" coords="5,80,238,107"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_g_p_i_o.html" title="Data Input/Output GPIO (General Purpose Input/Output)." alt="" coords="82,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,46,124,81,119,78,120,50"/>
+</map>

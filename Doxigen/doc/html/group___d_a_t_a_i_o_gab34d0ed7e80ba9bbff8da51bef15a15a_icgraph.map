@@ -1,0 +1,17 @@
+<map id="DIOSTREAMICMP::GetDatagram" name="DIOSTREAMICMP::GetDatagram">
+<area shape="rect" id="Node000001" title="Get datagram." alt="" coords="733,69,955,96"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gacc718946f2c74664f78dc5e63083579e" title="Delete datagram." alt="" coords="447,69,685,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,83,686,85,686,80,720,82"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae2dede26eb89388e6e87584cdf7b7fd9" title="Read." alt="" coords="191,5,365,32"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="745,66,685,60,515,41,365,28,365,23,515,36,686,55,750,66"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad79833b68ef4c3432ff7321c7c8761f8" title="Read datagram." alt="" coords="162,157,394,184"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="744,99,686,111,371,159,370,154,685,105,739,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,66,398,47,346,35,346,30,400,41,494,65"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="515,101,448,129,400,148,355,159,354,154,398,143,446,124,510,103"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gafc0b17a88814523896df3980fc4dc476" title="Reset in X buffer." alt="" coords="162,56,394,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="429,77,395,77,394,72,434,76"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga99c79ff6d029f45517780ad66ec7007f" title="Reset out X buffer." alt="" coords="157,107,399,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="440,99,387,109,386,103,446,98"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="5,157,109,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,171,109,173,109,168,149,170"/>
+</map>

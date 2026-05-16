@@ -1,0 +1,17 @@
+<map id="UI_ELEMENT_IMAGE::UI_ELEMENT_IMAGE" name="UI_ELEMENT_IMAGE::UI_ELEMENT_IMAGE">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,48,183,91"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1082ec776d7d2312eaf45b77d9a6f39c" title="Get type string." alt="" coords="231,5,426,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,48,251,35,246,37,184,53"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="274,56,383,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,67,261,69,256,70,183,72"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga67b400c42d86043b10046bbbb7de3d82" title="Set type." alt="" coords="248,107,408,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,86,251,102,246,103,183,91"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="492,31,626,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,61,479,53,473,53,384,66"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="474,81,643,108"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="384,73,461,84,456,84,384,78"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="697,31,835,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="626,41,684,44,679,44,627,47"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="691,81,841,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="644,92,678,95,673,95,644,97"/>
+</map>

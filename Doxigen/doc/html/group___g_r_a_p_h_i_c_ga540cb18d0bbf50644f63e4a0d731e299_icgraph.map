@@ -1,0 +1,9 @@
+<map id="GRPBITMAPFRAME::GetBitmap" name="GRPBITMAPFRAME::GetBitmap">
+<area shape="rect" id="Node000001" title="Get bitmap." alt="" coords="269,56,486,83"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga69a789902caa15f988420990aa4f2ff3" title="Copy." alt="" coords="5,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,54,186,35,186,30,291,51"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga2aeb65d79cecf3f84d1038024613587b" title="Flip." alt="" coords="10,56,216,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,70,216,72,216,67,256,69"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga76ff3f7ee4ba6beae9b5a2be4380ea6b" title="Put bitmap frame." alt="" coords="7,107,219,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,86,187,109,186,103,286,87"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIOSTREAMICMP::DeleteAllDatagrams" name="DIOSTREAMICMP::DeleteAllDatagrams">
+<area shape="rect" id="Node000001" title="Delete all datagrams." alt="" coords="319,48,515,91"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="86,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,50,190,31,190,25,306,48"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaa259baae058607f745a023a690673e95" title="Reset X buffers." alt="" coords="24,56,252,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,70,253,72,253,67,306,69"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga2f173365a65bbf78673f0c764de5c1ba" title="Destructor of class." alt="" coords="5,107,271,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,90,216,109,215,103,301,90"/>
+</map>

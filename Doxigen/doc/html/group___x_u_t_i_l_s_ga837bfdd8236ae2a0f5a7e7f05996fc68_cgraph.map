@@ -1,0 +1,10 @@
+<map id="XBUFFER::Extract" name="XBUFFER::Extract">
+<area shape="rect" id="Node000001" title="Extract." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaa18ae97bc16eca76dad45de57c4dd08c" title="Extract." alt="" coords="188,31,322,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,41,175,44,170,44,140,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="370,5,503,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,32,352,30,357,30,323,37"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="551,31,711,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="322,41,539,44,533,44,323,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="504,25,538,32,533,31,504,30"/>
+</map>

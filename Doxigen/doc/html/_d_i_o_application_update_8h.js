@@ -1,0 +1,48 @@
+var _d_i_o_application_update_8h =
+[
+    [ "DIOAPPLICATIONUPDATE_VERSIONDATA", "class_d_i_o_a_p_p_l_i_c_a_t_i_o_n_u_p_d_a_t_e___v_e_r_s_i_o_n_d_a_t_a.html", "class_d_i_o_a_p_p_l_i_c_a_t_i_o_n_u_p_d_a_t_e___v_e_r_s_i_o_n_d_a_t_a" ],
+    [ "DIOAPPLICATIONUPDATE_FILE", "class_d_i_o_a_p_p_l_i_c_a_t_i_o_n_u_p_d_a_t_e___f_i_l_e.html", "class_d_i_o_a_p_p_l_i_c_a_t_i_o_n_u_p_d_a_t_e___f_i_l_e" ],
+    [ "DIOAPPLICATIONUPDATE_BACKUPPREFIX", "_d_i_o_application_update_8h.html#aa0d04f42486a6b39d995c4fc7a83597c", null ],
+    [ "DIOAPPLICATIONUPDATE_DIRSECTION", "_d_i_o_application_update_8h.html#aab3095270c168adadfcf67e5d2da17ca", null ],
+    [ "DIOAPPLICATIONUPDATE_FILESSECTION", "_d_i_o_application_update_8h.html#a7a5048fb56273d2b8302f0af3166d5a0", null ],
+    [ "DIOAPPLICATIONUPDATE_FILESSECTION_FILES", "_d_i_o_application_update_8h.html#ac91a08702e4d57191052fbe3ed518ab4", null ],
+    [ "DIOAPPLICATIONUPDATE_GENERALSECTION", "_d_i_o_application_update_8h.html#a84f8911c35be687c8a69382c7db5c069", null ],
+    [ "DIOAPPLICATIONUPDATE_GENERALSECTION_ERRORCONTROL", "_d_i_o_application_update_8h.html#a66bbf8a5b410749941d157f52d0e70db", null ],
+    [ "DIOAPPLICATIONUPDATE_GENERALSECTION_SUBVERSION", "_d_i_o_application_update_8h.html#a5e30265c4def4f0b65349c471d168069", null ],
+    [ "DIOAPPLICATIONUPDATE_GENERALSECTION_SYSTEMMUSTBEINIT", "_d_i_o_application_update_8h.html#af44c02f05701f1e0ed2f87deac37b72a", null ],
+    [ "DIOAPPLICATIONUPDATE_GENERALSECTION_VERSION", "_d_i_o_application_update_8h.html#a40126c5891ef9385f6a6669990f3627a", null ],
+    [ "DIOAPPLICATIONUPDATE_INIFILE", "_d_i_o_application_update_8h.html#ab610ea0372c8fc0e86c0bba80d4d59c5", null ],
+    [ "DIOAPPLICATIONUPDATE_LOG_SECTIONID_APPFLOWUPDATE", "_d_i_o_application_update_8h.html#a2ccdb4a94b40e8ec975bdd391c7378de", null ],
+    [ "DIOAPPLICATIONUPDATE_MAXINDEXFILES", "_d_i_o_application_update_8h.html#a09480948c337d97446583a8621dc5840", null ],
+    [ "DIOAPPLICATIONUPDATE_PORTDEFAULT", "_d_i_o_application_update_8h.html#ad0f656dd02b9c7209c3627c33de31fd7", null ],
+    [ "DIOAPPLICATIONUPDATE_RESTOREDIR_ID", "_d_i_o_application_update_8h.html#a329da0f18b45370cc1a4df5cf82e7907", null ],
+    [ "DIOAPPLICATIONUPDATE_RESTOREDIR_MASK", "_d_i_o_application_update_8h.html#a05ec79d791972bd9c1f62a4c65835ffa", null ],
+    [ "DIOAPPLICATIONUPDATE_TIMEOUT", "_d_i_o_application_update_8h.html#af4c8524bc251a954639949918335eb22", null ],
+    [ "DIOAPPLICATIONUPDATE_ERROR", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78", [
+      [ "DIOAPPLICATIONUPDATE_NOT_ERROR", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a58572898aba7eb119dcd4b84a7cb06b4", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_NOTVERSIONTOUPDATE", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a4f8b8b573e8dd368f744042e22227843", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_NOTFILES", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a21f328bdf86b24169b34c2b14c64aef9", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_INVALIDOPERATION", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78aac71f77a658c1091f1cabe4f86dd32a7", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_BREAKFORUSER", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a89b5ce7f2746f3a1b5cdd199bbd705b6", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_MAKEDIR", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a52f19ea55b37aad238530e1839b15ff9", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_DOWNLOADFILE", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78ad56fcda4586e0a0fcbc8fc1d2d2589a1", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_RENAMEORIGINALFILE", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a8a197cedb0f166362f41453ec008b703", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_COPYORIGINALFILE", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78a47f68257dcb12b7a9b5b2925115e4b24", null ],
+      [ "DIOAPPLICATIONUPDATE_ERROR_SPECIALORIGINALFILE", "_d_i_o_application_update_8h.html#a600c169c8082d7bcf56a833b79141d78aad8422c0835ba04159076c43d4d69d29", null ]
+    ] ],
+    [ "DIOAPPLICATIONUPDATEFUNC_STATUS", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13", [
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_UNKNOW", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13ade60b948cf5827c258a649d8c87c1f59", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_MAKEDIR", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a9dec37cd1eb4f4540f507d15ff70f365", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEUNKNOW", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13af600e9d135c208dd6dd00b9dcb36ff72", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEREQUEST", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a3085b09f021c95acdd3ab2439ec3d3c8", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEOPEN", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a5e9918c9b28017cfae86b44783c92084", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILECONNECT", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a592f96a5c9aa3c9f2c17093f31229f87", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEGETINFO", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a4eb884efcd582dab9c519cb7279675fb", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEGETFILE", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13aaa7532aae45f7be66d3c84df735e2412", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEWAIT", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13ae274cdfe8968c8b5093f5df896d91f73", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEEND", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13aff15f0b1e3a0f4e0d495fbd63ef15884", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_GETFILEERROR", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13adf7703df17d35dfcd9572026f2360de1", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_CHANGEFILEUPLOAD", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13ab6d1bfc8aada0a7d68d23557502c088b", null ],
+      [ "DIOAPPLICATIONUPDATEFUNC_STATUS_ERASEFILEUPLOAD", "_d_i_o_application_update_8h.html#a4b739f77784fc073957a1c72d4122d13a79d2382e9373dde119af71dba2cabd7b", null ]
+    ] ]
+];

@@ -1,0 +1,70 @@
+<map id="DIOATCMDS::DeleteAnswer" name="DIOATCMDS::DeleteAnswer">
+<area shape="rect" id="Node000001" title="Delete answer." alt="" coords="990,579,1181,605"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad14c1a8c72c453035e3197643b0d7a32" title="Get baud rate." alt="" coords="198,93,386,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1079,562,1068,488,1044,384,1026,328,1003,271,974,217,940,168,887,111,834,68,781,37,726,18,667,9,603,10,533,18,456,33,416,45,377,62,317,95,313,91,375,57,414,40,454,28,533,13,603,4,668,4,727,13,783,32,837,64,890,107,944,165,979,215,1008,269,1031,326,1050,383,1073,487,1084,564"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gac341736d1a725a317ed570b4a77a147b" title="Get signal quality." alt="" coords="462,43,690,69"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1075,562,1057,506,1029,428,990,344,966,303,940,266,883,200,832,156,774,121,695,84,665,73,664,67,697,79,776,116,835,152,887,197,944,262,971,301,995,342,1034,426,1062,504,1079,564"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga169aacf871d70fc44e6fbefe6e6baf24" title="Get SMS center." alt="" coords="466,93,685,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1065,565,1013,486,929,375,878,314,821,255,760,199,695,150,666,135,637,123,636,118,668,130,698,146,763,195,825,251,882,311,933,371,1017,483,1070,566"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga2471702ab9ca1ef9b33dc0951ba53014" title="Get SMS format." alt="" coords="465,819,686,845"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1054,613,990,658,904,710,803,763,697,809,660,821,658,816,695,804,801,758,901,705,987,653,1049,616"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gad41379252d506353c469eb962ac8684c" title="Send SMS." alt="" coords="197,819,386,845"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="1080,619,1066,676,1040,745,1022,781,1000,815,974,846,943,873,880,913,822,939,767,953,712,957,655,953,595,943,454,911,390,885,319,849,319,843,392,880,456,905,596,937,656,948,712,952,766,948,820,934,878,908,940,869,970,843,995,812,1017,778,1035,743,1061,675,1077,623"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac34e4698d528c5806f0b21eed7cca93d" title="Get SMS support." alt="" coords="463,869,688,896"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1074,618,1054,659,1025,705,988,752,943,792,883,826,817,850,751,867,689,877,688,872,750,862,815,845,880,821,940,787,984,748,1021,702,1049,656,1070,621"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gab3896ee9f15ceb5db15ece435d01e30f" title="Make command with simple answer." alt="" coords="462,971,690,1013"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1084,619,1076,691,1053,782,1035,830,1011,876,981,919,943,954,915,972,884,987,819,1005,753,1012,690,1011,690,1005,752,1006,818,1000,883,982,912,968,940,950,977,915,1006,874,1030,828,1048,780,1070,690,1081,623"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga2d95511e562e325b9d74effe5347eb45" title="Wait to process answer." alt="" coords="744,491,942,533"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1025,574,910,537,910,531,1030,573"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad19eb07d5abffb8726f0c81f7d01a42d" title="Ini." alt="" coords="5,296,129,323"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,129,178,134,157,152,139,173,109,219,87,263,75,296,70,295,83,261,104,216,135,169,154,148,175,130,186,125"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,833,388,835,386,829,452,831"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gad4dfdfc71f978641d0889490d1e5672c" title="Get IMEI." alt="" coords="202,953,382,980"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="444,981,382,977,382,972,449,980"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga0d8acd1bcbe4c6cedf17bfff1973f495" title="Get IMSI." alt="" coords="202,1004,382,1031"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="444,1004,382,1012,382,1007,449,1003"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga8d2104af8558022f1cb4ece4df4f50f6" title="Get manufactured." alt="" coords="177,1055,407,1081"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="494,1018,408,1045,360,1057,359,1051,406,1040,489,1019"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#gaa2737df6a52cd8a1dc6ea167934b22cd" title="Get model." alt="" coords="199,903,385,929"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="489,966,406,944,360,933,360,927,408,939,494,965"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="829,476,763,253,724,142,708,103,694,83,680,73,679,67,698,79,712,101,729,140,768,251,834,477"/>
+<area shape="poly" id="edge18_Node000014_Node000005" title=" " alt="" coords="821,476,783,397,742,300,731,252,728,212,720,177,710,159,695,141,669,123,668,118,698,137,715,156,725,175,733,212,736,251,747,298,788,395,826,477"/>
+<area shape="poly" id="edge19_Node000014_Node000006" title=" " alt="" coords="828,546,760,700,724,771,698,809,678,821,676,816,694,805,719,768,755,698,824,550"/>
+<area shape="poly" id="edge32_Node000014_Node000007" title=" " alt="" coords="827,545,806,586,777,630,741,672,698,708,665,725,635,736,580,742,524,744,492,749,456,759,381,789,320,820,317,816,378,785,454,753,491,744,523,739,580,737,634,731,663,721,695,703,737,668,773,627,802,584,823,549"/>
+<area shape="poly" id="edge20_Node000014_Node000008" title=" " alt="" coords="839,547,827,617,802,701,783,744,760,787,732,826,698,859,679,871,677,867,695,855,728,822,756,784,779,742,797,699,822,615,836,551"/>
+<area shape="poly" id="edge23_Node000014_Node000009" title=" " alt="" coords="837,547,823,621,796,715,755,816,729,864,698,910,662,946,621,973,619,968,658,942,694,906,725,862,751,813,791,713,818,620,834,551"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga93b9b8caa165ff2dab6fe43bdf40119f" title="Get character." alt="" coords="198,397,386,424"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="771,486,696,464,615,448,532,435,387,419,385,414,533,430,616,442,697,459,776,484"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#gada90c346facb66f154fcc21970eb4188" title="Get version." alt="" coords="478,499,673,525"/>
+<area shape="poly" id="edge21_Node000014_Node000016" title=" " alt="" coords="727,513,674,515,672,509,732,511"/>
+<area shape="rect" id="Node000017" href="$group___d_a_t_a_i_o.html#ga49a0317e84a80ae154595aa557dcef0a" title="Is available service GSM." alt="" coords="478,549,673,592"/>
+<area shape="poly" id="edge22_Node000014_Node000017" title=" " alt="" coords="727,538,674,552,672,547,731,536"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga0e6e1c7fb697545e637a2e0820250411" title="Make simple command." alt="" coords="455,245,696,272"/>
+<area shape="poly" id="edge24_Node000014_Node000018" title=" " alt="" coords="825,476,806,434,777,384,740,335,695,293,661,275,660,270,698,288,744,331,781,382,810,432,831,477"/>
+<area shape="rect" id="Node000022" href="$group___d_a_t_a_i_o.html#gaf45bbe6a1c140d35bf226a346519ad5f" title="PIN activate." alt="" coords="472,616,680,643"/>
+<area shape="poly" id="edge28_Node000014_Node000022" title=" " alt="" coords="800,544,754,577,697,606,662,618,660,613,695,602,751,573,804,541"/>
+<area shape="rect" id="Node000023" href="$group___d_a_t_a_i_o.html#ga404c5f7c59ce68bb4d692b9e4b41f22c" title="PIN enter." alt="" coords="196,557,388,584"/>
+<area shape="poly" id="edge29_Node000014_Node000023" title=" " alt="" coords="730,488,668,481,599,476,526,478,456,489,414,503,375,522,314,559,311,555,372,517,412,498,454,484,526,473,599,471,669,476,735,487"/>
+<area shape="rect" id="Node000024" href="$group___d_a_t_a_i_o.html#gad0a91466eac1e65ce2d1e9ade6821895" title="PIN is." alt="" coords="490,667,661,693"/>
+<area shape="poly" id="edge30_Node000014_Node000024" title=" " alt="" coords="819,544,767,604,734,633,698,657,663,671,661,666,695,652,731,629,764,601,815,547"/>
+<area shape="rect" id="Node000025" href="$group___d_a_t_a_i_o.html#ga4fc60399cf09955ed76726c6d3abee9e" title="Set baud rate." alt="" coords="198,144,386,171"/>
+<area shape="poly" id="edge33_Node000014_Node000025" title=" " alt="" coords="822,477,742,300,731,264,726,234,718,209,695,185,673,174,642,166,562,156,471,153,387,154,385,150,471,148,562,150,643,160,674,169,698,181,722,206,732,233,736,263,747,298,828,477"/>
+<area shape="rect" id="Node000026" href="$group___d_a_t_a_i_o.html#gaaeb947d7cb10eb5d90af36460f9974d6" title="Set echo mode." alt="" coords="196,296,388,323"/>
+<area shape="poly" id="edge35_Node000014_Node000026" title=" " alt="" coords="813,479,762,428,730,402,695,381,618,351,537,331,458,319,389,313,387,308,458,314,538,326,620,346,698,376,733,398,766,424,818,479"/>
+<area shape="rect" id="Node000027" href="$group___d_a_t_a_i_o.html#gabec686999822d58c570d9a0078738f89" title="Set SMS center." alt="" coords="466,768,685,795"/>
+<area shape="poly" id="edge37_Node000014_Node000027" title=" " alt="" coords="831,546,813,595,784,650,746,705,723,730,698,752,662,770,660,765,695,747,719,726,742,702,779,647,808,593,828,550"/>
+<area shape="rect" id="Node000028" href="$group___d_a_t_a_i_o.html#gaea8daf13f0eaa482237fef187aabe082" title="Set SMS format." alt="" coords="466,195,686,221"/>
+<area shape="poly" id="edge38_Node000014_Node000028" title=" " alt="" coords="823,476,754,335,719,270,695,235,677,224,676,219,698,231,723,267,759,333,828,477"/>
+<area shape="rect" id="Node000029" href="$group___d_a_t_a_i_o.html#gae56cf2f2e43c68aa008647cbe5a7e68a" title="Set verbose mode." alt="" coords="188,347,396,373"/>
+<area shape="poly" id="edge39_Node000014_Node000029" title=" " alt="" coords="798,482,751,453,695,427,619,403,540,387,397,368,396,363,541,381,621,398,697,422,754,448,804,481"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="193,394,176,388,123,357,85,326,83,321,126,352,178,383,198,391"/>
+<area shape="poly" id="edge26_Node000018_Node000002" title=" " alt="" coords="459,238,453,235,441,223,434,210,428,183,423,158,416,146,405,134,387,122,386,117,409,130,421,142,428,156,434,182,439,208,445,220,457,231,464,237"/>
+<area shape="rect" id="Node000019" href="$group___d_a_t_a_i_o.html#ga9896863e95e52aad331deed4a8fa8e4f" title="Basic." alt="" coords="221,245,363,272"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="437,260,365,261,362,256,442,257"/>
+<area shape="rect" id="Node000021" href="$group___d_a_t_a_i_o.html#ga9b0b8f6133580106653c0cd4a8ac4957" title="Reset." alt="" coords="220,195,364,221"/>
+<area shape="poly" id="edge27_Node000018_Node000021" title=" " alt="" coords="480,243,365,223,363,218,484,241"/>
+<area shape="poly" id="edge31_Node000024_Node000023" title=" " alt="" coords="476,663,454,657,376,622,316,587,315,582,378,617,456,652,482,662"/>
+<area shape="poly" id="edge34_Node000025_Node000003" title=" " alt="" coords="186,179,178,185,145,211,116,242,78,297,73,295,112,239,141,207,175,180,189,175"/>
+<area shape="poly" id="edge36_Node000026_Node000003" title=" " alt="" coords="179,311,130,311,127,307,183,308"/>
+<area shape="poly" id="edge40_Node000029_Node000003" title=" " alt="" coords="210,344,176,337,129,326,126,321,177,332,215,341"/>
+</map>

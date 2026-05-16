@@ -1,0 +1,28 @@
+<map id="DIOPROTOCOL::CMD_File" name="DIOPROTOCOL::CMD_File">
+<area shape="rect" id="Node000001" title="CMD file." alt="" coords="5,81,192,108"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac74caf23e11e04eb096c5bafa2793941" title="Is connected." alt="" coords="249,5,450,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,79,239,48,288,35,284,39,240,53,145,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="529,56,667,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,87,515,71,512,76,193,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gadbc93c3fd333299e0192c129beb9ac81" title="Send event file block." alt="" coords="244,275,456,317"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,106,312,263,307,266,116,111"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga2a250535a9c768472bf4f8a2f053988d" title="Set file progress." alt="" coords="240,107,460,133"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="191,102,226,106,222,109,193,106"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="543,107,653,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,272,424,208,463,173,507,143,530,134,526,137,509,148,466,177,427,212,370,276"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="518,157,678,184"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="378,272,436,232,507,194,527,188,522,191,509,198,439,237,381,276"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2130f00033150dd885bd14fecc5293eb" title="Set file is send." alt="" coords="508,208,688,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="431,272,504,254,499,257,433,277"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gae787774d49e8ad1f8b678523a587a817" title="Set file percent." alt="" coords="508,275,688,317"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="456,293,495,295,490,297,457,299"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga9a8ca4681c702748c7b6e19c14e75b4d" title="Set file source." alt="" coords="508,341,688,384"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="432,315,504,336,499,337,432,321"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga0ea64528b9ceb52ad3ce9381a56dc303" title="Set file status." alt="" coords="508,408,688,451"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="382,315,440,354,509,394,522,402,517,401,507,398,437,359,381,321"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga3306ae7b246e42c9c76f2e2ed1ad4640" title="Set file target." alt="" coords="508,475,688,517"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="367,315,426,386,465,426,510,460,518,468,513,467,506,465,462,430,422,390,366,320"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga2835b7e788ff81aad3595929f1ed57d4" title="Set param1." alt="" coords="508,541,688,584"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="361,315,384,361,416,417,458,476,483,503,510,527,515,534,510,532,506,531,479,507,454,479,411,420,379,363,359,320"/>
+<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="418,104,517,85,512,88,420,108"/>
+</map>

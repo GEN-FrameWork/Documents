@@ -1,0 +1,13 @@
+<map id="DIOSTREAMIPLOCALENUMDEVICES" name="DIOSTREAMIPLOCALENUMDEVICES">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream IP Local Enum Devices class." alt="" coords="395,56,652,83"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_a_n_d_r_o_i_d_s_t_r_e_a_m_i_p_l_o_c_a_l_e_n_u_m_d_e_v_i_c_e_s.html" title="ANDROID Data Input/Output Stream IP Local Enum Devices class." alt="" coords="703,5,1024,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="632,51,767,33,772,32,633,56"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_l_i_n_u_x_s_t_r_e_a_m_i_p_l_o_c_a_l_e_n_u_m_d_e_v_i_c_e_s.html" title="LINUX Data Input/OutputStream IP Local Enum Devices class." alt="" coords="715,56,1012,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="668,67,717,69,712,69,668,72"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_w_i_n_d_o_w_s_s_t_r_e_a_m_i_p_l_o_c_a_l_e_n_u_m_d_e_v_i_c_e_s.html" title="WINDOWS Data Input/Output Stream IP Local Enum Devices class." alt="" coords="700,107,1027,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="633,83,772,106,767,106,632,88"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_e_n_u_m_d_e_v_i_c_e_s.html" title="Data Input/Output Stream Enum Devices class." alt="" coords="146,56,347,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="363,67,397,69,392,70,363,72"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,56,98,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,67,148,68,143,70,113,72"/>
+</map>

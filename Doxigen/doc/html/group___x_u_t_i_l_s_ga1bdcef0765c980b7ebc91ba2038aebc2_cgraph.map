@@ -1,0 +1,15 @@
+<map id="XFILECOBOL_HANDLE::IsFieldRedefinedByAnother" name="XFILECOBOL_HANDLE::IsFieldRedefinedByAnother">
+<area shape="rect" id="Node000001" title="Is field redefined by another." alt="" coords="5,127,186,169"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="295,47,438,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,124,182,102,233,83,282,72,278,75,234,88,184,107,139,128"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga9b1ec5ffa4852af8e8d7d3c7e9a2e4bd" title="Get FD tree." alt="" coords="279,97,454,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,136,266,129,261,131,187,141"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga91df89852ce5ebe4c13096c40dea7f65" title="Get redefine name." alt="" coords="234,164,499,191"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,155,225,161,220,162,186,160"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="297,215,436,241"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="145,167,234,200,285,214,279,215,233,205,144,172"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="547,5,693,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,48,534,37,529,39,439,53"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="547,72,693,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="438,67,534,81,529,82,438,72"/>
+</map>

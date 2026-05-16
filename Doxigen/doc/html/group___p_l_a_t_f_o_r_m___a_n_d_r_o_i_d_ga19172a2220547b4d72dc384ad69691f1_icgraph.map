@@ -1,0 +1,7 @@
+<map id="GRPANDROIDSCREEN::Delete" name="GRPANDROIDSCREEN::Delete">
+<area shape="rect" id="Node000001" title="Delete." alt="" coords="282,47,497,73"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga31946583dcef867d975e09cf86cfd0ae" title="On destroy window." alt="" coords="5,5,234,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,45,234,43,234,38,269,44"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga684fd4d434f7c184ed766f9bad394eff" title="Destructor of class." alt="" coords="31,72,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,76,209,85,208,80,269,75"/>
+</map>

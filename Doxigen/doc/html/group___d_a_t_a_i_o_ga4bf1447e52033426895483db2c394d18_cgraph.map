@@ -1,0 +1,16 @@
+<map id="DIOATCMDS::AddSendCommand" name="DIOATCMDS::AddSendCommand">
+<area shape="rect" id="Node000001" title="Add send command." alt="" coords="5,81,228,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="289,56,401,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,80,276,76,271,78,229,85"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="478,5,615,32"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="153,78,210,59,275,41,372,27,466,21,461,23,373,32,276,47,211,64,155,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="290,107,400,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="228,104,277,112,272,113,228,110"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="276,157,414,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="160,106,290,151,286,153,159,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,53,478,36,473,37,402,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="462,56,631,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="401,67,449,69,444,70,402,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="679,56,829,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,67,666,69,661,70,632,72"/>
+</map>

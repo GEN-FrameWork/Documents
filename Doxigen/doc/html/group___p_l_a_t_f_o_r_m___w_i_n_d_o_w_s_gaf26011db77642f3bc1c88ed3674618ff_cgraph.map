@@ -1,0 +1,13 @@
+<map id="XWINDOWSSERVICEBASE::Stop" name="XWINDOWSSERVICEBASE::Stop">
+<area shape="rect" id="Node000001" title="Stop." alt="" coords="5,129,200,172"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga993ac2682d2f93a0da6b26dd12497982" title="On stop." alt="" coords="248,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,127,185,92,246,58,263,53,258,56,249,62,187,97,136,131"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1feeefab81aa4f1e9e3546ca751377e2" title="Set service status." alt="" coords="248,96,442,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,135,235,132,230,134,201,140"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga21cdf27e173f911835ccbb9f66fbc354" title="Write error log entry." alt="" coords="248,163,442,205"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="200,161,235,168,230,169,200,167"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga67dd1b33596a7b289dab42982aab117e" title="Write event log entry." alt="" coords="490,192,684,235"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="140,170,191,195,248,215,305,224,364,228,472,227,477,227,364,233,305,229,247,220,189,200,139,175"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="299,94,297,86,305,77,321,71,345,69,371,72,388,80,383,80,369,77,345,75,322,77,308,81,302,87,304,97"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="443,193,477,200,472,200,443,198"/>
+</map>

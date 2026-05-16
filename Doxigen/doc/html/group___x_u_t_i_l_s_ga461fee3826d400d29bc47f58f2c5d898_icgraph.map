@@ -1,0 +1,37 @@
+<map id="XTIMER::Reset" name="XTIMER::Reset">
+<area shape="rect" id="Node000001" title="Reset." alt="" coords="323,507,438,533"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga346ca77ef8158f1b6ae78e57a9014144" title="Check condition." alt="" coords="16,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,491,364,391,345,257,331,189,314,128,295,79,273,46,260,35,259,30,277,42,300,76,319,127,336,188,350,256,369,390,379,492"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac221ec1e89a45c12bd4ed0b6b3662434" title="Connections wait to all checked." alt="" coords="23,56,257,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,490,360,404,339,290,309,182,292,140,273,113,258,100,256,95,277,109,297,138,314,180,344,289,365,403,378,491"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gabf2e49acb3f49657081432b1da31f7f5" title="Connections wait to some is checked." alt="" coords="17,123,263,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="377,490,372,426,358,342,345,298,327,254,303,214,273,179,260,168,259,163,276,175,307,211,331,252,350,296,363,341,378,426,382,492"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba4d7f49073dd250d5c912ca2589bdf7" title="Draw animation." alt="" coords="56,189,224,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,490,366,438,349,372,335,337,319,304,298,273,273,246,250,231,226,221,223,216,252,226,276,242,302,270,323,301,340,335,354,370,371,437,379,491"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac78008dc843b1d53f8e6f1655f9a3187" title="Draw edit text." alt="" coords="56,256,224,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="370,491,359,452,339,403,311,354,293,332,273,313,250,299,226,289,224,284,252,294,276,309,297,328,315,351,344,401,364,450,376,492"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="56,323,224,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="364,493,328,435,303,405,273,380,250,367,226,358,224,353,252,362,276,375,307,401,333,432,369,492"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga09e6dc2550dad43e138985a21c77ff66" title="Get measure time string." alt="" coords="28,389,252,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="350,497,316,471,273,446,247,435,245,430,276,442,318,467,355,496"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#gaf2c7abc3368ad7f5f207019a09c21e5f" title="Load." alt="" coords="41,456,239,483"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="307,504,274,497,219,486,217,481,275,492,311,501"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga879adad06314285ac12f88ec8a6bb466" title="Set milli seconds." alt="" coords="53,507,227,533"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="305,522,229,522,226,518,309,518"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a" title="Set N cycles." alt="" coords="27,557,253,584"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="307,539,275,548,220,559,217,554,274,543,311,536"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gaa87c3401008063bc3037f593dcaa7bbc" title="Task add." alt="" coords="50,608,230,635"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="352,545,319,574,276,598,232,612,229,608,274,594,316,569,356,542"/>
+<area shape="rect" id="Node000013" href="$group___s_o_u_n_d.html#gaec9161c9a9d6d78b3002dc5ac35fe06a" title="Update." alt="" coords="32,659,248,685"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="366,545,330,601,305,627,276,649,250,661,247,657,273,644,302,623,326,597,363,549"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga602867224a265830e0189519bbcc8baa" title="Wait key." alt="" coords="64,709,216,736"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="372,546,360,584,340,625,312,666,276,700,248,714,218,722,215,717,246,709,273,695,308,662,335,623,355,582,369,551"/>
+<area shape="rect" id="Node000015" href="$group___p_l_a_t_f_o_r_m___e_s_p32.html#ga63fe6cfb909853a40be23f0632c274cf" title="Constructor of class." alt="" coords="33,760,247,787"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="376,546,367,594,348,649,318,704,299,729,276,750,248,766,246,761,273,746,295,725,314,701,343,647,362,592,373,551"/>
+<area shape="rect" id="Node000016" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad88a066e0704cd563c4ac3ccb3028edb" title="Constructor of class." alt="" coords="34,811,246,837"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="379,546,372,603,355,671,342,707,325,742,303,773,276,801,247,818,245,813,273,797,299,770,320,739,337,705,350,670,367,602,376,551"/>
+<area shape="rect" id="Node000017" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#gaf77cf785306d1d780747cd5ab16f771e" title="Constructor of class." alt="" coords="32,861,248,888"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="380,547,377,612,363,694,349,737,331,779,307,818,276,851,249,868,247,863,273,847,303,815,326,777,344,735,357,693,372,611,378,551"/>
+<area shape="rect" id="Node000018" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga24b562578ba059ff22fd0a0228136a99" title="Constructor of class." alt="" coords="5,912,275,939"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="377,546,365,631,343,737,313,837,296,876,277,902,260,914,258,909,273,898,291,873,308,835,338,735,359,630,374,551"/>
+</map>

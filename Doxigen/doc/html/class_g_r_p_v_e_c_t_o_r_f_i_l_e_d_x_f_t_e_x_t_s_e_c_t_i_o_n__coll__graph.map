@@ -1,0 +1,15 @@
+<map id="GRPVECTORFILEDXFTEXTSECTION" name="GRPVECTORFILEDXFTEXTSECTION">
+<area shape="rect" id="Node000001" title="Graphic Vector File DXF Text Section class." alt="" coords="893,80,1149,107"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="542,5,634,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,23,778,41,960,79,954,80,777,47,650,28"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_v_e_c_t_o_r_f_i_l_e_d_x_f_t_e_x_t_p_a_r_t.html" title="Graphic Vector File DXF Text Part class." alt="" coords="473,56,702,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="718,74,895,86,890,86,718,79"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="229,56,310,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="326,67,475,69,470,70,326,72"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="5,56,83,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="98,67,230,67,227,71,99,72"/>
+<area shape="rect" id="Node000007" href="$struct_g_r_p_v_e_c_t_o_r_f_i_l_e_d_x_f_d_e_f_t_e_x_t_s_e_c_t_i_o_n.html" title=" " alt="" coords="446,107,729,133"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="744,118,869,112,931,108,937,107,870,117,744,123"/>
+<area shape="rect" id="Node000008" href="$struct_g_r_p_v_e_c_t_o_r_f_i_l_e_d_x_f_t_e_x_t_s_e_c_t_i_o_n_g_e_n_e_r_i_c_d_e_f_t_y_p_e.html" title=" " alt="" coords="398,159,777,185"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="793,158,869,145,933,126,986,108,991,107,935,131,870,151,793,164"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="DIODEVICEI2C" name="DIODEVICEI2C">
+<area shape="rect" id="Node000001" title="Data Input/Output device I2C class." alt="" coords="150,385,267,412"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_i2_c6_a_x_i_s_t_r_a_c_k_i_n_g_b_m_i270.html" title="Data Input/Output I2C 6 AXIS Tracking BMI270 class." alt="" coords="330,5,549,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,369,210,302,224,214,237,167,256,121,281,79,313,42,333,30,330,34,317,46,285,82,261,124,242,169,229,215,215,303,212,370"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_i2_c9_a_x_i_s_t_r_a_c_k_i_n_g_m_p_u9150.html" title="Data Input/Output I2C 9 Axis Motion Tracking MPU9150 (InvenSense &#45; MPU9150) class." alt="" coords="323,56,555,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,369,214,311,230,236,244,197,262,159,285,123,313,93,333,81,330,85,317,97,289,127,266,161,249,199,236,238,219,312,213,371"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_i2_c_a_d_d_a_c_o_n_v_e_r_t_e_r_p_c_f8591.html" title="Data Input/Output I2C PCF8591 (AD/DA converter) class." alt="" coords="318,107,561,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,369,220,320,238,259,268,196,289,168,313,143,335,132,331,136,317,147,293,171,273,199,243,261,225,322,215,371"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_i2_c_a_i_r_q_u_a_l_i_t_y_c_c_s811.html" title="Data Input/Output I2C Sensor CCS811 (Air Quality) class." alt="" coords="342,157,537,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,369,226,330,246,282,274,234,293,212,313,194,343,180,339,184,317,198,296,216,279,237,250,284,231,331,219,371"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_i2_c_b_a_t_t_e_r_y_c_h_a_r_g_e_r_b_q24295.html" title="Data Input/output Battery Charger BQ24295 class." alt="" coords="315,208,563,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="219,370,254,306,281,272,314,244,339,233,335,237,316,249,285,276,259,309,223,372"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_i2_c_e_e_p_r_o_m24_x_x_x.html" title="Data Input/Output I2C EEPROM 24XXX class." alt="" coords="356,259,522,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="227,372,264,332,288,312,314,295,358,280,354,284,316,300,291,316,268,335,231,375"/>
+<area shape="rect" id="Node000009" href="$class_d_i_o_i2_c_g_p_i_o_m_c_p2317.html" title="Data Input/Output I2C MCP23S17 (Microchip) (8+8 Digital I/O) class." alt="" coords="360,309,518,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="246,376,314,345,363,334,358,337,316,351,249,380"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_i2_c_g_p_i_o_p_c_f8574.html" title="Data Input/Output I2C PCF8574 (GPIO 8 Pins) class." alt="" coords="362,360,516,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="281,388,364,380,360,383,283,393"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_i2_c_l_i_g_h_t_s_e_n_s_o_r_t_s_l2561.html" title="Data Input/Output I2C Sensor Light TSL2561 (Luminosity Sensor) class." alt="" coords="332,411,546,437"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="281,404,334,411,329,413,283,409"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_i2_c_l_s_m303_d_l_h_c.html" title=" " alt="" coords="364,461,515,488"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="247,417,316,447,366,461,360,463,314,452,248,422"/>
+<area shape="rect" id="Node000015" href="$class_d_i_o_i2_c_m_o_n_i_t_o_r_g_a_u_g_e_l_t_c2942.html" title="Data Input/Output I2C Monitor Gauge LTC2942 class." alt="" coords="324,512,554,539"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="229,421,268,462,291,481,316,498,345,511,340,512,314,502,288,486,264,466,229,427"/>
+<area shape="rect" id="Node000016" href="$class_d_i_o_i2_c_o_l_e_d_d_i_s_p_l_a_y_s_s_d1306.html" title="Data Input/Output I2C OLED Display SSD1306 class." alt="" coords="332,563,546,589"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="221,424,259,489,285,521,316,548,340,562,335,562,314,553,281,525,254,492,220,429"/>
+<area shape="rect" id="Node000017" href="$class_d_i_o_i2_c_p_w_m_c_o_n_t_r_o_l_e_r_p_c_a9685.html" title="Data Input/Output I2C PCA9685 (16&#45;channel, 12&#45;bit PWM controller) class." alt="" coords="320,613,559,640"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="217,424,231,466,250,513,279,560,296,581,317,599,338,613,332,613,313,603,293,585,274,563,246,516,226,468,216,430"/>
+<area shape="rect" id="Node000018" href="$class_d_i_o_i2_c_t_e_m_h_u_m_s_e_n_s_o_r_a_m2315.html" title="Data Input/Output I2C Sensor AOSONG AM2315 (Temperature and humidity module) class." alt="" coords="324,664,554,691"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="214,425,225,476,243,537,273,598,293,626,317,650,336,664,331,663,313,654,289,630,268,601,238,539,220,477,212,430"/>
+<area shape="rect" id="Node000019" href="$class_d_i_o_i2_c_t_e_m_h_u_m_s_e_n_s_o_r_s_h_t20.html" title="Data Input/Output I2C Sensor Sensirion SHT20 (Temperature and humidity module) class." alt="" coords="328,715,551,741"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="211,425,219,485,236,560,249,598,266,636,289,671,317,701,334,714,329,714,313,705,285,674,262,639,244,600,230,561,214,486,210,430"/>
+<area shape="rect" id="Node000020" href="$class_d_i_o_i2_c_t_o_u_c_h_s_e_n_s_o_r_a_t42_q_t1060.html" title="Data Input/Output I2C Touch Sensor AT42QT1060 class." alt="" coords="316,765,563,792"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="210,425,215,495,229,583,242,629,261,674,285,715,317,751,334,766,329,764,313,755,281,719,256,676,237,631,224,584,210,495,208,430"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_d_e_v_i_c_e.html" title="Data Input/Output device generic class." alt="" coords="5,385,102,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,396,151,397,147,400,119,401"/>
+<area shape="rect" id="Node000013" href="$class_d_i_o_i2_c3_d_a_c_c_e_l_e_r_o_m_e_t_e_r_l_s_m303_d_l_h_c.html" title=" " alt="" coords="611,436,901,463"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="530,465,613,460,608,462,531,470"/>
+<area shape="rect" id="Node000014" href="$class_d_i_o_i2_c3_d_c_o_m_p_a_s_s_l_s_m303_d_l_h_c.html" title=" " alt="" coords="639,487,873,513"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="530,479,641,490,636,491,531,485"/>
+</map>

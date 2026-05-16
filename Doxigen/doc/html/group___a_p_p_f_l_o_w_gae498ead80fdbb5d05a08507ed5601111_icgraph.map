@@ -1,0 +1,12 @@
+<map id="APPFLOWWEBSERVER::GenerateMessagePage" name="APPFLOWWEBSERVER::GenerateMessagePage">
+<area shape="rect" id="Node000001" title="Generate message page." alt="" coords="568,72,801,115"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga431c8135af6a2ce796f062758c5bcf50" title="Generate message page." alt="" coords="287,5,520,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,68,496,51,496,46,580,68"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga72508ff63a6f7077651ad88a24e63605" title="Generate response error." alt="" coords="287,72,520,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="550,94,521,96,520,91,555,93"/>
+<area shape="rect" id="Node000005" href="$group___a_p_p_f_l_o_w.html#ga005b202d42da6f6b78249577bca8cbdc" title="Resolve request." alt="" coords="8,131,236,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="575,118,520,129,373,144,237,152,236,146,372,139,520,124,569,119"/>
+<area shape="rect" id="Node000004" href="$group___a_p_p_f_l_o_w.html#gaa2cc141b4eb304115d951430efd744a0" title="Generate response error." alt="" coords="5,64,239,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,90,240,91,239,86,274,89"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="286,118,228,133,227,127,281,119"/>
+</map>

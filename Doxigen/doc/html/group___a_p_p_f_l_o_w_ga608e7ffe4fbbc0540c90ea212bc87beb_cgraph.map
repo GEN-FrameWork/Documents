@@ -1,0 +1,17 @@
+<map id="APPFLOWUPDATE::EventManager" name="APPFLOWUPDATE::EventManager">
+<area shape="rect" id="Node000001" title="Event manager." alt="" coords="5,132,238,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="297,5,496,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,129,201,86,242,62,285,42,307,36,303,38,287,46,244,67,204,91,142,133"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="305,56,488,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,129,285,92,319,86,314,88,286,97,166,134"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga137f7c55eb9b778873286232d22a5c12" title="Subscribe event." alt="" coords="294,107,498,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,132,281,130,276,132,239,137"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="555,157,750,184"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="238,148,541,163,538,168,238,154"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="286,208,507,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,157,333,202,328,205,172,162"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gae130690234a70d3540b7c7922f02c02f" title="Constructor of class." alt="" coords="311,259,482,285"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="141,157,204,200,244,224,287,244,308,254,302,253,285,249,242,229,201,205,140,162"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="468,131,569,153,564,154,468,137"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="467,205,564,188,569,187,468,210"/>
+</map>

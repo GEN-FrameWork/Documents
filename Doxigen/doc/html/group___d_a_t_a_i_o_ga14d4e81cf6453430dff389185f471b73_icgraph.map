@@ -1,0 +1,9 @@
+<map id="DIOSTREAMUDPDATAGRAM::GetData" name="DIOSTREAMUDPDATAGRAM::GetData">
+<area shape="rect" id="Node000001" title="Get data." alt="" coords="846,5,1051,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa79b54f9fc15cac61e872b01c590aff6" title="Read datagram." alt="" coords="572,13,798,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="828,27,799,29,799,24,834,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaf73ebef54946766cefd7d1c4ada9e715" title="Write." alt="" coords="289,5,524,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="554,27,524,29,524,24,559,27"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1dce5f5cb5e3c2aab8d59d33670604f5" title="Write datagram." alt="" coords="5,5,241,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,27,241,29,241,24,275,27"/>
+</map>

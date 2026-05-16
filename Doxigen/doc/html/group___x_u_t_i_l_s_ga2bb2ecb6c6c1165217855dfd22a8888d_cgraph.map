@@ -1,0 +1,7 @@
+<map id="XSTRING::ConvertFromUTF8" name="XSTRING::ConvertFromUTF8">
+<area shape="rect" id="Node000001" title="Convert from UTF8." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="252,5,421,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,16,239,19,233,19,204,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="469,5,618,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,16,456,19,451,19,422,21"/>
+</map>

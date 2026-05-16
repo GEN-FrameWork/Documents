@@ -1,0 +1,12 @@
+<map id="DIOAIOBIMAINBOARD::SetP4HeaderForExternalButton" name="DIOAIOBIMAINBOARD::SetP4HeaderForExternalButton">
+<area shape="rect" id="Node000001" title="Set P4 header for external button." alt="" coords="5,72,210,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac8ae7748f2811e766e0ae9bf68abbfba" title="Set led a." alt="" coords="258,5,429,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,69,253,52,248,54,186,74"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaee4fda0f9dd7c83968e61bdc27ecdd0d" title="Set led b." alt="" coords="258,72,429,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,91,245,93,239,94,211,96"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9d1b3e5ce07ed966b2d731c9014839bd" title="Set mode header pin." alt="" coords="258,139,429,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="185,113,253,133,248,134,185,118"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga3f6012116da52c5d5ea337e6f07d4b43" title="Set status header pin." alt="" coords="477,39,648,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,37,464,44,459,45,429,42"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="429,78,464,75,459,76,430,83"/>
+</map>

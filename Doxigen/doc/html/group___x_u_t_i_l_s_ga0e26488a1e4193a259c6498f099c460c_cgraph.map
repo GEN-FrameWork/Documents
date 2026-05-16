@@ -1,0 +1,13 @@
+<map id="XLOGBASE::End" name="XLOGBASE::End">
+<area shape="rect" id="Node000001" title="End." alt="" coords="5,56,130,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1a23c5484fcd9917f8156844e653f6ca" title="Flush." alt="" coords="178,56,311,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,67,165,69,160,70,131,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae4703c4100c510fb850ffaa7a4f0c40e" title="Flush memory entrys." alt="" coords="359,31,577,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,59,346,58,341,58,312,64"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga745d2fe981dc03e38cd134854db22eed" title="Is active." alt="" coords="394,81,543,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="312,74,381,84,375,85,311,80"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="652,5,762,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="578,30,639,26,634,26,578,35"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga2506638805f48e55f67a412898fd76b7" title="Get N lines." alt="" coords="625,56,789,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="578,53,612,59,607,59,578,58"/>
+</map>

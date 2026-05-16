@@ -1,0 +1,15 @@
+<map id="XSTRING::Copy" name="XSTRING::Copy">
+<area shape="rect" id="Node000001" title="Copy." alt="" coords="5,131,126,157"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="174,80,294,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,128,175,110,170,113,113,133"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="526,80,676,107"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="118,155,190,170,281,182,380,183,430,177,477,167,529,144,570,117,575,116,531,148,479,172,430,183,380,188,281,187,190,176,118,161"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="342,131,478,157"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="126,141,327,141,326,147,126,147"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="353,29,467,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,77,349,60,344,62,284,82"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="294,91,513,92,508,95,295,96"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="283,105,349,126,344,126,283,110"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="380,28,375,21,378,11,390,5,410,3,431,5,444,14,439,14,430,10,410,8,392,10,382,15,380,20,385,30"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="464,54,536,75,531,76,463,59"/>
+</map>

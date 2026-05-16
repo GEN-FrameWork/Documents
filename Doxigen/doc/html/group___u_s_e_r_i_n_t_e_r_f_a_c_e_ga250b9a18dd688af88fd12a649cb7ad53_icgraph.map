@@ -1,0 +1,7 @@
+<map id="UI_SKIN_TEXTBOX_PART::GetYPos" name="UI_SKIN_TEXTBOX_PART::GetYPos">
+<area shape="rect" id="Node000001" title="Get Y pos." alt="" coords="239,39,423,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba15bc7bc62cf656a541a97bc9c4f2f9" title="Draw text box." alt="" coords="14,5,182,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,45,183,41,182,36,226,44"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga58bcd260f49e3e55fdf62a48a8ebeead" title="Text box size line." alt="" coords="5,72,191,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,76,192,83,191,77,226,75"/>
+</map>

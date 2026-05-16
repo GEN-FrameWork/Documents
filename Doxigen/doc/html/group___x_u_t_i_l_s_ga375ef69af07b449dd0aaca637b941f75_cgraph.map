@@ -1,0 +1,16 @@
+<map id="XFILERIFF::GetChunkData" name="XFILERIFF::GetChunkData">
+<area shape="rect" id="Node000001" title="Get chunk data." alt="" coords="5,81,189,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="272,5,385,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,78,236,41,263,36,258,38,238,47,135,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga704f00f9bd4c0a34017f46209e4efc92" title="Get chunk data." alt="" coords="237,56,420,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,82,224,80,218,82,189,87"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga6fb5cfccf0dd812b95f52f489e5858f1" title="Get size." alt="" coords="478,107,656,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="189,97,464,112,462,117,189,102"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="262,157,395,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="141,106,273,150,269,153,140,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaa15dfa6c0b0d1f8e7a44782ee3d93259" title="Get position file data." alt="" coords="468,40,666,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,64,455,65,450,66,421,69"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="395,81,489,103,484,103,395,86"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="488,157,647,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="395,168,474,171,469,171,395,173"/>
+</map>

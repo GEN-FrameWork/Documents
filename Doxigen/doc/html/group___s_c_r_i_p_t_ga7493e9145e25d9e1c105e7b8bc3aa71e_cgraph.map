@@ -1,0 +1,21 @@
+<map id="Call_Log_CFG_SetLimit" name="Call_Log_CFG_SetLimit">
+<area shape="rect" id="Node000001" title="all_Log_CFG_SetLimit" alt="" coords="5,157,168,184"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="271,5,386,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,155,142,99,176,68,214,42,258,27,254,30,217,46,179,72,146,103,100,158"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gab5cda102fd4c511d18026927203da641" title="Get log." alt="" coords="237,56,420,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,155,153,123,215,92,239,86,234,89,217,97,156,128,109,159"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#gabbf602df960ebb8d3a3f052cd23c8487" title="Get param converted." alt="" coords="216,107,441,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,154,248,135,244,139,155,159"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="258,157,399,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,168,245,169,240,172,169,173"/>
+<area shape="rect" id="Node000007" href="$group___s_c_r_i_p_t.html#ga9b6211aae3517ced521a3907ca6ef648" title="Have error." alt="" coords="260,208,397,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,182,249,203,244,206,154,187"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga238f6ef465ea6b1cc7f9882aee8c868f" title="Set." alt="" coords="271,259,386,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="107,182,156,213,217,244,259,259,253,260,215,249,153,218,107,187"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gac2e028724c1610e1e91e99b4b4a4b877" title="Set limit." alt="" coords="254,309,403,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="99,182,146,238,179,269,217,295,241,308,236,307,214,300,176,273,142,242,97,187"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga70075e357dea2d13c7e1763e8800cbc6" title="Get type." alt="" coords="489,107,633,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="441,117,476,119,471,121,442,123"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaf2a714cbc516e65c1939b46fad3a6793" title="Destroy." alt="" coords="490,259,632,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="386,269,478,272,472,272,387,275"/>
+</map>

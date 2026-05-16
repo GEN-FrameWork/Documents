@@ -1,0 +1,7 @@
+<map id="GRPBITMAPFILEBMPHEADER::GetMode" name="GRPBITMAPFILEBMPHEADER::GetMode">
+<area shape="rect" id="Node000001" title="Get mode." alt="" coords="258,39,472,81"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,45,210,43,210,37,245,44"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="5,72,210,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,76,211,83,210,77,245,75"/>
+</map>

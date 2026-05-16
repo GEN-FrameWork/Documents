@@ -1,0 +1,19 @@
+<map id="DIOIEC60870_5::CMD_C_FS_NA_2_EndSession" name="DIOIEC60870_5::CMD_C_FS_NA_2_EndSession">
+<area shape="rect" id="Node000001" title="CMDCFSNA2 end session." alt="" coords="5,128,185,171"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="262,48,378,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,125,232,84,255,79,250,81,234,89,141,130"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga56c2346e42a835db123e967187bce3a5" title="CMD request user data class2." alt="" coords="233,99,407,141"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="184,135,220,132,215,134,186,140"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="263,165,376,192"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="185,158,251,169,245,170,185,164"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="240,216,400,243"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="148,169,234,201,256,211,251,211,232,207,147,174"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="458,5,592,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,47,446,35,441,37,379,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="643,56,803,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="378,60,630,66,625,69,378,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="580,30,656,51,651,52,580,35"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gabfaf967d136d37f0c5dcf4ded0296dac" title="Get byte." alt="" coords="455,107,595,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="407,117,443,120,437,120,407,123"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="580,103,651,88,656,86,581,109"/>
+</map>

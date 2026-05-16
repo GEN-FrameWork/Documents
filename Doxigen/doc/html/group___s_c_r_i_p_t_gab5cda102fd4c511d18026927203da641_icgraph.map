@@ -1,0 +1,19 @@
+<map id="SCRIPT_LIB_LOG::GetLog" name="SCRIPT_LIB_LOG::GetLog">
+<area shape="rect" id="Node000001" title="Get log." alt="" coords="482,107,664,133"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga9dbe9160fced4dfe6d4ee274ab009ba2" title="Call_Log_AddEntry." alt="" coords="278,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,98,488,73,433,46,402,35,402,30,435,42,491,68,540,98"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga4fe74ef26832f6b87f946e51de9c2df6" title="all_Log_CFG_SetBackup" alt="" coords="256,56,434,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,103,408,86,408,81,497,102"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gaa41684de2e34af10f45ce338f443855d" title="all_Log_CFG_SetFilters" alt="" coords="260,107,430,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="464,120,431,123,430,117,469,120"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#ga7493e9145e25d9e1c105e7b8bc3aa71e" title="all_Log_CFG_SetLimit" alt="" coords="264,157,426,184"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="497,137,409,159,408,154,492,138"/>
+<area shape="rect" id="Node000007" href="$group___s_c_r_i_p_t.html#ga554fc413b250d1660dffda4e4458f094" title="Call_Log_Ini." alt="" coords="298,208,392,235"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="540,141,491,172,435,198,393,213,391,208,433,194,488,167,535,143"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gaa4d7b9e1cc42ea3422c9309e89b66a5e" title="Add library functions." alt="" coords="5,99,208,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,38,257,46,198,73,147,100,144,96,196,68,255,42,277,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="261,88,209,101,207,96,266,85"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="241,121,209,123,208,117,246,119"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="261,154,208,144,208,139,266,153"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="281,205,255,198,196,172,145,144,146,139,198,167,257,194,286,206"/>
+</map>

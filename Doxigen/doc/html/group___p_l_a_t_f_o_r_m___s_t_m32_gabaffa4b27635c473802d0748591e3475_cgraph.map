@@ -1,0 +1,11 @@
+<map id="XSTM32THREAD::Ini" name="XSTM32THREAD::Ini">
+<area shape="rect" id="Node000001" title="Ini." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga63793054fabff139698eb9b1f05433cc" title="Add thread." alt="" coords="204,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,77,228,51,224,54,132,82"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga6865277ecc64005706b5cf68b20529fb" title="Get instance." alt="" coords="204,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,91,191,93,185,94,156,96"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga777dc032596d071d63fc47d55b8e6b04" title="Run." alt="" coords="260,139,378,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,105,204,124,248,136,242,136,203,129,130,110"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaf671aaa722a8c1fe375d86603219c252" title="Is running." alt="" coords="483,139,636,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="379,149,470,152,464,152,379,155"/>
+</map>

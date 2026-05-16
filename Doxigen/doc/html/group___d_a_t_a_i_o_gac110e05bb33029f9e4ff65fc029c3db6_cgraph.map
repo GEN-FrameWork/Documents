@@ -1,0 +1,9 @@
+<map id="DIOATCMDS::AddCommand" name="DIOATCMDS::AddCommand">
+<area shape="rect" id="Node000001" title="Add command." alt="" coords="5,31,198,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa4f5199dc1cb63fefae8b3dd5d807f15" title="Get command." alt="" coords="246,5,436,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,31,233,30,228,31,198,36"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga12944d1260553f558c6b0bd3befc0bb0" title="Set." alt="" coords="281,56,401,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,52,268,61,262,62,198,57"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaeb680ebf9b5eb24043fb8ce97fdbca49" title="Get type." alt="" coords="484,5,633,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,16,471,18,466,19,437,21"/>
+</map>

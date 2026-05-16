@@ -1,0 +1,7 @@
+<map id="DIOLINUXSTREAMUDP::Disconnect" name="DIOLINUXSTREAMUDP::Disconnect">
+<area shape="rect" id="Node000001" title="Disconnect." alt="" coords="5,23,184,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga27738d1dd542459c1e475d1c9e1bab85" title="Get status." alt="" coords="234,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,31,221,29,215,31,185,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="232,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,51,219,58,214,58,184,57"/>
+</map>

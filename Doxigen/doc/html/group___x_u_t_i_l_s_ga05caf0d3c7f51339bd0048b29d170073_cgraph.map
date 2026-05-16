@@ -1,0 +1,7 @@
+<map id="XMPINTEGER::SetBit" name="XMPINTEGER::SetBit">
+<area shape="rect" id="Node000001" title="Set bit." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="208,5,357,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,16,195,19,190,19,160,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="405,5,589,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,16,392,19,387,19,357,21"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="UI_ELEMENT_OPTION::Get_UIAnimation" name="UI_ELEMENT_OPTION::Get_UIAnimation">
+<area shape="rect" id="Node000001" title="Get UI animation." alt="" coords="486,168,657,211"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa8c9854dc7eaf9d6dd049863b48eaabd" title="Calculate boundary line option." alt="" coords="246,43,438,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,158,486,129,437,100,413,89,412,83,439,95,489,125,534,158"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga449718bc553c63270d4a7c4579f602df" title="Calculate boundary line progress bar." alt="" coords="246,109,438,152"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="468,164,428,155,428,150,474,163"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga74b4a12dd28e3987ce14322a48665215" title="Draw check box." alt="" coords="17,168,186,211"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,192,186,192,186,187,472,187"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga51483d52372a907497eb69dab87844f1" title="Draw option." alt="" coords="258,227,426,269"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="468,216,427,229,426,224,474,214"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="258,293,426,336"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="534,219,489,254,439,284,413,295,412,290,437,279,486,249,529,221"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga97c9cc25f2db34588a91cc860d6804f7" title="Calculate boundary line button." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,48,199,44,197,39,233,45"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga4c598d33adbaa1db4e460627d7712fed" title="Calculate boundary line check box." alt="" coords="5,72,198,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,79,199,84,197,79,232,76"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="240,225,186,213,186,207,245,223"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae431007e16929e417b98fd84923775eb" title="Draw button." alt="" coords="17,235,186,277"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="239,252,187,256,186,251,244,251"/>
+</map>

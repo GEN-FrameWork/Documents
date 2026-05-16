@@ -1,0 +1,17 @@
+<map id="XLINUXFILE::Flush" name="XLINUXFILE::Flush">
+<area shape="rect" id="Node000001" title="Flush." alt="" coords="667,81,806,108"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga4f58ddda2684a5e6d1af94580eddcc85" title="Actualize size." alt="" coords="433,56,619,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,85,620,83,620,78,655,84"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1ee89c0998498c502effce26458b7703" title="Close." alt="" coords="456,107,596,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="649,105,597,114,596,109,655,104"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga5811c48808577eaf3c157b163f06354a" title="Set size." alt="" coords="213,5,366,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,53,355,35,355,30,448,52"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga5211e8a4ba1eff228fbcb28742d2f67b" title="Write." alt="" coords="221,56,358,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="415,70,358,72,358,67,420,69"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga8dc6a0b7bb2e1a2319ca5c76d7ca4ff4" title="Exist." alt="" coords="221,107,358,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,120,358,123,358,117,443,120"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga7a4031edf7ddb1e3ad5db85b738e469a" title="Destructor of class." alt="" coords="194,157,385,184"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="448,137,356,159,355,154,443,138"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga102aaa3a465ad2bcaee2171b0c10b141" title="Erase." alt="" coords="5,107,146,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="203,121,146,123,146,117,208,119"/>
+</map>

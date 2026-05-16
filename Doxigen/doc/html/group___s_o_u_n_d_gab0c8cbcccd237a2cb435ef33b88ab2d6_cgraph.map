@@ -1,0 +1,7 @@
+<map id="SNDOPENALFACTORY::Sound_SetVolume" name="SNDOPENALFACTORY::Sound_SetVolume">
+<area shape="rect" id="Node000001" title="Sound set volume." alt="" coords="5,35,216,77"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga7c70f973de7422b46c9bd5fac96a4069" title="Get source." alt="" coords="292,5,469,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,42,279,37,274,38,217,47"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#ga2122c7992311b0461e0c19182b3f358c" title="Set volume." alt="" coords="264,72,497,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,65,251,71,245,71,216,70"/>
+</map>

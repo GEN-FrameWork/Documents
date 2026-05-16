@@ -1,0 +1,7 @@
+<map id="XCONSOLE::PrintMessage" name="XCONSOLE::PrintMessage">
+<area shape="rect" id="Node000001" title="Print message." alt="" coords="5,31,189,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gacd9ca11fef10391238884a2b31342554" title="Format message." alt="" coords="237,5,441,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,32,224,30,218,32,190,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga878e4fbe84703c93012ba4eab2d78c98" title="Print." alt="" coords="274,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,51,261,61,256,61,189,56"/>
+</map>

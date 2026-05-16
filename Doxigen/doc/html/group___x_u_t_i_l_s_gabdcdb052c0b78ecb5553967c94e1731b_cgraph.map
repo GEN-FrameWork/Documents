@@ -1,0 +1,12 @@
+<map id="XMPINTEGER::RightShift" name="XMPINTEGER::RightShift">
+<area shape="rect" id="Node000001" title="Right shift." alt="" coords="5,56,182,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9f197e450fc285f958c96c7e6041792b" title="Left set." alt="" coords="230,56,390,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,67,217,69,212,70,182,72"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="438,5,612,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,53,448,37,453,36,370,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="660,81,845,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,71,647,88,642,89,390,77"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="450,107,600,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,81,453,103,448,103,370,86"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="600,109,642,107,647,106,600,114"/>
+</map>

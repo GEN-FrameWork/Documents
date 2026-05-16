@@ -1,0 +1,13 @@
+<map id="UI_MANAGER::Element_GetLayout" name="UI_MANAGER::Element_GetLayout">
+<area shape="rect" id="Node000001" title="Element get layout." alt="" coords="448,72,614,115"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab799112aeff6b1f81a2ac5d2dfccaa0c" title="Element get layout." alt="" coords="230,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,67,385,51,386,46,448,67"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga97c98698c8f23bff52f1f1d50f6e4820" title="Element put to last position layout." alt="" coords="227,72,400,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="430,94,401,96,400,91,435,93"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5faf5343a6df1fa607fa822fe1d83f30" title="Element put to last position layout." alt="" coords="227,139,400,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="448,119,386,141,385,135,443,120"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaaace25cad213923cde1c46071900f689" title="Element put to last position layout." alt="" coords="5,39,179,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,79,180,76,179,70,214,77"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa90c8ae4340514b274a7fb755645a07c" title="Element set modal." alt="" coords="9,105,175,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="209,109,176,117,175,112,214,108"/>
+</map>

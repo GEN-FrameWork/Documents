@@ -1,0 +1,31 @@
+<map id="XSERIALIZATIONMETHODJSON::GetActualObject" name="XSERIALIZATIONMETHODJSON::GetActualObject">
+<area shape="rect" id="Node000001" title="Get actual object." alt="" coords="309,327,533,369"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga73afc0030ae8098c010661dc619c9a8d" title="Add." alt="" coords="5,5,261,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,311,391,253,361,180,342,143,318,107,291,74,259,46,242,35,240,30,262,42,294,71,322,104,346,140,366,178,396,251,414,312"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga36ecbf10f6c310d6cb6f4258812d5ed9" title="Add." alt="" coords="5,56,261,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="405,311,384,263,353,204,312,145,287,119,259,97,240,86,238,81,262,92,290,115,316,142,358,201,389,261,410,312"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga095b6650594060d93d2d6a6a06495064" title="Add." alt="" coords="5,107,261,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="400,313,377,274,345,229,306,184,259,148,238,136,236,131,262,143,309,180,349,226,381,272,405,313"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa298fb9d72f9341def647f4b9f8f334c" title="Add." alt="" coords="5,157,261,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="391,315,336,255,299,224,259,198,234,187,232,182,262,194,302,220,339,251,397,314"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga89ee6c5a8796fcaa74bac83c51d4ea10" title="Add." alt="" coords="5,208,261,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="378,318,324,282,260,249,226,238,224,233,262,244,327,278,383,317"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaef8eb35e3264f4b01ddb908bc9d29dd7" title="Add." alt="" coords="5,259,261,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="340,323,260,300,212,288,210,283,261,295,344,320"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gab03e27af53db819d533159fd40601501" title="Add." alt="" coords="5,309,261,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="291,338,262,336,260,331,295,336"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga28bb54f352d4263f5c2ed47c011e41ba" title="Add." alt="" coords="5,360,261,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="291,361,262,364,260,360,295,358"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad466ee50ef0dff9d4cd8ecec57b575df" title="Add." alt="" coords="5,411,261,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="340,376,261,401,212,412,210,408,260,396,344,373"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaa5cad95cab53d06cdf3f45f40cbdf162" title="Add." alt="" coords="5,461,261,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="379,380,327,418,262,452,227,463,224,458,260,447,324,414,383,377"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga11e84d8c3de4cf4596818b7d22c79e5c" title="Add." alt="" coords="5,512,261,539"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="396,380,339,445,302,476,262,502,234,514,231,509,259,498,299,472,336,441,392,383"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga7e9b61e28070b23420049f4f1cc1a243" title="Add." alt="" coords="5,563,261,589"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="404,381,381,424,349,470,309,516,262,553,238,564,235,560,259,548,306,512,345,467,377,422,400,385"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#gad86595b114f4c5b334ab9787d2173998" title="Add array." alt="" coords="21,613,245,656"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="409,382,388,435,357,494,315,553,290,580,262,604,242,615,240,611,259,599,286,576,311,550,352,491,383,432,405,386"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga9318207fad8c5b6d66f8ad943139d54b" title="Add struct." alt="" coords="21,680,245,723"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="413,383,397,447,367,524,347,564,323,603,295,639,262,670,244,682,242,677,259,666,291,635,319,600,342,562,362,522,392,446,410,387"/>
+</map>

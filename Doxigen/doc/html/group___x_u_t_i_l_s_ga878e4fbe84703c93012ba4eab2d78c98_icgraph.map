@@ -1,0 +1,24 @@
+<map id="XCONSOLE::Print" name="XCONSOLE::Print">
+<area shape="rect" id="Node000001" title="Print." alt="" coords="727,81,858,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae560c0a52af739a5ab0fd129ffef7f90" title="Print data block." alt="" coords="488,19,679,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,77,631,49,631,43,733,76"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7c42668706a1145d2b12710b49c9cbf4" title="Printf." alt="" coords="516,81,651,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="709,95,652,97,651,92,715,94"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae033647445437472125bc694e86ed193" title="Print message." alt="" coords="492,183,675,209"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="752,114,614,185,612,180,747,116"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5210d2649a1896210bb54428b684e25" title="Print data block." alt="" coords="236,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,27,428,26,427,21,475,25"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gaae52fae2460d7b5cde24094701bbcb4c" title="Call_Console_Printf." alt="" coords="263,56,400,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="499,87,401,79,401,74,504,86"/>
+<area shape="rect" id="Node000007" href="$group___s_c_r_i_p_t.html#ga932049c5b53ca7de7019d8ae635182df" title="Call_Console_PutChar." alt="" coords="255,107,409,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="499,104,410,115,409,110,504,102"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#ga52822bb5ec3f5e185e674eb6032c6318" title="Add library functions." alt="" coords="5,73,176,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="246,80,177,88,175,83,250,77"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="237,112,177,106,175,101,242,109"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga87d707e75611eddabc85ff8ebd93b110" title="Erase to end line." alt="" coords="233,157,431,184"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="474,186,431,183,431,178,479,185"/>
+<area shape="rect" id="Node000010" href="$group___a_p_p_f_l_o_w.html#gabe020749561e703661ec35d24cc4a988" title="Show all." alt="" coords="224,208,440,235"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="474,207,441,213,440,208,479,206"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga602867224a265830e0189519bbcc8baa" title="Wait key." alt="" coords="256,259,408,285"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="535,215,441,249,397,261,396,256,439,244,530,216"/>
+</map>

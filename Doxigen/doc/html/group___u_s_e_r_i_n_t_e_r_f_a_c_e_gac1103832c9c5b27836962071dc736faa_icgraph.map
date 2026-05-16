@@ -1,0 +1,9 @@
+<map id="UI_SKINCANVAS::SetFontSize" name="UI_SKINCANVAS::SetFontSize">
+<area shape="rect" id="Node000001" title="Set font size." alt="" coords="489,43,698,69"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga4e00690d5b7a8cbcac4abab51ab467be" title="Get height string." alt="" coords="233,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,43,430,40,430,35,476,42"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac1cfa7674745e54de8562ab46bcb9f47" title="Get with string." alt="" coords="222,72,441,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="476,69,442,76,441,70,471,70"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac78008dc843b1d53f8e6f1655f9a3187" title="Draw edit text." alt="" coords="5,64,174,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,86,174,88,174,83,209,85"/>
+</map>

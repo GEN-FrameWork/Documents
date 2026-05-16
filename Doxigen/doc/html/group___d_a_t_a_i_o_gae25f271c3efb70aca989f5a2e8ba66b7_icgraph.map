@@ -1,0 +1,5 @@
+<map id="DIOGPIO::GPIOEntry_GetByPin" name="DIOGPIO::GPIOEntry_GetByPin">
+<area shape="rect" id="Node000001" title="GPIO entry get by pin." alt="" coords="204,5,354,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga72e8386b654df21337cd4616da13dc24" title="GPIO entry set ID by pin." alt="" coords="5,5,156,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,27,156,29,156,24,191,26"/>
+</map>

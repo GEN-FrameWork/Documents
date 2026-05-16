@@ -1,0 +1,13 @@
+<map id="INPCAPTURE" name="INPCAPTURE">
+<area shape="rect" id="Node000001" title="Input Capture class." alt="" coords="109,279,218,305"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,180,98,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,214,151,277,146,279,76,219"/>
+<area shape="rect" id="Node000003" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="121,180,206,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,221,166,280,161,277,161,224"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="230,180,311,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,217,211,257,181,280,179,276,207,253,245,219"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="232,81,309,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,122,273,181,268,179,269,126"/>
+<area shape="rect" id="Node000006" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="210,5,330,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="271,45,273,82,268,80,269,49"/>
+</map>

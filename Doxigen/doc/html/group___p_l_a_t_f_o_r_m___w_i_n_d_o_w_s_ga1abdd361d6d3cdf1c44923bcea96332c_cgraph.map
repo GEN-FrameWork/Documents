@@ -1,0 +1,21 @@
+<map id="XWINDOWSFILEBORLAND::Erase" name="XWINDOWSFILEBORLAND::Erase">
+<area shape="rect" id="Node000001" title="Erase." alt="" coords="5,127,198,169"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa9c74e0f5e5cb9f0c38a5d7fa1ad5307" title="Exist." alt="" coords="246,72,438,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,124,233,117,228,120,199,128"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga8e86902115c96bb3404de5c2f8506984" title="Overwrite content." alt="" coords="258,189,426,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="198,167,268,184,263,186,198,173"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga364388468bb93c71d1c698409c35c599" title="Close." alt="" coords="486,5,678,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,69,490,52,486,54,422,74"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabaecce53a782b5d91d321cb834da81d0" title="Open." alt="" coords="486,72,678,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="438,91,473,93,468,94,439,96"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac286e2fc7c0e20d91066964b8c37b4ee" title="Flush." alt="" coords="726,5,919,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="678,24,713,26,708,27,679,29"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaf7d78f174cb8eeb52cafe94524d3885b" title="Close." alt="" coords="532,139,632,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="408,186,519,165,514,166,409,191"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga3d5b9c0020c23ffb0ded5aeb105a6fb1" title="Get size." alt="" coords="526,189,639,216"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="426,200,512,202,507,203,427,205"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e.html#a43349ac3160e391c95164fe83825fdfc" title=" " alt="" coords="534,240,631,267"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="409,214,521,240,516,240,409,219"/>
+<area shape="rect" id="Node000010" href="$class_x_f_i_l_e.html#a11b53fb5e02808927df9d01236e84eb9" title=" " alt="" coords="534,291,630,317"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="366,214,420,245,487,276,521,290,516,289,485,281,418,250,365,219"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="XSTRING::Character_IsNOT" name="XSTRING::Character_IsNOT">
+<area shape="rect" id="Node000001" title="Character is NOT." alt="" coords="757,73,904,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac85f696f9e1a3c2347385417deb2fb25" title="Have characters." alt="" coords="525,81,709,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,95,710,97,710,92,744,94"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf8a085adebce021d221ea155cddaacad" title="Convert from lines." alt="" coords="286,81,477,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,95,478,97,477,92,512,94"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_b_a_c_k_d_o_o_r.html#a881f36edb562ce0e00c0c8f12959a7cc" title=" " alt="" coords="13,5,230,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,76,237,47,193,35,192,30,238,41,333,75"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaf97ccf3845d30fb583020fdbe5917ee4" title="Download CFG." alt="" coords="5,56,238,83"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="267,84,239,83,238,78,273,83"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad6332d3010d60294d4dbdb1e2f146d99" title="Load from buffer." alt="" coords="27,107,216,133"/>
+<area shape="poly" id="edge5_Node000003_Node000013" title=" " alt="" coords="268,106,216,113,216,108,273,105"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga6e93bf1397a8b8e9540674ff2434ba36" title="Serialization." alt="" coords="44,157,199,184"/>
+<area shape="poly" id="edge6_Node000003_Node000016" title=" " alt="" coords="333,114,238,148,193,159,192,154,237,143,328,115"/>
+</map>

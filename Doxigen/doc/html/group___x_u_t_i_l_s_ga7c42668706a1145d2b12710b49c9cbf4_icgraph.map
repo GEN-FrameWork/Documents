@@ -1,0 +1,10 @@
+<map id="XCONSOLE::Printf" name="XCONSOLE::Printf">
+<area shape="rect" id="Node000001" title="Printf." alt="" coords="426,31,560,57"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gaae52fae2460d7b5cde24094701bbcb4c" title="Call_Console_Printf." alt="" coords="232,5,370,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,33,370,30,370,25,413,33"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga932049c5b53ca7de7019d8ae635182df" title="Call_Console_PutChar." alt="" coords="224,56,378,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,55,379,62,378,56,408,55"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga52822bb5ec3f5e185e674eb6032c6318" title="Add library functions." alt="" coords="5,23,176,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,29,177,36,176,31,219,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="206,58,176,57,176,52,211,58"/>
+</map>

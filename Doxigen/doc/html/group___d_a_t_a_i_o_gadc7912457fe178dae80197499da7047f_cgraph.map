@@ -1,0 +1,9 @@
+<map id="DIOPROTOCOL::~DIOPROTOCOL" name="DIOPROTOCOL::~DIOPROTOCOL">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,56,239,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gae2b644447e5d06b266398d41446d9d90" title="Delete all answers." alt="" coords="287,5,518,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,53,312,34,307,36,201,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaf183471aeb53f3282555d593b2d4be50" title="Delete all asks." alt="" coords="297,56,508,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,67,284,69,279,70,239,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="303,107,502,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,81,312,103,307,104,200,86"/>
+</map>

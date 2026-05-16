@@ -1,0 +1,10 @@
+<map id="SNDITEM::SetPlayingTime" name="SNDITEM::SetPlayingTime">
+<area shape="rect" id="Node000001" title="Set playing time." alt="" coords="560,56,742,83"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#gab8d059e6c66eeb331d46a171993c66b8" title="Sound play." alt="" coords="310,5,499,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,52,473,35,473,30,570,52"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#ga9e4c07b78b2c9c7861023a7cff5b4c4e" title="Sound play." alt="" coords="5,31,249,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="543,66,249,53,249,47,546,62"/>
+<area shape="rect" id="Node000004" href="$group___s_o_u_n_d.html#gaec9161c9a9d6d78b3002dc5ac35fe06a" title="Update." alt="" coords="297,107,512,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="570,86,473,109,472,103,565,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,29,249,35,248,30,297,28"/>
+</map>

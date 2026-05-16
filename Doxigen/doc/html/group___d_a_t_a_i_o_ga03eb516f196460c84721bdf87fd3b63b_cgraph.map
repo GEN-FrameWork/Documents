@@ -1,0 +1,21 @@
+<map id="DIOPUBLICINTERNETIP::Get" name="DIOPUBLICINTERNETIP::Get">
+<area shape="rect" id="Node000001" title="Get." alt="" coords="5,173,210,200"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="299,31,426,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,171,176,120,215,91,257,67,286,57,282,60,259,72,218,96,180,124,124,175"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac581dfc3bd142239532ba6b4c5a23706" title="Fast is there internet connection." alt="" coords="258,81,467,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,170,257,133,281,128,276,130,259,139,150,175"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga7f8df7195e3162e7eade548357171d5d" title="Get." alt="" coords="286,148,438,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,174,273,169,269,172,211,179"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="306,199,419,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,194,293,204,288,206,211,200"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="296,249,429,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="147,198,258,235,288,245,283,245,257,240,146,203"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga2925cd6a0422294835636085536031f6" title="Set port." alt="" coords="271,300,454,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="126,198,183,242,220,265,259,286,278,295,273,295,257,290,217,270,180,246,124,203"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="520,5,669,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,35,507,27,502,29,427,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="526,56,664,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="426,48,513,59,507,61,427,54"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="515,249,674,276"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="429,260,502,262,497,263,430,265"/>
+</map>

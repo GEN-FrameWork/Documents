@@ -1,0 +1,27 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::CopyFrom" name="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::CopyFrom">
+<area shape="rect" id="Node000001" title="copy from" alt="" coords="5,239,253,281"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga52f28aec18d0f8229d956f0aab744f82" title="Constructor of class." alt="" coords="301,5,575,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,237,168,201,204,157,249,112,299,74,310,70,306,73,302,78,252,116,208,161,172,205,147,240"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="383,88,493,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,236,213,179,254,149,300,124,333,112,370,106,365,109,334,118,302,129,257,154,216,183,153,240"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga5957173963d194e9ccd0256e00e5b2d7" title="name get host" alt="" coords="312,139,564,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,236,300,191,328,184,324,187,302,196,183,240"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga189be30f44deb6b1ab5126bc0190230f" title="name get length" alt="" coords="307,205,569,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="252,244,294,241,289,244,254,249"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga4c227d5abc5c4f1e20958d04797ff1b2" title="name get type" alt="" coords="312,272,564,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="252,271,299,277,294,279,254,276"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga8fa6c16c407278bf5ea0d5b8e760e7c6" title="name set length" alt="" coords="307,339,568,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,279,302,324,328,334,323,335,300,329,181,285"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga2dd1c5b41a4646759e8b5be898e6eda0" title="name set type" alt="" coords="313,405,563,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="152,279,217,336,258,366,302,391,317,399,312,399,299,396,255,370,214,340,152,285"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="383,472,492,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="142,279,168,320,204,368,249,417,274,439,302,458,334,471,370,482,365,482,332,476,299,462,271,443,245,421,199,372,164,323,142,284"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="640,447,775,473"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="492,478,623,468,628,467,493,483"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="623,497,792,524"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="493,488,610,501,605,501,492,493"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="846,447,984,473"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="775,457,833,460,828,460,776,463"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="840,497,990,524"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="793,508,827,511,822,511,793,513"/>
+</map>

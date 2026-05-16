@@ -1,0 +1,8 @@
+<map id="GRPVECTORFILE::GetPathFile" name="GRPVECTORFILE::GetPathFile">
+<area shape="rect" id="Node000001" title="Get path file." alt="" coords="317,55,528,81"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga81c943565793131d71e1987094388041" title="Create instance." alt="" coords="21,29,253,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,58,253,56,253,50,304,57"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga0ae671e4e5b040ec0ab9adb62412a175" title="Destructor of class." alt="" coords="5,80,269,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="299,79,269,84,269,79,304,78"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="186,15,171,11,137,8,107,10,90,15,86,20,94,29,89,29,81,21,87,11,106,5,137,3,172,5,191,15"/>
+</map>

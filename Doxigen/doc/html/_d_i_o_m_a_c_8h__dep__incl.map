@@ -1,0 +1,79 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/DIOMAC.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/DIOMAC.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1379,5,1572,48"/>
+<area shape="rect" id="Node000002" href="$_d_i_o_m_a_c_8cpp.html" title=" " alt="" coords="5,104,199,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1361,33,770,57,447,75,313,86,212,99,175,106,173,101,211,93,313,81,447,70,770,51,1366,30"/>
+<area shape="rect" id="Node000003" href="$_d_i_o_m_a_c_manufactured_8h.html" title=" " alt="" coords="223,104,472,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1360,31,1192,40,973,52,729,71,484,99,440,106,438,101,483,93,728,66,973,47,1192,35,1366,30"/>
+<area shape="rect" id="Node000005" href="$_d_i_o_wake_on_l_a_n_8cpp.html" title=" " alt="" coords="857,104,1086,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1361,48,1099,99,1063,106,1062,101,1097,93,1366,46"/>
+<area shape="rect" id="Node000006" href="$_d_i_o_scraper_web_m_a_c_manufacturer_8h.html" title=" " alt="" coords="495,96,733,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1361,41,845,99,734,112,733,107,844,93,1366,39"/>
+<area shape="rect" id="Node000008" href="$_d_i_o_stream_bluetooth_config_8h.html" title=" " alt="" coords="1110,96,1388,155"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1415,54,1317,98,1315,93,1410,55"/>
+<area shape="rect" id="Node000011" href="$_d_i_o_stream_device_bluetooth_8h.html" title=" " alt="" coords="1628,96,1893,155"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1551,51,1678,96,1673,95,1551,56"/>
+<area shape="rect" id="Node000013" href="$_d_i_o_stream_device_bluetooth_l_e_8h.html" title=" " alt="" coords="1343,203,1608,261"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="1477,61,1477,204,1473,201,1473,65"/>
+<area shape="rect" id="Node000020" href="$_d_i_o_stream_enum_bluetooth_devices_8h.html" title=" " alt="" coords="1632,203,1889,261"/>
+<area shape="poly" id="edge39_Node000001_Node000020" title=" " alt="" coords="1507,57,1558,104,1618,152,1701,203,1696,202,1615,157,1554,109,1505,62"/>
+<area shape="rect" id="Node000021" href="$_d_i_o_stream_device_i_p_8h.html" title=" " alt="" coords="3838,104,4124,147"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="1588,30,3838,116,3836,121,1588,35"/>
+<area shape="rect" id="Node000036" href="$_x_license_8cpp.html" title=" " alt="" coords="6020,211,6213,253"/>
+<area shape="poly" id="edge41_Node000001_Node000036" title=" " alt="" coords="1588,26,2177,29,3002,39,3408,48,3757,60,4013,75,4093,84,4136,94,4154,108,4163,124,4171,140,4187,152,4235,167,4309,178,4520,192,4790,198,5090,198,5664,193,5879,193,6008,200,6049,210,6043,210,6007,205,5879,199,5664,198,5090,203,4790,203,4519,197,4308,183,4234,172,4185,157,4167,143,4158,127,4150,111,4134,98,4092,89,4012,80,3757,65,3408,53,3002,45,2177,35,1588,31"/>
+<area shape="rect" id="Node000038" href="$_d_i_o_l_i_n_u_x_stream_bluetooth_remote_enum_devices_8h.html" title=" " alt="" coords="4198,96,4457,155"/>
+<area shape="poly" id="edge40_Node000001_Node000038" title=" " alt="" coords="1588,26,2108,29,2857,40,3620,60,3939,75,4180,93,4200,98,4194,98,4179,99,3938,80,3620,65,2857,45,2108,35,1588,31"/>
+<area shape="rect" id="Node000004" href="$_d_i_o_m_a_c_manufactured_8cpp.html" title=" " alt="" coords="151,211,413,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,158,297,212,293,208,324,162"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="506,161,349,213,347,208,511,159"/>
+<area shape="rect" id="Node000007" href="$_d_i_o_scraper_web_m_a_c_manufacturer_8cpp.html" title=" " alt="" coords="438,203,689,261"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="596,167,579,204,575,200,591,170"/>
+<area shape="rect" id="Node000009" href="$_d_i_o_stream_bluetooth_8cpp.html" title=" " alt="" coords="713,211,1016,253"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1131,159,941,213,940,207,1126,160"/>
+<area shape="rect" id="Node000010" href="$_d_i_o_stream_bluetooth_config_8cpp.html" title=" " alt="" coords="1040,203,1318,261"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1224,166,1200,205,1197,200,1219,169"/>
+<area shape="rect" id="Node000012" href="$_d_i_o_stream_device_bluetooth_8cpp.html" title=" " alt="" coords="1914,203,2178,261"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1854,158,1970,202,1965,202,1853,163"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1671,160,1554,205,1553,200,1665,161"/>
+<area shape="rect" id="Node000019" href="$_d_i_o_stream_enum_bluetooth_devices_8cpp.html" title=" " alt="" coords="2005,309,2263,368"/>
+<area shape="poly" id="edge17_Node000011_Node000019" title=" " alt="" coords="1908,130,1994,139,2077,152,2147,172,2174,186,2192,201,2200,214,2203,228,2198,257,2183,286,2163,311,2161,307,2178,283,2193,256,2198,228,2195,216,2188,204,2171,190,2145,177,2076,158,1993,144,1908,136"/>
+<area shape="poly" id="edge18_Node000011_Node000020" title=" " alt="" coords="1762,168,1763,204,1759,201,1759,172"/>
+<area shape="rect" id="Node000014" href="$_d_i_o_stream_bluetooth_l_e_remote_enum_devices_8h.html" title=" " alt="" coords="1627,309,1905,368"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1570,264,1689,309,1684,309,1569,270"/>
+<area shape="rect" id="Node000016" href="$_d_i_o_stream_bluetooth_l_e_remote_enum_devices___x_event_8h.html" title=" " alt="" coords="1035,309,1313,368"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1381,266,1257,311,1256,306,1376,267"/>
+<area shape="rect" id="Node000018" href="$_d_i_o_stream_device_bluetooth_l_e_8cpp.html" title=" " alt="" coords="1338,309,1602,368"/>
+<area shape="poly" id="edge16_Node000013_Node000018" title=" " alt="" coords="1475,275,1473,311,1470,307,1471,279"/>
+<area shape="poly" id="edge19_Node000020_Node000014" title=" " alt="" coords="1765,275,1767,311,1763,307,1761,279"/>
+<area shape="poly" id="edge20_Node000020_Node000019" title=" " alt="" coords="1878,263,2034,309,2029,309,1877,269"/>
+<area shape="rect" id="Node000022" href="$_a_p_p_flow_internet_services_8cpp.html" title=" " alt="" coords="5707,211,5996,253"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="4102,147,4142,152,4378,171,4578,179,4754,179,4919,175,5083,172,5260,172,5460,180,5696,200,5752,210,5746,210,5695,205,5459,185,5259,177,5083,177,4919,181,4754,184,4578,184,4378,177,4142,157,4102,152"/>
+<area shape="rect" id="Node000023" href="$_d_i_o_wifi_manager_mode_8cpp.html" title=" " alt="" coords="2253,211,2511,253"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="3819,128,3572,135,3248,147,2887,169,2703,185,2524,205,2477,213,2476,207,2523,200,2703,180,2887,164,3248,142,3572,130,3825,127"/>
+<area shape="rect" id="Node000024" href="$_d_i_o_protocol___connections_manager_8cpp.html" title=" " alt="" coords="2536,203,2788,261"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="3819,130,3617,140,3362,153,3082,175,2801,205,2789,207,2788,202,2800,200,3081,169,3362,148,3617,135,3824,130"/>
+<area shape="rect" id="Node000025" href="$_d_i_o_stream_device_i_p_8cpp.html" title=" " alt="" coords="2812,203,3077,261"/>
+<area shape="poly" id="edge26_Node000021_Node000025" title=" " alt="" coords="3825,135,3484,162,3286,181,3089,205,3077,207,3077,202,3088,200,3286,176,3484,157,3819,135"/>
+<area shape="rect" id="Node000026" href="$_d_i_o_stream_device_wifi_8h.html" title=" " alt="" coords="3100,203,3365,261"/>
+<area shape="poly" id="edge27_Node000021_Node000026" title=" " alt="" coords="3825,143,3610,172,3377,205,3365,207,3365,202,3376,200,3610,167,3819,144"/>
+<area shape="rect" id="Node000028" href="$_d_i_o_stream_i_p_local_enum_devices_8cpp.html" title=" " alt="" coords="3388,203,3656,261"/>
+<area shape="poly" id="edge29_Node000021_Node000028" title=" " alt="" coords="3878,150,3648,205,3648,199,3873,151"/>
+<area shape="rect" id="Node000029" href="$_d_i_o_stream_u_d_p_local_enum_servers_8cpp.html" title=" " alt="" coords="3680,203,3964,261"/>
+<area shape="poly" id="edge30_Node000021_Node000029" title=" " alt="" coords="3939,155,3866,205,3864,200,3934,156"/>
+<area shape="rect" id="Node000030" href="$_d_i_o_a_n_d_r_o_i_d_stream_i_p_local_enum_devices_8cpp.html" title=" " alt="" coords="3988,203,4293,261"/>
+<area shape="poly" id="edge31_Node000021_Node000030" title=" " alt="" coords="4026,153,4100,203,4094,202,4024,158"/>
+<area shape="rect" id="Node000031" href="$_d_i_o_l_i_n_u_x_network_manager_8h.html" title=" " alt="" coords="4317,203,4583,261"/>
+<area shape="poly" id="edge32_Node000021_Node000031" title=" " alt="" coords="4089,148,4324,202,4318,202,4088,153"/>
+<area shape="rect" id="Node000033" href="$_d_i_o_l_i_n_u_x_stream_i_p_local_enum_devices_8cpp.html" title=" " alt="" coords="4607,203,4866,261"/>
+<area shape="poly" id="edge34_Node000021_Node000033" title=" " alt="" coords="4109,147,4142,152,4270,167,4369,175,4468,184,4596,200,4609,205,4604,204,4595,205,4468,189,4369,180,4269,172,4142,157,4108,152"/>
+<area shape="rect" id="Node000034" href="$_d_i_o_l_i_n_u_x_wifi_manager_mode_8cpp.html" title=" " alt="" coords="4890,203,5130,261"/>
+<area shape="poly" id="edge35_Node000021_Node000034" title=" " alt="" coords="4105,147,4142,152,4254,163,4349,170,4510,174,4672,179,4767,187,4878,200,4892,204,4887,204,4878,205,4766,192,4672,184,4510,179,4349,175,4254,169,4142,157,4105,152"/>
+<area shape="rect" id="Node000035" href="$_d_i_o_w_i_n_d_o_w_s_stream_i_p_local_enum_devices_8cpp.html" title=" " alt="" coords="5154,203,5466,261"/>
+<area shape="poly" id="edge36_Node000021_Node000035" title=" " alt="" coords="4104,147,4142,152,4294,166,4423,173,4642,177,4861,179,4990,186,5142,200,5157,204,5151,204,5142,205,4990,192,4861,185,4642,182,4423,179,4294,171,4142,157,4103,152"/>
+<area shape="poly" id="edge37_Node000021_Node000036" title=" " alt="" coords="4102,147,4142,152,4426,173,4666,178,4878,173,5076,164,5274,156,5485,156,5725,168,5860,182,6008,200,6049,210,6043,210,6007,205,5860,187,5725,174,5485,161,5274,161,5076,169,4878,178,4666,183,4425,178,4142,157,4101,152"/>
+<area shape="rect" id="Node000037" href="$_x_trace_8cpp.html" title=" " alt="" coords="5489,211,5683,253"/>
+<area shape="poly" id="edge38_Node000021_Node000037" title=" " alt="" coords="4103,147,4142,152,4345,168,4517,173,4669,172,4811,167,4953,163,5104,165,5276,176,5478,200,5518,210,5513,210,5478,205,5276,181,5104,170,4953,169,4811,172,4669,177,4517,179,4345,174,4142,157,4102,152"/>
+<area shape="rect" id="Node000027" href="$_d_i_o_stream_device_wifi_8cpp.html" title=" " alt="" coords="3100,309,3365,368"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="3235,275,3235,311,3231,307,3231,279"/>
+<area shape="rect" id="Node000032" href="$_d_i_o_l_i_n_u_x_network_manager_8cpp.html" title=" " alt="" coords="4317,309,4583,368"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="4452,275,4452,311,4448,307,4448,279"/>
+</map>

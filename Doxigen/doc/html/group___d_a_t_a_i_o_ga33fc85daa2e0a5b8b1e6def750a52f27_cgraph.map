@@ -1,0 +1,31 @@
+<map id="DIOCOREPROTOCOL_HEADER::Compare" name="DIOCOREPROTOCOL_HEADER::Compare">
+<area shape="rect" id="Node000001" title="Compare." alt="" coords="5,389,228,432"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga61c3e080664d9bba652985836e0fdb4e" title="Constructor of class." alt="" coords="276,5,506,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,388,132,324,160,235,181,187,206,140,237,96,274,58,281,55,278,59,277,62,241,100,211,143,186,189,165,237,138,325,124,389"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="336,72,446,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,388,136,331,166,255,186,215,211,176,240,140,274,109,296,96,322,89,318,93,298,101,277,113,244,143,215,179,191,218,171,257,141,333,125,390"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga98bc8a05792b8a75252dae56e426414b" title="Get block amount." alt="" coords="280,123,502,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="124,388,145,343,177,286,220,226,246,199,274,175,284,171,280,175,277,179,249,203,224,230,181,289,149,346,129,390"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga9d9c6500481bfa882d4891eefef9f9c0" title="Get block index." alt="" coords="280,189,502,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,387,188,316,228,276,274,242,286,237,283,241,277,246,232,280,192,319,135,390"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga6a5fa92d570f661fc30ec008ff577eef" title="Get content compress size." alt="" coords="280,256,502,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="145,387,203,347,275,308,292,303,288,306,277,313,206,352,149,391"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga40deb02ac2d26f18fb1eb5f3d86f26d5" title="Get content CRC32." alt="" coords="280,323,502,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="206,387,287,368,284,371,209,391"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga90e0b78918d753d553f1eaadef1f5ade" title="Get content size." alt="" coords="280,389,502,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="227,408,266,409,262,412,230,413"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga7387de50f001258d86d2d9156a171e92" title="Get content type." alt="" coords="280,456,502,499"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="206,430,288,450,283,453,208,435"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gacee56e0d5206b18c206428d54ed9f2e0" title="Get date time send." alt="" coords="280,523,502,565"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="146,430,206,470,277,508,293,516,288,517,275,513,203,474,147,435"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga6af3a6cdfb0f76dffdd73bca455a10c6" title="Get ID message." alt="" coords="280,589,502,632"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="133,430,192,502,232,541,277,575,287,582,282,583,274,580,228,545,188,506,132,435"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga2b8ebf1f247eaffd53e24b93c9fbe534" title="Get message type." alt="" coords="280,656,502,699"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="126,430,149,476,181,533,224,592,249,618,277,642,285,648,279,648,274,646,246,622,220,595,177,536,145,478,126,435"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga60bfa40d65d831e922c1ef8746374f51" title="Get operation." alt="" coords="280,723,502,765"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="123,430,142,488,172,563,192,602,217,641,245,677,277,709,283,715,278,714,274,713,241,681,212,644,188,605,167,565,137,489,123,435"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga3cc94d829c812a519868416e7015ee8e" title="Get operation param." alt="" coords="280,789,502,832"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="121,430,136,499,163,592,184,641,209,690,240,736,277,775,282,781,277,780,274,779,236,739,205,693,179,644,158,593,131,500,120,435"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga76ef7d9b02a4e3f43c9aeaa3db975df3" title="Set serialization method." alt="" coords="554,5,777,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,24,541,25,536,28,508,29"/>
+</map>

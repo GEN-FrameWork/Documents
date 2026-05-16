@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL::DeleteAnswer" name="DIOPROTOCOL::DeleteAnswer">
+<area shape="rect" id="Node000001" title="Delete answer." alt="" coords="5,47,215,73"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gafd7500977b6bd7b7ef832938db88f6c8" title="Get ID." alt="" coords="263,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,43,250,41,245,42,214,49"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga21aca3269d7d5343a1759324f594ea33" title="Get type." alt="" coords="263,72,449,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,71,250,78,245,79,213,77"/>
+</map>

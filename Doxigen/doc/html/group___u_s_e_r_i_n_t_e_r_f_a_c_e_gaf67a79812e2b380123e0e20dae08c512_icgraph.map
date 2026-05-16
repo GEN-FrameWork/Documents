@@ -1,0 +1,24 @@
+<map id="UI_ELEMENT::GetColor" name="UI_ELEMENT::GetColor">
+<area shape="rect" id="Node000001" title="Get color." alt="" coords="514,264,678,291"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac78008dc843b1d53f8e6f1655f9a3187" title="Draw edit text." alt="" coords="279,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="583,249,567,209,541,158,507,106,464,62,448,51,448,46,468,58,511,103,546,155,571,207,588,250"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac0f8999aa97ade79eddde09843c0e045" title="Draw form." alt="" coords="261,72,466,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="579,249,560,219,534,181,502,144,465,113,444,102,443,97,467,108,506,140,539,178,565,216,584,251"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac820311bea5ed0996d3267400da51b4d" title="Draw form." alt="" coords="280,123,447,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="567,253,521,217,465,180,441,169,441,163,467,175,525,213,572,253"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0c948f064ba7ecb76a2c5e0888b626f7" title="Draw list box." alt="" coords="279,189,448,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="529,260,441,235,440,230,535,258"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="279,256,448,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="496,278,448,280,447,275,501,277"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1426b017c576d9502bb933e9a5422104" title="Draw text." alt="" coords="263,323,464,349"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="524,296,467,313,422,325,420,319,465,308,529,294"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba15bc7bc62cf656a541a97bc9c4f2f9" title="Draw text box." alt="" coords="25,428,193,471"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="568,299,522,334,467,364,411,384,366,395,261,415,195,431,193,426,260,409,365,390,410,379,465,359,519,330,563,302"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gacc271104b8b166a01ce3e23b46b598b8" title="Option add text." alt="" coords="264,424,462,467"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="577,301,530,356,500,383,467,408,432,426,430,421,465,403,497,379,526,352,572,304"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8321da5771467d2644f259389acdea03" title="Text box generate lines." alt="" coords="271,491,456,533"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="586,303,569,345,543,392,510,440,468,481,449,493,447,488,464,477,505,436,539,389,565,342,582,307"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga87c6c1ed58d34e3bc4592a5a01b3f8cc" title="Draw menu." alt="" coords="5,72,213,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,87,215,88,212,83,247,84"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="256,487,193,473,194,467,262,486"/>
+</map>

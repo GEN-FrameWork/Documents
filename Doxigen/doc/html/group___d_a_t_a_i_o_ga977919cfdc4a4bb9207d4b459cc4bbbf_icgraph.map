@@ -1,0 +1,11 @@
+<map id="DIOEMAILADDRESS::IsValid" name="DIOEMAILADDRESS::IsValid">
+<area shape="rect" id="Node000001" title="Is valid." alt="" coords="438,56,636,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6ff23ddc249f41bb311a9bb769b43594" title="Add recipient." alt="" coords="222,56,390,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,70,391,72,390,67,425,69"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga12592f6ca22311c0f3aa632466e6b929" title="Add recipient." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,53,150,35,150,30,233,51"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa3459341eb96145263771e478aa8d3e9" title="Add recipient." alt="" coords="5,56,174,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,70,175,72,174,67,209,69"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac40feb5e13ad2685553f20c09d8fcc74" title="Add recipient." alt="" coords="5,107,174,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="233,86,150,109,149,103,228,87"/>
+</map>

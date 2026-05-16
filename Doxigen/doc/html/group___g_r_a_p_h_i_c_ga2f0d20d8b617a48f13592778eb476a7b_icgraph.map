@@ -1,0 +1,46 @@
+<map id="GRPFACTORY::GetInstance" name="GRPFACTORY::GetInstance">
+<area shape="rect" id="Node000001" title="Get instance." alt="" coords="866,431,1057,457"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga930ae26fffacb1bd71026dfb590636b5" title="Capture content." alt="" coords="580,5,810,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,414,946,343,923,248,905,197,882,148,853,102,817,62,803,51,803,46,820,58,857,99,887,145,910,195,928,246,951,342,961,416"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a6b99b118b7563208c8f904dcf9c90d22" title="Convert to mode." alt="" coords="571,72,818,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="953,414,940,356,915,278,897,237,874,197,848,161,817,129,802,118,801,112,820,125,852,157,879,194,901,235,920,276,945,354,958,416"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga6fa475c9228a35f6e835dfcd759eafbb" title="Create." alt="" coords="618,139,772,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="951,415,935,365,909,300,870,234,845,205,817,180,795,167,773,160,772,155,797,163,820,175,849,201,874,231,914,298,940,363,956,417"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#gaf578abcdc5642e8145bb48fc221e84a3" title="Create bitmap from buffer." alt="" coords="592,189,797,232"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="946,416,926,379,898,333,861,286,817,246,798,235,797,229,820,242,865,282,902,330,931,377,951,418"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#ga814cb4a4c7c058ac75d4c2e39710c952" title="Create bitmap from buffer." alt="" coords="594,256,795,299"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="938,418,887,366,853,337,817,313,794,302,794,297,820,308,857,333,890,362,943,419"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga6843994e5c9bbe947b09c835509c54f7" title="Create bitmap from buffer." alt="" coords="592,323,797,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="918,423,817,380,784,368,783,363,819,375,923,423"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#ga7b15481dbd5dc66f5154266632341efd" title="Create bitmap from buffer." alt="" coords="594,389,796,432"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="848,431,797,426,796,421,854,430"/>
+<area shape="rect" id="Node000014" href="$group___g_r_a_p_h_i_c.html#ga97dc37713144a1897c7f7aa99af9c0d1" title="Create bitmap from file." alt="" coords="592,456,797,499"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="849,459,798,467,797,462,854,457"/>
+<area shape="rect" id="Node000015" href="$group___g_r_a_p_h_i_c.html#ga69ed2b332c61759dafedaf177b03c2ff" title="Create bitmap from file." alt="" coords="594,523,795,565"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="923,464,819,513,784,525,783,520,817,508,918,466"/>
+<area shape="rect" id="Node000016" href="$group___g_r_a_p_h_i_c.html#gad8daa7409a348a5c147a15dfa25af96d" title="Create bitmap from file." alt="" coords="592,589,797,632"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="942,468,890,526,857,555,820,580,795,591,793,586,817,575,853,551,887,522,938,471"/>
+<area shape="rect" id="Node000017" href="$group___g_r_a_p_h_i_c.html#gac1f099f55a03a51c23a2f9381c643bc8" title="Create bitmap from file." alt="" coords="594,656,796,699"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="950,469,931,511,902,558,865,606,820,646,797,659,795,654,817,642,861,602,898,555,926,509,946,473"/>
+<area shape="rect" id="Node000018" href="$group___g_r_a_p_h_i_c.html#ga8e3d1ac608c44727c2d7396bae424661" title="Create canvas." alt="" coords="588,723,801,749"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="956,470,940,525,914,590,874,657,849,687,820,713,799,725,798,720,817,709,845,683,870,654,909,588,935,523,952,474"/>
+<area shape="rect" id="Node000020" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ae6acefef5adede29142359ceed6e91d0" title="Get bitmap." alt="" coords="592,773,797,800"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="958,471,946,534,921,613,903,655,880,695,853,732,820,763,798,777,796,772,817,759,849,728,876,692,898,652,916,611,941,533,954,475"/>
+<area shape="rect" id="Node000022" href="$group___g_r_a_p_h_i_c.html#ga4a22870f4c0c7a3b06e969de96e464f0" title="Destructor of class." alt="" coords="576,824,813,851"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="960,471,951,543,928,635,910,684,886,732,857,776,820,814,802,826,800,821,817,810,853,773,882,729,905,682,923,634,946,542,956,474"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga58c938908d513bf3b98c74999f893952" title="Create." alt="" coords="291,324,507,351"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="601,166,572,180,520,214,474,255,437,294,412,325,408,322,433,291,471,251,517,210,570,175,605,163"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga79d261eaa1e45a8604c7031368c370e6" title="Create." alt="" coords="275,101,523,144"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="600,144,524,137,522,132,604,142"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab27facc03a2e864a87e033cedec6cc8f" title="Create." alt="" coords="287,168,510,195"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="600,163,512,173,510,168,604,160"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae4dd3fe37d2648962f491fc8ca604bfc" title="On create window." alt="" coords="5,448,227,491"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="353,360,166,450,162,445,356,355"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2b3a8bc3a939dd2948d704ad3f20adc8" title="Create." alt="" coords="21,160,211,203"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="269,183,213,184,210,179,274,180"/>
+<area shape="rect" id="Node000019" href="$group___g_r_a_p_h_i_c.html#gacb71ec461381c2e7bcfe51936a7a1cc7" title="Create viewport." alt="" coords="296,587,502,613"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="589,718,570,713,524,691,480,664,416,617,417,611,483,659,526,686,572,708,594,718"/>
+<area shape="poly" id="edge19_Node000019_Node000006" title=" " alt="" coords="352,581,164,494,164,489,356,578"/>
+<area shape="rect" id="Node000021" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ac85069cec134430dfdc83210b4fabf43" title="Draw framerate." alt="" coords="283,773,515,800"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="574,787,516,789,515,784,579,786"/>
+</map>

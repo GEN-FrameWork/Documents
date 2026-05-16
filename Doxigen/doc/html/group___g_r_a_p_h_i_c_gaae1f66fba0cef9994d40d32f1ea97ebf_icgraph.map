@@ -1,0 +1,19 @@
+<map id="GRPPROPERTIES::GetBytesperPixel" name="GRPPROPERTIES::GetBytesperPixel">
+<area shape="rect" id="Node000001" title="Get bytesper pixel." alt="" coords="554,189,771,232"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gab167f2c0ea3d8cfc6a99d10398e9a99b" title="Buffer create." alt="" coords="299,5,492,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,176,582,110,545,75,505,46,481,35,480,30,507,42,549,71,586,106,642,177"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#afea173a205e232ce1abae0e8a5a0f0ca" title="Buffer create." alt="" coords="308,56,484,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="618,180,566,147,505,113,478,102,478,97,507,108,569,142,623,180"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a820dff107b6cfbea6923ed292a2511b8" title="Buffer set to zero." alt="" coords="308,123,484,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="557,185,484,169,484,163,562,185"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a10505311b2531b5b5a65fc9b5f54843e" title="Copy buffer render from viewport." alt="" coords="292,189,500,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="536,211,500,213,500,208,541,210"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ae6acefef5adede29142359ceed6e91d0" title="Get bitmap." alt="" coords="294,256,498,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="545,237,461,258,460,253,551,235"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ab7e54ba55651570a1e3e472c81c2bc4b" title="Put bitmap no alpha." alt="" coords="286,307,506,349"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="615,239,563,270,507,297,476,309,474,304,505,292,561,266,610,241"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga4752555f22f0a9c4b1f27976cd26c47c" title="Update." alt="" coords="286,373,506,400"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="638,243,583,307,547,338,507,364,480,375,479,370,505,359,543,333,579,303,634,245"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#ac85069cec134430dfdc83210b4fabf43" title="Draw framerate." alt="" coords="5,256,238,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="275,270,239,272,238,267,281,269"/>
+</map>

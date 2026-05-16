@@ -1,0 +1,9 @@
+<map id="INPBUTTON::IsPressed" name="INPBUTTON::IsPressed">
+<area shape="rect" id="Node000001" title="Is pressed." alt="" coords="315,64,481,91"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gaa01ced77389c010c8b7efbbd0614237a" title="Is press button." alt="" coords="43,5,229,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,60,266,47,213,35,212,30,267,41,333,59"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga6c10839aa69914b97e9fd0a0c2a709fb" title="Is pressed with release." alt="" coords="39,56,233,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,78,233,80,233,75,302,77"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaa725b98d2d699f0233e8e286d3d7e605" title="Update." alt="" coords="5,123,267,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,95,223,125,222,119,325,96"/>
+</map>

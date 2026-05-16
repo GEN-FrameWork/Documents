@@ -1,0 +1,7 @@
+<map id="INPCURSOR::IsPositionInRect" name="INPCURSOR::IsPositionInRect">
+<area shape="rect" id="Node000001" title="Is position in rect." alt="" coords="5,47,214,73"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gadfd993e1bfb7ba5da59d3950c7e44731" title="Get x." alt="" coords="262,5,459,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,43,249,41,244,42,215,49"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga02972bce89abf3715627c160c8db2ffb" title="Get y." alt="" coords="262,72,459,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,71,249,78,244,78,214,77"/>
+</map>

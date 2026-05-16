@@ -1,0 +1,30 @@
+<map id="XFILEJSON::DecodeAllLines" name="XFILEJSON::DecodeAllLines">
+<area shape="rect" id="Node000001" title="Decode all lines." alt="" coords="5,183,199,209"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga44658199a2510a12bc33457883a8511a" title="Delete all lines." alt="" coords="252,157,426,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,183,239,180,234,183,200,188"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga22d8f50d12a2504835956d22576bfb9e" title="Get all in one line." alt="" coords="247,208,432,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,204,234,209,229,211,200,209"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="500,56,612,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,205,430,194,441,182,448,170,454,145,460,119,467,106,478,93,485,91,489,88,482,97,471,109,465,121,459,146,453,172,446,185,434,198,415,210"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="492,107,620,133"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="404,205,431,194,445,183,454,173,464,162,479,150,500,141,504,139,481,154,468,165,458,176,449,187,433,198,407,210"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="696,157,834,184"/>
+<area shape="poly" id="edge15_Node000003_Node000009" title=" " alt="" coords="410,205,480,193,683,175,678,177,480,199,411,210"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="501,208,611,235"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="432,219,488,221,483,222,433,224"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga17ff8b9cf9fe8e31b663fa7d4d3f1699" title="Get LF." alt="" coords="493,283,619,309"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="381,233,503,277,498,278,380,238"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gadc394551e572ffa1e6c3b9e3ac117f59" title="Get line." alt="" coords="488,333,624,360"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="357,232,411,275,481,319,495,328,490,327,479,324,408,279,356,238"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaea68e645b7632bd70b5def1c5c52551c" title="Get N lines." alt="" coords="480,384,632,411"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="351,233,402,298,439,337,481,370,491,378,486,377,479,374,436,341,398,302,349,238"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="697,5,833,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="612,53,694,35,689,37,614,58"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="680,56,850,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="612,67,668,69,662,70,613,72"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="898,81,1047,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="850,77,885,83,880,84,850,82"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="620,114,884,99,879,101,621,119"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="614,131,695,153,690,153,614,137"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="520,281,514,274,519,264,533,258,556,256,581,259,596,268,590,267,580,264,556,261,534,263,522,268,520,273,525,283"/>
+</map>

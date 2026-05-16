@@ -1,0 +1,9 @@
+<map id="XDRIVEIMAGEMANAGER_DRIVE::GetSize" name="XDRIVEIMAGEMANAGER_DRIVE::GetSize">
+<area shape="rect" id="Node000001" title="Get size." alt="" coords="237,72,420,115"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gabadfe239441b290fe99d926ee2d22030" title="Get size in GB." alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,68,174,51,174,46,240,66"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gafe7227ee93b72783f6aad31ffcd315ba" title="Read to IMG file." alt="" coords="5,72,189,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,94,190,96,189,91,224,93"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae7812615073557f51595d5bc3fdad651" title="Write from IMG file." alt="" coords="5,139,189,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,119,174,141,173,135,235,120"/>
+</map>

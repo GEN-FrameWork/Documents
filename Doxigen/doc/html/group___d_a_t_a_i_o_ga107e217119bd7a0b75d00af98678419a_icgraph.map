@@ -1,0 +1,21 @@
+<map id="DIODNSRESOLVER_DNSSERVER::SetPort" name="DIODNSRESOLVER_DNSSERVER::SetPort">
+<area shape="rect" id="Node000001" title="Set port." alt="" coords="544,172,781,215"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5751707b8b61082110ed3f392ffab3b6" title="Add DNS server." alt="" coords="291,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,161,569,112,533,85,495,62,471,51,470,46,497,58,536,81,572,108,632,162"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga528c14a919db18335d8b55355dea064e" title="Add DNS server." alt="" coords="291,72,480,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="594,166,495,129,462,118,461,113,497,124,599,165"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1ab2731dfd80ae409e83d4820dbbe229" title="Add DNS server." alt="" coords="291,139,480,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="526,178,481,174,480,169,531,177"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga1ccd3c8b1d4543b96ab9d34737837569" title="DNS server add DNS server." alt="" coords="275,205,496,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,210,497,216,496,211,531,209"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac19ff93f0f10a0f42247c3b4df66eb6b" title="DNS server add DNS server." alt="" coords="275,272,496,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="599,220,497,263,462,274,461,269,495,257,594,222"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gab18720d2f63e7199e6aafe93802ad27e" title="DNS server add DNS server." alt="" coords="275,339,496,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="632,224,572,279,536,306,497,329,471,341,470,336,495,324,533,301,569,275,627,226"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac6e1ca0f02d782ab820457b4d5f8b40b" title="Add DNS server." alt="" coords="21,105,211,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,148,212,141,211,136,278,145"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga0ae62d182e35d827457b40d8aa27d16d" title="Ini." alt="" coords="21,172,211,215"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="273,175,212,184,210,179,278,172"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga294af428aaaf2c7a9f819e9eef87f27c" title="DNS server add DNS server." alt="" coords="5,339,227,381"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="257,360,227,363,227,357,262,360"/>
+</map>

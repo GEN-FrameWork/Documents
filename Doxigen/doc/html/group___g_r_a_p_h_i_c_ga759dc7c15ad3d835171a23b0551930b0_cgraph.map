@@ -1,0 +1,9 @@
+<map id="GRPSCREEN::Style_Add" name="GRPSCREEN::Style_Add">
+<area shape="rect" id="Node000001" title="Style add." alt="" coords="5,31,181,57"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga3109f9aae630c556303544f26e7219cd" title="Styles get." alt="" coords="229,5,409,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,32,216,30,211,31,182,37"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga2e33a9c66fb4edc0e5cf8a4400f4ac0d" title="Styles set." alt="" coords="229,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,51,216,57,211,58,181,57"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0c8501b96c56259fe1badcc83c4a6a84" title="Styles is full screen." alt="" coords="457,48,648,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,67,444,69,439,69,409,72"/>
+</map>

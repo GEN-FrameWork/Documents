@@ -1,0 +1,11 @@
+<map id="XUUID::GenerateRandom" name="XUUID::GenerateRandom">
+<area shape="rect" id="Node000001" title="Generate random." alt="" coords="596,56,770,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6742032e3b09bb6b93af378f7069435a" title="Create header." alt="" coords="301,56,548,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,69,549,72,548,67,583,69"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad2f3e44172d47961d671933c9630018c" title="Create header." alt="" coords="5,5,253,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,54,211,35,211,30,330,52"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaf6eeffdfb1ee271b5ee21f7292de8cdb" title="Create header." alt="" coords="5,56,253,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="282,70,254,72,253,67,287,69"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga615c864a72ba4fb54bf4c11e40ff5e60" title="Create header." alt="" coords="5,107,253,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="330,86,211,109,210,103,325,86"/>
+</map>

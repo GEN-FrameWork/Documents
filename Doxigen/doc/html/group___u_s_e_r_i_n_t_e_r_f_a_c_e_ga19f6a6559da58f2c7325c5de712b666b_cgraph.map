@@ -1,0 +1,36 @@
+<map id="UI_MANAGER::Layout_PutBackgroundColor" name="UI_MANAGER::Layout_PutBackgroundColor">
+<area shape="rect" id="Node000001" title="Layout put background color." alt="" coords="5,301,163,344"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga985f5b73e454710aba979a9ebf7e4c13" title="Clear." alt="" coords="240,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,300,99,249,122,181,158,110,181,78,209,49,229,37,226,41,212,53,185,81,162,113,127,184,104,251,92,301"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1480cb2414cf5a8246c691cd673c9134" title="Copy from." alt="" coords="233,157,392,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,299,146,250,176,223,209,200,240,188,236,192,212,205,180,228,150,254,105,302"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab9be8edeb400b94dd7a7cc8d91c51c5b" title="Get alpha." alt="" coords="469,56,620,83"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="88,300,102,257,126,203,161,149,184,125,209,104,238,89,268,76,332,61,395,55,456,57,451,60,395,60,333,66,270,81,240,93,212,109,187,129,166,152,131,206,107,259,93,302"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga2a664f4506066fbfc510247ca6a22eaa" title="Get blue." alt="" coords="472,107,617,133"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="91,300,107,264,132,220,166,177,187,159,209,143,239,129,270,118,335,105,399,102,459,106,455,109,399,107,336,111,272,123,241,134,212,148,190,163,170,181,137,223,112,266,96,302"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga2bb4f4fd226c676b9e26f2889b2aa525" title="Get green." alt="" coords="468,208,621,235"/>
+<area shape="poly" id="edge15_Node000001_Node000006" title=" " alt="" coords="134,299,210,272,336,245,455,229,451,232,337,250,211,277,137,303"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga85453cc136931dec4283c2878504f67b" title="Get red." alt="" coords="474,259,616,285"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="162,308,210,301,460,277,456,281,211,307,164,313"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5cffc335c9a8bce32963b81e7e0738bc" title="Is valid." alt="" coords="476,309,613,336"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="162,320,462,320,459,325,164,325"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga58db40703b7770f698bce71cca8ee0d4" title="Get background." alt="" coords="217,360,408,387"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="162,338,236,355,232,357,164,343"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6fbab7908bac7c392ed81ad03facd6c1" title="Get canvas." alt="" coords="211,411,414,437"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="115,342,161,370,212,396,232,405,227,406,210,401,158,375,116,347"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab99adb3da3a58513e23f3ec228f96f66" title="Get color." alt="" coords="213,461,412,488"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="101,342,148,396,178,424,212,447,225,455,220,456,209,452,175,428,144,399,101,347"/>
+<area shape="rect" id="Node000013" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac11bb761029418787fa1de5ada9e4851" title="Get draw mode." alt="" coords="229,512,396,539"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="95,342,114,378,139,420,172,462,212,498,221,505,216,505,209,502,168,466,135,423,109,380,94,347"/>
+<area shape="rect" id="Node000014" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaed72f96ec27e6d5dfe63e2169c15be65" title="Get skin." alt="" coords="238,563,386,589"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="91,342,108,387,132,443,166,500,188,526,212,549,227,559,221,559,209,553,184,530,162,503,127,445,103,389,91,347"/>
+<area shape="rect" id="Node000015" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga44ddfe5b7f9e92eb21c68b96817e4986" title="Layouts get." alt="" coords="216,613,408,640"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="89,342,102,397,125,466,141,502,160,538,184,571,212,599,219,606,213,605,209,603,180,574,156,541,136,505,120,468,97,398,88,347"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="336,155,393,124,461,92,482,86,478,90,463,97,395,129,339,159"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="376,154,468,136,463,139,378,159"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="376,182,468,203,463,205,378,187"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="337,182,395,212,463,244,482,253,477,254,461,249,393,217,338,187"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="326,182,383,237,422,268,463,295,476,303,471,303,461,300,419,272,380,241,326,187"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga10ee614deff0e01affa02924db863fb2" title="Constructor of class." alt="" coords="462,157,627,184"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="391,168,449,169,444,172,393,173"/>
+</map>

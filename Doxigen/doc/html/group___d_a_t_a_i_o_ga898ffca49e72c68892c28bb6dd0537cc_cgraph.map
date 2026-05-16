@@ -1,0 +1,40 @@
+<map id="DIOIEC60870_5::CMD_C_CI_NU_2_Read" name="DIOIEC60870_5::CMD_C_CI_NU_2_Read">
+<area shape="rect" id="Node000001" title="CMDCCINU2 read." alt="" coords="5,240,162,283"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a51a790aac8efd4603aee608ddcc83423" title=" " alt="" coords="254,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,239,103,197,128,143,162,88,184,63,208,42,241,27,238,31,211,46,187,67,166,92,132,146,108,199,94,240"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga56c2346e42a835db123e967187bce3a5" title="CMD request user data class2." alt="" coords="226,56,400,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,238,140,174,171,139,208,109,219,104,215,108,211,113,175,143,144,178,100,241"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="256,123,370,149"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="104,238,149,197,178,177,209,159,243,148,239,151,211,164,181,181,153,202,108,241"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga9029159ff5a7f824e3117eb4f6741edd" title="Get date time." alt="" coords="221,173,404,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,237,224,219,220,223,160,242"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga80949cb64bd3b96fdf741308c5965cdb" title="Get index values." alt="" coords="221,240,404,283"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="161,259,208,260,203,263,163,264"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="480,151,619,177"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="136,281,197,300,268,313,306,315,344,313,380,306,415,292,432,279,440,263,448,245,462,225,511,188,515,185,466,228,453,247,445,265,436,282,417,297,382,311,344,319,306,321,268,319,195,305,137,286"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga17ae2a6e5d190c06baeab355b760e159" title="Get time label type a." alt="" coords="210,357,416,400"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="116,280,161,309,211,336,239,350,234,351,208,341,158,313,116,286"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga754978b1c14eb7fef19532a3f91f1359" title="Get values." alt="" coords="221,424,404,467"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="98,280,144,345,175,380,211,410,220,417,214,417,208,414,171,384,140,348,97,286"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="233,491,393,517"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="91,280,108,324,132,377,166,431,187,455,211,477,221,485,216,484,208,481,184,459,162,434,128,379,103,326,91,286"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#a38690c942661ae4dfb2bece01ea9f169" title=" " alt="" coords="470,5,629,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,16,457,17,452,20,373,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gabfaf967d136d37f0c5dcf4ded0296dac" title="Get byte." alt="" coords="480,88,620,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="399,84,467,92,462,94,401,89"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="683,120,843,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="620,109,671,119,666,120,620,114"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="619,151,671,146,666,148,621,156"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad0bec954a744ea5e976275973cd6eea7" title="Set day." alt="" coords="475,239,624,265"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="383,354,414,337,429,322,437,306,446,291,462,275,470,274,475,271,466,279,450,294,442,309,433,325,418,341,386,359"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga13a958415b92d0fd57f4cbac8851a88d" title="Set hours." alt="" coords="470,289,630,316"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="377,354,463,325,489,320,484,322,465,331,378,359"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga69173332be1d9f8c586e1a88417b0515" title="Set minutes." alt="" coords="464,340,635,367"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="416,365,451,364,446,365,417,370"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga001f98667032c95241a60a29bae990bf" title="Set month." alt="" coords="469,391,630,417"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="416,387,456,393,451,394,417,392"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga5f69e1fb5fa02a3d1346dbf8b00a114d" title="Set to zero." alt="" coords="467,441,632,468"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="382,398,417,409,465,427,489,437,484,436,463,432,415,415,382,403"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga794f5f740556e7309c1db19815f8b3b2" title="Set year." alt="" coords="474,492,625,519"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="397,398,418,410,434,427,442,445,450,462,466,478,474,485,469,484,462,482,446,465,437,447,430,430,414,414,397,403"/>
+</map>

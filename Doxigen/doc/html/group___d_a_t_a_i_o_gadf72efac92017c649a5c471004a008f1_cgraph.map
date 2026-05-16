@@ -1,0 +1,12 @@
+<map id="DIOI2CLSM303DLHC::WriteRegister" name="DIOI2CLSM303DLHC::WriteRegister">
+<area shape="rect" id="Node000001" title="Write register." alt="" coords="5,56,244,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="319,31,434,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,55,306,51,301,52,244,60"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="292,81,462,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="244,79,279,85,273,85,244,84"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="510,5,643,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,34,497,29,492,29,435,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="691,31,851,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="435,41,679,44,673,44,435,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,25,678,32,673,32,644,30"/>
+</map>

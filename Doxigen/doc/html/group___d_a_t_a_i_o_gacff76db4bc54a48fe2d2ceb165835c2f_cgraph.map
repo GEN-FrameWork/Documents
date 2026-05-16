@@ -1,0 +1,10 @@
+<map id="DIOSTREAM::WaitToConnected" name="DIOSTREAM::WaitToConnected">
+<area shape="rect" id="Node000001" title="Wait to connected." alt="" coords="5,31,218,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga27738d1dd542459c1e475d1c9e1bab85" title="Get status." alt="" coords="497,5,665,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,27,265,16,377,11,484,14,478,15,377,16,266,21,183,33"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga290f50f5aac0cbb64ab858208da9e9a8" title="Is connected." alt="" coords="266,31,449,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,41,252,44,247,44,218,47"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="290,81,425,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,55,277,77,272,78,180,61"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="449,31,484,30,479,30,450,36"/>
+</map>

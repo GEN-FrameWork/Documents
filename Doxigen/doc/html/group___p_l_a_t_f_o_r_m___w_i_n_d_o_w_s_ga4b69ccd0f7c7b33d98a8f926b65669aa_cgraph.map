@@ -1,0 +1,34 @@
+<map id="XWINDOWSVIRTUALDESKTOPMANAGER::CreateNewDesktop" name="XWINDOWSVIRTUALDESKTOPMANAGER::CreateNewDesktop">
+<area shape="rect" id="Node000001" title="Create GEN_NEW desktop." alt="" coords="5,276,293,319"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga5daae19734452be6010c65f3d812aa00" title="Adjust size." alt="" coords="408,157,560,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,273,434,187,432,192,209,278"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="716,259,827,285"/>
+<area shape="poly" id="edge17_Node000001_Node000009" title=" " alt="" coords="293,289,702,272,700,277,293,294"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga3d6c3901b565cacc97e1dd2bd7b5fd6f" title="Enum all desktops." alt="" coords="341,305,628,348"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="293,307,328,312,322,313,293,313"/>
+<area shape="rect" id="Node000015" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga769e88c3c8df319634f99f6cfe73ff7f" title="Is desktop created." alt="" coords="341,372,628,415"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="213,317,341,357,372,368,367,368,340,363,212,322"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="716,56,828,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,154,588,124,675,92,703,86,698,88,677,97,590,129,518,159"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="915,157,1085,184"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="561,168,902,170,898,172,561,173"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7ee44788f0c4c71e32d634a155cf6b78" title="Delete characters." alt="" coords="676,107,867,133"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="560,155,680,136,675,137,562,160"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="517,182,590,212,677,244,704,255,699,255,675,249,588,217,517,187"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="717,208,826,235"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="561,181,704,209,699,210,561,187"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="697,5,846,32"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="501,155,574,100,623,69,675,42,695,36,690,38,677,46,625,74,577,105,504,159"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="932,56,1068,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="828,67,919,69,914,70,829,72"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="828,79,868,92,921,118,969,149,963,148,919,123,866,97,828,84"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="835,131,924,153,919,154,835,137"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1133,157,1271,184"/>
+<area shape="poly" id="edge6_Node000007_Node000008" title=" " alt="" coords="868,122,973,130,1085,143,1132,153,1127,154,1084,148,972,135,868,127"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="826,207,924,187,919,189,827,212"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="933,208,1067,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="826,219,920,221,915,222,827,224"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="1056,205,1128,189,1134,188,1057,210"/>
+<area shape="rect" id="Node000014" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="679,313,864,340"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="628,324,666,326,661,327,629,329"/>
+</map>

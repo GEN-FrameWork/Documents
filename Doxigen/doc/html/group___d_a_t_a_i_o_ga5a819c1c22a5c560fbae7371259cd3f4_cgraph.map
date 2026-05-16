@@ -1,0 +1,23 @@
+<map id="DIOSTREAMDEVICE::CopyTo" name="DIOSTREAMDEVICE::CopyTo">
+<area shape="rect" id="Node000001" title="Copy to." alt="" coords="5,132,211,159"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga26e9e550de5fea9a34db4258c0bacbaa" title="Constructor of class." alt="" coords="259,5,550,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,130,179,86,217,61,258,42,282,35,278,38,260,46,220,66,183,90,126,134"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga57648049e851f7eb500406dbc271b0aa" title="Get description." alt="" coords="281,56,528,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,129,258,92,298,85,294,87,259,97,146,134"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad0a1f98026ecc0162838d1100c55a7e7" title="Get name." alt="" coords="296,107,512,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,134,283,129,278,132,212,139"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga13a17779ef8fb0b1c225b7b014c5a421" title="Get resource." alt="" coords="286,157,523,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,151,273,158,268,160,212,157"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="350,208,459,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,157,259,193,337,211,332,212,258,199,145,162"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga74026e419acdcfcd941ba928f9523e35" title="Set index." alt="" coords="298,259,510,285"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="125,156,183,201,220,225,260,244,286,255,281,255,258,249,217,229,179,205,124,162"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="616,183,750,209"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="459,214,603,203,597,204,460,219"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="598,233,767,260"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="460,224,585,237,580,238,459,229"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="821,183,959,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="750,193,808,196,803,196,751,199"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="815,233,965,260"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="768,244,802,247,797,247,768,249"/>
+</map>

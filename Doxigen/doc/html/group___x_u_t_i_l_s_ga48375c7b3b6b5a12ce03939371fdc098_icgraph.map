@@ -1,0 +1,12 @@
+<map id="XSTRING::IsNumber" name="XSTRING::IsNumber">
+<area shape="rect" id="Node000001" title="Is number." alt="" coords="727,31,873,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae3e589fa026072728a69dec38d03a32a" title="From string." alt="" coords="80,5,240,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="727,27,679,21,559,13,440,11,240,16,240,11,440,5,560,8,679,16,733,27"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gada2764acb174aa0ef87fa9c95cf96d54" title="Is decimal number." alt="" coords="424,31,618,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="709,44,619,47,618,41,714,44"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="363,81,679,124"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="721,61,626,83,625,78,716,61"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="406,37,240,27,240,22,410,35"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="5,81,315,124"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="345,103,315,105,315,100,350,103"/>
+</map>

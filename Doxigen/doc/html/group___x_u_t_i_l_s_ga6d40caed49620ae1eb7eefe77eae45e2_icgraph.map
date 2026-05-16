@@ -1,0 +1,9 @@
+<map id="XERRORMSG::GetCode" name="XERRORMSG::GetCode">
+<area shape="rect" id="Node000001" title="Get code." alt="" coords="461,31,630,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaa739b0b32ff15a0cd7b895ebf0bbc0e1" title="Erase msg." alt="" coords="228,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,33,413,32,414,26,448,33"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf2259e0488e581a937632255f14856b5" title="Find msg." alt="" coords="232,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="449,55,409,62,409,57,443,55"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafba0c2f79c45e54573a6413d57fc66a3" title="Add msg." alt="" coords="5,56,180,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,69,180,72,180,67,219,69"/>
+</map>

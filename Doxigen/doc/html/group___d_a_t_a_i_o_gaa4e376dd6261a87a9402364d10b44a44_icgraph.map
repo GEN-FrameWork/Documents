@@ -1,0 +1,7 @@
+<map id="DIOAPPLICATIONUPDATE::GetListOfVersionsToRestore" name="DIOAPPLICATIONUPDATE::GetListOfVersionsToRestore">
+<area shape="rect" id="Node000001" title="Get list of versions to restore." alt="" coords="241,39,436,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad10cddbc4f2ff27108caaf9de5c78a58" title="Eliminate old restorations." alt="" coords="5,5,193,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,45,193,42,193,37,228,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae0817a61b27dfeb5cc7ab1151f3e9c0f" title="Restore previous." alt="" coords="5,72,193,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,76,194,83,193,78,228,75"/>
+</map>

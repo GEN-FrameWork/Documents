@@ -1,0 +1,29 @@
+<map id="UI_MANAGER::Elements_RebuildDrawAreas" name="UI_MANAGER::Elements_RebuildDrawAreas">
+<area shape="rect" id="Node000001" title="Elements rebuild draw areas." alt="" coords="5,145,179,188"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0e54359d6e3901bac4190ac6ef2d1842" title="Elements rebuild draw areas." alt="" coords="236,116,410,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,153,223,149,219,152,180,158"/>
+<area shape="rect" id="Node000014" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga44ddfe5b7f9e92eb21c68b96817e4986" title="Layouts get." alt="" coords="227,183,419,209"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="178,175,213,181,209,183,180,180"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac11bb761029418787fa1de5ada9e4851" title="Get draw mode." alt="" coords="504,73,671,100"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,118,502,102,497,105,411,123"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaed72f96ec27e6d5dfe63e2169c15be65" title="Get skin." alt="" coords="514,124,662,151"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="409,135,501,136,496,138,411,140"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gadc9f0038fa97b1df027bfcf74cbe7b46" title="Rebuild all areas." alt="" coords="467,175,708,217"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="410,154,476,170,471,171,410,159"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga3461b402dfaabf0116ed843980c36d30" title="Get bitmap." alt="" coords="765,5,999,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="691,172,707,161,719,147,725,133,729,102,734,72,741,56,755,42,759,42,763,39,758,46,746,59,739,73,734,103,730,134,723,150,710,165,693,177"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gab593115449d842d590c67965f4a18e1e" title="Get extra data." alt="" coords="756,56,1008,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="687,172,707,161,722,144,730,127,738,109,755,93,763,91,768,88,758,97,742,112,734,129,726,147,710,165,690,176"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga40921b7125ad1371f106c7407a282e65" title="Get X pos." alt="" coords="770,107,994,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="670,171,707,160,756,143,791,136,786,138,757,148,709,165,672,177"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#ga85d9ae6da936bec74df8e0c139c0bcf1" title="Get Y pos." alt="" coords="770,157,994,184"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="708,183,757,181,752,182,709,188"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0da97abb824c95c1bbda4805baf9c25a" title="Get Z level." alt="" coords="796,208,968,235"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="709,204,783,212,778,213,709,209"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5f77e3728cb1b431d242b5745ee3f40f" title="Is visible." alt="" coords="801,259,963,285"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="656,215,757,244,794,255,789,255,756,249,656,221"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga627f9993b926a5de476eaa51913e9dd8" title="Must re draw." alt="" coords="787,309,977,336"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="619,215,681,256,757,295,781,305,776,305,755,300,679,261,618,221"/>
+<area shape="rect" id="Node000013" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga20d1e79d03956fafd409de37122549f8" title="Put bitmap no alpha." alt="" coords="761,360,1003,403"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="608,215,670,280,712,316,758,346,770,354,765,353,755,350,709,320,667,284,606,220"/>
+</map>

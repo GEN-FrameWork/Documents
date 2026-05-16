@@ -1,0 +1,30 @@
+<map id="DIOCHECKTCPIPCONNECTION_CUT::CopyFrom" name="DIOCHECKTCPIPCONNECTION_CUT::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,145,230,188"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga6565ca0dcdfeabb139752e36b7cca583" title="Copy to." alt="" coords="278,175,502,217"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,176,265,181,260,183,231,181"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga7145337da33184344d9a96b515887611" title="Constructor of class." alt="" coords="550,116,851,159"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="230,158,536,143,533,148,231,164"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga580f6018996774252bbae5660c4d1b91" title="Copy from." alt="" coords="618,183,784,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,193,605,195,599,197,503,199"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="502,172,572,161,567,163,503,177"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga621f922e6670d70f10c1c54149207b58" title="Get start date time." alt="" coords="588,233,813,276"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="502,215,576,230,571,231,502,220"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#gad26d0a7d5c368194250e6e77d2809f95" title="Set measure N seconds." alt="" coords="588,300,813,343"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="422,215,481,251,551,286,576,296,571,296,549,290,479,256,421,220"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="924,5,1075,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="784,194,819,186,850,169,863,154,870,140,873,108,877,75,884,58,898,42,908,37,913,35,901,46,889,61,882,76,879,108,875,141,867,157,853,173,821,191,785,200"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7d9f594a636ee4b57f072216eb1939d1" title="Get hours." alt="" coords="919,56,1080,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="784,192,818,184,850,169,866,151,873,132,881,112,898,93,904,91,909,89,901,97,885,115,878,134,871,154,853,173,820,189,785,197"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafac1807c4d262e7eb8c7777bab66fbde" title="Get milli seconds." alt="" coords="899,107,1100,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="784,184,850,168,874,156,898,143,918,139,923,137,900,148,877,161,852,173,785,189"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7bda5d718cadddffaa4aed78c8bb3402" title="Get minutes." alt="" coords="913,157,1086,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="784,186,901,179,895,180,785,192"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="918,208,1081,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="784,200,906,213,901,213,785,206"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4755ebb96abab2bf419a31af6dda1f7b" title="Get seconds." alt="" coords="911,259,1088,285"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="784,202,852,219,877,231,900,244,923,254,917,254,898,249,874,236,850,224,784,208"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="923,309,1076,336"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="785,195,820,203,853,219,871,238,878,258,885,277,901,295,912,304,907,303,898,299,881,280,873,260,866,241,850,223,818,208,784,200"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga6e56a4faee6d7ce69b2ce0b1c3f01c5f" title="Constructor of class." alt="" coords="909,360,1090,387"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="784,192,821,201,853,219,867,235,875,251,879,284,882,316,889,331,901,346,906,353,901,351,897,350,884,334,877,317,873,284,870,252,863,238,850,223,819,206,784,198"/>
+</map>

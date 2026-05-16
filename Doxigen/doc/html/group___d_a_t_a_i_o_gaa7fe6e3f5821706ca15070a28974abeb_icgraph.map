@@ -1,0 +1,11 @@
+<map id="DIOSTREAMDEVICEBLUETOOTH::GetChannel" name="DIOSTREAMDEVICEBLUETOOTH::GetChannel">
+<area shape="rect" id="Node000001" title="Get channel." alt="" coords="287,105,520,148"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga25aea60575a00579be54b8914a9096f5" title="Get channel dial up networking." alt="" coords="5,5,239,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,100,238,63,203,51,203,46,240,57,341,98"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga500db1f23183806b4d83dd959fe7c472" title="Get channel HID." alt="" coords="5,72,239,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,112,240,110,239,105,274,110"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga6b0d3d7fb077dd797d686580aead8759" title="Get channel obex push." alt="" coords="5,139,239,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,143,240,149,239,144,274,142"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga974d5196e53e77a3303490e6254ce34c" title="Get channel serial port." alt="" coords="5,205,239,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,154,240,196,204,207,202,202,238,191,335,155"/>
+</map>

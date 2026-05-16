@@ -1,0 +1,20 @@
+<map id="XBUFFER::Bit_AddData" name="XBUFFER::Bit_AddData">
+<area shape="rect" id="Node000001" title="Bit add data." alt="" coords="5,107,172,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="220,5,335,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,104,218,42,232,37,228,40,221,46,113,108"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="221,56,334,83"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="140,104,212,86,208,89,142,108"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="383,107,522,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="172,117,369,118,366,122,173,123"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad9bc0fe2244df7440d31b152bd2e24fb" title="Set." alt="" coords="396,157,509,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="172,129,383,159,379,163,172,134"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga51d327cd1dc2f2ae08c70596880dd85f" title="Swap quad word (8 bytes) hi1 lo1 h2 lo2 hi3 lo3 h4 lo4 &gt; lo3 hi3 lo4 hi4 lo2 hi2 lo1 hi1." alt="" coords="224,208,331,235"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="116,131,240,199,235,202,115,136"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="386,5,519,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,16,373,18,368,19,336,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="570,81,730,108"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="334,30,384,41,558,77,553,79,382,47,334,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,30,602,75,597,76,489,35"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="522,108,557,106,552,107,523,114"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="491,154,521,143,598,115,604,113,523,148,493,159"/>
+</map>

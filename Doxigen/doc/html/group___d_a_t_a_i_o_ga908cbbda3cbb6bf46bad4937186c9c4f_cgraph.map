@@ -1,0 +1,13 @@
+<map id="DIOCOREPROTOCOL_CONNECTION::Command_Do" name="DIOCOREPROTOCOL_CONNECTION::Command_Do">
+<area shape="rect" id="Node000001" title="command do" alt="" coords="5,123,262,165"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="383,5,493,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,120,229,80,309,42,370,27,365,30,311,46,231,84,167,124"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4346ecc3d2c1ea494a3094fe2d2c504a" title="Get bidirectionality mode." alt="" coords="320,56,556,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,120,325,101,320,104,235,125"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa84e4e920764d83d21ef294d0cb6af2c" title="Get type string." alt="" coords="320,123,556,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,141,307,143,302,145,263,147"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga2bc73ca6c0aa70ab77af450cdafea62f" title="Is empty." alt="" coords="377,189,498,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="248,163,364,187,359,189,248,169"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga4500f2309e618314eca511bc7a3658ca" title="Is server." alt="" coords="310,240,566,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,163,239,195,311,226,333,235,327,235,309,230,236,200,174,169"/>
+</map>

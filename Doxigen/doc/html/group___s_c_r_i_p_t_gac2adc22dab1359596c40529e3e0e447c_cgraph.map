@@ -1,0 +1,11 @@
+<map id="SCRIPT_CACHE::Cache_Add" name="SCRIPT_CACHE::Cache_Add">
+<area shape="rect" id="Node000001" title="Cache add." alt="" coords="5,31,208,57"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#gaf7cf81e5c9f49c405ba2ea95f3af1645" title="Cache get." alt="" coords="503,5,703,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,27,255,16,375,10,490,13,485,14,375,16,256,21,175,33"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#gafb3e1162f818cf6838f96b1c36c48db7" title="Cache set." alt="" coords="256,31,455,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,41,242,44,237,44,209,47"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="548,68,658,95"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="178,55,256,67,404,76,535,82,530,82,404,82,255,72,178,61"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="455,31,490,30,485,31,456,36"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="448,55,535,71,530,71,448,61"/>
+</map>

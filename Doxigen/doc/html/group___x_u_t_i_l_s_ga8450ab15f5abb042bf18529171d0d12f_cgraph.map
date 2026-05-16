@@ -1,0 +1,15 @@
+<map id="XSTRING::Add" name="XSTRING::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,107,118,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="195,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,104,115,73,164,42,182,36,178,39,167,46,118,77,80,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="182,56,318,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,104,185,85,181,89,115,108"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="181,107,320,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,117,168,119,163,121,119,123"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="166,157,335,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="114,131,186,152,181,154,114,137"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="176,208,325,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="79,131,118,163,167,194,182,202,177,202,164,198,115,167,78,137"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="383,157,532,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="335,168,370,170,365,171,336,173"/>
+</map>

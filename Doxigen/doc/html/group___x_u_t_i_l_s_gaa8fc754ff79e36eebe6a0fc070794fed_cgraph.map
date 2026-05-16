@@ -1,0 +1,19 @@
+<map id="XFILEINI::DeleteSection" name="XFILEINI::DeleteSection">
+<area shape="rect" id="Node000001" title="Delete section." alt="" coords="5,115,172,141"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga07cc38c8f47d4dc8eb4608182efd01b7" title="Delete section." alt="" coords="220,115,386,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,125,207,127,202,129,173,131"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3ef9db37e2df4f59432f4cefcf0a421f" title="Clean the attributes of the class: Default initialize." alt="" coords="445,56,623,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,112,467,86,462,88,359,117"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="463,115,605,141"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="386,125,450,128,445,128,386,131"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="434,165,634,192"/>
+<area shape="poly" id="edge8_Node000002_Node000011" title=" " alt="" coords="367,139,458,161,453,162,367,145"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="747,5,874,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="610,53,734,32,729,34,612,58"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga8f44898a055f3f74ca4e59fda66f414f" title="Reset selection key." alt="" coords="682,56,939,83"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="624,67,669,69,664,70,624,72"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="737,107,884,149"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="606,125,725,128,719,128,606,131"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="737,173,884,216"/>
+<area shape="poly" id="edge7_Node000008_Node000010" title=" " alt="" coords="593,139,725,173,719,173,593,145"/>
+</map>

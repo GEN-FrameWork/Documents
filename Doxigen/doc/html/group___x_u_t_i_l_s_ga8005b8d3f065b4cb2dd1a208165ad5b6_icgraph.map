@@ -1,0 +1,47 @@
+<map id="XDATETIME::GetSeconsFromDate" name="XDATETIME::GetSeconsFromDate">
+<area shape="rect" id="Node000001" title="Get secons from date." alt="" coords="825,417,1054,444"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga6441f94444f63dc0c927ada728afabed" title="Add hours." alt="" coords="570,5,733,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="933,400,920,329,893,232,873,181,847,131,815,85,776,46,755,34,734,26,732,21,758,29,779,42,819,82,851,128,878,178,898,230,925,328,938,403"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaed8dac023a96e7639689afc900aa03a3" title="Add minutes." alt="" coords="564,56,738,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="931,401,915,338,886,255,866,211,841,169,811,130,776,97,758,86,740,79,738,73,760,81,779,93,815,126,845,166,871,208,891,253,921,337,936,403"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad566682e128db1927cd42bcf65af936c" title="Add seconds." alt="" coords="562,107,741,133"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="928,402,910,348,879,278,859,242,835,207,807,175,776,148,741,131,741,125,779,143,811,171,839,204,864,239,884,276,915,346,933,404"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga42b7c7cf5320b231285f40fe41a8b2f0" title="Check." alt="" coords="525,157,777,200"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="923,403,901,362,868,311,826,258,776,214,757,203,756,198,779,210,830,255,873,308,906,360,928,404"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga346ca77ef8158f1b6ae78e57a9014144" title="Check condition." alt="" coords="527,224,775,251"/>
+<area shape="poly" id="edge9_Node000001_Node000014" title=" " alt="" coords="919,404,895,373,862,335,821,297,776,265,751,254,750,249,779,260,825,292,865,331,899,370,924,405"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga53e32bbf56dbeb601e87e7da4405e53b" title="Get EPOCH format." alt="" coords="544,275,759,301"/>
+<area shape="poly" id="edge10_Node000001_Node000015" title=" " alt="" coords="910,407,852,361,815,336,776,316,745,305,744,299,778,311,818,332,855,357,916,407"/>
+<area shape="rect" id="Node000016" href="$group___c_i_p_h_e_r.html#gaa9337cc39db4712ce9ebd4d1cadbc93b" title="is valid dates" alt="" coords="556,325,746,368"/>
+<area shape="poly" id="edge11_Node000001_Node000016" title=" " alt="" coords="879,412,777,383,737,371,737,366,778,377,884,412"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gab1ac290209baf8c796098fe67289df65" title="operator !=" alt="" coords="569,392,733,419"/>
+<area shape="poly" id="edge14_Node000001_Node000019" title=" " alt="" coords="807,420,734,415,734,410,812,419"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga162cdd60fb7db9411d36319d23131f2d" title="operator &lt;" alt="" coords="571,443,731,469"/>
+<area shape="poly" id="edge15_Node000001_Node000020" title=" " alt="" coords="807,443,732,452,731,446,812,441"/>
+<area shape="rect" id="Node000021" href="$group___x_u_t_i_l_s.html#ga887570ec2d101a645320916005a02bd2" title="operator &lt;=" alt="" coords="567,493,735,520"/>
+<area shape="poly" id="edge16_Node000001_Node000021" title=" " alt="" coords="881,450,778,484,728,495,727,490,777,479,886,448"/>
+<area shape="rect" id="Node000022" href="$group___x_u_t_i_l_s.html#ga79fabb091f45d206755247a71d18377b" title="operator ==" alt="" coords="567,544,735,571"/>
+<area shape="poly" id="edge17_Node000001_Node000022" title=" " alt="" coords="911,452,852,496,778,534,737,547,735,542,776,530,849,492,907,455"/>
+<area shape="rect" id="Node000023" href="$group___x_u_t_i_l_s.html#ga1ead378aaeb8a9657a380f0df0bfd223" title="operator &gt;" alt="" coords="571,595,731,621"/>
+<area shape="poly" id="edge18_Node000001_Node000023" title=" " alt="" coords="921,455,862,522,823,557,779,585,732,601,731,596,776,580,820,552,859,519,917,457"/>
+<area shape="rect" id="Node000024" href="$group___x_u_t_i_l_s.html#ga3ac0673f63424ab05975a09ceac87037" title="operator &gt;=" alt="" coords="567,645,735,672"/>
+<area shape="poly" id="edge19_Node000001_Node000024" title=" " alt="" coords="927,456,904,499,871,547,829,595,779,636,736,653,735,648,776,631,825,592,867,544,900,496,923,459"/>
+<area shape="rect" id="Node000025" href="$group___x_u_t_i_l_s.html#ga71db5c6d60495d4685e0ad774e7f5ade" title="Subtract hours." alt="" coords="556,696,746,723"/>
+<area shape="poly" id="edge20_Node000001_Node000025" title=" " alt="" coords="931,457,911,509,879,571,835,634,809,662,779,686,747,702,745,697,776,682,805,658,831,631,875,569,906,507,927,461"/>
+<area shape="rect" id="Node000026" href="$group___x_u_t_i_l_s.html#ga89c6173c0090a0e993336d1303400cb7" title="Subtract minutes." alt="" coords="551,747,751,773"/>
+<area shape="poly" id="edge21_Node000001_Node000026" title=" " alt="" coords="934,457,917,519,887,594,866,634,841,672,812,707,779,737,752,751,751,746,776,732,809,703,837,669,862,631,882,592,912,517,930,461"/>
+<area shape="rect" id="Node000027" href="$group___x_u_t_i_l_s.html#ga2da8aaee806c369ed78376d7e9591afb" title="Subtract seconds." alt="" coords="548,797,754,824"/>
+<area shape="poly" id="edge22_Node000001_Node000027" title=" " alt="" coords="936,458,922,528,894,617,873,664,848,710,816,751,779,787,755,801,754,796,776,783,812,748,843,707,869,662,889,615,917,527,932,462"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7905535610e352616cb1f642402f6cca" title="Get date time to string ISO8601." alt="" coords="280,44,477,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="546,69,478,69,476,64,551,66"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab6e330e6a2e5e4c4c3edcef8304763a6" title="To string." alt="" coords="47,52,190,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,67,192,68,189,63,266,64"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga04762e3b21e23e2e228d8d030ceefd8a" title="Get measure to date." alt="" coords="282,111,475,137"/>
+<area shape="poly" id="edge6_Node000010_Node000011" title=" " alt="" coords="544,123,477,125,474,120,548,120"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga858f89d763ac109d6379102443222f4a" title="Set N cycles." alt="" coords="5,111,232,137"/>
+<area shape="poly" id="edge7_Node000011_Node000012" title=" " alt="" coords="264,126,234,126,231,122,268,122"/>
+<area shape="rect" id="Node000017" href="$group___c_i_p_h_e_r.html#ga51386cd6990a0173f3f089663447afe9" title="Xtrace certificated propertys." alt="" coords="281,325,476,368"/>
+<area shape="poly" id="edge12_Node000016_Node000017" title=" " alt="" coords="538,348,477,349,475,344,542,346"/>
+<area shape="rect" id="Node000018" href="$group___c_i_p_h_e_r.html#ga79d337a534bdd2958db4d6484e1d784f" title="decode certificates" alt="" coords="31,325,206,368"/>
+<area shape="poly" id="edge13_Node000017_Node000018" title=" " alt="" coords="263,348,208,349,205,344,268,345"/>
+</map>

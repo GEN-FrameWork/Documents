@@ -1,0 +1,9 @@
+<map id="INPWINDOWSDEVICEMOUSE::~INPWINDOWSDEVICEMOUSE" name="INPWINDOWSDEVICEMOUSE::~INPWINDOWSDEVICEMOUSE">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,48,235,91"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gac379354c301046f63e1c40bfd9f18297" title="Delete all buttons." alt="" coords="283,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,45,298,35,293,36,235,50"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#gacf3f64c24137db40a3a98b09142b278d" title="Delete all cursors." alt="" coords="283,56,485,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,67,270,69,264,70,235,72"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gabf1a2bbdc57da016181d2a0f324e67ce" title="Set enabled." alt="" coords="299,107,469,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,89,298,103,293,103,234,94"/>
+</map>

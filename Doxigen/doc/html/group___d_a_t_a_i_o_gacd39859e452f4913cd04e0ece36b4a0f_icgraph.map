@@ -1,0 +1,13 @@
+<map id="DIONTP::GetTimeResponse" name="DIONTP::GetTimeResponse">
+<area shape="rect" id="Node000001" title="Get time response." alt="" coords="650,31,840,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa48706db8e8cf70a3e6c742843b5614a" title="Get time response." alt="" coords="413,5,602,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="632,32,603,31,603,26,638,32"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gabf44bd03f5a3068ddb13dddd447aa2ab" title="Get time seconds." alt="" coords="417,56,598,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="637,56,599,62,599,57,632,56"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga0847c0f480200299a8d7dc297343df90" title="Get time." alt="" coords="209,31,340,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,58,340,54,340,48,404,58"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga5cff9f652eb43b213d036c65da187d6e" title="Get time seconds." alt="" coords="184,81,365,108"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="404,81,366,87,365,82,399,81"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gad7738c073eb1aff2ad03fdce2ef59053" title="Get time." alt="" coords="5,31,136,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,45,136,47,136,41,196,43"/>
+</map>

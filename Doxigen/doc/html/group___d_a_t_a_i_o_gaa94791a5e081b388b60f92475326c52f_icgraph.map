@@ -1,0 +1,9 @@
+<map id="DIOCHECKTCPIPCONNECTION::Set" name="DIOCHECKTCPIPCONNECTION::Set">
+<area shape="rect" id="Node000001" title="Set." alt="" coords="568,47,820,73"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad803e499e31add616a7b93ec48a3a69e" title="Connection add." alt="" coords="287,39,520,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,60,521,63,520,57,555,60"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga1dbdf016d953d03a64174fb8c3d6e932" title="Connection add." alt="" coords="5,5,239,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,45,239,43,239,38,274,44"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gafdafac709d0ce30cd17093e772d55bd7" title="Connection add." alt="" coords="5,72,239,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="269,76,240,82,239,77,274,75"/>
+</map>

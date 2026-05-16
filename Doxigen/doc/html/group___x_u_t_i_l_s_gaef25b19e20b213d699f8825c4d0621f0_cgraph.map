@@ -1,0 +1,9 @@
+<map id="XLOGBASE::CalculateInitialStatus" name="XLOGBASE::CalculateInitialStatus">
+<area shape="rect" id="Node000001" title="Calculate initial status." alt="" coords="5,48,193,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3d5b9c0020c23ffb0ded5aeb105a6fb1" title="Get size." alt="" coords="251,5,364,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,45,238,35,233,37,190,50"/>
+<area shape="rect" id="Node000003" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="259,56,356,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,67,246,69,240,70,193,72"/>
+<area shape="rect" id="Node000004" href="$class_x_f_i_l_e.html#aa1eb97dcf7209887546fc32d69db5dcd" title=" " alt="" coords="241,107,374,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,89,237,102,232,103,189,94"/>
+</map>

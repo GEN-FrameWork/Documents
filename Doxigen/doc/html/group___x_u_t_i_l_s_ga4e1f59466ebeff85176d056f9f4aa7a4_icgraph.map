@@ -1,0 +1,9 @@
+<map id="XFILEXML::DeleteAllElements" name="XFILEXML::DeleteAllElements">
+<area shape="rect" id="Node000001" title="Delete all elements." alt="" coords="493,39,694,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9ff1be7441eb12f61a9cbab93cabeb75" title="Decode all lines." alt="" coords="261,13,445,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,40,446,39,446,34,480,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac5e98a4645b5758a54fcd196ceded0a5" title="Destructor of class." alt="" coords="270,64,436,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="480,64,436,71,436,66,475,64"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga2b13857ddd2b8711881f96044f624908" title="Read and decode all lines." alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,27,213,29,213,24,248,26"/>
+</map>

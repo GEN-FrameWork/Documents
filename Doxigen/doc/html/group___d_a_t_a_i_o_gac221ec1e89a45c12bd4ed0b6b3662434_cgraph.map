@@ -1,0 +1,15 @@
+<map id="DIOCHECKTCPIPCONNECTIONS::Connections_WaitToAllChecked" name="DIOCHECKTCPIPCONNECTIONS::Connections_WaitToAllChecked">
+<area shape="rect" id="Node000001" title="Connections wait to all checked." alt="" coords="5,123,239,165"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf44871b9400c14d6857c2fcd163f9a0e" title="Connections is all checked." alt="" coords="287,64,520,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,120,285,109,280,111,228,125"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="346,131,461,157"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,141,332,143,327,145,239,147"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga939c6dde6a8689128fdb18cf7cfe2b08" title="Set is check time connections." alt="" coords="287,181,520,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="228,163,286,177,280,178,227,169"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga65d4fb24f258399c4d8c1c64347d3005" title="Get N checks." alt="" coords="568,5,792,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,61,564,51,559,53,508,66"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae6d5410f1787702c59c2eae9e8b85b74" title="Lock." alt="" coords="624,72,737,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="520,83,611,85,605,86,521,88"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="576,123,785,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="461,141,563,144,557,144,462,147"/>
+</map>

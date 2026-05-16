@@ -1,0 +1,9 @@
+<map id="APPFLOWBASE::SetExitType" name="APPFLOWBASE::SetExitType">
+<area shape="rect" id="Node000001" title="Set exit type." alt="" coords="374,31,575,57"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1dd2087a29d8865d828d7be342216780" title="Exception_ConsoleHandler." alt="" coords="130,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,33,310,30,310,25,361,32"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga063b3ed548be2195217374fa993a89ed" title="Update." alt="" coords="113,56,326,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,55,327,61,326,56,356,56"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gae1325efcce4a4b1b4ea52247f0a0a0c1" title="main" alt="" coords="5,5,65,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,20,66,21,65,16,116,17"/>
+</map>

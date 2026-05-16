@@ -1,0 +1,9 @@
+<map id="DIOCOREPROTOCOL_CONNECTION::Disconnect" name="DIOCOREPROTOCOL_CONNECTION::Disconnect">
+<area shape="rect" id="Node000001" title="disconnect" alt="" coords="5,56,262,99"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga991d1dfd674c74025988be197ce7ec9f" title="Disconnect." alt="" coords="350,5,526,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,53,352,35,347,36,248,58"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab102c37d66f1795de8a12dbab4ed5b88" title="Get core protocol." alt="" coords="310,56,566,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,75,297,77,292,78,263,80"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3cec33f6d31c79f944ad1c17f4d2d8ce" title="Get DIO stream." alt="" coords="311,123,564,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,97,352,119,347,119,247,102"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="APPFLOWUPDATE_CFG::CopyTo" name="APPFLOWUPDATE_CFG::CopyTo">
+<area shape="rect" id="Node000001" title="Copy to." alt="" coords="5,331,189,373"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#ga4cf0f02a8315035eb0c227ebb54c647d" title="Constructor of class." alt="" coords="254,5,437,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,329,113,275,139,202,157,163,179,125,205,89,235,58,242,55,239,59,238,62,209,93,183,128,162,165,144,204,119,276,105,331"/>
+<area shape="rect" id="Node000003" href="$group___a_p_p_f_l_o_w.html#ga2535aab0ef75043e0f44fc3d03548464" title="Get app name." alt="" coords="254,72,437,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,329,121,286,148,231,186,174,209,148,235,125,244,121,240,125,238,129,213,151,191,177,153,234,125,288,108,331"/>
+<area shape="rect" id="Node000004" href="$group___a_p_p_f_l_o_w.html#ga1184c675dde29f5c75939b211fbd5ed0" title="Get app version." alt="" coords="254,139,437,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,329,159,261,195,223,235,191,247,186,243,190,238,196,198,227,163,264,114,331"/>
+<area shape="rect" id="Node000005" href="$group___a_p_p_f_l_o_w.html#ga79b92b42c093a8c6512bae2c427607fc" title="Get path root app." alt="" coords="254,205,437,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="124,328,175,292,235,258,252,252,248,256,238,262,178,297,128,332"/>
+<area shape="rect" id="Node000006" href="$group___a_p_p_f_l_o_w.html#gacc4c4fc431e82aa6d16cf0a37505bafb" title="Get URL." alt="" coords="254,272,437,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,328,240,317,236,320,191,333"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="291,339,400,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="188,350,277,350,273,354,190,354"/>
+<area shape="rect" id="Node000012" href="$group___a_p_p_f_l_o_w.html#gac034aefcd4286b9bbad166d9b4f56c61" title="Set port." alt="" coords="254,389,437,432"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="188,371,241,384,236,387,190,376"/>
+<area shape="rect" id="Node000013" href="$group___a_p_p_f_l_o_w.html#gad3a30e7b3ae46dfd592db35dcc10e129" title="Set dolog." alt="" coords="254,456,437,499"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="126,371,178,407,238,442,253,449,248,451,235,446,175,412,126,377"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#gac2fde7f919b48a1a689276400755f19f" title="Set sub version." alt="" coords="237,523,454,565"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="112,371,163,440,198,477,238,508,247,515,242,516,235,513,195,481,159,443,111,377"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga013991116de359b6f49a69542bf0d68f" title="Set sub version error." alt="" coords="237,589,454,648"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="106,371,126,415,154,469,192,526,238,575,243,581,238,580,235,579,187,529,150,472,122,417,106,377"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#gaf347b3f7d5fe2df12684ae640c4770a1" title="Set version." alt="" coords="248,672,442,715"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="102,371,117,430,142,507,159,548,181,588,207,625,238,658,243,664,238,663,235,662,203,629,177,591,155,550,137,509,112,432,101,377"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="520,313,654,340"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="399,344,507,334,502,337,401,349"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="502,364,671,391"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="400,355,489,366,484,368,401,360"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="725,313,863,340"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="654,324,712,326,707,327,655,329"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="719,364,869,391"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="671,375,706,377,701,378,672,380"/>
+</map>

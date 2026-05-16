@@ -1,0 +1,21 @@
+<map id="DIOLINUXDBUS_MESSAGE::GetResult" name="DIOLINUXDBUS_MESSAGE::GetResult">
+<area shape="rect" id="Node000001" title="Get result." alt="" coords="5,61,202,104"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="511,5,638,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,62,249,55,497,25,494,29,250,60,203,67"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="291,69,400,96"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,80,278,82,273,84,203,85"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga079930d936bef04d41719c34134af3ce" title="Trace error." alt="" coords="250,132,442,159"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="189,102,279,127,274,128,188,107"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="707,31,857,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="638,24,695,33,689,33,639,29"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="713,81,851,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="627,30,660,42,708,67,726,76,720,75,706,72,658,46,627,35"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="508,107,642,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="401,89,495,106,489,107,401,94"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="490,56,659,83"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="400,77,477,75,472,76,401,82"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="642,109,695,105,700,105,643,114"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="659,56,695,55,690,55,660,62"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="520,157,630,184"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="443,153,507,163,502,163,442,159"/>
+</map>

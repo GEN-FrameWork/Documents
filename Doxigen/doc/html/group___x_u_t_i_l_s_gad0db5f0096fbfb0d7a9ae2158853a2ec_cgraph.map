@@ -1,0 +1,16 @@
+<map id="XFILEINI::ReadKeyMap" name="XFILEINI::ReadKeyMap">
+<area shape="rect" id="Node000001" title="Read key map." alt="" coords="5,132,169,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga11cb4944a2d72722f62da0d251aca562" title="Read key map." alt="" coords="217,132,380,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,143,204,145,198,146,169,148"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga66716f530f30b0d609d1d019ad8865c4" title="Read value." alt="" coords="428,107,575,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,133,415,131,410,131,380,138"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad76cac093ed8c0fe604bc5b3fd66e9f7" title="Select section." alt="" coords="637,157,802,184"/>
+<area shape="poly" id="edge7_Node000002_Node000013" title=" " alt="" coords="380,148,624,164,618,165,380,153"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="656,5,783,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="520,104,565,73,622,42,639,38,644,36,624,46,568,77,522,108"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga2640717723b74e05ffdfca45936ae783" title="Find key." alt="" coords="623,56,816,83"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="562,103,641,87,647,86,563,109"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga18594f1dde38bab497da203fcdf712a0" title="Get value." alt="" coords="638,107,801,133"/>
+<area shape="poly" id="edge5_Node000003_Node000012" title=" " alt="" coords="576,117,625,120,619,120,576,123"/>
+<area shape="poly" id="edge6_Node000003_Node000013" title=" " alt="" coords="563,131,647,153,641,153,562,137"/>
+</map>

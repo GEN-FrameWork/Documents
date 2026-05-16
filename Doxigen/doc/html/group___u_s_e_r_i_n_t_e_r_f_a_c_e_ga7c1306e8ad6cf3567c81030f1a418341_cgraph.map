@@ -1,0 +1,7 @@
+<map id="UI_SKINCANVAS_REBUILDAREAS::UI_SKINCANVAS_REBUILDAREAS" name="UI_SKINCANVAS_REBUILDAREAS::UI_SKINCANVAS_REBUILDAREAS">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="5,27,255,69"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga5f08ccf9264cd1ee8e220a96b12ef202" title="Get canvas." alt="" coords="303,5,497,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,32,290,30,285,31,256,37"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga6abc69f7ff0f649718348d6b54fa5261" title="Set excess edge." alt="" coords="310,56,490,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,59,297,66,292,66,255,64"/>
+</map>

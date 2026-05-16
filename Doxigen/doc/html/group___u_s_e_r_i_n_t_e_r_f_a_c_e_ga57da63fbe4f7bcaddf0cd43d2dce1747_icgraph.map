@@ -1,0 +1,13 @@
+<map id="UI_ANIMATION::GetResource" name="UI_ANIMATION::GetResource">
+<area shape="rect" id="Node000001" title="Get resource." alt="" coords="492,80,693,107"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7037b3583240c9d12280d014ff3ecec1" title="Add." alt="" coords="5,29,162,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,77,444,71,294,57,162,49,162,43,294,51,444,65,507,77"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga9d71f03f964140542804cc229675e4f1" title="Get." alt="" coords="250,80,404,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="473,94,405,96,404,91,479,93"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga06916907a1aad475f8901d0b380e583e" title="Get or add animation cache." alt="" coords="210,131,444,173"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="516,110,427,133,426,127,511,111"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="124,15,112,10,83,8,58,10,44,15,41,20,47,28,42,30,35,21,40,11,57,5,84,3,113,5,129,14"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="242,77,151,59,151,54,246,75"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7aa7e1243aac07ff6c691adc838d10b6" title="Get." alt="" coords="6,80,161,107"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="232,94,162,96,161,91,237,92"/>
+</map>

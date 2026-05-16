@@ -1,0 +1,16 @@
+<map id="XFILEXMLELEMENT::GetBoolValueAttribute" name="XFILEXMLELEMENT::GetBoolValueAttribute">
+<area shape="rect" id="Node000001" title="Get bool value attribute." alt="" coords="5,105,208,148"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac1d793d6d22c2dbfdfee572a5a9d5fd8" title="Convert to boolean." alt="" coords="262,72,458,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,108,261,101,256,103,209,113"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga12c4e808f3e31429b28ccab70226ad8e" title="Get value attribute." alt="" coords="256,147,464,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="208,141,243,148,237,149,208,146"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="512,47,654,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,72,499,69,494,70,459,77"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="514,97,652,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="459,94,501,101,496,101,459,99"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="702,5,849,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="654,45,689,42,684,43,655,50"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="702,72,849,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="655,70,689,78,684,78,655,75"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="318,145,316,137,323,128,338,122,360,120,384,122,400,131,394,131,382,128,360,125,339,127,326,132,321,138,322,148"/>
+</map>

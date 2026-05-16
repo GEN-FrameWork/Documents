@@ -1,0 +1,30 @@
+<map id="DIOPROTOCOL" name="DIOPROTOCOL">
+<area shape="rect" id="Node000001" title="Data Input/Output Generic Binary Protocol class." alt="" coords="768,323,887,349"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="174,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,14,381,17,441,23,505,34,569,51,633,75,692,107,745,147,764,168,780,191,804,240,819,287,826,323,821,321,813,288,799,242,775,194,760,171,742,151,689,111,631,80,568,56,503,39,440,28,380,22,283,19"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="469,145,570,172"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="281,23,340,36,398,58,432,77,462,101,508,145,503,145,459,105,429,82,396,62,338,41,283,28"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="585,163,665,182,707,199,745,221,772,244,794,272,822,323,817,321,789,275,768,248,742,225,705,203,664,187,585,168"/>
+<area shape="rect" id="Node000004" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="178,87,262,113"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="277,106,398,127,471,145,466,147,397,132,279,111"/>
+<area shape="rect" id="Node000005" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="184,228,256,255"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="271,237,382,235,519,236,651,244,704,252,745,263,767,275,787,290,818,323,812,321,783,294,764,279,743,268,703,257,650,249,519,241,382,240,273,242"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="270,228,396,199,420,188,475,171,471,174,422,193,398,204,273,233"/>
+<area shape="rect" id="Node000006" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="5,289,125,316"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="113,281,186,253,183,257,117,285"/>
+<area shape="rect" id="Node000007" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="182,289,259,316"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="139,300,183,301,179,304,142,305"/>
+<area shape="rect" id="Node000009" href="$class_x_d_a_t_e_t_i_m_e.html" title="eXtended Utils date time class" alt="" coords="295,371,392,397"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="128,318,297,368,293,372,128,324"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="273,298,337,285,368,272,395,253,405,238,407,223,409,206,419,189,442,173,471,165,466,168,445,178,423,193,414,208,412,223,410,240,399,257,371,277,338,290,275,303"/>
+<area shape="rect" id="Node000008" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="479,289,560,316"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="254,321,291,336,320,342,343,343,397,336,441,327,484,315,479,318,442,332,398,341,344,348,320,347,290,341,255,327"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="576,306,770,329,765,330,576,311"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="407,375,769,340,765,344,408,380"/>
+<area shape="rect" id="Node000010" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="421,412,618,455"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="632,430,688,421,743,404,764,392,783,377,812,351,817,348,787,381,767,397,745,409,690,427,633,435"/>
+<area shape="rect" id="Node000011" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="421,479,618,521"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="633,509,690,502,717,493,742,480,774,451,796,415,812,378,821,352,825,348,817,380,801,417,778,455,745,485,719,498,691,507,634,514"/>
+<area shape="rect" id="Node000012" href="$class_d_i_o_p_r_o_t_o_c_o_l___f_i_l_e.html" title=" " alt="" coords="442,545,597,572"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="612,569,646,569,680,564,713,554,742,538,763,518,781,494,805,441,817,388,823,352,827,348,823,389,810,442,785,497,767,522,745,542,715,559,681,569,646,574,612,575"/>
+</map>

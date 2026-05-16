@@ -1,0 +1,9 @@
+<map id="XBUFFER::Bit_SetData" name="XBUFFER::Bit_SetData">
+<area shape="rect" id="Node000001" title="Bit set data." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad9bc0fe2244df7440d31b152bd2e24fb" title="Set." alt="" coords="217,5,329,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,30,204,28,199,29,170,35"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4d1da17fcb47e6bff9f2dbc0e680d593" title="Swap double word (4 bytes) hi1 lo1 h2 lo2 &gt; lo2 hi2 lo1 hi1." alt="" coords="219,56,326,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,53,207,60,201,60,169,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="377,5,536,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,16,364,18,359,19,330,21"/>
+</map>

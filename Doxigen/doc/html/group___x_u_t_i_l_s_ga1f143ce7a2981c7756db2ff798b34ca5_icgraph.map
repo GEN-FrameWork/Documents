@@ -1,0 +1,57 @@
+<map id="XFSMACHINE::GetState" name="XFSMACHINE::GetState">
+<area shape="rect" id="Node000001" title="Get state." alt="" coords="893,661,1064,688"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae678dcfeb2f9d70b6f7c9d4a367c861e" title="Add state." alt="" coords="656,440,828,467"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="949,651,757,470,759,465,955,651"/>
+<area shape="rect" id="Node000023" href="$group___x_u_t_i_l_s.html#ga4ed6cafa4114805eb2a7d5d5954c3da3" title="Delete state." alt="" coords="648,661,836,688"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="875,675,837,677,836,672,880,674"/>
+<area shape="rect" id="Node000024" href="$group___x_u_t_i_l_s.html#ga4e991bedff5697fb8ab9d00ac52e4398" title="State transition." alt="" coords="639,883,845,909"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="955,698,760,884,757,880,949,699"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad474a64df436fe226fa30b2765fc2d32" title="Add secuencial states." alt="" coords="352,5,557,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="736,424,726,351,702,253,683,201,658,150,627,103,589,62,558,43,557,38,593,58,631,100,663,147,688,199,707,251,731,350,741,425"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad4515503131530debbca11eaab86c791" title="Add state." alt="" coords="368,72,540,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="735,424,722,359,696,274,677,229,653,186,624,147,589,113,566,99,542,91,540,86,568,94,593,109,628,143,658,183,682,227,701,272,727,358,740,425"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaaecd2b1df2f3e5ebe64f39f8987ff2ad" title="Constructor of class." alt="" coords="354,123,555,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="731,424,714,373,686,306,644,237,619,206,589,180,556,161,555,156,593,175,623,203,649,234,691,303,719,371,736,426"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaa59490a6e3496305568709d231d7bdc8" title="Constructor of class." alt="" coords="360,189,549,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="726,426,706,386,676,337,637,288,590,246,550,227,549,222,592,242,641,284,680,334,711,384,732,427"/>
+<area shape="rect" id="Node000008" href="$class_d_i_o_l_i_n_u_x_s_t_r_e_a_m_t_c_p_i_p_s_e_r_v_e_r.html#aa7f07fc8923cdeb8342b4bfe2855eb9e" title=" " alt="" coords="332,256,576,299"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="718,428,665,370,629,339,590,313,566,302,565,297,592,308,632,335,669,366,724,428"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga8f76b565cc5b3d4402bc681a30a9ef7c" title="Constructor of class." alt="" coords="365,323,544,365"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="702,432,651,406,590,380,544,365,543,360,592,375,653,402,707,432"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga42b51cc4eb7b16b8a6dec3322f5bf630" title="Constructor of class." alt="" coords="341,389,568,416"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="645,438,535,419,534,414,650,436"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gad16e9b3883c432b0dfa08589cd597e24" title="Constructor of class." alt="" coords="339,440,570,467"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="639,454,571,456,570,451,643,452"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga038ca8ae929c47eba87ebe5dcefb6815" title="Constructor of class." alt="" coords="338,491,571,517"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="645,471,535,493,533,488,650,469"/>
+<area shape="rect" id="Node000016" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaafe2522cb6e6744c4ea09d0f4eb461a7" title="Constructor of class." alt="" coords="345,541,564,584"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="702,476,653,505,592,532,557,543,555,538,590,527,651,500,707,473"/>
+<area shape="rect" id="Node000017" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga38e6f69b9e36655443951a2d49f97e93" title="Constructor of class." alt="" coords="318,608,591,651"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="723,477,669,540,632,572,592,598,567,610,564,605,590,594,629,568,665,537,719,481"/>
+<area shape="rect" id="Node000018" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaaad47b4ebbeeb1d5660f8f3c69d6877e" title="Constructor of class." alt="" coords="351,675,558,717"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="731,479,711,523,680,573,641,623,592,665,560,681,557,677,590,660,637,619,676,569,706,520,727,483"/>
+<area shape="rect" id="Node000019" href="$group___s_o_u_n_d.html#gaed52a925a8c321338a3d7a3d6d5880b5" title="Ini FS machine." alt="" coords="366,741,543,784"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="729,479,652,629,593,731,570,745,544,755,543,750,567,741,589,727,647,626,725,483"/>
+<area shape="rect" id="Node000021" href="$group___d_a_t_a_i_o.html#gae251ac3799a46a888b31f9601bbe1326" title="Init FS machine." alt="" coords="326,808,582,851"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="727,478,686,557,642,650,630,693,627,729,618,763,609,780,593,798,577,810,574,805,589,794,604,777,613,761,621,728,625,692,636,648,681,554,723,482"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gafa1e2d23846c1942c0fc958db17cea5c" title="Constructor of class." alt="" coords="31,189,244,232"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="342,212,246,213,243,208,346,209"/>
+<area shape="rect" id="Node000012" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga02607f3964d16d2603e76792ddc53fd1" title="Constructor of class." alt="" coords="52,365,223,408"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="358,438,317,431,224,409,222,404,318,425,363,435"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga0c10506fe6391d9dc3a4787ac59b6512" title="Constructor of class." alt="" coords="38,432,237,475"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="321,455,239,456,237,451,325,452"/>
+<area shape="rect" id="Node000015" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2152988786ed16bbe96056f972d98201" title="Constructor of class." alt="" coords="37,499,238,541"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="320,512,239,517,237,513,324,509"/>
+<area shape="rect" id="Node000020" href="$group___s_o_u_n_d.html#ga09fb49c1ada8b46aa2197bab700a21b0" title="Constructor of class." alt="" coords="49,741,226,784"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="348,764,227,765,226,760,352,761"/>
+<area shape="rect" id="Node000022" href="$group___d_a_t_a_i_o.html#ga72e9f512cb073a0a920f295bdc1404b6" title="Constructor of class." alt="" coords="5,808,270,851"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="308,830,270,832,269,827,313,829"/>
+<area shape="rect" id="Node000025" href="$group___x_u_t_i_l_s.html#ga412a55c723675c56ccd9050cf353c757" title="Check transition." alt="" coords="348,883,561,909"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="621,896,562,899,561,893,626,896"/>
+<area shape="rect" id="Node000027" href="$group___x_u_t_i_l_s.html#ga8210bbf1532d9f6a916d4b2204f04318" title="Check transition." alt="" coords="348,937,561,964"/>
+<area shape="poly" id="edge26_Node000024_Node000027" title=" " alt="" coords="656,913,529,939,528,934,651,913"/>
+<area shape="rect" id="Node000026" href="$group___d_a_t_a_i_o.html#gad32c6a0ffb6b5dfb98c359fd856ac3e3" title="Update." alt="" coords="9,875,266,917"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="330,896,266,899,266,893,335,896"/>
+<area shape="rect" id="Node000028" href="$group___s_o_u_n_d.html#gaec9161c9a9d6d78b3002dc5ac35fe06a" title="Update." alt="" coords="30,941,245,968"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="329,952,245,956,245,951,335,952"/>
+</map>

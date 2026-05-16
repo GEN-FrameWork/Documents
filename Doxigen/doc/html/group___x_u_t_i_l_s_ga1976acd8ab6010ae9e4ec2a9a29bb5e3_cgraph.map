@@ -1,0 +1,39 @@
+<map id="XBER::SetFromDump" name="XBER::SetFromDump">
+<area shape="rect" id="Node000001" title="Set from dump." alt="" coords="5,259,157,285"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gafc53f10185dc4d03cb99dfa959de19d1" title="Copy from." alt="" coords="239,81,392,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,257,129,190,163,151,203,118,226,108,222,112,206,122,167,154,134,193,92,259"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaa6d7a4cf35f8fd9e391442a0e3c39b6f" title="Get data." alt="" coords="228,132,403,159"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="93,256,139,213,170,189,203,168,222,162,218,166,206,173,173,193,142,217,97,260"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga0007f465be1385ea663397e502c5280e" title="Is empty." alt="" coords="245,183,386,209"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="111,256,204,219,234,212,229,215,206,224,113,260"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="235,233,396,260"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="156,261,222,255,218,259,158,266"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga1f9241a8cc4a5966090fcc1f0ce00f31" title="Set level." alt="" coords="227,284,404,311"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="156,278,213,285,209,287,158,283"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga4493c1dc06b52beec7a7aead4ea623f3" title="Set status." alt="" coords="223,335,408,361"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="112,283,206,320,234,330,229,331,204,325,112,289"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga137f7c55eb9b778873286232d22a5c12" title="Subscribe event." alt="" coords="213,385,418,412"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="95,283,142,327,173,351,206,371,223,380,217,380,203,376,170,355,139,331,94,288"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="205,436,426,463"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="90,283,134,351,167,390,206,422,217,430,212,429,203,426,163,393,129,354,88,288"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="514,31,629,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,78,501,57,496,60,388,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="506,81,637,108"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="392,92,493,93,489,96,393,97"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga2e296544fb75464eee353628614b4aff" title="Constructor of class." alt="" coords="494,132,649,159"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="386,106,488,127,483,129,387,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="720,5,854,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="629,35,707,27,702,29,631,40"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="905,81,1064,108"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="629,48,892,82,887,84,630,54"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="824,30,936,75,931,76,824,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="722,107,852,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="637,100,709,110,704,111,638,105"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="852,109,892,106,887,108,853,114"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="717,157,857,184"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="386,190,704,174,700,177,387,195"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="825,154,856,143,933,115,938,113,858,148,827,159"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="474,411,669,437"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="418,406,461,413,456,413,418,411"/>
+<area shape="poly" id="edge20_Node000017_Node000016" title=" " alt="" coords="426,436,456,435,461,435,427,441"/>
+</map>

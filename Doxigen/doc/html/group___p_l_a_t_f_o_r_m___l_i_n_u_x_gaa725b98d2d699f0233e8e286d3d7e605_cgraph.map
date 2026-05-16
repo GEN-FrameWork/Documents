@@ -1,0 +1,17 @@
+<map id="INPLINUXDEVICEKEYBOARDDIRECT::Update" name="INPLINUXDEVICEKEYBOARDDIRECT::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="5,124,267,167"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gad8862b241978876a4c381a216563630e" title="Get button by code." alt="" coords="315,31,524,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,121,244,93,314,67,342,61,337,63,316,72,246,98,184,126"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#gaa3208e8520fbf71047cfc6d2ac1a2edc" title="Get state." alt="" coords="340,81,499,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="258,121,328,110,323,112,260,126"/>
+<area shape="rect" id="Node000006" href="$group___i_n_p_u_t.html#ga6b1e8ff12cb092b555625ab714011355" title="Is pressed." alt="" coords="336,132,502,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="267,143,323,145,318,146,267,148"/>
+<area shape="rect" id="Node000007" href="$group___i_n_p_u_t.html#ga5dc0db23f7e8e040061f5295045e7da8" title="Set pressed." alt="" coords="332,183,507,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="259,165,329,179,323,180,259,170"/>
+<area shape="rect" id="Node000008" href="$group___i_n_p_u_t.html#ga7c8702f570e2bdc8ad2bdb5ea870d3d4" title="Set state." alt="" coords="340,233,498,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,165,246,192,316,219,342,229,337,229,314,224,244,197,182,170"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga0e525fcc7cc0acf0c75db01596c90d16" title="Get buttons." alt="" coords="578,5,748,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,31,565,28,560,30,525,36"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gaeb09b76edea544f7524de32cc80e8fa3" title="Get key code." alt="" coords="572,56,754,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="524,52,559,58,554,59,525,58"/>
+</map>

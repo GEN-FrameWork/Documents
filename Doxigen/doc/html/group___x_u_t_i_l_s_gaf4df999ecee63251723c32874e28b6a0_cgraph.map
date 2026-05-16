@@ -1,0 +1,18 @@
+<map id="XPROCESSMANAGER::AdjustStringToConsolaSymbolsUsed" name="XPROCESSMANAGER::AdjustStringToConsolaSymbolsUsed">
+<area shape="rect" id="Node000001" title="adjust string to consola symbols used" alt="" coords="5,48,249,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga551690be82108dec2ac0d1879ee3d86b" title="onsole get symbols used" alt="" coords="297,5,476,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,45,302,35,297,36,240,50"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="321,56,452,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,67,308,69,303,70,249,72"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0007f465be1385ea663397e502c5280e" title="Is empty." alt="" coords="316,107,457,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="240,89,303,103,298,103,239,94"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga61d9535357f8b5e9689fc28a7b2591c6" title="get symbols used" alt="" coords="524,5,730,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,16,511,18,506,19,477,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="562,56,692,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,67,549,69,544,70,452,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="778,81,938,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="693,74,766,84,760,84,693,79"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="558,107,697,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="457,117,545,120,539,120,457,123"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="697,110,760,105,765,105,697,115"/>
+</map>

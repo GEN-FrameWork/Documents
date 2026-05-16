@@ -1,0 +1,23 @@
+<map id="XDATETIME::SetSeconds" name="XDATETIME::SetSeconds">
+<area shape="rect" id="Node000001" title="Set seconds." alt="" coords="483,189,659,216"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac2b77cfe25a326e56c682df165c4d853" title="CMDCCINU2 read all values." alt="" coords="204,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,176,502,120,469,89,434,62,413,51,412,46,436,58,473,85,506,116,555,177"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8b0f441513a55d867bfc9008cec5c587" title="convert date time to Xdate time" alt="" coords="213,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="533,181,488,155,434,129,404,118,404,112,436,124,490,151,539,181"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga48d513db31274514d398186c2c2851a5" title="Copy to." alt="" coords="244,139,394,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="484,186,389,169,389,163,489,185"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga0847c0f480200299a8d7dc297343df90" title="Get time." alt="" coords="254,189,384,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="464,203,385,205,384,200,470,202"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaee6350554edb061333813968684238e0" title="Get time label type b." alt="" coords="216,240,422,283"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="494,221,415,242,413,237,499,219"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga760b1535aedd520bd7294c71e18482f5" title="Get trace from X buffer." alt="" coords="214,307,425,333"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="545,225,495,264,436,297,403,309,401,303,434,292,492,260,540,227"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gab64fe5e808f51b79ded5a848ed627e47" title="Set." alt="" coords="257,357,382,384"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="555,228,506,290,473,322,436,348,410,359,383,367,382,361,409,354,434,343,470,317,502,287,550,230"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga07de0e3e790cbcd28f00716731a563b7" title="Copy to." alt="" coords="5,139,156,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,154,157,155,155,149,231,150"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gad7738c073eb1aff2ad03fdce2ef59053" title="Get time." alt="" coords="15,189,146,216"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="237,204,147,205,146,200,241,201"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gab08a99e2ca674018acd7ff929edc28fd" title="Set." alt="" coords="18,357,143,384"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="239,371,144,373,144,368,244,370"/>
+</map>

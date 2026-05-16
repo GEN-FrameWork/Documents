@@ -1,0 +1,32 @@
+<map id="DIOSCRAPERWEB::Download" name="DIOSCRAPERWEB::Download">
+<area shape="rect" id="Node000001" title="Download." alt="" coords="5,132,213,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="486,81,598,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,130,260,124,472,101,468,104,261,129,214,135"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="709,300,819,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,157,182,193,260,240,353,287,402,306,453,320,515,330,579,332,640,329,691,326,696,325,641,334,579,337,515,335,451,325,401,311,351,292,257,245,179,198,128,162"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="695,161,833,188"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="213,147,680,168,679,173,213,153"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="278,31,387,57"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="139,129,260,74,288,63,284,66,262,78,142,134"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga9f9c8655bb986f819c789c321db4edaa" title="Slash add." alt="" coords="261,191,404,217"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="163,157,267,185,262,188,163,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="696,81,832,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,92,683,94,678,95,599,97"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="679,5,849,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="594,78,630,67,717,37,712,39,632,72,596,83"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="897,5,1046,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="849,16,884,18,878,19,850,21"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="386,28,452,16,561,10,666,13,661,14,561,15,452,21,388,33"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="474,31,609,57"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="387,41,461,43,456,45,388,47"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="607,55,633,67,649,79,658,92,681,118,728,153,723,152,678,122,654,95,645,83,630,72,607,61"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="359,188,499,116,504,114,361,193"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="348,215,393,252,422,271,453,285,515,303,578,312,640,316,696,318,691,318,640,321,578,317,513,308,451,291,419,276,390,257,347,220"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga4036bc5b3729a74b987e33c39acf5470" title="Character get last." alt="" coords="468,183,615,225"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="404,201,455,204,450,204,405,207"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga91bc9cd08cbffef79c147186dea0387e" title="Slash normalize." alt="" coords="452,249,631,276"/>
+<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="383,215,480,244,474,245,382,221"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="614,192,682,185,677,186,615,197"/>
+<area shape="poly" id="edge17_Node000012_Node000006" title=" " alt="" coords="604,274,696,298,691,297,603,279"/>
+<area shape="poly" id="edge18_Node000012_Node000007" title=" " alt="" coords="596,246,630,235,721,196,726,195,632,240,597,251"/>
+</map>

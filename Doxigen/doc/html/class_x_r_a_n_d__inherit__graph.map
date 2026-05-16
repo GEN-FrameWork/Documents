@@ -1,0 +1,15 @@
+<map id="XRAND" name="XRAND">
+<area shape="rect" id="Node000001" title="eXtended Utils Random class" alt="" coords="226,80,295,107"/>
+<area shape="rect" id="Node000003" href="$class_x_e_s_p32_r_a_n_d.html" title="eXtended utils ESP32 rand class" alt="" coords="5,155,116,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,115,97,156,94,152,213,110"/>
+<area shape="rect" id="Node000004" href="$class_x_l_i_n_u_x_r_a_n_d.html" title="LINUX eXtended Utils random class." alt="" coords="139,155,248,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,117,207,156,204,152,236,120"/>
+<area shape="rect" id="Node000006" href="$class_x_s_t_m32_r_a_n_d.html" title="eXtended utils STM32 rand class" alt="" coords="273,155,384,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,116,319,155,314,154,282,121"/>
+<area shape="rect" id="Node000007" href="$class_x_w_i_n_d_o_w_s_r_a_n_d.html" title="WINDOWS eXtended Utils Rand class." alt="" coords="409,155,547,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="310,108,442,153,437,155,309,114"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="201,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,46,263,81,258,79,259,50"/>
+<area shape="rect" id="Node000005" href="$class_x_a_n_d_r_o_i_d_r_a_n_d.html" title="ANDROID random class." alt="" coords="128,229,260,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,195,196,230,192,228,192,199"/>
+</map>

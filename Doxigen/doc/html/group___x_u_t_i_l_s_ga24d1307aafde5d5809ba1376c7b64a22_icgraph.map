@@ -1,0 +1,9 @@
+<map id="XPROCESS::GetWindowTitleHeight" name="XPROCESS::GetWindowTitleHeight">
+<area shape="rect" id="Node000001" title="Get window title height." alt="" coords="500,23,697,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga50b29a7110682856e671f0b8494b2425" title="Compare." alt="" coords="291,5,448,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,32,449,30,449,25,488,31"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga5b36c465bfebd29141201515e303c694" title="Copy from." alt="" coords="287,56,452,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="488,56,453,63,452,58,482,57"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1dd9a258b095d52a79c95f62f65f4319" title="Application get running list." alt="" coords="5,48,239,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,69,239,72,239,67,274,69"/>
+</map>

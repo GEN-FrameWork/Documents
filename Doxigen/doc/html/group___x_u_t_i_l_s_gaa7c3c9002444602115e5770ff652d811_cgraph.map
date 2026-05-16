@@ -1,0 +1,38 @@
+<map id="XSTRING::ReplaceFirst" name="XSTRING::ReplaceFirst">
+<area shape="rect" id="Node000001" title="Replace first." alt="" coords="5,208,169,235"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7ee44788f0c4c71e32d634a155cf6b78" title="Delete characters." alt="" coords="387,31,578,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,206,153,170,215,132,299,95,386,67,413,61,409,63,388,72,301,100,218,137,156,175,108,210"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="654,335,768,361"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,233,238,277,312,301,388,320,453,331,520,338,641,347,636,348,520,344,453,336,386,325,310,306,236,282,120,238"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="844,297,993,324"/>
+<area shape="poly" id="edge23_Node000001_Node000007" title=" " alt="" coords="103,232,153,273,184,294,218,312,276,336,326,352,372,361,416,366,509,368,626,371,712,379,749,379,795,371,842,353,882,333,888,332,845,358,796,376,749,384,712,384,626,376,508,374,415,371,371,366,325,357,274,341,216,317,181,299,149,277,102,238"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="643,209,779,236"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="169,219,628,220,627,225,169,224"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga869ddccaa8a347d97229133994987dcc" title="insert" alt="" coords="217,183,339,209"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="168,208,203,205,199,207,170,213"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="428,81,537,108"/>
+<area shape="poly" id="edge22_Node000001_Node000012" title=" " alt="" coords="119,205,216,168,319,136,415,111,411,114,320,141,218,173,122,210"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="849,5,988,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="548,28,626,16,734,11,836,14,831,15,734,16,627,21,549,33"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="626,81,796,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="546,55,635,77,630,78,546,61"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="844,81,993,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="796,92,831,94,825,95,797,97"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="676,333,670,326,674,316,688,310,711,308,736,311,750,320,745,319,734,316,711,313,689,315,678,320,675,325,680,335"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="768,335,826,327,831,327,769,340"/>
+<area shape="poly" id="edge21_Node000009_Node000007" title=" " alt="" coords="327,180,387,168,504,153,597,145,642,147,688,155,739,171,797,195,828,214,857,237,900,286,895,284,853,241,825,218,794,200,737,176,687,160,641,152,597,150,504,158,387,173,328,185"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="426,183,539,209"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="339,193,413,195,408,197,340,199"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="422,284,543,311"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="307,207,443,276,438,277,306,212"/>
+<area shape="poly" id="edge17_Node000009_Node000012" title=" " alt="" coords="296,180,336,153,386,124,421,112,416,115,388,129,339,157,299,184"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="514,180,663,116,668,114,516,185"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="539,200,630,213,625,213,539,205"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="544,308,642,332,636,332,543,313"/>
+<area shape="poly" id="edge16_Node000011_Node000007" title=" " alt="" coords="543,293,660,293,796,296,831,301,825,301,796,301,660,298,543,299"/>
+<area shape="poly" id="edge15_Node000011_Node000008" title=" " alt="" coords="525,281,651,242,656,241,527,286"/>
+<area shape="poly" id="edge20_Node000012_Node000004" title=" " alt="" coords="537,92,613,94,608,95,538,97"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="644,31,778,57"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="537,80,635,60,630,62,538,85"/>
+<area shape="poly" id="edge19_Node000013_Node000003" title=" " alt="" coords="778,33,836,28,831,30,779,38"/>
+</map>

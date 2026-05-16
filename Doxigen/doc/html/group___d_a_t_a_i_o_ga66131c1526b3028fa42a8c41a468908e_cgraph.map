@@ -1,0 +1,18 @@
+<map id="DIOSPITFTDISPLAYILI9341::IniDevice" name="DIOSPITFTDISPLAYILI9341::IniDevice">
+<area shape="rect" id="Node000001" title="Ini device." alt="" coords="5,119,196,161"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad7fac1f393ecbbe04de1a8c9d47385c2" title="Clear." alt="" coords="278,35,468,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,116,243,87,271,81,266,83,244,92,160,121"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga24e95f84e40245d20609ab04e3548447" title="Get GPIO entry ID." alt="" coords="244,101,503,128"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="196,129,231,127,226,129,197,134"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2ce40a31520cdee813143e1f028ee629" title="Ini." alt="" coords="314,152,432,179"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="196,146,301,158,296,159,196,152"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga4d4f90d758d7f20d62ad29f952f855ae" title="Ini device." alt="" coords="283,203,464,229"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="158,159,244,188,279,199,274,199,243,193,157,165"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gacd6abc52065e4278e346f7f2974bc0a1" title="Get size buffer." alt="" coords="789,5,1001,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,48,776,32,771,35,469,53"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga2ad90f87e92f90adc4e539c42c40f9cd" title="Update." alt="" coords="551,64,741,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="469,64,538,73,533,74,469,69"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="739,61,784,53,789,52,740,66"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="810,72,980,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="742,83,797,85,792,86,742,88"/>
+</map>

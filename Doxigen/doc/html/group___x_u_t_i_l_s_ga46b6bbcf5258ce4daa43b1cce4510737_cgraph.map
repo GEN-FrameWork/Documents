@@ -1,0 +1,9 @@
+<map id="XFILECFG::GetValue" name="XFILECFG::GetValue">
+<area shape="rect" id="Node000001" title="Get value." alt="" coords="5,56,153,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="241,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,53,227,34,223,36,140,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaadb73608cc79df9458cd90c6bfd218a0" title="Get type." alt="" coords="203,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,67,190,69,185,70,153,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab0b866a0988bc5983c54ca788eafbe1c" title="Get value." alt="" coords="201,107,391,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,81,223,102,218,103,139,86"/>
+</map>

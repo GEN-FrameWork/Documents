@@ -1,0 +1,16 @@
+<map id="XPROCESS::GetName" name="XPROCESS::GetName">
+<area shape="rect" id="Node000001" title="Get name." alt="" coords="571,160,731,187"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gafc152b509940f00eb7236bf66ae3c27d" title="Application get running list." alt="" coords="303,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,149,579,110,522,69,483,51,483,46,524,64,582,105,629,149"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga1dd9a258b095d52a79c95f62f65f4319" title="Application get running list." alt="" coords="5,148,239,191"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="614,151,572,131,522,113,457,101,405,98,353,102,287,113,226,129,172,150,169,145,225,124,286,108,353,97,405,92,458,95,524,108,574,126,619,152"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae245c3781dcba518342cef8b604bc2f5" title="Application terminate." alt="" coords="287,123,523,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,162,524,161,523,155,558,162"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga50b29a7110682856e671f0b8494b2425" title="Compare." alt="" coords="326,189,484,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="553,185,484,196,483,191,558,184"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga5b36c465bfebd29141201515e303c694" title="Copy from." alt="" coords="322,240,488,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="611,193,524,231,481,242,480,237,522,225,605,194"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaa4439f49a3312c0468ba122be06a15ec" title="Copy to." alt="" coords="330,291,480,317"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="630,197,584,242,555,263,524,281,480,296,479,291,522,276,552,259,580,238,625,199"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="315,236,286,231,178,194,179,189,287,225,320,236"/>
+</map>

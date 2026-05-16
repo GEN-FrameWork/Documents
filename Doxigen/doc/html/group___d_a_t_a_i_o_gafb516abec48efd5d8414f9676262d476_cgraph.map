@@ -1,0 +1,11 @@
+<map id="DIOWEBHEADER::GetLines" name="DIOWEBHEADER::GetLines">
+<area shape="rect" id="Node000001" title="Get lines." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="247,31,374,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,55,234,53,229,54,199,60"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="255,81,366,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,78,242,86,237,86,199,84"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="422,5,571,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,33,409,30,404,31,375,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="428,56,566,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,50,415,58,410,58,374,55"/>
+</map>

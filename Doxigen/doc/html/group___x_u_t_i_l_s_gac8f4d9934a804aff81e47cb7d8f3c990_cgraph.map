@@ -1,0 +1,34 @@
+<map id="XPATH::SetOnlyExt" name="XPATH::SetOnlyExt">
+<area shape="rect" id="Node000001" title="Set only ext." alt="" coords="5,367,145,394"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga15bf9dc61ade260a93c19abe3d9a49ed" title="Get ext." alt="" coords="193,266,306,292"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,364,213,298,211,303,101,369"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="769,190,918,216"/>
+<area shape="poly" id="edge19_Node000001_Node000007" title=" " alt="" coords="107,392,216,433,290,454,374,472,462,482,552,481,596,474,639,464,680,449,719,429,744,410,766,387,799,333,821,277,835,233,839,230,827,279,804,335,770,390,748,414,722,433,682,454,640,469,597,480,552,486,462,487,373,477,289,460,214,438,106,397"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="195,367,304,394"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="145,378,182,379,177,381,146,383"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="577,291,715,318"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,280,564,297,559,301,306,285"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga913d9a5ff563e415893c6af33b9c28aa" title="Split." alt="" coords="390,139,488,166"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="269,263,407,173,402,176,273,267"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="306,272,491,255,720,226,769,219,764,221,721,231,491,260,307,277"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="459,163,617,281,612,282,458,169"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="586,38,706,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,136,509,106,570,74,588,69,584,71,572,79,512,110,463,141"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="775,12,912,39"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="447,137,466,111,494,78,529,47,570,23,618,9,667,4,716,4,762,9,757,11,715,9,667,9,619,15,572,28,532,51,497,82,470,114,451,140"/>
+<area shape="poly" id="edge12_Node000004_Node000007" title=" " alt="" coords="488,152,595,160,721,175,770,186,765,186,720,180,595,166,489,158"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="591,88,701,115"/>
+<area shape="poly" id="edge7_Node000004_Node000009" title=" " alt="" coords="487,138,578,117,573,120,489,143"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad94be569be2ef5e64067a470ce9d8c8b" title="Constructor of class." alt="" coords="588,190,704,216"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="488,161,576,185,571,186,488,167"/>
+<area shape="poly" id="edge5_Node000005_Node000008" title=" " alt="" coords="706,41,762,35,757,37,708,46"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="698,62,722,74,753,97,782,124,826,177,821,176,778,128,750,102,719,79,698,68"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="704,200,756,202,750,203,705,206"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="372,342,506,368"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="304,370,358,365,353,367,305,376"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="354,392,523,419"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="305,385,341,392,336,393,305,390"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="496,338,576,321,571,323,497,344"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="571,392,721,419"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="524,403,558,405,553,406,524,408"/>
+</map>

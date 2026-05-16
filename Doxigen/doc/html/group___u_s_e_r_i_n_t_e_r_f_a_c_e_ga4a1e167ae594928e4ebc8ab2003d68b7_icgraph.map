@@ -1,0 +1,11 @@
+<map id="UI_ELEMENT_FORM::GetVisibleRect" name="UI_ELEMENT_FORM::GetVisibleRect">
+<area shape="rect" id="Node000001" title="Get visible rect." alt="" coords="514,64,761,91"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac0f8999aa97ade79eddde09843c0e045" title="Draw form." alt="" coords="261,5,466,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,61,429,35,429,30,560,60"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac820311bea5ed0996d3267400da51b4d" title="Draw form." alt="" coords="280,56,447,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="496,78,448,80,447,75,501,77"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga13f15a88d38869251c3ae0f3d2989724" title="Set element position." alt="" coords="261,123,466,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="567,94,455,125,454,119,562,95"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga87c6c1ed58d34e3bc4592a5a01b3f8cc" title="Draw menu." alt="" coords="5,5,213,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,20,214,21,213,16,247,18"/>
+</map>

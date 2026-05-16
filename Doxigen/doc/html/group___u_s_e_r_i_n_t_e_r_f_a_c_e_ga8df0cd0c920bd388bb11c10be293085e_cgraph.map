@@ -1,0 +1,21 @@
+<map id="UI_SKINCANVAS::CalculePosition" name="UI_SKINCANVAS::CalculePosition">
+<area shape="rect" id="Node000001" title="Calcule position." alt="" coords="5,195,234,221"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga76d6569d7b264b372108bb5364acf5ba" title="Get boundary line." alt="" coords="282,5,494,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,192,186,120,230,78,280,42,296,36,292,40,283,46,233,82,190,124,132,196"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga979f818c459fa4020d477a0a4636668b" title="Get father." alt="" coords="303,56,473,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,192,195,143,237,116,281,92,301,86,296,89,283,97,239,120,199,148,138,196"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga9c06b964aa13002aed184b54f43ff117" title="Get margin." alt="" coords="302,107,474,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,192,211,168,281,143,311,136,306,139,282,148,213,173,154,196"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa9b8579e5f57f64a53ff892d42f39027" title="Get position without define." alt="" coords="285,157,490,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="233,193,272,190,268,193,235,198"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae86eae7a0b9fdf7c07df4deaed21d511" title="Get X position." alt="" coords="293,224,482,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="234,218,280,224,275,226,235,223"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0a66fe71f1d3b14f18b33d332cc7700e" title="Get Y position." alt="" coords="293,275,482,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,219,282,260,313,270,307,271,281,265,158,224"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5621a5fee9834d56eb52ac5171e134cc" title="Set X position." alt="" coords="294,325,482,352"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="138,219,200,265,240,289,283,311,302,320,297,320,281,316,238,294,197,269,137,224"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf1f764fbdac02b8b80877d036deb5204" title="Set Y position." alt="" coords="294,376,482,403"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="132,219,191,288,234,328,283,362,297,371,292,370,280,366,231,332,187,292,130,224"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae1b7336feac7b03a5b261ac0e9944262" title="Constructor of class." alt="" coords="542,56,738,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,67,529,68,524,70,474,72"/>
+</map>

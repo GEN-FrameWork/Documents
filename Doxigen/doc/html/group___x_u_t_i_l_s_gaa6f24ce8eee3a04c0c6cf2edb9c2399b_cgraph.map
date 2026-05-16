@@ -1,0 +1,12 @@
+<map id="XVARIANT::operator=" name="XVARIANT::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae78e95a278bdc6686fc0294534223746" title="Get data from string." alt="" coords="204,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,33,191,31,186,33,156,38"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga747652b19f0530d808b07dadc4073710" title="Constructor of class." alt="" coords="227,56,389,83"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="156,50,214,58,208,59,156,55"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf2a714cbc516e65c1939b46fad3a6793" title="Destroy." alt="" coords="623,5,765,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,610,18,605,19,413,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga238f6ef465ea6b1cc7f9882aee8c868f" title="Set." alt="" coords="460,31,575,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,29,447,35,442,35,412,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="576,33,605,31,610,31,576,38"/>
+</map>

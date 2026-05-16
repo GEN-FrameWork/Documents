@@ -1,0 +1,64 @@
+<map id="DIOPROTOCOL::RCV_Application_GetName" name="DIOPROTOCOL::RCV_Application_GetName">
+<area shape="rect" id="Node000001" title="RCV application get name." alt="" coords="877,275,1105,317"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf09fbf0b6068e530dfc0f9bc01a18a65" title="Constructor of class." alt="" coords="604,283,829,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="859,306,830,307,829,302,864,304"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="844,284,879,286,874,288,846,290"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga98206bc120f415a1f6c7a094d6a5b9d3" title="RCV application get version." alt="" coords="317,5,544,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="699,268,677,226,645,173,604,120,580,95,555,74,530,61,505,51,504,46,532,56,557,70,584,91,608,116,650,170,682,224,704,269"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaef27189254cfbe0b4a8cf707d6c59387" title="RCV GEN_DELETE dir." alt="" coords="321,72,540,99"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="693,270,638,197,599,158,555,125,520,110,485,102,483,97,521,105,557,120,603,154,642,194,698,270"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaea59df01806940c0975383348ceaf8aa" title="RCV GEN_DELETE file." alt="" coords="319,123,542,149"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="683,272,627,224,592,198,555,176,514,161,476,152,474,147,516,156,557,171,595,193,631,219,688,272"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaf0c7360756b33cdfa3fa7bac9a71add0" title="RCV get date time." alt="" coords="310,173,551,200"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="662,276,612,251,555,227,508,213,465,203,464,198,509,208,557,221,614,246,667,274"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga6f37f5c77b56c188f4f2279ec9bb6965" title="RCV get dir element." alt="" coords="306,224,555,251"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="586,282,555,277,457,254,455,249,557,272,591,280"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gafef88d4fad73e58d3fed93836bc0ffcd" title="RCV get protocol version." alt="" coords="314,275,546,317"/>
+<area shape="poly" id="edge13_Node000002_Node000008" title=" " alt="" coords="586,306,548,307,546,302,591,304"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gae6a77c6733b52702fdb7fdc3af681942" title="RCV make dir." alt="" coords="324,341,536,368"/>
+<area shape="poly" id="edge15_Node000002_Node000009" title=" " alt="" coords="673,316,557,344,538,348,536,343,555,339,677,313"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gaf84ba57e4753a2659927d7525bda3df9" title="RCV ping." alt="" coords="336,392,525,419"/>
+<area shape="poly" id="edge17_Node000002_Node000010" title=" " alt="" coords="690,321,633,360,557,394,527,403,524,399,555,390,631,355,694,318"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga33ce7c7482571fb860138b807bb63231" title="RCV send is init server protocol." alt="" coords="319,443,542,485"/>
+<area shape="poly" id="edge19_Node000002_Node000011" title=" " alt="" coords="701,320,641,385,601,418,557,445,543,452,540,447,555,440,598,413,638,381,697,324"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga0f99a60424d323d5df243a58950ec398" title="RCV set date time." alt="" coords="310,509,550,536"/>
+<area shape="poly" id="edge21_Node000002_Node000012" title=" " alt="" coords="707,322,686,368,652,419,609,470,584,492,557,512,552,515,549,510,555,507,581,488,606,466,648,416,681,365,703,326"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga03b3e9879deb9352eb401d6b14855034" title="Send event." alt="" coords="335,560,526,587"/>
+<area shape="poly" id="edge23_Node000002_Node000013" title=" " alt="" coords="708,322,689,374,657,436,614,498,587,526,557,550,528,565,525,560,555,546,583,522,609,495,652,433,684,372,704,326"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#ga5381950955c8e87d3a7d0f96c68edd75" title="Send event command." alt="" coords="305,611,556,637"/>
+<area shape="poly" id="edge24_Node000002_Node000014" title=" " alt="" coords="711,322,695,384,665,459,644,498,620,536,591,571,558,601,538,612,535,608,554,597,587,567,615,533,640,495,660,457,690,382,708,327"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="556,47,591,77,620,109,666,176,697,237,714,283,709,282,693,239,661,179,616,112,587,80,557,52"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="553,95,557,96,586,116,613,140,659,192,693,243,713,283,708,282,688,246,655,196,609,144,583,120,555,101,554,100"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="555,147,557,147,607,178,652,215,688,252,711,282,706,282,684,255,648,219,604,182,555,152,556,152"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="565,201,649,242,707,282,701,283,646,246,566,206"/>
+<area shape="poly" id="edge12_Node000007_Node000002" title=" " alt="" coords="570,251,692,281,687,283,571,256"/>
+<area shape="poly" id="edge14_Node000008_Node000002" title=" " alt="" coords="561,285,606,286,601,288,563,289"/>
+<area shape="poly" id="edge16_Node000009_Node000002" title=" " alt="" coords="469,334,555,315,606,306,601,309,557,320,472,339"/>
+<area shape="poly" id="edge18_Node000010_Node000002" title=" " alt="" coords="478,386,555,365,621,337,680,308,676,311,623,342,557,371,480,390"/>
+<area shape="poly" id="edge20_Node000011_Node000002" title=" " alt="" coords="506,436,555,416,596,390,635,361,698,308,694,311,639,365,600,395,557,421,508,440"/>
+<area shape="poly" id="edge22_Node000012_Node000002" title=" " alt="" coords="500,503,529,495,555,483,581,464,606,442,649,392,681,345,704,312,707,308,686,347,653,396,610,446,585,468,557,488,531,500,503,508"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga1d0fd8a0eb0501f53f048657bf39f912" title="CMD application get name." alt="" coords="16,296,246,339"/>
+<area shape="poly" id="edge25_Node000014_Node000015" title=" " alt="" coords="305,602,303,600,281,570,272,538,272,507,277,475,282,444,283,413,275,383,255,352,244,342,242,336,259,349,280,381,288,413,287,444,282,476,278,507,277,537,285,567,307,597,310,601"/>
+<area shape="rect" id="Node000016" href="$group___d_a_t_a_i_o.html#ga86a3ffafb477ab1473f0d218282f9bc1" title="CMD application get version." alt="" coords="16,363,246,405"/>
+<area shape="poly" id="edge26_Node000014_Node000016" title=" " alt="" coords="306,602,303,600,285,578,277,555,276,532,277,508,279,486,278,463,271,441,255,419,243,408,241,403,259,415,276,439,283,462,284,486,283,509,281,532,282,554,290,576,307,597,311,602"/>
+<area shape="rect" id="Node000017" href="$group___d_a_t_a_i_o.html#ga54c02f86c680b7d2f8372985655a4b34" title="CMD GEN_DELETE dir." alt="" coords="21,429,241,456"/>
+<area shape="poly" id="edge27_Node000014_Node000017" title=" " alt="" coords="307,603,303,601,289,585,281,568,278,534,275,500,268,485,255,470,240,459,239,454,258,466,273,482,280,499,283,533,287,566,293,582,307,597,312,602"/>
+<area shape="rect" id="Node000018" href="$group___d_a_t_a_i_o.html#ga074f6b0a4e162e9fe98a4a1c38114bd3" title="CMD GEN_DELETE file." alt="" coords="19,480,243,507"/>
+<area shape="poly" id="edge28_Node000014_Node000018" title=" " alt="" coords="310,604,303,601,285,581,278,560,271,539,255,521,236,510,235,505,258,517,276,537,283,558,290,578,306,597,315,603"/>
+<area shape="rect" id="Node000019" href="$group___d_a_t_a_i_o.html#gaa70d829b5558c5f99ec34dd6f52b920f" title="CMD get date time." alt="" coords="9,531,253,557"/>
+<area shape="poly" id="edge29_Node000014_Node000019" title=" " alt="" coords="324,607,304,601,279,586,256,572,221,561,220,555,258,567,282,582,306,596,329,605"/>
+<area shape="rect" id="Node000020" href="$group___d_a_t_a_i_o.html#gaad2f915bed75edbe5e7b0860ac24db64" title="CMD get dir element." alt="" coords="5,581,257,608"/>
+<area shape="poly" id="edge30_Node000014_Node000020" title=" " alt="" coords="287,611,258,610,256,605,291,609"/>
+<area shape="rect" id="Node000021" href="$group___d_a_t_a_i_o.html#ga8efa382619e64a6a16a4ec8df4175aba" title="CMD get protocol version." alt="" coords="14,632,248,675"/>
+<area shape="poly" id="edge31_Node000014_Node000021" title=" " alt="" coords="287,639,250,644,248,639,291,636"/>
+<area shape="rect" id="Node000022" href="$group___d_a_t_a_i_o.html#ga2f6961ac523877e89ab9cdb965a242c2" title="CMD make dir." alt="" coords="24,699,238,725"/>
+<area shape="poly" id="edge32_Node000014_Node000022" title=" " alt="" coords="379,645,257,689,211,700,208,696,256,684,383,642"/>
+<area shape="rect" id="Node000023" href="$group___d_a_t_a_i_o.html#gad3327245a65fed3b4f5a92856654bb21" title="CMD ping." alt="" coords="35,749,227,776"/>
+<area shape="poly" id="edge33_Node000014_Node000023" title=" " alt="" coords="399,649,339,696,299,720,258,740,223,751,221,746,256,735,297,715,336,691,403,646"/>
+<area shape="rect" id="Node000024" href="$group___d_a_t_a_i_o.html#gaba7fe782c233d952497b39d61c2945fc" title="CMD send is init server protocol." alt="" coords="19,800,243,843"/>
+<area shape="poly" id="edge34_Node000014_Node000024" title=" " alt="" coords="411,648,348,721,305,758,258,790,233,802,231,797,255,786,302,754,344,717,407,651"/>
+<area shape="rect" id="Node000025" href="$group___d_a_t_a_i_o.html#ga7f9b1c66c86011b9ba219045394e8eda" title="CMD set date time." alt="" coords="10,867,252,893"/>
+<area shape="poly" id="edge35_Node000014_Node000025" title=" " alt="" coords="419,649,396,698,361,754,314,810,287,835,258,857,234,869,232,864,255,852,284,831,311,806,356,750,391,695,415,653"/>
+<area shape="rect" id="Node000026" href="$group___d_a_t_a_i_o.html#ga4847a76d8c7e63ca84c3d081238e3fde" title="Received handle." alt="" coords="19,917,243,944"/>
+<area shape="poly" id="edge36_Node000014_Node000026" title=" " alt="" coords="422,650,402,708,368,778,320,848,291,880,258,908,236,919,235,914,255,903,287,876,316,845,363,775,397,706,418,654"/>
+</map>

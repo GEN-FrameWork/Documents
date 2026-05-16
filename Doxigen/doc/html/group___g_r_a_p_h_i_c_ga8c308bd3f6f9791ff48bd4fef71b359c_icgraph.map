@@ -1,0 +1,15 @@
+<map id="GRPVECTORFILEDXFTEXTPART::GRPVECTORFILEDXFTEXTPART" name="GRPVECTORFILEDXFTEXTPART::GRPVECTORFILEDXFTEXTPART">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="730,123,967,165"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaeb6565c0a85848068a519a03da9bb550" title="Copy to." alt="" coords="409,5,638,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,115,739,93,681,69,623,51,623,46,683,64,741,88,795,115"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="7,107,316,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="738,119,682,113,588,107,492,107,317,115,316,110,492,101,588,102,682,108,743,119"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="366,123,682,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="712,144,682,147,682,141,717,144"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga0498d960083fab1cd3f6425832350301" title="Parser text section." alt="" coords="5,199,318,241"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="736,168,682,180,493,201,318,215,318,209,493,196,682,175,730,169"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga2156d104f59da6956e0425ccb7b0b7f3" title="Parser variable." alt="" coords="368,240,680,283"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="795,172,741,200,683,224,624,242,623,237,681,219,739,195,790,173"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="347,137,317,137,316,132,353,136"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="350,242,318,241,318,235,355,242"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="DIONODEITEMHANDLER_SENSORAM2315::SetNodeItem" name="DIONODEITEMHANDLER_SENSORAM2315::SetNodeItem">
+<area shape="rect" id="Node000001" title="Set node item." alt="" coords="5,223,224,265"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaa7746787cec60f76ac1442acad2c3846" title="Get max value." alt="" coords="288,5,502,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,221,149,185,181,141,222,96,270,58,282,53,278,57,273,62,226,100,185,144,153,188,130,223"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga01e48a8405fded4ca588700adcd6aa07" title="Get min value." alt="" coords="290,72,500,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,220,195,172,232,146,270,124,287,119,283,122,273,129,234,151,198,176,141,224"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa60aadd7e5a9fac2bdaca6ce3ed2e28e" title="Get unit format." alt="" coords="289,139,501,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,220,271,191,299,185,295,187,272,196,182,224"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaa6745d76f0f70b856df0428f0c3399b2" title="Get value." alt="" coords="285,205,505,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="223,232,272,229,267,231,225,237"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gae0c27a8b9d0a166b57323885f3061c2d" title="Set mode." alt="" coords="285,256,504,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,251,272,257,267,259,225,256"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2b36629524cff3f91b33e43c98789b02" title="Set node item." alt="" coords="304,307,486,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,263,272,292,300,302,294,303,271,297,181,269"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga76e99030a8a4663ef560429acf3793a2" title="Set type." alt="" coords="287,373,502,400"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="138,263,197,312,234,338,273,359,292,368,287,368,271,364,231,342,194,317,138,268"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga49a1c1086d10376495cb8dd163d95bcf" title="Set type." alt="" coords="272,424,518,467"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="131,263,188,336,228,376,273,410,283,417,278,417,270,414,224,380,184,340,129,268"/>
+<area shape="rect" id="Node000008" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="566,289,751,316"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="486,317,553,312,548,314,487,322"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga29e32da571b2f8dc77e63b3c8061ee53" title="Get values." alt="" coords="566,340,751,367"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="486,334,554,343,549,343,486,339"/>
+</map>

@@ -1,0 +1,25 @@
+var class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r =
+[
+    [ "DIOCOREPROTOCOL_CONNECTIONSMANAGER", "group___d_a_t_a_i_o.html#ga38a220607a9874431cf0420cce1f20f1", null ],
+    [ "~DIOCOREPROTOCOL_CONNECTIONSMANAGER", "group___d_a_t_a_i_o.html#ga641d1c088dc4ef47469e88f1edc61b9d", null ],
+    [ "Connections_Add", "group___d_a_t_a_i_o.html#gafa4f26324d7ffdfa5ec92a836117bbdc", null ],
+    [ "Connections_Delete", "group___d_a_t_a_i_o.html#ga2ca97e023f807fcab99db10acf39551c", null ],
+    [ "Connections_DeleteAll", "group___d_a_t_a_i_o.html#gafd57c93da7dee1e5bbe63a548cf8de53", null ],
+    [ "Connections_DeleteAllDisconnected", "group___d_a_t_a_i_o.html#gaac7589036e58cb42029ae64c9a416c49", null ],
+    [ "Connections_Get", "group___d_a_t_a_i_o.html#ga69de4e8001e82ac4807d3166d0a160c8", null ],
+    [ "Connections_Get", "group___d_a_t_a_i_o.html#ga18d45ba049368d0c8f8df359df45de97", null ],
+    [ "Connections_GetAll", "group___d_a_t_a_i_o.html#ga54b3aa9273fbb9fe6621dd7a7193f7dc", null ],
+    [ "Connections_GetXMutex", "group___d_a_t_a_i_o.html#ga727c3329a31f2e01576aa61e88c9e9d9", null ],
+    [ "CreateConnection", "group___d_a_t_a_i_o.html#ga7f6dfbf7fa7a0a9b773b9755d6d5b41b", null ],
+    [ "CreateProtocol", "group___d_a_t_a_i_o.html#ga1e102b5eec56296d4eafe0ac0d622332", null ],
+    [ "DIOStream_Add", "group___d_a_t_a_i_o.html#gae0bb112db9ffd23717c59c9c0585bbd5", null ],
+    [ "DIOStream_Delete", "group___d_a_t_a_i_o.html#ga9f4a7377bf77aad6ebae6d95946aca81", null ],
+    [ "DIOStream_DeleteAll", "group___d_a_t_a_i_o.html#gab3940b2ede99b869e7e6933798f3fd62", null ],
+    [ "DIOStream_GetAll", "group___d_a_t_a_i_o.html#ga13e9fda47e987147bfa91f581e26c53e", null ],
+    [ "End", "group___d_a_t_a_i_o.html#ga08dbd9cd7fe22e6a516fc414aebf988b", null ],
+    [ "GetProtocolCFG", "group___d_a_t_a_i_o.html#gafba6ae5b308ccc1aaef802c6708b6512", null ],
+    [ "Ini", "group___d_a_t_a_i_o.html#gacdbfe00d37406b3768f651eb1cb72f29", null ],
+    [ "UpdateClass_GetXMutex", "group___d_a_t_a_i_o.html#gac4beb857ab2aeca1796c5c16a99763c6", null ],
+    [ "diostreams", "class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r.html#adc3c317009ff8aae39ef220e6bc77ff8", null ],
+    [ "protocolCFG", "class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_o_n_n_e_c_t_i_o_n_s_m_a_n_a_g_e_r.html#ad32c97210910ac72108c4e0d7b374198", null ]
+];

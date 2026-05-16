@@ -1,0 +1,21 @@
+<map id="XFILECFG" name="XFILECFG">
+<area shape="rect" id="Node000001" title="eXtended Utils CFG (Config) file class" alt="" coords="291,403,377,429"/>
+<area shape="rect" id="Node000002" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="134,304,227,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,337,317,402,311,403,213,342"/>
+<area shape="rect" id="Node000003" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="428,253,493,280"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,292,421,337,385,381,356,404,353,400,381,377,417,334,444,295"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="371,104,452,131"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="401,143,381,196,362,254,356,288,355,316,354,344,349,379,341,404,337,400,343,378,349,343,350,316,351,288,357,253,376,194,397,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="422,143,459,253,454,252,419,148"/>
+<area shape="rect" id="Node000008" href="$class_x_f_i_l_e_t_x_t.html" title="eXtended Utils TXT (Text) file class" alt="" coords="230,203,313,229"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="354,138,325,157,300,180,281,204,278,200,296,177,321,153,358,135"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="373,5,450,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,45,414,105,409,103,410,50"/>
+<area shape="rect" id="Node000007" href="$class_x_f_i_l_e_i_n_i.html" title="eXtended Utils INI (Windows INItialization file) file class" alt="" coords="250,304,327,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="297,343,310,377,326,404,321,402,306,380,294,348"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="278,242,289,305,284,303,275,247"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e_c_o_n_t_a_i_n_e_r.html" title=" " alt="" coords="5,104,143,131"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="113,135,248,201,243,204,113,140"/>
+<area shape="rect" id="Node000011" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="167,104,346,131"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="256,144,260,178,268,203,263,202,255,179,254,149"/>
+</map>

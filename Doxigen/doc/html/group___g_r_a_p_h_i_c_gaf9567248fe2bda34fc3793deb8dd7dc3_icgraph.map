@@ -1,0 +1,22 @@
+<map id="GRPSCREEN::SetHandle" name="GRPSCREEN::SetHandle">
+<area shape="rect" id="Node000001" title="Set handle." alt="" coords="446,132,622,159"/>
+<area shape="rect" id="Node000002" href="$group___s_c_r_i_p_t.html#ga7b8ad655c2e9a6ce5cac04142869f492" title="all_Window_GetPosX" alt="" coords="233,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,121,457,84,397,46,370,35,370,30,399,42,460,80,510,122"/>
+<area shape="rect" id="Node000004" href="$group___s_c_r_i_p_t.html#ga0334b63e607be640ac40f6793429ed42" title="Call_Window_Maximize." alt="" coords="231,56,392,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="481,126,397,97,362,86,362,81,399,92,487,126"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#gaf9ee6bcd6cd90c189ac753d52891b922" title="all_Window_Minimize" alt="" coords="233,107,390,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="428,134,391,132,391,126,433,133"/>
+<area shape="rect" id="Node000006" href="$group___s_c_r_i_p_t.html#ga8ec0984b5ef7fcbd41de6e6f885cf921" title="all_Window_Resize" alt="" coords="239,157,385,184"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="428,158,386,165,385,160,433,157"/>
+<area shape="rect" id="Node000007" href="$group___s_c_r_i_p_t.html#ga9460d8f0423990e40e724d7447e76391" title="all_Window_SetFocus" alt="" coords="231,208,392,235"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="487,164,399,199,363,210,361,205,397,193,481,165"/>
+<area shape="rect" id="Node000008" href="$group___s_c_r_i_p_t.html#gae136463c2d428c17de5913733240c90d" title="all_Window_SetPosition" alt="" coords="226,259,398,285"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="509,168,460,211,399,249,371,261,369,256,397,244,457,207,504,170"/>
+<area shape="rect" id="Node000003" href="$group___s_c_r_i_p_t.html#ga52d06ed6d5fb2c73904be02dc502d325" title="Add library functions." alt="" coords="5,124,178,167"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,39,227,46,166,85,118,125,114,122,163,81,224,42,241,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="245,89,227,97,149,126,146,121,225,92,249,86"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="215,132,179,138,177,133,220,130"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="220,161,179,158,178,153,225,160"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="244,203,225,199,147,170,148,165,227,193,249,203"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="237,253,224,249,163,210,115,170,117,165,166,205,227,244,242,253"/>
+</map>

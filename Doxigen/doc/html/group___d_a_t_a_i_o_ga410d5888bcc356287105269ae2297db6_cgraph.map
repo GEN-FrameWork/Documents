@@ -1,0 +1,21 @@
+<map id="DIOEMAILADDRESS::GetUser" name="DIOEMAILADDRESS::GetUser">
+<area shape="rect" id="Node000001" title="Get user." alt="" coords="5,156,214,183"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="265,105,386,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,153,253,135,248,138,171,158"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="454,29,569,56"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="132,153,189,122,261,91,353,66,441,51,436,53,354,71,263,96,192,127,135,158"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="634,80,784,107"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="196,181,280,189,378,193,483,187,535,179,585,167,637,144,678,118,683,116,639,148,587,172,536,184,484,192,378,198,280,194,197,186"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="262,232,389,259"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="150,181,273,225,268,228,150,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,102,465,61,460,64,361,107"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="385,112,621,98,616,100,386,117"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="444,131,580,157"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="386,124,430,132,425,133,386,129"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="479,28,474,21,478,11,491,5,512,3,534,5,547,14,542,14,532,10,512,8,492,10,482,15,479,20,485,29"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="567,54,642,75,637,76,567,59"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="437,232,586,259"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="389,243,424,245,419,246,390,248"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="442,283,581,309"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="378,257,448,278,443,278,377,262"/>
+</map>

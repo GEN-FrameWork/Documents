@@ -1,0 +1,10 @@
+<map id="DIOI2CPWMCONTROLERPCA9685::SendCommand" name="DIOI2CPWMCONTROLERPCA9685::SendCommand">
+<area shape="rect" id="Node000001" title="Send command." alt="" coords="5,23,245,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="293,31,408,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,41,279,44,274,44,245,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="456,5,589,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,33,438,31,443,30,409,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="637,31,797,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="409,41,624,44,619,44,409,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="590,25,624,32,619,31,590,30"/>
+</map>

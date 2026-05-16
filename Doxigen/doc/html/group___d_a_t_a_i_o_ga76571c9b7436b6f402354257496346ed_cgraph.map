@@ -1,0 +1,23 @@
+<map id="DIOSTREAMUDP::WriteDatagram" name="DIOSTREAMUDP::WriteDatagram">
+<area shape="rect" id="Node000001" title="Write datagram." alt="" coords="5,63,231,89"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="335,12,448,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,60,321,37,317,40,195,65"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="322,63,461,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,73,308,75,304,77,232,79"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gab0d0852629436fe9af4c2d221d9b2298" title="Write datagram." alt="" coords="279,113,504,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,87,303,109,298,111,194,93"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="582,63,741,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,73,568,75,563,77,462,79"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga867bece88069def37e9a1dc14e298dfe" title="Add datagram." alt="" coords="552,113,770,140"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="504,124,539,126,534,127,505,129"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="592,164,730,191"/>
+<area shape="poly" id="edge10_Node000005_Node000012" title=" " alt="" coords="467,138,579,161,574,162,466,143"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaed47d904f8f155c462dc8069b0fbb79b" title="Set address." alt="" coords="818,5,1023,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="741,110,769,99,783,89,793,79,802,69,817,58,826,56,831,54,820,62,806,72,797,83,787,93,772,104,743,115"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga743dcc5b6d0f6ef98775f12437f28bb3" title="Set data." alt="" coords="818,72,1023,115"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="770,110,805,108,800,109,771,115"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga286ca141c54c4020fac7911bc091a0b4" title="Set is to send." alt="" coords="818,139,1023,181"/>
+<area shape="poly" id="edge8_Node000006_Node000010" title=" " alt="" coords="770,138,805,145,800,145,770,143"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gabbdc07975a3460f0eb184ea993ace4b5" title="Set ports." alt="" coords="818,205,1023,248"/>
+<area shape="poly" id="edge9_Node000006_Node000011" title=" " alt="" coords="742,138,772,150,787,160,797,170,806,181,820,191,831,199,826,198,817,196,802,185,793,174,783,164,769,154,741,143"/>
+</map>

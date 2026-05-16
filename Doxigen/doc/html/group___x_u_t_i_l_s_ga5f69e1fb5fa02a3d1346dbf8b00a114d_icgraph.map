@@ -1,0 +1,27 @@
+<map id="XDATETIME::SetToZero" name="XDATETIME::SetToZero">
+<area shape="rect" id="Node000001" title="Set to zero." alt="" coords="752,139,918,165"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8b0f441513a55d867bfc9008cec5c587" title="convert date time to Xdate time" alt="" coords="490,5,703,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="804,128,759,96,703,62,677,51,678,46,706,58,762,91,809,129"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7905535610e352616cb1f642402f6cca" title="Get date time to string ISO8601." alt="" coords="498,72,695,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="761,135,686,118,686,113,766,134"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga53e32bbf56dbeb601e87e7da4405e53b" title="Get EPOCH format." alt="" coords="489,139,704,165"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="734,152,705,155,705,149,739,152"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga17ae2a6e5d190c06baeab355b760e159" title="Get time label type a." alt="" coords="494,189,700,232"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="766,169,687,191,686,186,761,170"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#gaee6350554edb061333813968684238e0" title="Get time label type b." alt="" coords="494,256,700,299"/>
+<area shape="poly" id="edge12_Node000001_Node000014" title=" " alt="" coords="809,175,762,213,706,246,678,258,677,253,703,242,759,208,804,176"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab6e330e6a2e5e4c4c3edcef8304763a6" title="To string." alt="" coords="287,80,430,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,94,431,96,430,91,485,93"/>
+<area shape="rect" id="Node000005" href="$group___s_c_r_i_p_t.html#ga80eea700679a796eea3c7dc56eab2244" title="Call_GetFileCFGValue." alt="" coords="40,21,193,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,77,227,63,180,51,179,46,228,57,292,75"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gabec8f888d4868b7c0ca0f59cadaea766" title="Get devices." alt="" coords="5,72,228,115"/>
+<area shape="poly" id="edge5_Node000004_Node000007" title=" " alt="" coords="269,94,229,96,227,91,274,92"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gadca2e8d12ef92459df1ea6f1e5ce7f55" title="Set." alt="" coords="34,139,199,165"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="287,112,228,129,181,141,178,136,227,124,292,110"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga898ffca49e72c68892c28bb6dd0537cc" title="CMDCCINU2 read." alt="" coords="280,189,436,232"/>
+<area shape="poly" id="edge9_Node000010_Node000011" title=" " alt="" coords="475,211,437,213,437,208,481,210"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga3ff5d9ca907775c5d2abe7274eeaac0f" title="CMDCTRAA read values." alt="" coords="276,256,441,299"/>
+<area shape="poly" id="edge11_Node000010_Node000013" title=" " alt="" coords="507,236,438,258,437,253,501,237"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gace240f640ed613ba2096f9896957e380" title="CMDCCINU2 read all values." alt="" coords="20,189,213,232"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="262,211,213,213,213,208,267,210"/>
+</map>

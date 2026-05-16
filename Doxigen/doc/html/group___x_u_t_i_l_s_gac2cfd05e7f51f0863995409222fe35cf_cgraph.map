@@ -1,0 +1,9 @@
+<map id="XMPINTEGER::CompareABSValues" name="XMPINTEGER::CompareABSValues">
+<area shape="rect" id="Node000001" title="Compare ABS values." alt="" coords="5,56,243,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="307,5,482,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,53,307,34,302,36,200,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="302,56,486,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,67,289,69,284,70,243,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="291,107,498,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,81,307,103,302,104,199,86"/>
+</map>

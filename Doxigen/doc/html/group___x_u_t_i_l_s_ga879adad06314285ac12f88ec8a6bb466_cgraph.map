@@ -1,0 +1,9 @@
+<map id="XTIMER::SetMilliSeconds" name="XTIMER::SetMilliSeconds">
+<area shape="rect" id="Node000001" title="Set milli seconds." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae9bae8dee3eb295618f0fcad6c117c79" title="Add milli seconds." alt="" coords="228,5,405,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,32,215,30,210,31,180,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="259,56,374,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,51,246,61,240,61,180,57"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="453,48,662,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,67,440,69,435,69,374,72"/>
+</map>

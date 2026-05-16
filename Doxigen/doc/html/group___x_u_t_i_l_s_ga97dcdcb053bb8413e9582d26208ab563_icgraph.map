@@ -1,0 +1,13 @@
+<map id="XUUID::Empty" name="XUUID::Empty">
+<area shape="rect" id="Node000001" title="Empty." alt="" coords="852,43,963,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga8b68eab056f15eb4fd43f8570eab88eb" title="Create ID machine." alt="" coords="471,5,804,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,48,804,48,805,42,840,48"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac7ee32ad07f9a6e3d1fd950aad86f08b" title="Generate machine ID." alt="" coords="532,72,744,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="840,63,745,76,744,71,834,64"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad6332d3010d60294d4dbdb1e2f146d99" title="Load from buffer." alt="" coords="235,72,423,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="513,85,424,88,423,83,519,85"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga8cd2c5dbdbe74970b17bb76c6cc19318" title="Load from file." alt="" coords="8,47,184,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,74,184,72,184,67,222,73"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga0901ce19c7298b67411d4a71fb743757" title="Load from URL." alt="" coords="5,97,187,124"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="217,98,188,103,187,98,222,97"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="INPCURSORMOTION::DeleteAllPoints" name="INPCURSORMOTION::DeleteAllPoints">
+<area shape="rect" id="Node000001" title="Delete all points." alt="" coords="361,23,578,65"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gaecf11f3f92e253b3935d2a73e5ae614d" title="Reset." alt="" coords="59,5,259,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,34,259,29,259,24,348,34"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga9abc4b4829069d2262cc16cd6fb6b93d" title="Destructor of class." alt="" coords="5,56,313,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,54,314,59,313,54,348,54"/>
+</map>

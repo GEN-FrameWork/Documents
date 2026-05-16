@@ -1,0 +1,29 @@
+<map id="XSTRING::ConvertFromDoubleToSpanishText" name="XSTRING::ConvertFromDoubleToSpanishText">
+<area shape="rect" id="Node000001" title="Convert from double to spanish text." alt="" coords="5,175,212,217"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="66,174,64,165,71,156,86,150,109,148,133,150,149,158,144,160,131,156,108,153,87,155,74,160,69,166,71,174"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="278,56,390,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,172,194,136,258,99,287,88,282,91,261,104,197,141,143,176"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="478,107,605,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="163,172,210,156,259,143,365,127,465,121,460,123,366,132,260,148,211,161,166,176"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga1e8c9a80193adf0dd340ee3508b9889f" title="Return the fractional part of double." alt="" coords="300,208,368,235"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="212,205,288,215,283,217,213,210"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="280,157,389,184"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="211,182,266,177,262,180,213,187"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga21ecb6c60f0e1b4b6d53f1d4c85a8610" title="Trucate double." alt="" coords="298,259,370,285"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="175,215,286,254,281,256,174,221"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="260,309,409,336"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="138,215,194,255,261,295,275,304,270,303,258,300,191,260,137,220"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="474,5,610,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,53,472,35,467,38,392,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="457,56,626,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,67,444,68,439,70,392,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="674,81,824,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="627,77,662,83,657,84,627,82"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="605,110,662,105,656,106,606,115"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="680,132,818,159"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="605,125,667,135,662,135,606,130"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="353,155,398,124,456,92,475,87,470,89,458,97,401,128,356,159"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="474,157,609,184"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="389,168,462,170,456,171,390,173"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="609,160,667,155,662,156,610,165"/>
+</map>

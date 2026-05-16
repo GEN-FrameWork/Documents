@@ -1,0 +1,9 @@
+<map id="XLINUXDIR::GetActual" name="XLINUXDIR::GetActual">
+<area shape="rect" id="Node000001" title="Get actual." alt="" coords="5,5,166,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga2bb2ecb6c6c1165217855dfd22a8888d" title="Convert from UTF8." alt="" coords="214,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,16,201,19,195,19,166,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="460,5,629,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,447,19,442,19,412,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="677,5,827,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="630,16,664,19,659,19,630,21"/>
+</map>

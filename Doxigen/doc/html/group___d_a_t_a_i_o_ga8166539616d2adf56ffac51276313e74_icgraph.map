@@ -1,0 +1,9 @@
+<map id="DIOSTREAMUARTCONFIG::SetStopBits" name="DIOSTREAMUARTCONFIG::SetStopBits">
+<area shape="rect" id="Node000001" title="Set stop bits." alt="" coords="480,39,669,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga648e8eac8f4459601f380c0557a1bb3d" title="Set from string." alt="" coords="243,39,432,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,60,433,63,433,57,467,60"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga14d9ea625e5a763c347d665fc26c8b74" title="Set from string." alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,45,195,43,195,37,230,44"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaba822bdb84f38cf89e71a4684f7b79bb" title="Set from string." alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="225,76,196,83,195,77,230,75"/>
+</map>

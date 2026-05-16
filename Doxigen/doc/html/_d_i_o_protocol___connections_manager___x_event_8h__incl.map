@@ -1,0 +1,16 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/Protocol/DIOProtocol_ConnectionsManager_XEvent.h" name="E:/Projects/GEN_FrameWork/GEN/DataIO/Protocols/Protocol/DIOProtocol_ConnectionsManager_XEvent.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,233,80"/>
+<area shape="rect" id="Node000002" href="$_x_event_8h.html" title=" " alt="" coords="81,128,157,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,78,122,113,116,112,118,83"/>
+<area shape="rect" id="Node000003" href="$_x_base_8h.html" title=" " alt="" coords="39,277,111,304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,155,86,263,81,261,113,156"/>
+<area shape="rect" id="Node000004" href="$_x_vector_8h.html" title=" " alt="" coords="125,203,204,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="128,153,151,189,146,189,126,158"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="151,229,104,270,101,265,146,231"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="134,277,194,304"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,228,167,263,162,260,163,232"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="219,277,283,304"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="180,227,227,267,222,267,179,232"/>
+<area shape="rect" id="Node000007" href="$_x_memory___control_8h.html" title=" " alt="" coords="308,277,445,304"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="202,227,327,271,322,273,201,233"/>
+</map>

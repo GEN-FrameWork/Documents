@@ -1,0 +1,33 @@
+<map id="DIOSTREAMUDP::ReadDatagram" name="DIOSTREAMUDP::ReadDatagram">
+<area shape="rect" id="Node000001" title="Read datagram." alt="" coords="5,263,232,289"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="343,31,458,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,261,146,224,179,173,224,119,250,95,278,74,302,61,330,53,326,57,304,66,281,78,253,99,228,123,184,176,150,226,129,264"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="613,107,743,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="126,261,149,229,183,188,227,148,252,131,279,118,319,104,362,95,448,88,530,91,602,102,597,104,529,97,448,93,363,100,321,109,281,122,255,136,230,152,187,192,153,232,131,263"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaa6375504d18c442a195adfea9fe13fce" title="Delete datagram." alt="" coords="284,132,518,159"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="136,260,198,218,279,175,321,162,317,165,281,180,200,223,140,264"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gafd94582ca7206e22959cc863ac3c26e5" title="Get datagram." alt="" coords="570,183,786,209"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="151,260,210,238,279,219,350,207,421,200,557,194,552,197,422,205,350,213,280,224,212,243,154,264"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="346,233,456,260"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="231,262,333,252,328,255,233,267"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#gab8545bf1e9f9b0922c2e14eb3341bc18" title="Get address." alt="" coords="299,284,503,327"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="231,285,286,292,281,294,233,290"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#ga14d4e81cf6453430dff389185f471b73" title="Get data." alt="" coords="299,351,503,393"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="152,287,281,336,305,345,299,346,279,341,153,293"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga46b86c34885a0f064bda1ae49c5a4139" title="Get first datagram." alt="" coords="280,417,522,444"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="133,287,194,344,235,376,281,403,299,412,293,412,278,408,232,381,190,349,132,292"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga7c0ad7e0653eb39062c182b564d6a1c5" title="Get port." alt="" coords="299,468,503,511"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="128,287,152,322,187,367,230,414,281,454,291,461,286,461,278,458,227,418,182,370,148,325,128,292"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="608,505,748,532"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="124,287,142,336,173,402,194,436,219,469,248,497,281,520,322,538,366,550,412,555,458,556,544,548,614,537,619,536,545,554,458,562,412,561,365,555,321,543,278,525,244,502,215,472,189,439,168,404,137,338,123,292"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="612,5,745,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,36,598,25,594,28,460,41"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="834,81,994,108"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="458,47,821,84,817,87,459,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="727,30,787,48,863,75,857,76,786,53,728,35"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="743,110,821,104,816,106,745,116"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="478,157,589,178,584,180,478,162"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga8257c29985ce2c6fad9d7985286f4ac6" title="Is to send." alt="" coords="576,409,780,452"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="522,428,563,430,558,431,523,433"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="723,502,756,486,784,462,815,421,840,376,860,328,876,280,898,190,908,126,912,122,903,191,882,281,865,330,845,378,819,424,788,466,759,490,725,507"/>
+</map>

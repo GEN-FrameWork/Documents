@@ -1,0 +1,33 @@
+<map id="UI_SKIN::CalculateBoundaryLine" name="UI_SKIN::CalculateBoundaryLine">
+<area shape="rect" id="Node000001" title="Calculate boundary line." alt="" coords="5,480,222,507"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gabdff05ecd7b5619815a02fcb6d71b2bc" title="Calculate boundary line animation." alt="" coords="270,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,479,121,406,144,294,164,231,191,169,225,110,268,58,274,55,271,59,272,62,229,113,195,171,169,233,150,295,126,407,118,480"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga3fc8535dd3e5bdf277de06906e4b89f5" title="Calculate boundary line button." alt="" coords="270,72,462,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,479,126,416,152,321,172,269,198,217,230,168,268,125,274,122,271,126,272,129,234,171,203,219,177,271,157,323,131,417,119,480"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga620394db9b427e0985e835142dab7447" title="Calculate boundary line check box." alt="" coords="270,139,462,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,479,131,426,160,349,181,307,205,265,234,226,268,191,275,188,272,192,271,195,238,229,210,268,185,309,165,351,136,427,121,480"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa2b0c218b2779fb86cda7b19503928ca" title="Calculate boundary line edit text." alt="" coords="270,205,462,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="118,479,137,436,169,377,213,313,239,284,268,258,277,254,273,258,271,262,243,288,217,317,173,380,142,438,123,480"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5b531853eccd7aac9ed0f6550590eb29" title="Calculate boundary line form." alt="" coords="270,272,462,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="122,478,178,406,220,363,268,324,279,320,276,324,271,329,224,366,182,409,126,481"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac2db00d09f13638f99af3b6864bfd36d" title="Calculate boundary line image." alt="" coords="270,339,462,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="131,478,191,436,268,391,284,386,280,390,271,396,194,440,135,481"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga265726894b5517c1fceaa9fa44ad83de" title="Calculate boundary line list box." alt="" coords="270,405,462,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="166,477,270,450,266,454,169,482"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8eb5c69327f73c051a763e6b5180c64d" title="Calculate boundary line menu." alt="" coords="270,472,462,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="221,491,256,492,252,495,223,496"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga15f8e5fc8e48c5fe0f9f913620b9eaca" title="Calculate boundary line multi option." alt="" coords="270,539,462,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="166,505,270,533,266,536,168,510"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1d9dafcaebb1e829bdfc1d9309713a20" title="Calculate boundary line option." alt="" coords="270,605,462,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="133,505,194,546,271,591,284,598,279,600,268,596,191,551,134,510"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae96769229cf6bdb352c4e494890423e0" title="Calculate boundary line progress bar." alt="" coords="270,672,462,715"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="124,504,182,577,224,620,271,658,280,664,275,665,268,662,220,624,178,581,124,510"/>
+<area shape="rect" id="Node000013" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga58cf607e80ba8a5ded8811e2ee797170" title="Calculate boundary line scroll." alt="" coords="270,739,462,781"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="120,504,142,548,173,607,217,670,243,699,271,725,278,730,272,731,268,729,239,703,213,673,169,610,137,551,120,510"/>
+<area shape="rect" id="Node000014" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0f7379c5369cdf0594780921fd8f8342" title="Calculate boundary line text." alt="" coords="270,805,462,848"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="118,505,136,559,165,636,185,678,210,719,238,757,271,791,276,797,271,796,268,795,234,761,205,722,181,680,160,638,131,561,118,510"/>
+<area shape="rect" id="Node000015" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac2025fc951763e1010df3dddd802896a" title="Calculate boundary line text box." alt="" coords="270,872,462,915"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="117,505,131,570,157,664,177,716,203,767,234,816,272,858,275,863,270,862,268,862,230,819,198,770,172,718,152,666,126,571,116,510"/>
+<area shape="rect" id="Node000016" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga9990cfbb2d7d7b843f6d92d0c0d5230a" title="Get type." alt="" coords="285,939,446,965"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="116,504,125,580,134,634,147,693,167,756,193,817,228,875,272,925,277,931,271,930,268,929,223,878,188,820,162,758,142,695,128,635,120,581,115,510"/>
+</map>

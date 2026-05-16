@@ -1,0 +1,10 @@
+<map id="DIOCOREPROTOCOL_CONNECTION::Status_GetString" name="DIOCOREPROTOCOL_CONNECTION::Status_GetString">
+<area shape="rect" id="Node000001" title="Status get string." alt="" coords="5,23,262,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="310,5,437,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,28,297,27,292,27,262,33"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="490,56,629,83"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="262,49,478,63,473,65,262,54"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="485,5,634,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,16,472,18,467,19,438,21"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="426,30,496,52,491,51,425,35"/>
+</map>

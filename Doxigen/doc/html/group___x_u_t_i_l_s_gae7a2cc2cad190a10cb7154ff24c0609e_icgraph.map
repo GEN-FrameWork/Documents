@@ -1,0 +1,13 @@
+<map id="XFSMACHINE::GetEvent" name="XFSMACHINE::GetEvent">
+<area shape="rect" id="Node000001" title="Get event." alt="" coords="571,81,744,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga412a55c723675c56ccd9050cf353c757" title="Check transition." alt="" coords="310,5,523,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="598,76,522,53,464,35,465,30,524,48,603,76"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad32c6a0ffb6b5dfb98c359fd856ac3e3" title="Update." alt="" coords="5,33,262,76"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="554,89,262,67,262,62,557,85"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga8210bbf1532d9f6a916d4b2204f04318" title="Check transition." alt="" coords="310,107,523,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="558,105,524,111,523,106,553,106"/>
+<area shape="rect" id="Node000005" href="$group___s_o_u_n_d.html#gaec9161c9a9d6d78b3002dc5ac35fe06a" title="Update." alt="" coords="26,121,241,148"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="617,114,572,135,524,148,448,157,372,160,234,151,234,146,372,154,448,152,522,143,570,130,612,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,35,263,41,261,36,297,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,127,242,132,242,126,297,126"/>
+</map>

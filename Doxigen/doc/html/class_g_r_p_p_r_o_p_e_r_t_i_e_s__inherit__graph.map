@@ -1,0 +1,21 @@
+<map id="GRPPROPERTIES" name="GRPPROPERTIES">
+<area shape="rect" id="Node000001" title="Graphics Properties class." alt="" coords="5,80,142,107"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p.html" title="Graphics Bitmap class." alt="" coords="193,21,294,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,72,204,46,201,50,130,77"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_c_a_n_v_a_s.html" title="Graphics Canvas class." alt="" coords="191,80,296,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,91,193,92,188,95,158,96"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_s_c_r_e_e_n.html" title="Graphics Screen Class." alt="" coords="190,189,297,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="109,113,223,188,219,190,108,118"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html" title=" " alt="" coords="353,5,634,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,30,355,30,350,32,310,35"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html" title="Graphics Canvas AGG Library class." alt="" coords="345,72,642,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,91,347,92,342,94,313,96"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_a_n_d_r_o_i_d_s_c_r_e_e_n.html" title="ANDROID Graphics Screen class." alt="" coords="409,139,578,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="310,183,344,175,411,164,406,166,346,180,312,188"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p_d_i_s_p_l_a_y_d_e_v_i_c_e.html" title="Graphics Display Device (screen class for display devices)." alt="" coords="415,189,572,216"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="312,200,417,202,412,203,312,205"/>
+<area shape="rect" id="Node000009" href="$class_g_r_p_l_i_n_u_x_s_c_r_e_e_n_f_r_a_m_e_b_u_f_f_e_r.html" title="LINUX Graphics Frame Buffer Screen class." alt="" coords="370,240,618,267"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="311,218,346,225,407,239,402,240,344,231,311,223"/>
+<area shape="rect" id="Node000010" href="$class_g_r_p_w_i_n_d_o_w_s_s_c_r_e_e_n.html" title="WINDOWS Graphics Screen class." alt="" coords="406,291,582,317"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="270,224,305,252,346,276,408,296,402,296,344,281,302,257,269,229"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="DIODISPLAYDEVICE_CONFIG::GetSizeBuffer" name="DIODISPLAYDEVICE_CONFIG::GetSizeBuffer">
+<area shape="rect" id="Node000001" title="Get size buffer." alt="" coords="1008,64,1219,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad7fac1f393ecbbe04de1a8c9d47385c2" title="Clear." alt="" coords="529,35,719,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1058,56,1012,37,959,21,906,12,864,11,768,21,695,37,694,31,767,16,864,5,907,7,960,16,1014,32,1063,57"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gab972e0e3b6e39856fa75ec9fa1924a70" title="Clear." alt="" coords="767,31,960,73"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="989,69,960,68,960,62,995,69"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2ad90f87e92f90adc4e539c42c40f9cd" title="Update." alt="" coords="768,97,959,140"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="995,101,960,109,959,103,990,102"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gac37300e0f89751b3cf6a587ff04a7c4b" title="Update." alt="" coords="767,164,960,207"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1053,113,961,154,930,166,929,161,959,150,1048,114"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad9fe5c7374262e9b03f3ba82940a90a4" title="End." alt="" coords="260,13,481,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,44,482,42,481,37,516,43"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga66131c1526b3028fa42a8c41a468908e" title="Ini device." alt="" coords="275,64,466,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="511,69,467,77,466,72,516,68"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gabecf85e16a151fe85ef981e0062249f6" title="Destructor of class." alt="" coords="5,5,212,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,28,213,29,211,24,246,26"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="762,93,708,81,708,75,767,93"/>
+</map>

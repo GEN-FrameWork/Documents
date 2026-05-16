@@ -1,0 +1,10 @@
+<map id="UI_MANAGER::LoadLayout" name="UI_MANAGER::LoadLayout">
+<area shape="rect" id="Node000001" title="Load layout." alt="" coords="5,43,191,69"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4111cffe51475f0aa3e9060889a9d3ff" title="Close." alt="" coords="239,5,363,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,40,226,32,221,34,175,45"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac1ba7a50ab19469934c6083fdcdec985" title="Open." alt="" coords="240,80,362,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,67,228,79,222,80,174,73"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="270,78,265,71,268,62,281,55,301,53,322,56,335,65,330,64,321,61,301,59,282,61,272,65,270,71,275,81"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="411,80,549,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="362,91,398,93,393,93,362,96"/>
+</map>

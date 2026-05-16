@@ -1,0 +1,19 @@
+<map id="DIOCLIPROTOCOL::AddAnswer" name="DIOCLIPROTOCOL::AddAnswer">
+<area shape="rect" id="Node000001" title="Add answer." alt="" coords="5,140,221,167"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="313,31,425,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,137,193,103,268,67,300,58,295,61,270,72,195,107,137,142"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="314,81,424,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,137,300,109,296,113,175,142"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga635302c8cbe7b150da1af992a7e192ef" title="Get answer." alt="" coords="269,132,469,175"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="221,151,255,152,250,154,222,156"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gad8207b9f66c02e2b94cd153e1ca76c81" title="Get command." alt="" coords="269,199,469,241"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="167,165,272,193,267,195,167,170"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga970445aa6e7362496bede2202257b5b1" title="Get origin ID." alt="" coords="269,265,469,308"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="133,165,193,206,270,251,284,259,279,259,267,256,190,211,132,170"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="534,5,670,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,35,520,27,515,29,426,40"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="517,56,686,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,47,504,58,499,59,426,53"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="734,56,884,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="686,67,721,69,716,70,687,72"/>
+</map>

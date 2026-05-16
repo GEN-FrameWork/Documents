@@ -1,0 +1,17 @@
+<map id="GRPVECTORFILEDXFENTITYOBJARC::ApplyData" name="GRPVECTORFILEDXFENTITYOBJARC::ApplyData">
+<area shape="rect" id="Node000001" title="Apply data." alt="" coords="5,51,270,93"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gafd1fd045515de546213453bf4192b05b" title="Apply data." alt="" coords="318,51,553,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,69,305,71,300,73,270,75"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaf4b2c8fe102a11ac43cc8d2376f2047c" title="Get data." alt="" coords="616,5,821,48"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="241,47,317,36,465,26,604,25,598,26,465,31,318,41,242,53"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gad05d5ca2368b40bbd441c5273b7716f7" title="Get data value." alt="" coords="601,84,836,127"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="239,91,318,103,456,110,588,111,582,112,455,115,317,108,239,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,50,604,45,599,46,554,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="554,83,588,90,583,90,554,89"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="931,33,1047,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="820,81,913,63,919,62,821,86"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#gad2d135cf3bc2930de0171881051f3225" title="Get type." alt="" coords="887,84,1091,127"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="836,103,874,105,869,105,837,108"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gaae887d79c2889238fe8a30275b17a66e" title="Get values." alt="" coords="884,151,1094,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="808,125,888,147,882,146,808,130"/>
+</map>

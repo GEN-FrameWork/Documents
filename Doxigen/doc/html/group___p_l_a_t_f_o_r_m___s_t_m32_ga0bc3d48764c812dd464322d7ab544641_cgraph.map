@@ -1,0 +1,23 @@
+<map id="XSTM32DIR::ChangeTo" name="XSTM32DIR::ChangeTo">
+<area shape="rect" id="Node000001" title="Change to." alt="" coords="5,81,169,108"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga44568ba42beca3fb2c1165968a48ab46" title="Exist." alt="" coords="217,81,351,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,92,204,93,199,96,170,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="428,5,541,32"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="157,78,216,67,415,30,411,34,217,72,160,83"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gae4d3272dfd7abca52a5154e8a4e14c9e" title="Slash normalize." alt="" coords="399,183,570,209"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="143,106,416,176,413,180,143,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,78,398,48,435,37,430,39,400,53,322,83"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="851,107,989,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="351,87,554,81,678,83,803,92,854,103,849,103,802,97,678,88,554,86,352,93"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gab4492049ce4293834ec2c54957bf22eb" title="Slash delete." alt="" coords="410,107,560,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="351,100,397,108,392,109,351,106"/>
+<area shape="poly" id="edge8_Node000002_Node000012" title=" " alt="" coords="313,106,446,175,441,176,312,111"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gacae4462012fcb5ee07db15505877d40a" title="Delete character." alt="" coords="618,107,803,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="560,117,605,120,600,120,561,123"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaafb954c8ccc621da26ea77904fcf3685" title="Slash have at last." alt="" coords="620,157,801,184"/>
+<area shape="poly" id="edge7_Node000005_Node000010" title=" " alt="" coords="548,131,636,153,630,154,547,137"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="803,117,838,120,832,120,803,123"/>
+<area shape="poly" id="edge10_Node000012_Node000004" title=" " alt="" coords="571,206,624,210,683,211,743,206,802,193,851,171,890,145,895,143,853,175,804,199,744,211,683,216,624,216,571,212"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="655,259,766,285"/>
+<area shape="poly" id="edge9_Node000012_Node000013" title=" " alt="" coords="527,207,656,253,651,253,526,213"/>
+</map>

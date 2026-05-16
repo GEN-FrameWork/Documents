@@ -1,0 +1,29 @@
+<map id="INPWINDOWSSIMULATE::Key_ClickByLiteral" name="INPWINDOWSSIMULATE::Key_ClickByLiteral">
+<area shape="rect" id="Node000001" title="Key click by literal." alt="" coords="5,109,185,152"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga99a2cb07a0574f032108e0390f2a1dd9" title="Get KDB code by literal." alt="" coords="460,64,674,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,107,164,63,196,42,232,25,268,17,305,13,379,18,448,35,508,57,503,58,446,40,378,24,305,18,269,22,234,31,199,46,167,67,118,111"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9de4cf87390e10079f577ff33232ab55" title="Key click." alt="" coords="233,221,412,264"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="131,150,234,207,248,215,243,215,231,212,130,155"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga0fa4d43bb2b6a767402673fdd0ae631b" title="Key press by literal." alt="" coords="233,64,412,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="184,110,219,105,215,108,186,115"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa077de23aa9b5817de8a4d7831113153" title="Key un press by literal." alt="" coords="233,155,412,197"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="185,146,220,154,215,156,185,151"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="722,47,865,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="674,71,709,69,704,70,675,76"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="724,97,863,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="674,95,712,101,706,101,675,100"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="913,5,1059,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="864,45,900,41,894,43,865,50"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="913,72,1059,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="865,70,900,78,894,78,865,75"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7cc62c2032daf5fc55d1ee03637a47ea" title="Key press." alt="" coords="478,136,657,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="385,218,487,185,492,184,387,223"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9622c322ab2b0d3e8a4e61de8bd8cbc7" title="Key un press." alt="" coords="478,215,657,257"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="412,238,465,239,459,239,413,243"/>
+<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="412,83,447,85,442,86,413,88"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="398,105,480,131,475,131,398,110"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="279,62,277,54,285,45,300,39,322,37,347,40,363,48,358,49,345,45,322,43,301,45,288,49,283,55,284,64"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="380,152,459,122,489,113,494,112,461,126,382,157"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="412,195,465,210,460,210,412,201"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="279,153,277,145,285,136,300,130,322,128,347,130,363,139,358,139,345,136,322,133,301,135,288,140,283,146,284,155"/>
+</map>

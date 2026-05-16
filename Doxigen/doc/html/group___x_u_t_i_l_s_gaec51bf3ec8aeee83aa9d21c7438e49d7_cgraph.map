@@ -1,0 +1,25 @@
+<map id="XFILECMPZIP::Open" name="XFILECMPZIP::Open">
+<area shape="rect" id="Node000001" title="Open." alt="" coords="5,159,154,185"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab211fe19c62dc391de69bc8e6d778be2" title="convert to ASCIi" alt="" coords="202,79,387,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,156,243,109,241,114,119,161"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga66e2dbd897e717ce38e395d6ad87b754" title="Get ptr char." alt="" coords="215,159,374,185"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="154,169,202,171,197,173,154,175"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="225,209,364,236"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="140,183,222,204,217,206,139,189"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="474,5,589,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,76,434,41,463,36,458,37,436,47,335,81"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gae206a2a617576a15816d25771d92b037" title="convert character unicode to ASCIi" alt="" coords="435,56,627,99"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="387,84,422,84,417,85,388,89"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="466,123,596,149"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="370,103,453,121,448,122,370,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="675,5,809,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="589,16,662,18,657,19,590,21"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="857,56,1016,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="589,27,676,41,844,62,839,62,675,47,589,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="796,30,871,52,865,52,796,35"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="677,115,807,141"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="596,131,664,131,658,131,597,136"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="788,112,873,88,878,87,789,117"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="474,173,588,200"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="374,174,462,182,456,182,374,180"/>
+</map>

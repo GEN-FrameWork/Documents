@@ -1,0 +1,32 @@
+<map id="UI_SKINCANVAS_REBUILDAREAS::RebuildAllAreas" name="UI_SKINCANVAS_REBUILDAREAS::RebuildAllAreas">
+<area shape="rect" id="Node000001" title="Rebuild all areas." alt="" coords="5,237,247,280"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="359,5,474,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,236,160,196,195,145,240,93,293,48,317,36,346,28,342,31,320,41,296,53,243,97,199,148,164,199,141,239"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga3461b402dfaabf0116ed843980c36d30" title="Get bitmap." alt="" coords="596,57,829,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,235,207,178,249,148,294,124,365,100,439,83,513,73,583,70,578,72,513,78,440,88,366,105,296,129,251,153,211,182,149,239"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6025024e4e290be2f650aa6a9f42c821" title="Get compose elements." alt="" coords="295,477,539,504"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,278,166,318,200,366,244,415,296,456,324,472,319,472,293,461,241,419,196,369,161,321,139,283"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gab593115449d842d590c67965f4a18e1e" title="Get extra data." alt="" coords="587,109,838,136"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,235,218,196,255,178,294,163,364,145,435,132,574,122,569,124,436,138,365,150,295,168,257,183,220,201,159,239"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga40921b7125ad1371f106c7407a282e65" title="Get X pos." alt="" coords="600,161,825,188"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,235,230,212,294,193,368,181,444,173,587,170,582,172,445,179,369,186,295,199,232,217,176,239"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga85d9ae6da936bec74df8e0c139c0bcf1" title="Get Y pos." alt="" coords="600,267,825,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="247,260,586,273,583,278,248,266"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0da97abb824c95c1bbda4805baf9c25a" title="Get Z level." alt="" coords="626,317,799,344"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="247,271,613,316,609,320,247,276"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga627f9993b926a5de476eaa51913e9dd8" title="Must re draw." alt="" coords="618,368,807,395"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="185,278,295,312,456,345,605,368,600,369,455,350,294,317,185,283"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga20d1e79d03956fafd409de37122549f8" title="Put bitmap no alpha." alt="" coords="592,419,833,461"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="155,278,218,321,256,343,296,362,366,385,439,403,580,428,574,429,438,408,365,390,294,366,253,348,215,326,154,283"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gadc9f0038fa97b1df027bfcf74cbe7b46" title="Rebuild all areas." alt="" coords="296,208,538,251"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="246,244,283,242,278,244,248,249"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="438,205,500,150,542,120,586,95,610,88,605,90,588,100,544,124,504,154,441,209"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="456,205,517,175,586,147,620,139,616,141,588,152,519,180,459,210"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="535,205,624,190,619,192,537,210"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="538,247,618,263,613,264,538,253"/>
+<area shape="poly" id="edge15_Node000011_Node000008" title=" " alt="" coords="460,249,520,277,588,303,618,313,612,313,586,308,518,282,460,254"/>
+<area shape="poly" id="edge17_Node000011_Node000009" title=" " alt="" coords="441,248,504,302,545,330,588,354,608,363,602,363,586,358,542,335,501,306,439,254"/>
+<area shape="poly" id="edge18_Node000011_Node000010" title=" " alt="" coords="433,248,460,284,496,326,539,368,588,404,599,412,594,411,586,409,536,372,492,329,456,287,432,254"/>
+<area shape="rect" id="Node000012" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5f77e3728cb1b431d242b5745ee3f40f" title="Is visible." alt="" coords="632,216,794,243"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="537,227,618,229,613,230,538,232"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DIOCHECKTCPIPCONNECTION::GetNChecks" name="DIOCHECKTCPIPCONNECTION::GetNChecks">
+<area shape="rect" id="Node000001" title="Get N checks." alt="" coords="581,39,805,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaf44871b9400c14d6857c2fcd163f9a0e" title="Connections is all checked." alt="" coords="300,5,533,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,45,533,43,533,38,568,45"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga581097b8e67d996a635f3f5d35040160" title="Connections is some checked." alt="" coords="300,72,533,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="568,75,534,82,533,77,563,76"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac221ec1e89a45c12bd4ed0b6b3662434" title="Connections wait to all checked." alt="" coords="12,5,245,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="281,27,246,29,245,24,287,26"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gabf2e49acb3f49657081432b1da31f7f5" title="Connections wait to some is checked." alt="" coords="5,72,252,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,93,252,96,252,91,286,93"/>
+</map>

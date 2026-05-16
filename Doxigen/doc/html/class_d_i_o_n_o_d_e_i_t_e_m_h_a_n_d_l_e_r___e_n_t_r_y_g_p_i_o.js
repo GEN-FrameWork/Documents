@@ -1,0 +1,27 @@
+var class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o =
+[
+    [ "DIONODEITEMHANDLER_ENTRYGPIO", "group___d_a_t_a_i_o.html#gaf022397dcb929081507b0142b31fd2c3", null ],
+    [ "DIONODEITEMHANDLER_ENTRYGPIO", "group___d_a_t_a_i_o.html#ga562a1bc4988f84c0bc172632f83c7d3e", null ],
+    [ "~DIONODEITEMHANDLER_ENTRYGPIO", "group___d_a_t_a_i_o.html#ga90f6d6c2bf267026c25eb73c386b6d37", null ],
+    [ "AdjustTimeInChange", "group___d_a_t_a_i_o.html#ga1b97bc1ec187dbb6b26c6bfce9f1e7a0", null ],
+    [ "CopyFrom", "group___d_a_t_a_i_o.html#gad4187a0038f7351619cf9658697aae20", null ],
+    [ "CopyTo", "group___d_a_t_a_i_o.html#ga3965d510e33fbdee341a261c880168b6", null ],
+    [ "GetDescription", "group___d_a_t_a_i_o.html#ga79f047caae4472588a4d2f1dd3dfa593", null ],
+    [ "GetEntryID", "group___d_a_t_a_i_o.html#gaff7af2a391de6e10ae0d0cc4ab7bb3d6", null ],
+    [ "GetGPIO", "group___d_a_t_a_i_o.html#ga1c77dc10a631d468efae7310b1da475c", null ],
+    [ "GetPin", "group___d_a_t_a_i_o.html#ga77149ffd5aa34bdfcc4d4d50c0259059", null ],
+    [ "GetTimeLastActivation", "group___d_a_t_a_i_o.html#gaffd3cdb02810be7bb1ff351b45f0d3b7", null ],
+    [ "GetTimeLastDeactivation", "group___d_a_t_a_i_o.html#ga80d52b54fe3770f13805af07fde9dce5", null ],
+    [ "GetWriteMode", "group___d_a_t_a_i_o.html#ga986f0b808df070f34960ba227356d1b1", null ],
+    [ "SetEntryID", "group___d_a_t_a_i_o.html#ga64a095827ac5f0c182213b86a27e6745", null ],
+    [ "SetGPIO", "group___d_a_t_a_i_o.html#ga3fadad2382e6c2bd3fe3dbe2971a2a2f", null ],
+    [ "SetPin", "group___d_a_t_a_i_o.html#ga27194641bf139722d13baaa32c4c6f22", null ],
+    [ "SetWriteMode", "group___d_a_t_a_i_o.html#ga8de590a09865363dfab74a81d8693198", null ],
+    [ "description", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#a4aab2e2e35505508fba3d7b8aa72cbdc", null ],
+    [ "entryID", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#a282eba4231ba150fdd80cbc14d697b8e", null ],
+    [ "GPIO", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#af181f79248bc2b5d8ddcc5f775a45c24", null ],
+    [ "pin", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#a995bcff2f48065654c3019bd40ed6f2b", null ],
+    [ "time_last_activation", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#a1806f5ffdfbc553d81ffadb9ac370220", null ],
+    [ "time_last_deactivation", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#ac8b152715e4d8c509018d6095f65908e", null ],
+    [ "writemode", "class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r___e_n_t_r_y_g_p_i_o.html#a6479aacb28c920bc59bb99f5260ce136", null ]
+];

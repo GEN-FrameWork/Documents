@@ -1,0 +1,9 @@
+<map id="XBUFFER::Set" name="XBUFFER::Set">
+<area shape="rect" id="Node000001" title="Set." alt="" coords="5,31,118,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="166,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,33,153,30,148,32,119,38"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad9bc0fe2244df7440d31b152bd2e24fb" title="Set." alt="" coords="178,56,290,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,50,165,58,159,59,118,55"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="350,56,509,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="290,67,337,69,332,69,291,72"/>
+</map>

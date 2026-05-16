@@ -1,0 +1,21 @@
+<map id="XPROCESSMANAGER::XPROCESSMANAGER" name="XPROCESSMANAGER::XPROCESSMANAGER">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="821,85,1137,112"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3fc02ea1c39f769415e79304d2273913" title="Get instance." alt="" coords="530,5,773,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="911,81,773,47,722,35,723,30,774,41,917,81"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4aaa23db02ccc007b23eccc1e534e163" title="Set instance." alt="" coords="530,56,773,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="805,83,773,83,773,78,810,83"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gaef34ce68d6e24a2216bf0231a0a38823" title="Constructor of class." alt="" coords="546,107,758,149"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="805,114,759,121,758,116,811,114"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gafcb32b94e72430d0cf26b7f9769c467e" title="Constructor of class." alt="" coords="531,173,772,216"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="922,117,774,164,734,175,733,170,773,159,917,117"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="253,31,468,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,58,468,56,468,51,518,57"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="239,81,482,108"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="512,82,483,87,482,81,517,81"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="20,31,176,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,54,177,55,176,50,240,52"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="191,33,255,34,250,36,192,38"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="5,81,191,108"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="220,104,192,106,190,101,226,103"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="206,83,241,85,236,87,207,88"/>
+</map>

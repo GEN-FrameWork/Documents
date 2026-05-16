@@ -1,0 +1,7 @@
+<map id="XFACTORY::SetInstance" name="XFACTORY::SetInstance">
+<area shape="rect" id="Node000001" title="Set instance." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf539fb1685f39758e3844098f9916ef1" title="Del instance." alt="" coords="223,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,210,30,205,31,176,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga63c8640faf3358d8026f004efa303d3d" title="Constructor of class." alt="" coords="223,56,393,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,51,210,57,205,58,175,57"/>
+</map>

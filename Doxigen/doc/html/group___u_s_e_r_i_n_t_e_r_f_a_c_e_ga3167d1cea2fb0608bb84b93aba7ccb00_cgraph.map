@@ -1,0 +1,50 @@
+<map id="UI_SKINCANVAS::CalculateBoundaryLine_Text" name="UI_SKINCANVAS::CalculateBoundaryLine_Text">
+<area shape="rect" id="Node000001" title="Calculate boundary line text." alt="" coords="5,333,198,376"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8df0cd0c920bd388bb11c10be293085e" title="Calcule position." alt="" coords="257,214,485,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,331,177,289,210,268,245,251,267,244,262,248,247,256,213,273,181,294,129,334"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga76d6569d7b264b372108bb5364acf5ba" title="Get boundary line." alt="" coords="544,62,756,89"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="116,331,168,267,204,231,244,200,307,171,391,142,543,99,574,92,570,95,545,104,392,147,309,176,247,205,207,235,172,270,120,334"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="307,265,434,292"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="170,330,245,308,301,295,296,298,246,313,173,335"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="581,534,719,561"/>
+<area shape="poly" id="edge26_Node000001_Node000014" title=" " alt="" coords="167,330,242,313,328,305,373,307,417,315,459,330,498,352,516,371,524,392,526,414,525,436,524,480,531,500,546,520,569,537,564,537,542,524,526,503,519,480,520,436,521,414,519,393,511,374,494,356,457,334,416,320,373,312,328,310,242,318,170,335"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="316,366,426,393"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="197,361,302,372,298,375,199,366"/>
+<area shape="rect" id="Node000016" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6fbab7908bac7c392ed81ad03facd6c1" title="Get canvas." alt="" coords="548,12,752,38"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="104,332,116,276,142,201,160,162,183,124,211,90,244,62,280,41,318,25,358,14,400,7,480,3,555,8,550,11,480,8,400,13,360,20,320,30,282,46,247,66,215,94,187,127,165,164,146,203,121,277,109,333"/>
+<area shape="rect" id="Node000017" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga83418516ee5e69f99722267ec163b222" title="Get father size." alt="" coords="260,76,482,102"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="110,332,131,293,160,243,198,191,244,144,276,123,313,107,309,111,279,127,247,148,202,194,165,246,135,295,115,334"/>
+<area shape="rect" id="Node000018" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga96f21b815575a65018af065cc2ede8c6" title="Get mask text." alt="" coords="255,417,486,444"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="159,374,246,403,281,412,276,414,245,408,159,379"/>
+<area shape="rect" id="Node000019" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gab7b57f0fef0004e154ce646695de322f" title="Get max size text." alt="" coords="246,468,496,494"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="127,373,181,415,213,436,247,453,267,462,262,463,245,458,210,440,177,419,127,379"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="303,518,439,545"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="117,373,170,440,206,475,247,504,291,522,285,523,244,509,202,479,166,443,116,379"/>
+<area shape="rect" id="Node000021" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga6ef10c6905b90d9436761ad5d8467258" title="Get size font." alt="" coords="258,569,484,596"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="112,374,133,415,161,464,200,514,222,536,247,555,257,562,252,562,244,559,219,540,196,517,157,467,128,417,111,379"/>
+<area shape="rect" id="Node000022" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gadf7f710905e84af2e8105248d9bc7b70" title="Get text." alt="" coords="271,620,470,646"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="109,374,127,424,154,487,194,552,219,581,247,606,260,615,254,614,244,610,215,585,189,555,149,489,122,426,108,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,212,467,199,494,182,510,162,517,141,524,120,542,99,553,95,549,98,546,103,529,122,522,143,515,164,498,186,469,204,439,216"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga979f818c459fa4020d477a0a4636668b" title="Get father." alt="" coords="565,113,735,140"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,212,495,181,518,165,543,149,564,143,560,146,545,154,521,170,497,186,421,216"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga9c06b964aa13002aed184b54f43ff117" title="Get margin." alt="" coords="564,316,736,342"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="469,239,497,251,513,263,522,277,531,290,545,302,558,310,553,310,543,306,527,293,518,280,509,267,495,255,470,244"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaa9b8579e5f57f64a53ff892d42f39027" title="Get position without define." alt="" coords="548,366,753,409"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="477,239,498,251,510,263,517,276,523,302,529,328,535,340,546,352,551,358,545,357,542,356,531,343,524,330,518,304,512,278,506,267,494,255,477,244"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae86eae7a0b9fdf7c07df4deaed21d511" title="Get X position." alt="" coords="556,433,745,460"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="480,239,498,251,514,272,522,294,523,337,524,379,531,399,546,419,550,424,545,424,542,423,526,402,518,380,518,337,517,295,510,275,494,255,480,244"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0a66fe71f1d3b14f18b33d332cc7700e" title="Get Y position." alt="" coords="556,164,745,190"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="447,211,560,192,556,195,450,216"/>
+<area shape="rect" id="Node000010" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga5621a5fee9834d56eb52ac5171e134cc" title="Set X position." alt="" coords="556,214,744,241"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="485,225,543,227,538,229,486,230"/>
+<area shape="rect" id="Node000011" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaf1f764fbdac02b8b80877d036deb5204" title="Set Y position." alt="" coords="556,265,744,292"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="448,239,560,261,555,263,449,244"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae1b7336feac7b03a5b261ac0e9944262" title="Constructor of class." alt="" coords="804,113,1001,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="735,124,792,126,787,127,736,129"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="576,484,725,510"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="435,280,469,290,498,308,514,329,521,350,523,391,524,432,531,451,546,470,564,484,558,483,542,474,526,453,519,433,517,391,516,351,509,331,494,312,466,294,435,285"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="435,279,469,289,498,308,517,335,525,363,526,390,522,417,519,443,520,470,528,495,546,520,569,538,564,537,542,524,523,498,515,470,514,443,517,416,520,390,520,364,512,338,494,312,467,294,435,284"/>
+<area shape="poly" id="edge18_Node000017_Node000003" title=" " alt="" coords="481,81,531,80,526,83,483,86"/>
+<area shape="poly" id="edge20_Node000017_Node000004" title=" " alt="" coords="475,100,552,112,547,114,476,106"/>
+<area shape="poly" id="edge19_Node000017_Node000016" title=" " alt="" coords="431,73,576,41,572,44,434,77"/>
+</map>

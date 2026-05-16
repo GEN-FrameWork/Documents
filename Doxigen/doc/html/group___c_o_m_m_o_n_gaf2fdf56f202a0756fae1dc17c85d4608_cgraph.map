@@ -1,0 +1,9 @@
+<map id="VERSIONFRAMEWORK::GetAppVersionStatus" name="VERSIONFRAMEWORK::GetAppVersionStatus">
+<area shape="rect" id="Node000001" title="Get app version status." alt="" coords="5,23,229,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="277,31,404,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,41,264,44,258,44,229,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="452,5,601,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,33,434,31,439,31,405,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="458,56,596,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="404,50,445,58,440,58,404,55"/>
+</map>

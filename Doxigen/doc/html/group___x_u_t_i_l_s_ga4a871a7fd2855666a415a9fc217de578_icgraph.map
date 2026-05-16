@@ -1,0 +1,22 @@
+<map id="XBUFFERBITS::IsEOF" name="XBUFFERBITS::IsEOF">
+<area shape="rect" id="Node000001" title="Is EOF." alt="" coords="655,81,816,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga8d8feeb57956801c0675f4eb866f04d3" title="Peek U1." alt="" coords="438,5,607,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="685,75,606,47,572,35,572,30,608,41,690,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga447e99a38908718923815f98e5d80251" title="Read U1." alt="" coords="437,56,607,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="637,84,608,82,608,77,643,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga349241970b9151e47749c6b9764aecc9" title=" " alt="" coords="5,56,178,83"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="637,97,437,97,178,80,178,75,437,92,642,96"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga0e11b8763a66f0463a345882c4c447dd" title="Write U1." alt="" coords="438,157,607,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="684,113,563,159,562,154,679,114"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7a44bc85f6fb2f41d5e9be8453ca705b" title="Read u." alt="" coords="226,5,389,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,52,367,35,367,30,450,51"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="420,72,178,72,178,67,423,67"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga68a58c8dc62eca1c48d28cc6c0d2edc2" title="Peek u." alt="" coords="10,5,173,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,20,174,21,172,16,213,17"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="230,38,152,58,150,53,235,34"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga953be4b787cc815eb3068820b12080da" title="Write u." alt="" coords="226,157,388,184"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="419,171,389,173,389,168,424,171"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad63ab59115d043fb5617502e550d9d36" title=" " alt="" coords="6,183,177,209"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="449,187,389,199,279,204,177,203,177,198,279,199,389,193,444,188"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="208,182,178,189,177,183,214,182"/>
+</map>

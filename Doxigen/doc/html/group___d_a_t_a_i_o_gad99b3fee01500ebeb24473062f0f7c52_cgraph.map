@@ -1,0 +1,7 @@
+<map id="DIOSPITFTDISPLAYST7789::PutPixel" name="DIOSPITFTDISPLAYST7789::PutPixel">
+<area shape="rect" id="Node000001" title="Put pixel." alt="" coords="5,23,198,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="246,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,31,233,29,228,30,199,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4194dc6953f7f2e754c0ee59c30f500d" title="Return the swap of word (2 bytes) hi&#45;lo &gt; lo&#45;hi." alt="" coords="282,56,380,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,52,270,62,264,63,198,57"/>
+</map>

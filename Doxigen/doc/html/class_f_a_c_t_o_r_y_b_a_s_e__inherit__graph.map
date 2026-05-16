@@ -1,0 +1,101 @@
+<map id="FACTORYBASE" name="FACTORYBASE">
+<area shape="rect" id="Node000001" title="Factory Base class." alt="" coords="5,816,125,843"/>
+<area shape="rect" id="Node000002" href="$class_x_c_o_n_s_o_l_e.html" title="eXtended Utils Console base class" alt="" coords="174,56,269,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,801,78,700,99,550,129,374,170,195,191,131,215,81,213,86,196,133,175,197,134,375,104,551,83,701,72,801"/>
+<area shape="rect" id="Node000006" href="$class_x_d_a_t_e_t_i_m_e.html" title="eXtended Utils date time class" alt="" coords="173,208,270,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="71,801,217,232,217,238,76,802"/>
+<area shape="rect" id="Node000012" href="$class_x_d_i_r.html" title="eXtended Utils dir class" alt="" coords="194,436,248,463"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="75,800,215,460,214,466,80,802"/>
+<area shape="rect" id="Node000019" href="$class_x_f_i_l_e.html" title="eXtended Utils File class" alt="" coords="192,715,250,741"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="97,806,200,739,198,744,102,809"/>
+<area shape="rect" id="Node000027" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="183,917,260,944"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="99,849,201,916,197,918,100,854"/>
+<area shape="rect" id="Node000033" href="$class_x_r_a_n_d.html" title="eXtended Utils Random class" alt="" coords="187,1120,256,1147"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="81,854,216,1119,210,1120,80,859"/>
+<area shape="rect" id="Node000039" href="$class_x_t_h_r_e_a_d.html" title="eXtended Utils Thread class" alt="" coords="178,1323,264,1349"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="77,856,218,1322,213,1323,73,859"/>
+<area shape="rect" id="Node000045" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="185,1525,258,1552"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="72,855,113,1068,175,1361,219,1525,213,1525,170,1362,108,1069,71,861"/>
+<area shape="rect" id="Node000003" href="$class_x_l_i_n_u_x_c_o_n_s_o_l_e.html" title="LINUX eXtended Utils Console class." alt="" coords="350,5,485,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,51,317,41,364,31,360,35,319,47,286,55"/>
+<area shape="rect" id="Node000005" href="$class_x_w_i_n_d_o_w_s_c_o_n_s_o_l_e.html" title="WINDOWS eXtended Utils Console class." alt="" coords="335,56,499,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="283,67,336,68,332,71,286,71"/>
+<area shape="rect" id="Node000004" href="$class_x_a_n_d_r_o_i_d_c_o_n_s_o_l_e.html" title="ANDROID eXtended Console class." alt="" coords="565,5,724,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="499,16,567,17,563,20,502,21"/>
+<area shape="rect" id="Node000007" href="$class_x_e_s_p32_d_a_t_e_t_i_m_e.html" title="eXtended Utils ESP32 date time class" alt="" coords="348,107,486,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="245,196,278,168,317,143,349,132,346,136,319,148,281,172,249,199"/>
+<area shape="rect" id="Node000008" href="$class_x_l_i_n_u_x_d_a_t_e_t_i_m_e.html" title="LINUX eXtended Utils Date Time class." alt="" coords="348,157,486,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="283,203,317,193,364,183,360,186,319,199,287,207"/>
+<area shape="rect" id="Node000010" href="$class_x_s_t_m32_d_a_t_e_t_i_m_e.html" title="eXtended Utils STM32 date time class" alt="" coords="348,208,487,235"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="284,219,349,220,345,223,287,223"/>
+<area shape="rect" id="Node000011" href="$class_x_w_i_n_d_o_w_s_d_a_t_e_t_i_m_e.html" title="WINDOWS eXtended Utils Data Time class." alt="" coords="334,259,500,285"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="284,236,319,244,364,257,360,260,317,249,287,240"/>
+<area shape="rect" id="Node000009" href="$class_x_a_n_d_r_o_i_d_d_a_t_e_t_i_m_e.html" title="ANDROID eXtended Date Time class." alt="" coords="564,157,725,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="500,168,566,169,562,172,503,173"/>
+<area shape="rect" id="Node000013" href="$class_x_e_s_p32_d_i_r.html" title="eXtended ESP32 Directory class" alt="" coords="370,309,465,336"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="238,422,272,382,293,362,317,346,342,334,371,327,367,331,344,339,319,350,296,367,276,386,243,424"/>
+<area shape="rect" id="Node000014" href="$class_x_l_i_n_u_x_d_i_r.html" title="LINUX eXtended Utils Directory class." alt="" coords="370,360,464,387"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="256,426,317,396,371,381,368,385,319,401,260,430"/>
+<area shape="rect" id="Node000016" href="$class_x_s_t_m32_d_i_r.html" title="eXtended WINDOWS Directory class" alt="" coords="369,411,465,437"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="262,442,370,428,367,432,266,446"/>
+<area shape="rect" id="Node000017" href="$class_x_s_t_m32_d_i_r___n_o_t_u_n_i_c_o_d_e.html" title="STM32 eXtended Not Unicode Directory class." alt="" coords="320,461,514,488"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="263,453,322,460,317,464,266,457"/>
+<area shape="rect" id="Node000018" href="$class_x_w_i_n_d_o_w_s_d_i_r.html" title="WINDOWS eXtended Utils Directory class." alt="" coords="356,512,479,539"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="257,468,319,498,357,511,353,513,317,502,259,473"/>
+<area shape="rect" id="Node000015" href="$class_x_a_n_d_r_o_i_d_d_i_r.html" title="ANDROID eXtended Directory class." alt="" coords="586,360,703,387"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="478,371,587,372,583,375,481,376"/>
+<area shape="rect" id="Node000020" href="$class_x_e_s_p32_f_i_l_e.html" title="eXtended ESP32 File class" alt="" coords="368,563,467,589"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="234,699,267,648,290,621,317,599,341,587,369,580,365,584,343,592,319,604,293,625,271,651,239,702"/>
+<area shape="rect" id="Node000021" href="$class_x_l_i_n_u_x_f_i_l_e.html" title="LINUX eXtended Utils File class." alt="" coords="368,613,466,640"/>
+<area shape="poly" id="edge20_Node000019_Node000021" title=" " alt="" coords="245,702,278,674,317,650,369,633,366,637,319,654,281,679,249,705"/>
+<area shape="rect" id="Node000023" href="$class_x_s_t_m32_f_i_l_e.html" title="eXtended STM32 File class (Use FatFs &#45; Generic FAT file system module)" alt="" coords="367,664,467,691"/>
+<area shape="poly" id="edge22_Node000019_Node000023" title=" " alt="" coords="264,714,317,700,368,688,365,692,319,705,268,718"/>
+<area shape="rect" id="Node000024" href="$class_x_s_t_m32_f_i_l_e___n_o_t_u_n_i_c_o_d_e.html" title="STM32 eXtended Not Unicode File class (Use FatFs &#45; Generic FAT file system module)." alt="" coords="318,715,516,741"/>
+<area shape="poly" id="edge23_Node000019_Node000024" title=" " alt="" coords="264,726,320,726,315,730,267,730"/>
+<area shape="rect" id="Node000025" href="$class_x_w_i_n_d_o_w_s_f_i_l_e.html" title="WINDOWS eXtended Utils File class." alt="" coords="354,765,481,792"/>
+<area shape="poly" id="edge24_Node000019_Node000025" title=" " alt="" coords="265,737,319,751,364,763,360,766,317,756,267,742"/>
+<area shape="rect" id="Node000026" href="$class_x_w_i_n_d_o_w_s_f_i_l_e_b_o_r_l_a_n_d.html" title="WINDOWS eXtended Utils Borland file class." alt="" coords="321,816,513,843"/>
+<area shape="poly" id="edge25_Node000019_Node000026" title=" " alt="" coords="246,750,281,777,319,802,350,814,345,817,317,806,278,782,248,755"/>
+<area shape="rect" id="Node000022" href="$class_x_a_n_d_r_o_i_d_f_i_l_e.html" title="ANDROID eXtended File class." alt="" coords="584,613,705,640"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="480,624,586,625,581,628,483,629"/>
+<area shape="rect" id="Node000028" href="$class_x_e_s_p32_m_u_t_e_x.html" title=" " alt="" coords="358,867,476,893"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="273,915,317,903,364,892,360,896,319,908,277,919"/>
+<area shape="rect" id="Node000029" href="$class_x_l_i_n_u_x_m_u_t_e_x.html" title=" " alt="" coords="358,917,476,944"/>
+<area shape="poly" id="edge28_Node000027_Node000029" title=" " alt="" coords="274,928,360,929,356,932,277,933"/>
+<area shape="rect" id="Node000031" href="$class_x_s_t_m32_m_u_t_e_x.html" title=" " alt="" coords="358,968,477,995"/>
+<area shape="poly" id="edge30_Node000027_Node000031" title=" " alt="" coords="274,942,319,953,364,966,360,969,317,959,276,947"/>
+<area shape="rect" id="Node000032" href="$class_x_w_i_n_d_o_w_s_m_u_t_e_x.html" title=" " alt="" coords="344,1019,490,1045"/>
+<area shape="poly" id="edge31_Node000027_Node000032" title=" " alt="" coords="246,952,281,980,319,1004,350,1017,345,1019,317,1009,278,984,247,957"/>
+<area shape="rect" id="Node000030" href="$class_x_a_n_d_r_o_i_d_m_u_t_e_x.html" title=" " alt="" coords="574,917,715,944"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="490,928,576,929,572,932,493,933"/>
+<area shape="rect" id="Node000034" href="$class_x_e_s_p32_r_a_n_d.html" title="eXtended utils ESP32 rand class" alt="" coords="362,1069,472,1096"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="269,1118,317,1105,364,1095,360,1098,319,1111,273,1123"/>
+<area shape="rect" id="Node000035" href="$class_x_l_i_n_u_x_r_a_n_d.html" title="LINUX eXtended Utils random class." alt="" coords="362,1120,472,1147"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="270,1131,364,1132,360,1135,272,1136"/>
+<area shape="rect" id="Node000037" href="$class_x_s_t_m32_r_a_n_d.html" title="eXtended utils STM32 rand class" alt="" coords="362,1171,473,1197"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="270,1144,319,1156,364,1169,360,1171,317,1161,272,1149"/>
+<area shape="rect" id="Node000038" href="$class_x_w_i_n_d_o_w_s_r_a_n_d.html" title="WINDOWS eXtended Utils Rand class." alt="" coords="348,1221,486,1248"/>
+<area shape="poly" id="edge37_Node000033_Node000038" title=" " alt="" coords="247,1155,281,1183,319,1207,350,1220,345,1222,317,1212,278,1187,247,1160"/>
+<area shape="rect" id="Node000036" href="$class_x_a_n_d_r_o_i_d_r_a_n_d.html" title="ANDROID random class." alt="" coords="578,1120,711,1147"/>
+<area shape="poly" id="edge35_Node000035_Node000036" title=" " alt="" coords="486,1131,580,1132,575,1135,488,1136"/>
+<area shape="rect" id="Node000040" href="$class_x_e_s_p32_t_h_r_e_a_d.html" title="eXtended utils ESP32 mutex &amp; thread class" alt="" coords="354,1272,481,1299"/>
+<area shape="poly" id="edge39_Node000039_Node000040" title=" " alt="" coords="278,1319,317,1308,364,1298,360,1301,319,1313,281,1323"/>
+<area shape="rect" id="Node000041" href="$class_x_l_i_n_u_x_t_h_r_e_a_d.html" title="LINUX eXtended Utils Thread and Mutex class." alt="" coords="354,1323,480,1349"/>
+<area shape="poly" id="edge40_Node000039_Node000041" title=" " alt="" coords="279,1333,356,1335,351,1337,281,1339"/>
+<area shape="rect" id="Node000043" href="$class_x_s_t_m32_t_h_r_e_a_d.html" title="eXtended utils STM32 mutex &amp; thread class" alt="" coords="353,1373,481,1400"/>
+<area shape="poly" id="edge42_Node000039_Node000043" title=" " alt="" coords="279,1349,319,1359,365,1372,359,1374,317,1364,280,1354"/>
+<area shape="rect" id="Node000044" href="$class_x_w_i_n_d_o_w_s_t_h_r_e_a_d.html" title="WINDOWS eXtended Utils Thread class." alt="" coords="340,1424,495,1451"/>
+<area shape="poly" id="edge43_Node000039_Node000044" title=" " alt="" coords="247,1357,281,1385,319,1410,350,1423,345,1424,317,1414,278,1390,247,1363"/>
+<area shape="rect" id="Node000042" href="$class_x_a_n_d_r_o_i_d_t_h_r_e_a_d.html" title="ANDROID eXtended Thread and Mutex class." alt="" coords="570,1323,719,1349"/>
+<area shape="poly" id="edge41_Node000041_Node000042" title=" " alt="" coords="495,1333,572,1335,567,1337,496,1339"/>
+<area shape="rect" id="Node000046" href="$class_x_e_s_p32_t_i_m_e_r.html" title="eXtended utils ESP32 timer class" alt="" coords="360,1475,474,1501"/>
+<area shape="poly" id="edge45_Node000045_Node000046" title=" " alt="" coords="272,1523,317,1511,364,1501,359,1503,319,1516,273,1528"/>
+<area shape="rect" id="Node000047" href="$class_x_l_i_n_u_x_t_i_m_e_r.html" title="LINUX eXtended Utils Timer class." alt="" coords="361,1525,473,1552"/>
+<area shape="poly" id="edge46_Node000045_Node000047" title=" " alt="" coords="273,1536,363,1538,358,1539,273,1541"/>
+<area shape="rect" id="Node000049" href="$class_x_s_t_m32_t_i_m_e_r.html" title="eXtended utils STM32 timer class" alt="" coords="360,1576,474,1603"/>
+<area shape="poly" id="edge48_Node000045_Node000049" title=" " alt="" coords="273,1549,319,1561,365,1575,359,1576,317,1567,273,1555"/>
+<area shape="rect" id="Node000050" href="$class_x_w_i_n_d_o_w_s_t_i_m_e_r.html" title="WINDOWS eXtended Utils Timer class." alt="" coords="346,1627,488,1653"/>
+<area shape="poly" id="edge49_Node000045_Node000050" title=" " alt="" coords="248,1560,281,1588,319,1612,350,1626,344,1626,317,1617,278,1592,246,1565"/>
+<area shape="rect" id="Node000048" href="$class_x_a_n_d_r_o_i_d_t_i_m_e_r.html" title="ANDROID eXtended Timer class." alt="" coords="577,1525,712,1552"/>
+<area shape="poly" id="edge47_Node000047_Node000048" title=" " alt="" coords="488,1536,579,1538,574,1539,489,1541"/>
+</map>

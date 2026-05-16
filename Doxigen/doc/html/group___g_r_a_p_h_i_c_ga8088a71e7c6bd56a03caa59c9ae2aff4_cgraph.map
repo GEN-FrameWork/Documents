@@ -1,0 +1,14 @@
+<map id="GRPVECTORFILEDXFENTITYDEFSTRINGVALUE::operator=" name="GRPVECTORFILEDXFENTITYDEFSTRINGVALUE::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,156,336,199"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#gaee0adf815305c084aeb1c5bd38960959" title="Copy from." alt="" coords="384,123,714,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,160,371,160,365,160,336,165"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga277631091e20d22cc6ff83c8b3407750" title="Constructor of class." alt="" coords="762,189,1100,232"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="336,182,748,200,746,205,336,187"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="876,5,986,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,120,665,79,713,59,761,41,811,29,863,24,858,25,812,35,763,47,715,64,668,84,589,125"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga8a347aaf1cdbaaad26feb80725730679" title="Get string." alt="" coords="766,56,1096,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="675,119,787,102,793,101,675,125"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga7c9ec669e4f72f75b2f92a7052d04fce" title="Get value." alt="" coords="766,123,1096,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="714,141,753,144,748,144,715,147"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="675,163,793,186,787,186,675,169"/>
+</map>

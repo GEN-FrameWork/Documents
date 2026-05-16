@@ -1,0 +1,27 @@
+<map id="DIOPROTOCOL::SendCommand" name="DIOPROTOCOL::SendCommand">
+<area shape="rect" id="Node000001" title="Send command." alt="" coords="5,161,223,188"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="320,9,436,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,159,184,104,225,72,270,46,307,34,303,37,272,50,228,77,188,108,130,163"/>
+<area shape="rect" id="Node000005" href="$group___c_i_p_h_e_r.html#ga170fa5c716219e92d4724553d6e8e0ce" title="Do." alt="" coords="314,60,442,87"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="138,159,197,128,270,96,301,89,296,91,272,101,199,132,141,163"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga62af367555b6115f87cc4988f0d90620" title="Get command." alt="" coords="274,111,482,137"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="186,158,292,139,288,142,188,163"/>
+<area shape="rect" id="Node000008" href="$group___c_i_p_h_e_r.html#gab33e363f6374a0e559e99f2f80e5abf6" title="Get result CRC32." alt="" coords="271,161,485,188"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="222,172,258,174,253,176,224,177"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="562,191,701,217"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="187,186,271,197,417,204,549,206,544,207,417,210,270,203,187,191"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gac74caf23e11e04eb096c5bafa2793941" title="Is connected." alt="" coords="277,263,478,289"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="144,186,272,242,314,258,309,258,270,246,143,191"/>
+<area shape="rect" id="Node000011" href="$group___c_i_p_h_e_r.html#gab01cc6a04a2c4ee67dcca98c7b233913" title="Reset result." alt="" coords="286,313,470,340"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="129,186,188,242,228,273,272,299,288,308,283,307,269,304,225,277,184,246,127,191"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="565,5,698,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,19,552,19,547,21,437,24"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="778,56,938,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="436,29,533,41,765,63,760,64,533,47,436,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,30,783,52,778,52,695,35"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga7bf482940f39b29ff3938cb61629b6ab" title="Get type." alt="" coords="533,107,730,149"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="482,123,520,126,515,127,483,128"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="669,188,729,159,782,125,826,94,831,91,785,129,732,164,671,193"/>
+<area shape="rect" id="Node000012" href="$group___c_i_p_h_e_r.html#ga6844bc505aecfe2b878ef45f9d905e3e" title="Reset result." alt="" coords="562,313,702,340"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="471,324,549,327,543,327,471,329"/>
+</map>

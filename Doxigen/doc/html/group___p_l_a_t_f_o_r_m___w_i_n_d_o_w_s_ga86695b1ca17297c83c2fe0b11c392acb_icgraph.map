@@ -1,0 +1,11 @@
+<map id="XWINDOWSFILE::DeleteStructHandle" name="XWINDOWSFILE::DeleteStructHandle">
+<area shape="rect" id="Node000001" title="Delete struct handle." alt="" coords="737,23,946,65"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga360fde933ecc4ac32c56f65131c60da5" title="Close." alt="" coords="520,31,689,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="719,44,690,47,690,41,724,44"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac4e6f1e36fbd86451ef92cc7b0d97481" title="Exist." alt="" coords="265,5,430,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,34,430,29,430,24,507,34"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gad733a590a8608d2ce0b7bf20f788d8f6" title="Destructor of class." alt="" coords="223,56,472,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="507,54,473,60,472,54,502,54"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga13068395169204d1a20353b7c6caf864" title="Erase." alt="" coords="5,5,175,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,19,175,21,175,16,251,18"/>
+</map>

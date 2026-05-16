@@ -1,0 +1,27 @@
+<map id="XFILETXT::IsOpen" name="XFILETXT::IsOpen">
+<area shape="rect" id="Node000001" title="Is open." alt="" coords="532,245,664,272"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga321cd5d7c4171cd2b3a915d55bcbfc2e" title="Close." alt="" coords="321,64,440,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,231,544,167,516,133,483,105,462,94,440,87,439,82,464,89,485,100,520,130,548,164,587,232"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7e98c016493127b3c54301f61ef78117" title="Decode all lines." alt="" coords="288,115,473,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="574,233,535,194,510,173,483,156,457,145,457,139,485,151,513,169,538,190,579,233"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7c487f5cbb99d0b6227a4d60cccc0e2e" title="Encode all lines." alt="" coords="288,165,472,192"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="556,238,483,206,447,195,446,190,485,202,561,237"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga6bebf77d4b0e18498f8304796bcc2183" title="Is binary file." alt="" coords="301,216,460,243"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="514,248,461,243,460,237,519,247"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gacaac27c3fa9bc9881412d67022ca7f04" title="Read and decode all lines." alt="" coords="280,267,481,309"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="514,270,482,277,481,272,519,269"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga2b13857ddd2b8711881f96044f624908" title="Read and decode all lines." alt="" coords="277,333,484,376"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="565,279,485,324,456,335,454,330,483,319,560,281"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gaeb9e3b6bd4a65fe5caabee9b2686f887" title="Write and encode all lines." alt="" coords="281,400,480,443"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="582,284,542,339,515,367,485,390,464,402,462,397,483,386,512,363,538,336,578,287"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga1ffd8a4dccd0775213385a684ec6f1ae" title="Write and encode all lines." alt="" coords="285,467,476,509"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="590,285,576,325,554,371,524,417,486,457,467,469,465,464,482,453,520,414,549,368,571,323,586,288"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae16398e0db7f965f7846776616a020cf" title="check master creation" alt="" coords="5,5,229,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,62,181,35,180,30,308,59"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga4dbb6502b99c26aa75e4e4676c7770a3" title="Get version available." alt="" coords="23,56,211,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,79,212,80,210,75,307,76"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaecf90a532d43bbdb98589ac9867333bc" title="Destructor of class." alt="" coords="43,123,191,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="304,96,182,124,179,120,308,92"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga7d0aa9ca4a974970e1b92b9124cce61e" title="Open." alt="" coords="56,216,178,243"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="283,231,179,232,177,227,287,228"/>
+</map>

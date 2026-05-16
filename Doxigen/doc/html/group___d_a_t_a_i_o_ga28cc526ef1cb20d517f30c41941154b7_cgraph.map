@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL::GetAnswer" name="DIOPROTOCOL::GetAnswer">
+<area shape="rect" id="Node000001" title="Get answer." alt="" coords="5,47,198,73"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gafd7500977b6bd7b7ef832938db88f6c8" title="Get ID." alt="" coords="246,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,44,233,41,228,43,199,49"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga21aca3269d7d5343a1759324f594ea33" title="Get type." alt="" coords="246,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,71,233,78,228,78,198,76"/>
+</map>

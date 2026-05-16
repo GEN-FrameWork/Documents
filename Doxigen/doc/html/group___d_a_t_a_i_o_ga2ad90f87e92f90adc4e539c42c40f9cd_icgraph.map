@@ -1,0 +1,11 @@
+<map id="DIOSPITFTDISPLAYILI9341::Update" name="DIOSPITFTDISPLAYILI9341::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="767,35,958,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad7fac1f393ecbbe04de1a8c9d47385c2" title="Clear." alt="" coords="529,35,719,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,56,720,59,720,53,754,56"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad9fe5c7374262e9b03f3ba82940a90a4" title="End." alt="" coords="260,13,481,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,43,482,42,482,37,516,43"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga66131c1526b3028fa42a8c41a468908e" title="Ini device." alt="" coords="275,64,466,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="516,69,466,77,466,72,511,69"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gabecf85e16a151fe85ef981e0062249f6" title="Destructor of class." alt="" coords="5,5,212,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,27,212,29,212,24,247,26"/>
+</map>

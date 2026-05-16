@@ -1,0 +1,13 @@
+<map id="SNDFILEOGG::LoadFile" name="SNDFILEOGG::LoadFile">
+<area shape="rect" id="Node000001" title="Load file." alt="" coords="5,107,171,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf7d78f174cb8eeb52cafe94524d3885b" title="Close." alt="" coords="254,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,104,157,73,218,42,241,35,237,38,220,46,160,78,111,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gadac33fb0441fd782299db33437c74a44" title="Get path name file." alt="" coords="219,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,104,231,85,227,88,149,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga3d5b9c0020c23ffb0ded5aeb105a6fb1" title="Get size." alt="" coords="247,107,360,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,117,234,119,229,121,172,123"/>
+<area shape="rect" id="Node000005" href="$class_x_f_i_l_e.html#a43349ac3160e391c95164fe83825fdfc" title=" " alt="" coords="255,157,352,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,131,242,155,238,157,148,137"/>
+<area shape="rect" id="Node000006" href="$class_x_f_i_l_e.html#ae316e4ea22c9f1fb9a2965f21d0dac4a" title=" " alt="" coords="255,208,352,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="110,131,160,162,220,194,243,205,238,204,218,198,157,167,109,137"/>
+</map>

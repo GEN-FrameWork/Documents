@@ -1,0 +1,8 @@
+<map id="INPWINDOWSSIMULATE::Key_UnPressByLiteral" name="INPWINDOWSSIMULATE::Key_UnPressByLiteral">
+<area shape="rect" id="Node000001" title="Key un press by literal." alt="" coords="460,29,639,72"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="585,13,573,10,550,8,528,10,515,15,510,21,511,30,507,27,505,19,512,10,527,5,550,3,574,5,590,14"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga9313194cb9179fb9fa2605f5945c6527" title="Key click by literal." alt="" coords="233,29,412,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,51,413,53,412,48,447,51"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaecff80a9833581eb424fb94d110760bc" title="Key click by text." alt="" coords="5,29,185,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,51,185,53,185,48,220,50"/>
+</map>

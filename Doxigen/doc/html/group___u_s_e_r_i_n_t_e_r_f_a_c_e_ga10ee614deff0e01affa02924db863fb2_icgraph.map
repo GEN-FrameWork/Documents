@@ -1,0 +1,19 @@
+<map id="UI_COLOR::UI_COLOR" name="UI_COLOR::UI_COLOR">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="661,139,827,165"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1480cb2414cf5a8246c691cd673c9134" title="Copy from." alt="" coords="455,113,613,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,140,614,139,614,134,648,140"/>
+<area shape="rect" id="Node000009" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga3f17cae8ccb41b82f5e143cf59996dd4" title="Copy to." alt="" coords="463,164,605,191"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="648,164,606,171,605,166,643,164"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga174367520ac2054f225a14eeb10667c8" title="Layout put background color." alt="" coords="236,39,393,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,108,387,85,387,79,475,108"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga19f6a6559da58f2c7325c5de712b666b" title="Layout put background color." alt="" coords="236,105,393,148"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="437,127,394,129,393,124,442,126"/>
+<area shape="rect" id="Node000007" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8321da5771467d2644f259389acdea03" title="Text box generate lines." alt="" coords="222,172,407,215"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="475,145,388,174,387,169,470,146"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gabe8150764de6d33b7d767cbd94f46846" title="Layout put background." alt="" coords="11,5,168,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,47,169,41,168,36,223,45"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga48da0ccfcbd896eacadb446407175afd" title="Layout put background." alt="" coords="11,72,168,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="218,75,169,84,168,79,223,73"/>
+<area shape="rect" id="Node000008" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba15bc7bc62cf656a541a97bc9c4f2f9" title="Draw text box." alt="" coords="5,172,174,215"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="204,194,174,196,174,191,209,193"/>
+</map>

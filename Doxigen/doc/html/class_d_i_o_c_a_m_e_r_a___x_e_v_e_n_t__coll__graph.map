@@ -1,0 +1,7 @@
+<map id="DIOCAMERA_XEVENT" name="DIOCAMERA_XEVENT">
+<area shape="rect" id="Node000001" title="Data Input/Output eXtended event camera class." alt="" coords="5,180,170,207"/>
+<area shape="rect" id="Node000002" href="$class_x_e_v_e_n_t.html" title="eXtended Utils Event base class" alt="" coords="50,104,125,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,144,90,181,85,179,86,148"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="41,5,134,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,90,104,85,103,86,50"/>
+</map>

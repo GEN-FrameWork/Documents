@@ -1,0 +1,25 @@
+var class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___h_a_n_d_s_h_a_k_e___s_e_r_v_e_r_h_e_l_l_o =
+[
+    [ "DIOSTREAMTLS_MSG_HANDSHAKE_SERVERHELLO", "group___d_a_t_a_i_o.html#ga1c186592a9305174962a07a3c646a8d9", null ],
+    [ "~DIOSTREAMTLS_MSG_HANDSHAKE_SERVERHELLO", "group___d_a_t_a_i_o.html#ga76192b967735e7fb58b0c7d810810619", null ],
+    [ "Extensions_Add", "group___d_a_t_a_i_o.html#ga54206bb408d4dcd1a53c5e77e00ac3b8", null ],
+    [ "Extensions_DeleteAll", "group___d_a_t_a_i_o.html#ga1cbfd2e6e85ef34ff04c323dbc2ed104", null ],
+    [ "Extensions_GetAll", "group___d_a_t_a_i_o.html#gaceedb7ac464b4d8cb56303c49eb7079a", null ],
+    [ "Extensions_GetLenght", "group___d_a_t_a_i_o.html#gaa8a7da4f913a026519c37799d0aa8fa1", null ],
+    [ "Extensions_SetLenght", "group___d_a_t_a_i_o.html#ga4413baad9173b5a69c58b8af62dd6bdb", null ],
+    [ "GetCipherSuites", "group___d_a_t_a_i_o.html#gaeb36dc3141fc88d2b7fa1b7cdcda7382", null ],
+    [ "GetCiphersuitesLength", "group___d_a_t_a_i_o.html#gafd408f014d611d5b8ea11283b13dbeaa", null ],
+    [ "GetCompressionLength", "group___d_a_t_a_i_o.html#gacdeef823625d60f19881fe8b20fc2580", null ],
+    [ "GetCompressionMethod", "group___d_a_t_a_i_o.html#ga4998bc37d1880c6b605c2370f2fb34e7", null ],
+    [ "GetFromBuffer", "group___d_a_t_a_i_o.html#ga31ed2ff17a348f5a517495f21f8525d2", null ],
+    [ "GetLegacyVersion", "group___d_a_t_a_i_o.html#ga6f93b912e1cf90dfd67778952beb48c4", null ],
+    [ "GetRandom", "group___d_a_t_a_i_o.html#gac7aef31a61132c58f0f719808e47dd18", null ],
+    [ "GetSessionID", "group___d_a_t_a_i_o.html#ga52933d5fd7e771e2901b82f04954b981", null ],
+    [ "GetSessionIDLength", "group___d_a_t_a_i_o.html#ga0c9c750f43bc084deaf3f69681961193", null ],
+    [ "SetCiphersuitesLength", "group___d_a_t_a_i_o.html#gad9913879efc3770b496a5923d446071f", null ],
+    [ "SetCompressionLength", "group___d_a_t_a_i_o.html#ga690f45e8e22097f26f0e751997152205", null ],
+    [ "SetCompressionMethod", "group___d_a_t_a_i_o.html#ga2c6a87f774c207e8a48db8505e3e5a22", null ],
+    [ "SetLegacyVersion", "group___d_a_t_a_i_o.html#gaf790defacbdd85ed9b11c47c578cc979", null ],
+    [ "SetSessionIDLength", "group___d_a_t_a_i_o.html#gaea759bcd10513a4b4864a32dc4cc14da", null ],
+    [ "SetToBuffer", "group___d_a_t_a_i_o.html#gaa5e17d20a588dc45251495fff54c0963", null ]
+];

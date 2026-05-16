@@ -1,0 +1,28 @@
+<map id="XFILEINI::ReadValue" name="XFILEINI::ReadValue">
+<area shape="rect" id="Node000001" title="Read value." alt="" coords="5,132,153,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="233,56,360,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,129,200,92,226,86,222,89,202,97,111,134"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga2640717723b74e05ffdfca45936ae783" title="Find key." alt="" coords="201,107,393,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,134,187,132,183,134,154,139"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga18594f1dde38bab497da203fcdf712a0" title="Get value." alt="" coords="215,157,378,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="153,151,202,158,197,160,154,157"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gad76cac093ed8c0fe604bc5b3fd66e9f7" title="Select section." alt="" coords="214,208,380,235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="110,157,202,193,227,203,222,204,200,199,110,162"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="494,5,644,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,55,481,34,476,37,362,60"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="500,56,638,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,67,487,68,482,70,362,72"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="498,157,640,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="373,131,485,154,480,155,373,137"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga369558b0c97a003fd671c1d6ff21411b" title="Get key." alt="" coords="492,107,646,133"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="393,117,479,119,474,121,394,123"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="745,116,892,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="640,159,732,149,727,150,641,164"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="745,183,892,225"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="641,177,732,192,727,192,640,183"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="372,205,485,186,480,187,373,210"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga43d79dfeeed79b0d978767d59038096e" title="Get name." alt="" coords="469,208,669,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="380,219,456,221,451,222,380,224"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga8f44898a055f3f74ca4e59fda66f414f" title="Reset selection key." alt="" coords="441,259,697,285"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="373,233,481,255,476,255,372,238"/>
+</map>

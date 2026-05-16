@@ -1,0 +1,8 @@
+<map id="ANDROIDNATIVEACTIVITY_EVENTLOOP::Deactivate" name="ANDROIDNATIVEACTIVITY_EVENTLOOP::Deactivate">
+<area shape="rect" id="Node000001" title="Deactivate." alt="" coords="524,35,717,77"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gad95b09df69e6918d2300aa35058d7a0b" title="Activate." alt="" coords="283,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,42,476,41,476,36,511,42"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaa2a200ca393f5d157331808e8a9d8282" title="Process application event." alt="" coords="5,27,235,85"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="505,60,476,63,283,63,235,62,235,57,283,57,476,57,511,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,40,235,46,235,40,270,39"/>
+</map>

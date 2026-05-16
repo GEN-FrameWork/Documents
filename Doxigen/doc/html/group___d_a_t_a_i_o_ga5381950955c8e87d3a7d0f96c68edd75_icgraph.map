@@ -1,0 +1,27 @@
+<map id="DIOPROTOCOL::SendEventCommand" name="DIOPROTOCOL::SendEventCommand">
+<area shape="rect" id="Node000001" title="Send event command." alt="" coords="305,320,556,347"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1d0fd8a0eb0501f53f048657bf39f912" title="CMD application get name." alt="" coords="16,5,246,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,305,395,253,361,187,314,119,286,89,255,62,238,51,237,46,258,58,290,85,318,116,365,185,400,251,422,305"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga86a3ffafb477ab1473f0d218282f9bc1" title="CMD application get version." alt="" coords="16,72,246,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,306,387,268,351,219,307,170,255,129,236,118,234,113,258,124,310,166,355,216,391,265,417,307"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga54c02f86c680b7d2f8372985655a4b34" title="CMD GEN_DELETE dir." alt="" coords="21,139,241,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,308,344,243,302,209,255,180,229,168,227,163,258,175,305,204,347,240,411,308"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga074f6b0a4e162e9fe98a4a1c38114bd3" title="CMD GEN_DELETE file." alt="" coords="19,189,243,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="396,311,334,270,296,249,256,230,221,219,220,214,258,226,298,244,337,266,402,310"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaa70d829b5558c5f99ec34dd6f52b920f" title="CMD get date time." alt="" coords="9,240,253,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="373,316,256,281,208,270,207,265,257,276,377,313"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaad2f915bed75edbe5e7b0860ac24db64" title="CMD get dir element." alt="" coords="5,291,257,317"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="287,321,258,319,256,314,291,318"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga8efa382619e64a6a16a4ec8df4175aba" title="CMD get protocol version." alt="" coords="14,341,248,384"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="287,349,250,354,248,349,291,346"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga2f6961ac523877e89ab9cdb965a242c2" title="CMD make dir." alt="" coords="24,408,238,435"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="379,355,257,399,211,410,208,405,256,393,383,351"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gad3327245a65fed3b4f5a92856654bb21" title="CMD ping." alt="" coords="35,459,227,485"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="399,358,339,405,299,429,258,449,223,460,221,456,256,444,297,424,336,401,403,355"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#gaba7fe782c233d952497b39d61c2945fc" title="CMD send is init server protocol." alt="" coords="19,509,243,552"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="411,357,348,430,305,468,258,500,233,511,231,507,255,495,302,463,344,426,407,361"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga7f9b1c66c86011b9ba219045394e8eda" title="CMD set date time." alt="" coords="10,576,252,603"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="419,358,396,407,361,463,314,519,287,545,258,566,234,578,232,573,255,562,284,541,311,516,356,460,391,404,415,362"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga4847a76d8c7e63ca84c3d081238e3fde" title="Received handle." alt="" coords="19,627,243,653"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="422,360,402,418,368,487,320,558,291,590,258,617,236,629,235,624,255,612,287,586,316,554,363,484,397,415,418,364"/>
+</map>

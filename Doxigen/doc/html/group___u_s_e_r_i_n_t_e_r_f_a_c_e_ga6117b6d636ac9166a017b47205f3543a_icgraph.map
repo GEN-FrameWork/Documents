@@ -1,0 +1,8 @@
+<map id="UI_SKIN::CalculeBoundaryLine_AllElements" name="UI_SKIN::CalculeBoundaryLine_AllElements">
+<area shape="rect" id="Node000001" title="Calcule boundary line all elements." alt="" coords="290,39,471,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="420,23,406,20,380,17,356,19,341,24,335,30,337,39,332,37,330,29,338,20,355,14,380,12,408,14,426,23"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga053765726efd48e0714dbe9f1feaa313" title="Change text element value." alt="" coords="5,5,242,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="271,47,242,45,242,39,277,46"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga13f15a88d38869251c3ae0f3d2989724" title="Set element position." alt="" coords="21,72,226,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="272,74,227,83,226,77,277,73"/>
+</map>

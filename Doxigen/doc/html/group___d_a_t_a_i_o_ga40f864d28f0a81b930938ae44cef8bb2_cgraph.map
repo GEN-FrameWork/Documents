@@ -1,0 +1,17 @@
+<map id="DIOWEBPAGEHTMLCREATOR::operator=" name="DIOWEBPAGEHTMLCREATOR::operator=">
+<area shape="rect" id="Node000001" title="operator =" alt="" coords="5,35,219,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaaec37020f5ec90f76b2f8cea640b538a" title="Constructor of class." alt="" coords="267,5,488,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,42,254,40,249,41,220,47"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="323,72,432,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,65,309,77,304,78,219,70"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac83006698567c749aecf727dddef5d9c" title="Register event." alt="" coords="536,13,718,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,24,523,26,518,27,489,29"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="560,68,694,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,82,547,82,542,83,432,87"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="542,119,712,145"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="433,93,540,115,535,115,432,98"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="772,68,910,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="695,79,759,81,753,81,695,84"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="766,119,916,145"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="712,129,753,132,748,132,712,135"/>
+</map>

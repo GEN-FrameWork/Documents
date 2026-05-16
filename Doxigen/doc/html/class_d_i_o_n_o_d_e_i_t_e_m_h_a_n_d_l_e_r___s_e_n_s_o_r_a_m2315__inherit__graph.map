@@ -1,0 +1,7 @@
+<map id="DIONODEITEMHANDLER_SENSORAM2315" name="DIONODEITEMHANDLER_SENSORAM2315">
+<area shape="rect" id="Node000001" title="Data Input/Output Node Item Handler Sensor AM2315." alt="" coords="5,155,187,197"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_n_o_d_e_i_t_e_m_h_a_n_d_l_e_r.html" title="Data Input/Output Node Item Handler class." alt="" coords="5,80,187,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,120,99,155,93,154,94,124"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="50,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,45,99,80,93,79,95,50"/>
+</map>

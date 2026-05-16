@@ -1,0 +1,9 @@
+<map id="DIODNSRESOLVER_DNSSERVER::GetPort" name="DIODNSRESOLVER_DNSSERVER::GetPort">
+<area shape="rect" id="Node000001" title="Get port." alt="" coords="560,23,797,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gac02068342e11d4b1f705a4afb3e8a942" title="Resolve URL." alt="" coords="283,31,512,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,44,513,47,512,41,547,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaee9d6bbdaf1635ec5438b9734d1d312e" title="Resolve URL." alt="" coords="5,5,235,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,32,235,32,235,26,270,32"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gaa035bbccf68d48621696b536d6d37989" title="Resolve URL." alt="" coords="5,56,235,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="265,56,235,62,235,56,270,56"/>
+</map>

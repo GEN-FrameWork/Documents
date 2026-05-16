@@ -1,0 +1,13 @@
+<map id="XFILEDBF_HEADER::CopyFrom" name="XFILEDBF_HEADER::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,107,224,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga125a70ec9109e701e90da10d9dc29ff3" title="Get field." alt="" coords="293,5,499,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,104,197,73,271,41,300,35,295,38,273,47,199,77,141,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3bb8df106a89043d28a18e8fdbe0f648" title="Get header data." alt="" coords="272,56,520,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,103,305,84,301,87,194,109"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac8c65911f0182fb4106bfc4cc7a62a3a" title="Get header size." alt="" coords="273,107,519,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,117,260,119,254,121,225,123"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga79473375ceff451626111e45e2030607" title="Get N fields." alt="" coords="284,157,508,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,131,305,153,300,155,193,137"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga777cbd8aa1b8138a54e38dcff9e3a525" title="Constructor of class." alt="" coords="285,208,506,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,131,201,162,273,194,294,203,289,203,271,198,198,167,140,137"/>
+</map>

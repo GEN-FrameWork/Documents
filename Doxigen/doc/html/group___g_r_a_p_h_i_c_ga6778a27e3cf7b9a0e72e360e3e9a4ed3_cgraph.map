@@ -1,0 +1,11 @@
+<map id="GRPVECTORFILEDXFTEXTSECTIONHEADER::AddVariable" name="GRPVECTORFILEDXFTEXTSECTIONHEADER::AddVariable">
+<area shape="rect" id="Node000001" title="Add variable." alt="" coords="5,23,318,65"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="366,31,478,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,41,352,44,347,44,318,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="542,5,679,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,34,524,30,530,30,479,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="526,56,695,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,49,513,56,508,56,478,54"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="743,56,893,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,67,730,69,725,69,696,72"/>
+</map>

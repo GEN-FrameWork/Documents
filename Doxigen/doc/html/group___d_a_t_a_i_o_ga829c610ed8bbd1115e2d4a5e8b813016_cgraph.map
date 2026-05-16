@@ -1,0 +1,7 @@
+<map id="DIOAIOBIMAINBOARD::ResetMicroControler" name="DIOAIOBIMAINBOARD::ResetMicroControler">
+<area shape="rect" id="Node000001" title="Reset micro controler." alt="" coords="5,39,177,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga9d1b3e5ce07ed966b2d731c9014839bd" title="Set mode header pin." alt="" coords="225,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,44,212,41,206,43,177,50"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga3f6012116da52c5d5ea337e6f07d4b43" title="Set status header pin." alt="" coords="225,72,396,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,70,212,78,206,78,177,76"/>
+</map>

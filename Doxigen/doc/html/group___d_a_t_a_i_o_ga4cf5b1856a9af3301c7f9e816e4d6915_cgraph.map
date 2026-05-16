@@ -1,0 +1,11 @@
+<map id="DIOCOREPROTOCOL_REGISTERDATA::Deserialize" name="DIOCOREPROTOCOL_REGISTERDATA::Deserialize">
+<area shape="rect" id="Node000001" title="Deserialize." alt="" coords="5,52,274,95"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="350,31,477,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,56,337,52,332,53,274,62"/>
+<area shape="rect" id="Node000005" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a6a3880c53688be8e99ab28784c211d5b" title=" " alt="" coords="322,81,505,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,85,309,91,303,91,274,90"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="553,5,702,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,34,540,29,535,30,478,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="558,56,697,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="478,49,546,59,541,59,478,54"/>
+</map>

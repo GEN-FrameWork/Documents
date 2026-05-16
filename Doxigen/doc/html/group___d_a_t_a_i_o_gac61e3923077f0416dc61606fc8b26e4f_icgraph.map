@@ -1,0 +1,14 @@
+<map id="DIOURL::HaveHTTPID" name="DIOURL::HaveHTTPID">
+<area shape="rect" id="Node000001" title="Have HTTPID." alt="" coords="725,56,886,83"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga47e3cd649c359491890facf0509ee63e" title="Add HTTPID." alt="" coords="518,5,670,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,52,652,35,653,30,734,52"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6b5c107feae53197f73bf3584b345f90" title="Delete HTTPID." alt="" coords="510,56,677,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="707,69,678,72,678,67,713,69"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga76e3794d828a6c378d7e5fa9ce5a23ad" title="Set from string." alt="" coords="258,73,462,116"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="735,86,678,97,566,103,463,102,462,97,566,98,677,92,730,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,80,463,86,462,81,497,80"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga7c1a9610fc3026465a5ea6dc6591d1dd" title="Set from string." alt="" coords="5,40,210,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,80,210,78,210,72,245,79"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gafe0c9595145a883fdaafe4c0fcb05a32" title="Set from string." alt="" coords="5,107,210,149"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="240,111,211,117,210,112,245,110"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="XFILEHASH::UpdateHash" name="XFILEHASH::UpdateHash">
+<area shape="rect" id="Node000001" title="Update hash." alt="" coords="897,215,1074,241"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab7ca763bbc927c056559b4836b3c1f0d" title="Close." alt="" coords="710,215,849,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="878,228,850,231,849,225,884,228"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3b654fe6e9ffa262286bd22a52f870c6" title="Close file." alt="" coords="494,97,643,124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="737,207,594,127,595,122,743,206"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaab33ea75f8ed5465e89d53ea918e8d75" title="Open file." alt="" coords="496,215,642,241"/>
+<area shape="poly" id="edge6_Node000002_Node000010" title=" " alt="" coords="692,228,643,231,642,225,698,228"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga38c894d236d294ddda5e7fbe6fbcadf4" title="Destructor of class." alt="" coords="475,265,662,292"/>
+<area shape="poly" id="edge13_Node000002_Node000016" title=" " alt="" coords="709,245,628,267,627,262,703,246"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad76553d392b2835b8157691aafa5fcdf" title="Convert file from DBF." alt="" coords="211,123,427,165"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,124,428,132,427,127,481,122"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga91454914b10cbaf06ce297515d25254a" title="End." alt="" coords="260,5,378,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="526,90,480,69,426,47,378,33,378,27,428,41,482,64,531,89"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga89c3c4f2f89ab8f201bf99f399ca2640" title="File convert." alt="" coords="225,56,413,99"/>
+<area shape="poly" id="edge5_Node000003_Node000009" title=" " alt="" coords="476,99,414,93,413,87,481,98"/>
+<area shape="poly" id="edge7_Node000010_Node000004" title=" " alt="" coords="513,209,426,180,392,169,392,163,428,175,518,208"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaf439f0990784d83719e04412a7d0ae33" title="Get position." alt="" coords="238,189,400,216"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="478,220,401,214,400,208,483,219"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad0683836da10af906b0b4a5070b0840b" title="Get record." alt="" coords="5,215,163,241"/>
+<area shape="poly" id="edge10_Node000010_Node000012" title=" " alt="" coords="479,230,163,231,163,225,481,226"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga1022e7ce3c3bfc8633d6f4d9c840c209" title="Get record index." alt="" coords="224,291,414,317"/>
+<area shape="poly" id="edge11_Node000010_Node000014" title=" " alt="" coords="501,245,476,256,428,275,371,293,369,287,426,269,474,251,496,247"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga41fa7802b2412ca47f624ceb78ed560b" title="Ini." alt="" coords="265,341,373,368"/>
+<area shape="poly" id="edge12_Node000010_Node000015" title=" " alt="" coords="484,248,477,255,461,273,454,292,446,312,429,331,402,345,374,353,373,348,400,340,425,327,441,310,449,291,456,271,473,251,479,250"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="220,214,164,222,162,217,225,212"/>
+</map>

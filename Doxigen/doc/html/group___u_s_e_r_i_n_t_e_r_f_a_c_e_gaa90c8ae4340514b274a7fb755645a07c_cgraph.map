@@ -1,0 +1,17 @@
+<map id="UI_MANAGER::Element_SetModal" name="UI_MANAGER::Element_SetModal">
+<area shape="rect" id="Node000001" title="Element set modal." alt="" coords="5,93,172,135"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga97c98698c8f23bff52f1f1d50f6e4820" title="Element put to last position layout." alt="" coords="220,93,393,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,111,207,113,202,115,172,117"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae500a83f96258eff6ff68f3f86a71474" title="Element get layout." alt="" coords="441,34,607,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,90,430,80,425,82,389,95"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7292e474dabbe7851bc3f8aba6cede7c" title="Elements get." alt="" coords="655,15,840,42"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="328,90,377,52,407,33,440,19,496,7,554,3,611,5,664,12,658,13,610,10,555,8,497,12,442,24,410,38,380,56,331,94"/>
+<area shape="rect" id="Node000005" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="690,70,805,97"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="393,105,677,87,672,89,394,111"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="454,151,595,178"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="393,131,452,147,447,147,393,137"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#a2a6b5198fbb77aa716e74a976b69eb37" title=" " alt="" coords="467,202,581,229"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="342,133,389,161,442,187,460,197,455,196,440,192,386,166,341,138"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="607,43,642,41,637,42,608,48"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="608,63,677,74,672,74,608,68"/>
+</map>

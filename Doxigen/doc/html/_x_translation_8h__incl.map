@@ -1,0 +1,35 @@
+<map id="E:/Projects/GEN_FrameWork/GEN/XUtils/XTranslation.h" name="E:/Projects/GEN_FrameWork/GEN/XUtils/XTranslation.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,435,48"/>
+<area shape="rect" id="Node000002" href="$_x_vector_8h.html" title=" " alt="" coords="82,320,160,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,50,247,71,205,98,165,132,134,172,120,205,115,241,115,275,118,305,113,304,110,275,110,240,115,204,129,169,161,128,202,94,245,66,288,47"/>
+<area shape="rect" id="Node000007" href="$_x_string_8h.html" title=" " alt="" coords="294,245,369,272"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="339,46,335,231,330,230,336,50"/>
+<area shape="rect" id="Node000010" href="$_x_path_8h.html" title=" " alt="" coords="229,96,298,123"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="317,51,287,86,283,83,321,47"/>
+<area shape="rect" id="Node000012" href="$_x_language___i_s_o__639__3_8h.html" title=" " alt="" coords="415,171,584,197"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="360,46,478,159,473,160,358,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="166,395,227,421"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,345,175,384,170,384,133,350"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="280,395,345,421"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="155,345,269,388,264,390,154,350"/>
+<area shape="rect" id="Node000005" href="$_x_base_8h.html" title=" " alt="" coords="446,395,518,421"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="161,340,432,394,430,399,160,345"/>
+<area shape="rect" id="Node000006" href="$_x_memory___control_8h.html" title=" " alt="" coords="5,395,143,421"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="115,346,92,383,88,380,110,349"/>
+<area shape="poly" id="edge12_Node000007_Node000002" title=" " alt="" coords="293,274,173,317,171,312,297,271"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="291,273,257,293,239,306,224,322,209,350,201,381,197,377,204,348,220,318,236,302,254,289,296,271"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="332,271,318,380,314,378,328,274"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="370,267,416,286,439,300,459,318,475,348,482,381,478,378,470,350,455,322,436,304,414,290,369,272"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="234,320,303,347"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="323,271,291,310,288,306,318,274"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="378,320,445,347"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="346,270,389,310,384,309,345,275"/>
+<area shape="poly" id="edge15_Node000010_Node000002" title=" " alt="" coords="227,122,189,142,170,155,153,172,136,204,127,240,122,305,116,304,121,239,131,202,149,169,166,151,186,137,231,119"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="273,120,303,170,326,232,321,231,298,172,272,126"/>
+<area shape="rect" id="Node000011" href="$_x_paths_manager_8h.html" title=" " alt="" coords="163,171,289,197"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="258,121,242,158,237,155,255,125"/>
+<area shape="poly" id="edge17_Node000011_Node000002" title=" " alt="" coords="219,197,141,309,136,305,215,199"/>
+<area shape="poly" id="edge18_Node000011_Node000007" title=" " alt="" coords="245,195,303,236,298,237,244,201"/>
+<area shape="poly" id="edge20_Node000012_Node000005" title=" " alt="" coords="501,196,486,381,482,378,496,199"/>
+<area shape="poly" id="edge21_Node000012_Node000007" title=" " alt="" coords="468,199,376,241,374,236,472,197"/>
+</map>

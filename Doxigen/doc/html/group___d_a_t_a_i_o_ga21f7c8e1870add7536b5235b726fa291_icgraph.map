@@ -1,0 +1,17 @@
+<map id="DIOSTREAMUDP::DIOSTREAMUDP" name="DIOSTREAMUDP::DIOSTREAMUDP">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="863,147,1111,173"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaaecd2b1df2f3e5ebe64f39f8987ff2ad" title="Constructor of class." alt="" coords="593,5,794,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="951,137,890,101,814,62,784,51,784,46,816,58,892,96,956,138"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga8f76b565cc5b3d4402bc681a30a9ef7c" title="Constructor of class." alt="" coords="604,72,783,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="907,143,783,116,784,111,912,142"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga6fd6aa9da597c643524e26b1dd805264" title="Constructor of class." alt="" coords="572,139,815,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="845,160,816,163,815,157,850,160"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaaad47b4ebbeeb1d5660f8f3c69d6877e" title="Constructor of class." alt="" coords="590,205,797,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="913,177,791,207,790,202,908,178"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaf73ebef54946766cefd7d1c4ada9e715" title="Write." alt="" coords="576,272,811,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="956,181,892,224,816,262,785,274,783,269,814,258,890,219,951,183"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga1dce5f5cb5e3c2aab8d59d33670604f5" title="Write datagram." alt="" coords="289,272,524,315"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="558,293,525,296,525,291,563,293"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaec677723dc1d177082985965c3d1b966" title="Write datagram." alt="" coords="5,272,241,315"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="270,293,241,296,241,291,275,293"/>
+</map>

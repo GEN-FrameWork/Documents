@@ -1,0 +1,23 @@
+<map id="XFILEUNZIP::Close" name="XFILEUNZIP::Close">
+<area shape="rect" id="Node000001" title="Close." alt="" coords="5,132,147,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga633f5e40df6107cc5acda12e9d7a52a4" title="Get file name." alt="" coords="195,5,419,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,130,131,86,161,62,193,42,211,36,207,39,196,46,164,66,134,90,91,133"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gadb65926d5f56410c9243d2f7c69a87a3" title="Post event." alt="" coords="227,56,387,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,129,194,92,224,85,219,88,196,97,107,134"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="252,107,362,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,135,239,126,235,129,148,140"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafb7f7950b5839bea7ad5488dea57e116" title="Set error." alt="" coords="209,157,404,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="146,150,196,157,191,159,148,156"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga59e7fb1af067f3b008e6906d4edec679" title="Set file compress." alt="" coords="213,208,401,251"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="107,157,196,194,217,202,211,203,194,198,107,162"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga0393e9f9ef5b4a2ff0b1bf5b8883bff7" title="Set operation percent." alt="" coords="195,275,418,317"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="88,157,132,208,162,236,196,260,207,268,201,268,193,265,159,240,128,211,87,162"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="484,81,619,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="361,112,472,102,467,104,363,117"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="467,132,636,159"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="362,123,454,134,449,136,362,128"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="690,81,828,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="619,92,677,94,672,95,620,97"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="684,132,834,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="637,143,671,145,666,146,637,148"/>
+</map>

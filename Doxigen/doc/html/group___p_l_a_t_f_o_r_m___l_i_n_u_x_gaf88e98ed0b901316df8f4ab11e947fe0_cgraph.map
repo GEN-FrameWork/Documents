@@ -1,0 +1,9 @@
+<map id="DIOLINUXNETWORKMANAGER::~DIOLINUXNETWORKMANAGER" name="DIOLINUXNETWORKMANAGER::~DIOLINUXNETWORKMANAGER">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,5,244,48"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga9885f0bc9c77ab6c01c86e84ea68b649" title="End." alt="" coords="292,13,545,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,24,279,27,273,27,244,29"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga29ac06a26ba8e86f5f097de361ce7df5" title="Un subscribe event." alt="" coords="593,13,814,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,24,580,27,575,27,545,29"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf4b749be798bd7879745423947aa89bc" title="Constructor of class." alt="" coords="862,13,1058,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="815,24,849,27,844,27,815,29"/>
+</map>

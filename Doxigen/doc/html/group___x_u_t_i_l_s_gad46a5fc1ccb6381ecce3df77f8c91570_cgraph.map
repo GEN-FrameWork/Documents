@@ -1,0 +1,21 @@
+<map id="XPATH::GetPathInSequence" name="XPATH::GetPathInSequence">
+<area shape="rect" id="Node000001" title="Get path in sequence." alt="" coords="5,107,195,133"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="261,56,374,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,104,248,84,244,87,161,109"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="456,5,593,32"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="119,104,173,71,207,55,242,41,292,29,345,21,443,16,439,18,345,27,294,34,243,47,209,60,175,76,122,108"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="254,107,381,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="194,117,241,119,236,121,195,123"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="262,157,372,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="161,131,250,153,245,155,160,137"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="243,208,392,235"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="125,131,179,162,244,194,261,203,256,202,242,198,176,166,124,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,53,455,35,450,37,375,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="440,56,609,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,67,427,69,422,70,375,72"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="657,81,807,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="610,77,645,84,639,84,610,82"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="381,114,644,99,639,101,382,119"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="456,157,594,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="375,131,455,153,450,153,375,137"/>
+</map>

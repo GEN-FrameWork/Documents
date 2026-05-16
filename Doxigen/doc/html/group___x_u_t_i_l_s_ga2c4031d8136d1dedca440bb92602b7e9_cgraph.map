@@ -1,0 +1,10 @@
+<map id="XDATETIME::AddDays" name="XDATETIME::AddDays">
+<area shape="rect" id="Node000001" title="Add days." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1300a113a438cf34914c33ed43b89bdb" title="Get date from N days." alt="" coords="213,56,438,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,50,200,56,194,56,165,55"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="486,5,720,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="165,37,471,22,470,28,165,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,53,509,36,514,35,403,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="497,56,709,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="439,67,484,69,479,69,439,72"/>
+</map>

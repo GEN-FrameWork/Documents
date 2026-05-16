@@ -1,0 +1,23 @@
+<map id="XMPINTEGER::MontgomeryReduction" name="XMPINTEGER::MontgomeryReduction">
+<area shape="rect" id="Node000001" title="Montgomery reduction." alt="" coords="5,236,255,263"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga8addba3a657bfa1910056d05f6097c3d" title="Montgomery multiplication." alt="" coords="303,84,569,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,233,393,115,394,121,160,238"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="902,135,1110,161"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="220,233,302,221,619,184,890,159,884,160,620,190,303,227,222,238"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad6218b2f38d8e5329568d0689e0683dc" title="Set limbs." alt="" coords="349,236,522,263"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="255,247,336,249,331,250,255,252"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gab4f80712e219e4e6364a6142d3c1d5b9" title="Set N limbs." alt="" coords="344,287,528,313"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="215,261,339,283,334,285,215,266"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga43df7b0b2ba3f4d16550db90700eec20" title="Set sign." alt="" coords="354,337,518,364"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="158,260,223,292,303,323,341,335,336,335,302,328,221,297,157,266"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac2cfd05e7f51f0863995409222fe35cf" title="Compare ABS values." alt="" coords="617,33,854,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="518,81,640,62,635,64,520,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="919,59,1093,85"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="569,89,906,75,901,78,570,94"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="914,8,1098,35"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="460,81,529,48,572,31,616,19,689,8,763,4,900,9,895,11,763,9,690,13,618,24,573,36,531,52,462,86"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="569,107,889,137,884,138,570,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="855,55,906,62,901,63,855,60"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="854,33,901,31,896,32,855,38"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="774,58,957,129,951,129,773,63"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOGPIO::GPIOEntry_GetInterruptByPin" name="DIOGPIO::GPIOEntry_GetInterruptByPin">
+<area shape="rect" id="Node000001" title="GPIO entry get interrupt by pin." alt="" coords="5,23,156,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga3c76f549f1b1e43ff413eab750f5d390" title="Get mode." alt="" coords="204,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,33,191,31,186,32,157,38"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac3212f52c3ff08015185d4af84128fd2" title="Get pin." alt="" coords="210,56,388,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,50,197,57,192,57,156,55"/>
+</map>

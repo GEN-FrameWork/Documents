@@ -1,0 +1,20 @@
+<map id="XLINUXFILE::Rename" name="XLINUXFILE::Rename">
+<area shape="rect" id="Node000001" title="Rename." alt="" coords="5,68,161,95"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga13b691e56cfd5c48184c2ae6cf607914" title="Convert to UTF8." alt="" coords="370,5,552,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,65,155,45,208,28,282,17,357,15,352,17,282,22,209,33,157,50,112,70"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="209,43,322,69"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,68,196,65,191,67,162,73"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="210,93,320,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,89,197,96,192,97,161,95"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="211,144,320,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,93,219,136,215,139,117,98"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="606,43,744,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,30,593,41,588,41,541,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="394,68,528,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="301,141,408,101,413,100,303,146"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="376,144,546,171"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="320,155,364,157,358,157,321,160"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="528,71,593,66,588,66,529,76"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="600,144,750,171"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="546,155,587,157,582,157,546,160"/>
+</map>

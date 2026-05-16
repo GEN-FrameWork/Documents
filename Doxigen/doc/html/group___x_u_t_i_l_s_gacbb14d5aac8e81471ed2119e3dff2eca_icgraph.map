@@ -1,0 +1,11 @@
+<map id="XBUFFER::ResetPosition" name="XBUFFER::ResetPosition">
+<area shape="rect" id="Node000001" title="Reset position." alt="" coords="553,56,727,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga76f47bb0547a98cb42cf3f2f53dd6cca" title="Convert from X buffer." alt="" coords="278,31,486,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,59,486,57,486,52,540,59"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga856c137dd459f5070948ee55117dd856" title="Received msg." alt="" coords="259,81,505,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="540,79,506,85,505,80,535,80"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga5160d83010b792b05fc10742a379449f" title="Convert from UTF16." alt="" coords="5,5,211,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,33,211,31,211,26,265,32"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaa55e25269b01092e6e834490475c4707" title="Convert from UTF32." alt="" coords="5,56,211,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,56,211,62,211,57,265,55"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_d_i_o_g_p_i_o.html" title="Data Input/Output GPIO (General Purpose Input/Output)." alt="" coords="5,81,84,108"/>
+<area shape="rect" id="Node000001" href="$class_d_i_o_e_s_p32_g_p_i_o.html" title="Data Input/Output ESP32 General Port Input/Ouput (GPIO)." alt="" coords="188,5,308,32"/>
+<area shape="poly" id="edge237_Node000000_Node000001" title=" " alt="" coords="76,70,131,42,190,26,186,30,133,46,80,75"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_l_i_n_u_x_g_p_i_o.html" title="LINUX Data Input/Output GPIO (General Purpose Input/Output)." alt="" coords="189,56,307,83"/>
+<area shape="poly" id="edge238_Node000000_Node000002" title=" " alt="" coords="98,85,190,75,186,79,100,91"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_m32_g_p_i_o.html" title="Data Input/Output STM32 General Port Input/Ouput (GPIO)." alt="" coords="188,107,308,133"/>
+<area shape="poly" id="edge239_Node000000_Node000003" title=" " alt="" coords="99,99,189,111,185,114,99,104"/>
+<area shape="rect" id="Node000004" href="$class_d_i_o_w_i_n_d_o_w_s_g_p_i_o_p_c_p_a_r_a_l_l_e_l.html" title="WINDOWS Data Input/Output GPIO (General Purpose Input/Output) PC Parallel." alt="" coords="132,157,364,184"/>
+<area shape="poly" id="edge240_Node000000_Node000004" title=" " alt="" coords="79,114,133,143,170,156,165,157,131,148,77,120"/>
+</map>

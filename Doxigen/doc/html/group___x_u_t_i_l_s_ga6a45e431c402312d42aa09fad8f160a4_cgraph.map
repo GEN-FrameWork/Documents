@@ -1,0 +1,28 @@
+<map id="XFILECOBOL_HANDLE::CalculateDataSize" name="XFILECOBOL_HANDLE::CalculateDataSize">
+<area shape="rect" id="Node000001" title="Calculate data size." alt="" coords="5,145,180,188"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3743c597a187291bd4630d891587a6de" title="Calculate data size node." alt="" coords="228,145,402,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,164,214,165,210,168,181,169"/>
+<area shape="rect" id="Node000003" href="$class_x_t_r_e_e___n_o_d_e.html#a078986820d0ad8a10dd7a4eaf8f814f3" title=" " alt="" coords="484,5,656,32"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="117,143,166,107,227,74,288,53,351,38,471,23,467,26,352,43,289,58,229,78,169,111,121,147"/>
+<area shape="rect" id="Node000005" href="$class_x_t_r_e_e___n_o_d_e.html#a40b9277670604e2b204c9df458b2c527" title=" " alt="" coords="470,56,670,83"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="134,143,179,123,227,107,343,84,457,73,452,76,344,89,228,112,181,128,138,147"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga9b1ec5ffa4852af8e8d7d3c7e9a2e4bd" title="Get FD tree." alt="" coords="228,212,402,255"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="165,186,229,206,224,208,166,191"/>
+<area shape="rect" id="Node000012" href="$class_x_t_r_e_e.html#a53a9d30c9bcf92d558f80c9b7fa9a453" title=" " alt="" coords="253,279,376,305"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="117,186,168,226,229,264,245,273,239,273,226,269,165,230,117,191"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="273,144,271,135,278,126,293,121,315,119,339,121,355,129,349,130,337,126,315,124,294,126,281,131,276,137,278,146"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="332,143,380,91,413,64,449,42,472,34,468,37,451,46,416,69,384,95,335,147"/>
+<area shape="rect" id="Node000004" href="$class_x_t_r_e_e___n_o_d_e.html#a7ed87b400897c25f053e4a09a9270ce3" title=" " alt="" coords="486,107,655,133"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="402,148,481,136,476,138,403,153"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="349,143,395,116,449,92,476,86,471,88,451,97,398,121,352,147"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaa268a11dff4a38affa1641c46e6ddad4" title="Get PIC." alt="" coords="470,157,671,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="402,165,456,168,451,170,403,171"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga82fe792956eb697103327fa5788e34bb" title="Get size data." alt="" coords="462,208,679,235"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="402,183,451,193,491,204,486,205,449,199,403,188"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gac2b75e26f81e89241925e659ce4149fc" title="Is redefine." alt="" coords="460,259,680,285"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="381,186,404,198,418,210,428,222,437,234,451,244,466,253,461,253,449,249,433,238,423,226,414,214,400,202,381,191"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga1090f68ae4beed352e729239e999bb43" title="Set is redefine." alt="" coords="450,309,690,336"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="387,186,404,198,415,211,422,224,428,249,434,273,441,284,452,295,458,302,453,301,448,299,436,288,429,275,422,250,417,226,411,214,400,202,386,191"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaa3cea3e3ca63b82ed3b008e9694da155" title="Set redefine offset." alt="" coords="456,360,685,403"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="388,186,404,198,418,218,425,237,428,275,431,311,438,329,452,346,455,351,450,350,448,350,433,331,426,312,422,275,420,238,413,220,400,202,387,191"/>
+</map>

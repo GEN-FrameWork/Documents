@@ -1,0 +1,7 @@
+<map id="UI_SKIN_TEXTBOX_PART::SetHeight" name="UI_SKIN_TEXTBOX_PART::SetHeight">
+<area shape="rect" id="Node000001" title="Set height." alt="" coords="455,5,639,48"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga8321da5771467d2644f259389acdea03" title="Text box generate lines." alt="" coords="222,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,27,408,29,407,24,442,27"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gaba15bc7bc62cf656a541a97bc9c4f2f9" title="Draw text box." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,27,174,29,174,24,209,26"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DIOWEBSERVER_RESOLVEENDPOINT" name="DIOWEBSERVER_RESOLVEENDPOINT">
+<area shape="rect" id="Node000001" title="Data Input/Output Web Server Resolve EndPoint class." alt="" coords="183,80,454,107"/>
+<area shape="rect" id="Node000003" href="$class_a_p_p_f_l_o_w_e_x_t_e_n_d_e_d___a_p_p_l_i_c_a_t_i_o_n_s_t_a_t_u_s.html" title="Application Flow Extended Application Status class." alt="" coords="5,155,312,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,113,188,157,186,152,274,114"/>
+<area shape="rect" id="Node000004" href="$class_a_p_p_f_l_o_w_e_x_t_e_n_d_e_d___i_n_t_e_r_n_e_t_s_t_a_t_u_s.html" title="Application Flow Extended Internet Status class." alt="" coords="335,155,622,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,111,453,154,448,154,360,116"/>
+<area shape="rect" id="Node000002" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html" title="eXtended Utils Serializable class" alt="" coords="256,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,46,321,81,316,78,317,50"/>
+</map>

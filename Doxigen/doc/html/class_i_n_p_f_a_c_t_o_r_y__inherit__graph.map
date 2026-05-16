@@ -1,0 +1,9 @@
+<map id="INPFACTORY" name="INPFACTORY">
+<area shape="rect" id="Node000001" title="INPUT Factory class." alt="" coords="218,5,324,32"/>
+<area shape="rect" id="Node000002" href="$class_i_n_p_a_n_d_r_o_i_d_f_a_c_t_o_r_y.html" title="ANDROID input factory class." alt="" coords="5,80,174,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,39,122,82,120,77,223,38"/>
+<area shape="rect" id="Node000003" href="$class_i_n_p_l_i_n_u_x_f_a_c_t_o_r_y.html" title="LINUX Input factory class." alt="" coords="198,80,344,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,46,273,81,269,78,269,50"/>
+<area shape="rect" id="Node000004" href="$class_i_n_p_w_i_n_d_o_w_s_f_a_c_t_o_r_y.html" title="WINDOWS Input factory class." alt="" coords="368,80,544,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,35,426,79,421,80,317,41"/>
+</map>

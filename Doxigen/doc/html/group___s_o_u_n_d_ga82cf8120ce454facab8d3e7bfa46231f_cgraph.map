@@ -1,0 +1,7 @@
+<map id="SNDOPENALFACTORY::Sound_GetPitch" name="SNDOPENALFACTORY::Sound_GetPitch">
+<area shape="rect" id="Node000001" title="Sound get pitch." alt="" coords="5,27,216,69"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga89b106f70e605c892171b379da4aa61d" title="Get pitch." alt="" coords="264,5,485,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,251,32,246,33,217,39"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#ga7c70f973de7422b46c9bd5fac96a4069" title="Get source." alt="" coords="286,56,463,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,57,273,66,268,66,216,62"/>
+</map>

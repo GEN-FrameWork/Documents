@@ -1,0 +1,15 @@
+<map id="XFILERIFF::GetTypeFromString" name="XFILERIFF::GetTypeFromString">
+<area shape="rect" id="Node000001" title="Get type from string." alt="" coords="258,132,467,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1d69b2877237a282f9e3ebc0171d430a" title="Create chunk node." alt="" coords="5,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,122,276,84,209,46,178,35,177,30,211,42,279,80,335,122"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf9dea2f144c8a70a59e018f916d4e2ca" title="Create list node." alt="" coords="14,56,201,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,127,209,97,168,86,167,81,210,92,310,125"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad42e4edb36a01e7c766f98b87c7c1ebc" title="Get chunk." alt="" coords="30,107,185,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,135,186,130,185,125,245,132"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0367ada51bdc680f7f19fab86647ca3a" title="Get chunk node." alt="" coords="14,157,201,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,158,202,164,200,159,245,156"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga38a178558f3ca67829a41aecb625936c" title="Get list." alt="" coords="38,208,177,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="305,165,210,199,169,210,167,205,209,193,310,163"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7ef45decc18997b785d078787406581a" title="Get list node." alt="" coords="23,259,192,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="335,168,279,211,211,249,178,261,177,256,209,244,276,206,330,170"/>
+</map>

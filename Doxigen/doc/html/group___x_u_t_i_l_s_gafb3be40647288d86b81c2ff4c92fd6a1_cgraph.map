@@ -1,0 +1,9 @@
+<map id="XFILEHEX::Entry_Delete" name="XFILEHEX::Entry_Delete">
+<area shape="rect" id="Node000001" title="Entry delete." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga2192ba7b9f4d5a31ae33e43598ea2bcb" title="Entry get." alt="" coords="224,31,377,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,41,211,44,206,44,176,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gac6288c8bf3229747d6290b8421c3e1d6" title="Get address." alt="" coords="430,5,645,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,33,418,31,412,32,378,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga77a54891444ab672eba913cc64b05d08" title="Get entry type." alt="" coords="425,56,650,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="377,49,412,56,407,56,377,55"/>
+</map>

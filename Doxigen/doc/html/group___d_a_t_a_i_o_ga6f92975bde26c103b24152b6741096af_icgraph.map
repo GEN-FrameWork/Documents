@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_CONNECTIONSMANAGER_XEVENT::SetConnection" name="DIOCOREPROTOCOL_CONNECTIONSMANAGER_XEVENT::SetConnection">
+<area shape="rect" id="Node000001" title="Set connection." alt="" coords="614,5,947,48"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga325caa6080ff18ef71a029c5ecf5ec45" title="Status set." alt="" coords="310,5,566,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,27,567,29,566,24,601,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad32c6a0ffb6b5dfb98c359fd856ac3e3" title="Update." alt="" coords="5,5,262,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,27,262,29,262,24,297,27"/>
+</map>

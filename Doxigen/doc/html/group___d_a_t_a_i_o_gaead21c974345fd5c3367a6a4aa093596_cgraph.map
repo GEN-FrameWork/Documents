@@ -1,0 +1,18 @@
+<map id="DIOURL::ResolveURL" name="DIOURL::ResolveURL">
+<area shape="rect" id="Node000001" title="Resolve URL." alt="" coords="5,56,161,83"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="49,56,43,47,47,38,61,31,83,29,107,32,121,40,116,41,105,37,83,35,62,37,51,41,48,47,54,55"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="228,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,53,215,35,211,38,140,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="229,56,338,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="161,67,216,69,211,70,162,72"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="209,107,358,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="139,81,215,101,210,103,139,86"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="424,31,558,57"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="338,60,411,54,405,55,339,65"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="406,81,575,108"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="338,73,393,82,388,83,338,79"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="629,31,767,57"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="558,41,616,44,611,44,559,47"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="623,81,773,108"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="576,92,610,95,605,95,576,97"/>
+</map>

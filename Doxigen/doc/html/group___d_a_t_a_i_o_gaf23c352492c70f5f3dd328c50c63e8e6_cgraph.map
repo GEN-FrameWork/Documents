@@ -1,0 +1,11 @@
+<map id="DIOCOREPROTOCOL::UpdateClass_Get" name="DIOCOREPROTOCOL::UpdateClass_Get">
+<area shape="rect" id="Node000001" title="Update class get." alt="" coords="5,76,276,103"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="384,47,526,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,74,371,68,366,69,276,79"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga1dc2d98b77a3c8e2baddbff604d831a5" title="Get class name." alt="" coords="324,97,587,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="276,99,311,105,306,105,276,105"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="635,5,781,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,48,622,38,617,39,527,53"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="635,72,781,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="527,67,622,82,617,82,527,72"/>
+</map>

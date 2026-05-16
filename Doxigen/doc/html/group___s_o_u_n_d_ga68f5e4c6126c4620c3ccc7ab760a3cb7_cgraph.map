@@ -1,0 +1,9 @@
+<map id="SNDITEM::GetType" name="SNDITEM::GetType">
+<area shape="rect" id="Node000001" title="Get type." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="193,31,320,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,41,180,44,175,44,145,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="368,5,517,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,33,355,31,350,31,321,38"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="374,56,512,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,50,361,58,356,58,320,55"/>
+</map>

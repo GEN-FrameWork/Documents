@@ -1,0 +1,13 @@
+<map id="INPWINDOWSCAPTURE" name="INPWINDOWSCAPTURE">
+<area shape="rect" id="Node000001" title="WINDOWS Input Capture class." alt="" coords="74,279,253,305"/>
+<area shape="rect" id="Node000002" href="$class_i_n_p_c_a_p_t_u_r_e.html" title="Input Capture class." alt="" coords="109,203,218,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,243,166,280,161,277,162,246"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,104,98,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,138,151,201,146,203,77,143"/>
+<area shape="rect" id="Node000004" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="121,104,206,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="165,144,166,203,161,202,162,149"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="230,104,311,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,140,211,181,182,204,179,200,207,177,245,143"/>
+<area shape="rect" id="Node000006" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="232,5,309,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="272,45,273,105,268,103,269,50"/>
+</map>

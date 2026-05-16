@@ -1,0 +1,27 @@
+var class_x_w_i_n_d_o_w_s_s_y_s_t_e_m =
+[
+    [ "XWINDOWSSYSTEM", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga4426ebd663a66b52100f69730a536270", null ],
+    [ "~XWINDOWSSYSTEM", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga83ccfa3140c143cb7ff47a68dbb51424", null ],
+    [ "DelEnviromentVariable", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa001e355fdf1c126dedc094979358f25", null ],
+    [ "GetBatteryLevel", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaef01c20bb65eaa2e3e25235a1a0cb5fc", null ],
+    [ "GetBIOSSerialNumber", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaa4a6eab9e798c629e07561a631180528", null ],
+    [ "GetCPUSerialNumber", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab41c20832ba63430d81c7e49fdc5711f", null ],
+    [ "GetCPUTemperature", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gac4b95772a35ed02a5ba85eb8aec7f9d2", null ],
+    [ "GetCPUUsageForProcessID", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga19e6cc0e8e436c0e56406ade13e958f0", null ],
+    [ "GetCPUUsageForProcessName", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga33bd8156b06d17d43c9868953561c949", null ],
+    [ "GetCPUUsageTotal", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8c05e202ee6ec9d7d65c3054c19b3344", null ],
+    [ "GetEnviromentVariable", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gafab9ad42437da2092beba6286d278521", null ],
+    [ "GetLanguageSO", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga64f1687494e0d7c71cb1e1a05b657d93", null ],
+    [ "GetMemoryInfo", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga15d0779fc67d6dbefe371dc6d7af139f", null ],
+    [ "GetOperativeSystemID", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gad247fdaaaddbca799b51ec052f0348cd", null ],
+    [ "GetPathExecApplication", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga456640c1d85814945f5827c6cd06c042", null ],
+    [ "GetPlatform", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaef970cc02095028eb39830c027f04781", null ],
+    [ "GetTypeHardware", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab2655b05696c8c48f63c09cd6083bca2", null ],
+    [ "GetUserAndDomain", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga15849b073f182d4bb92a6edab7f4e25e", null ],
+    [ "GetWifiRSSILevel", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf62394532a82fe3a99e454aaccf8dfbf", null ],
+    [ "SetEnviromentVariable", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaceac50ad04668fb25ca6cd82320b6b24", null ],
+    [ "ShutDown", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7807c8c0b5bbae55f225aabff89fd69b", null ],
+    [ "Sound_GetLevel", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab1422e42bd7360896b0480c1a0f2885d", null ],
+    [ "Sound_SetLevel", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaae3376c71e7a6076343b966e16f587fb", null ],
+    [ "Sound_SetMutex", "group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga5a481170332c5c31ade440fcc0388452", null ]
+];

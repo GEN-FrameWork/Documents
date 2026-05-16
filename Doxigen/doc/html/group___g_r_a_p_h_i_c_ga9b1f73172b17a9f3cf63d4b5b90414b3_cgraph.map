@@ -1,0 +1,9 @@
+<map id="GRPVECTORFILEDXFENTITYDEFPOINT::CopyFrom" name="GRPVECTORFILEDXFENTITYDEFPOINT::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,72,283,115"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga86435a630b0f84cea863bb31a298a82b" title="Get x." alt="" coords="335,5,612,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,69,352,51,347,53,253,74"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gacc5c755535d87a890be550c51ef13ecb" title="Get y." alt="" coords="335,72,612,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,91,322,93,316,94,283,96"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga7e49340b974a9d8f72b024e20e1d06b1" title="Constructor of class." alt="" coords="331,139,616,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,113,352,135,347,135,253,118"/>
+</map>

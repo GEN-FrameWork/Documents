@@ -1,0 +1,9 @@
+<map id="INPDEVICE::GetButtonState" name="INPDEVICE::GetButtonState">
+<area shape="rect" id="Node000001" title="Get button state." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga0e525fcc7cc0acf0c75db01596c90d16" title="Get buttons." alt="" coords="247,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,53,255,35,250,37,167,58"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga16cb82fc4e8560ccbb2f45af4dcd65f8" title="Get ID." alt="" coords="260,56,402,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,67,247,69,242,70,199,72"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gaa3208e8520fbf71047cfc6d2ac1a2edc" title="Get state." alt="" coords="252,107,411,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,81,255,102,250,103,166,86"/>
+</map>

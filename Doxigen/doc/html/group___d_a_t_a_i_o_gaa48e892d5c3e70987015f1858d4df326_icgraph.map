@@ -1,0 +1,12 @@
+<map id="DIOSTREAM::GetInXBuffer" name="DIOSTREAM::GetInXBuffer">
+<area shape="rect" id="Node000001" title="Get in X buffer." alt="" coords="504,31,688,57"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga8d13b667309c587574afb2e4570564f9" title="Do." alt="" coords="41,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,27,456,21,370,16,285,15,145,18,144,13,285,10,371,11,456,16,520,27"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga60b7dbaaddd01fb79384c99ab06e9ae3" title="Read." alt="" coords="256,31,428,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,44,429,47,428,41,491,44"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga6e20f03ff391343123fda221a5c2ed85" title="Wait to filled reading buffer." alt="" coords="228,81,456,124"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="523,61,438,83,437,78,518,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="247,76,227,72,128,35,129,30,229,67,252,76"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gadb50d31e1aa45e1e4b6c9527fdb01d42" title="Wait to filled reading buffer." alt="" coords="5,81,180,124"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="209,103,180,105,180,100,215,102"/>
+</map>

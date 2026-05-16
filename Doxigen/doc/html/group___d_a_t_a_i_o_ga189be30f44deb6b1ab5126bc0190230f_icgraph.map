@@ -1,0 +1,17 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::Name_GetLength" name="DIOSTREAMTLS_MSG_EXTENSION_SNI_SERVERNAME::Name_GetLength">
+<area shape="rect" id="Node000001" title="name get length" alt="" coords="891,105,1154,148"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gacced552ad3cd03d101f69745b43966f0" title="copy from" alt="" coords="596,72,843,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,110,844,110,844,104,878,111"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga2a43d556755a47efa961950b3e030cda" title="copy to" alt="" coords="301,139,548,181"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="878,135,549,156,548,150,873,135"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad4620e49b32e9c51d3089543efa90f1f" title="copy from" alt="" coords="5,5,253,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="599,69,548,63,395,46,253,35,253,30,395,41,548,57,604,68"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga2008c932276172556386aaf0353630e8" title="list add" alt="" coords="301,72,548,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="577,94,549,96,548,91,583,93"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="309,69,227,51,227,46,314,67"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaa45fdcbb6d096e2cd0c147f8eb02076c" title="copy to" alt="" coords="5,139,253,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="314,118,227,141,226,135,309,119"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga9bfa12a6cfb7c20366c125adde0f5e8c" title="get from buffer" alt="" coords="5,72,253,115"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="282,94,254,96,253,91,287,93"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="282,160,253,163,253,157,287,160"/>
+</map>

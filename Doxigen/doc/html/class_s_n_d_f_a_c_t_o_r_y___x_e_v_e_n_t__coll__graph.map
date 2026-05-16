@@ -1,0 +1,7 @@
+<map id="SNDFACTORY_XEVENT" name="SNDFACTORY_XEVENT">
+<area shape="rect" id="Node000001" title="Sound Factory eXtended event class." alt="" coords="5,180,179,207"/>
+<area shape="rect" id="Node000002" href="$class_x_e_v_e_n_t.html" title="eXtended Utils Event base class" alt="" coords="54,104,130,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,144,94,181,90,179,90,148"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="46,5,138,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,45,95,104,89,103,91,50"/>
+</map>

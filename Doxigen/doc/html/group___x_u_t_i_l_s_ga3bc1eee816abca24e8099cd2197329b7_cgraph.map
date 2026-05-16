@@ -1,0 +1,27 @@
+<map id="XFILEINIREMARK::CopyTo" name="XFILEINIREMARK::CopyTo">
+<area shape="rect" id="Node000001" title="Copy to." alt="" coords="5,199,193,225"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga963eddf760edc6c14e1f06f03337981f" title="Get relative key." alt="" coords="251,5,486,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,197,124,165,154,122,193,78,239,42,253,36,250,40,242,46,196,82,158,125,129,168,110,200"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf118e527ed1b84b31204d624cb02628c" title="Get relative section." alt="" coords="263,56,474,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,196,167,153,202,129,239,108,257,103,253,106,242,113,205,134,170,157,117,200"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab6cc5a5f581cfa9b840a1bcb2ccd9b77" title="Get text remark." alt="" coords="251,123,486,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,196,240,159,275,152,271,155,241,164,136,200"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="314,173,423,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,201,300,192,296,195,194,206"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga061125ac9fc30a2708155c34c252cec0" title="Set relative Y pos." alt="" coords="247,224,490,251"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="193,218,234,223,229,226,194,223"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gab5ad42b53cdccf6996f6fe4ebb5ba508" title="Set type." alt="" coords="273,275,464,301"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="135,223,241,260,276,270,271,271,240,265,134,229"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#ga1f7476de0f8bdc05b1ee41dc74d94f12" title="Set X pos." alt="" coords="271,325,466,352"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="115,223,169,267,204,291,242,311,262,320,257,321,240,316,202,296,166,272,115,229"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#ga82eea214a69d9af9e349e316f2e5ac00" title="Constructor of class." alt="" coords="241,376,496,403"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="109,223,160,291,198,330,242,362,255,370,250,370,239,366,195,334,156,295,108,228"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="562,148,696,175"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="422,179,549,168,544,170,424,184"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="544,199,713,225"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="423,189,531,202,526,203,423,195"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="767,148,905,175"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="696,159,754,161,749,162,697,164"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="761,199,911,225"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="714,209,748,212,743,212,714,215"/>
+</map>

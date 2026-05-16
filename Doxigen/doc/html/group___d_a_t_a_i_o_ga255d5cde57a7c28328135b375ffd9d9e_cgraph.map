@@ -1,0 +1,6 @@
+<map id="DIOAIOBIMAINBOARD::Ini" name="DIOAIOBIMAINBOARD::Ini">
+<area shape="rect" id="Node000001" title="Ini." alt="" coords="5,29,191,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,29,53,21,58,11,73,5,98,3,125,5,141,14,135,14,123,10,98,8,74,10,61,15,58,20,65,29"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga30abeb6ad1ee800182fbe167d48ab394" title="Set digital output." alt="" coords="239,21,410,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="191,40,225,42,220,43,191,45"/>
+</map>

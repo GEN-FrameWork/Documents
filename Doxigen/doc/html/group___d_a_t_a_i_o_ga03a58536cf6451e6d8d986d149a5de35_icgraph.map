@@ -1,0 +1,9 @@
+<map id="DIOI2CLSM303DLHC::ReadRegister" name="DIOI2CLSM303DLHC::ReadRegister">
+<area shape="rect" id="Node000001" title="Read register." alt="" coords="306,80,545,107"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga10318293ac9c8ffcd46bc4d6ee39e179" title="Configure." alt="" coords="5,5,258,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,77,229,51,229,46,351,75"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5a44d90ac41fd12277d37b39174a2e4d" title="Read." alt="" coords="5,72,258,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,94,258,96,258,91,293,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga6f0925803978812128107a1902c41e82" title="Read." alt="" coords="14,139,249,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,110,229,141,228,135,346,111"/>
+</map>

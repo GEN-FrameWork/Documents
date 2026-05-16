@@ -1,0 +1,11 @@
+<map id="GRPVECTORFILEDXFENTITYDEFSTRINGVALUE::CopyFrom" name="GRPVECTORFILEDXFENTITYDEFSTRINGVALUE::CopyFrom">
+<area shape="rect" id="Node000001" title="Copy from." alt="" coords="5,89,336,132"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="498,5,608,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,86,304,63,383,41,485,26,480,28,384,47,305,68,234,91"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga8a347aaf1cdbaaad26feb80725730679" title="Get string." alt="" coords="388,56,718,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="336,94,375,92,370,94,337,99"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga7c9ec669e4f72f75b2f92a7052d04fce" title="Get value." alt="" coords="388,123,718,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,122,375,128,370,129,336,128"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga277631091e20d22cc6ff83c8b3407750" title="Constructor of class." alt="" coords="384,189,722,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,130,384,175,420,186,415,185,383,180,235,135"/>
+</map>

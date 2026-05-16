@@ -1,0 +1,14 @@
+<map id="UI_MANAGER::GetOutputTextChangeID" name="UI_MANAGER::GetOutputTextChangeID">
+<area shape="rect" id="Node000001" title="Get output text change ID." alt="" coords="5,47,209,89"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4fb725176450b2fed84aaa0dfbcdbe13" title="Copy." alt="" coords="257,80,377,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,78,244,84,239,85,209,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="436,29,550,56"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="209,59,422,45,419,49,209,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,77,427,62,432,60,367,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="609,55,759,81"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="377,87,596,74,591,75,378,92"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="425,131,561,157"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="366,105,432,126,427,126,366,110"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="463,28,458,21,461,11,473,5,493,3,514,5,527,14,522,14,513,10,493,8,475,10,465,15,463,20,468,30"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="551,48,596,56,591,56,551,53"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SNDFILE" name="SNDFILE">
+<area shape="rect" id="Node000001" title="Sound File class." alt="" coords="86,5,164,32"/>
+<area shape="rect" id="Node000002" href="$class_s_n_d_f_i_l_e_o_g_g.html" title="Sound File OGG format class." alt="" coords="5,80,114,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,43,73,82,69,78,101,44"/>
+<area shape="rect" id="Node000003" href="$class_s_n_d_f_i_l_e_w_a_v.html" title="Sound File WAV format class." alt="" coords="138,80,245,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,41,183,80,177,79,146,46"/>
+</map>

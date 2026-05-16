@@ -1,0 +1,9 @@
+<map id="XFILEDBF_HEADER::GetNFields" name="XFILEDBF_HEADER::GetNFields">
+<area shape="rect" id="Node000001" title="Get N fields." alt="" coords="643,5,867,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gadb550916b5e5c892d42a2bcb3df47558" title="Copy from." alt="" coords="377,5,595,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="625,19,596,21,596,16,630,19"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacc1225b6dad61258db20c3074c2a085e" title="Pack." alt="" coords="206,5,329,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,19,330,21,329,16,364,19"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga2db47519a58abf668a70a7b407c06314" title="Reduction." alt="" coords="5,5,158,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,19,158,21,158,16,193,19"/>
+</map>

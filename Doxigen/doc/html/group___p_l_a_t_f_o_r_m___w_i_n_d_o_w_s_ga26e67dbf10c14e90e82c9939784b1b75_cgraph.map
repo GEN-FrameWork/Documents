@@ -1,0 +1,17 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="Node000001" title="WinMain." alt="" coords="5,85,78,112"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="175,35,302,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,85,125,71,162,64,157,66,126,76,79,90"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="184,85,294,112"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="78,96,170,97,166,101,78,101"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga84cd6e03ba0fbe18febf809c9985b2d8" title="Run." alt="" coords="126,136,352,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="78,107,126,121,160,132,155,132,125,127,78,113"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="426,5,576,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,38,414,28,409,30,304,44"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="432,56,570,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,51,419,62,414,63,303,56"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga7faf4b0fe18a5c2b92980c7e2f336d4f" title="Constructor of class." alt="" coords="400,128,602,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="352,147,387,149,382,149,353,152"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga05543f53f9981c1104c5e6cb44ea352a" title="Setup." alt="" coords="650,128,845,171"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="603,147,638,149,632,149,603,152"/>
+</map>

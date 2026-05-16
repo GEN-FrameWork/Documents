@@ -1,0 +1,13 @@
+<map id="XSTRING::DeleteLastCharacter" name="XSTRING::DeleteLastCharacter">
+<area shape="rect" id="Node000001" title="Delete last character." alt="" coords="5,56,215,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7ee44788f0c4c71e32d634a155cf6b78" title="Delete characters." alt="" coords="263,31,454,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,56,250,55,245,56,216,61"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="290,81,426,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,77,277,86,272,86,215,83"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="518,5,656,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,31,504,28,499,28,454,36"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="502,56,671,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,52,489,58,484,58,454,57"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="719,56,869,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="672,67,706,69,701,69,672,72"/>
+</map>

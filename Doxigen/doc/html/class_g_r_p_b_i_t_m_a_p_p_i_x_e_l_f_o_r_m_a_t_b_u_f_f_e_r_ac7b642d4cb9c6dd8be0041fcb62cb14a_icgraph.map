@@ -1,0 +1,17 @@
+<map id="GRPBITMAPPIXELFORMATBUFFER::GetPixel" name="GRPBITMAPPIXELFORMATBUFFER::GetPixel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="596,172,843,215"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a6b99b118b7563208c8f904dcf9c90d22" title="Convert to mode." alt="" coords="301,5,548,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,161,623,111,586,85,547,62,521,51,520,46,549,58,589,81,626,107,688,161"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#af9c817826e6aaae297ca8d90eb9b5b36" title="Flip horizontal." alt="" coords="301,72,548,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="650,166,547,129,511,118,511,113,549,124,655,165"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a18e462e197946854620fe6169f60c5e6" title="Flip vertical." alt="" coords="301,139,548,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,178,549,177,548,171,583,177"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a8961656ad01267cf86b361f3146b1e02" title="Get sub bitmap." alt="" coords="301,205,548,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="578,210,549,215,548,210,583,208"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#a5970a5814b7bdba1ada66fee2874dd18" title="Rotate." alt="" coords="301,272,548,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="655,220,549,263,512,274,510,269,547,257,650,222"/>
+<area shape="rect" id="Node000008" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aa1d563b170bc591eb63468a73622c9ed" title="Scale." alt="" coords="301,339,548,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="688,224,626,280,589,306,549,329,521,341,520,336,547,324,586,302,623,275,683,227"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p_b_i_t_m_a_p_p_i_x_e_l_f_o_r_m_a_t_b_u_f_f_e_r.html#aeeeb41329c6dfc3a5cfd979153a6d097" title="Crop." alt="" coords="5,205,253,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="282,227,254,229,253,224,287,226"/>
+</map>

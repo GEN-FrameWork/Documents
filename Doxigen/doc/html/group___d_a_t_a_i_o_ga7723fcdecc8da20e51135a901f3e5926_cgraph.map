@@ -1,0 +1,9 @@
+<map id="DIOSTREAMUSBLOCALENUMDEVICES::FindDevice" name="DIOSTREAMUSBLOCALENUMDEVICES::FindDevice">
+<area shape="rect" id="Node000001" title="Find device." alt="" coords="5,72,278,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaddba0bd1d754af5ed0d9be5f0dd32a0d" title="Get class." alt="" coords="326,5,506,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,69,313,51,308,53,233,74"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga5c55be2bf44e6cbd141ef7d29b24b2bc" title="Get product ID." alt="" coords="326,72,506,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,91,313,93,308,94,279,96"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga33d6b7a8d3b5dc6b057314dc7c5ea85e" title="Get vendor ID." alt="" coords="326,139,506,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,113,313,134,308,135,232,118"/>
+</map>

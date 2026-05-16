@@ -1,0 +1,9 @@
+<map id="XPATHSMANAGER::GetPathOfSection" name="XPATHSMANAGER::GetPathOfSection">
+<area shape="rect" id="Node000001" title="Get path of section." alt="" coords="277,72,488,115"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac76a22d117154377a4d50d3b98a554f6" title="Adjust root path default." alt="" coords="10,5,224,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,68,205,51,205,46,282,67"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga8586433f913558c321f89834bf48f495" title="Create all path section on disk." alt="" coords="15,72,219,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,94,220,96,219,91,264,93"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacdcb8ce11264a515c4478521e2a70506" title="Get app exec path without asset." alt="" coords="5,139,229,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,118,205,141,204,135,277,120"/>
+</map>

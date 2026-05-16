@@ -1,0 +1,9 @@
+<map id="GRPBITMAPSEQUENCE::Flip" name="GRPBITMAPSEQUENCE::Flip">
+<area shape="rect" id="Node000001" title="Flip." alt="" coords="5,56,211,83"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga0b94844ccf11a9b2b16ac1aa47faaf40" title="Flip horizontal." alt="" coords="273,5,462,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,53,283,34,278,37,181,58"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#gaaa84c8262833b01b0a8a8f84b7a01d3c" title="Flip vertical." alt="" coords="281,56,454,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,67,269,69,263,70,211,72"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#ga540cb18d0bbf50644f63e4a0d731e299" title="Get bitmap." alt="" coords="259,107,476,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,81,283,102,278,104,180,86"/>
+</map>

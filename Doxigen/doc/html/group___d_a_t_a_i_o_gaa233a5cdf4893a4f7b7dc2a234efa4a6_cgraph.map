@@ -1,0 +1,16 @@
+<map id="DIODNSPROTOCOLCLIENT::EncodeDNSFormat" name="DIODNSPROTOCOLCLIENT::EncodeDNSFormat">
+<area shape="rect" id="Node000001" title="Encode DNS format." alt="" coords="5,99,202,141"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="261,31,376,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,96,267,61,262,64,167,100"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="264,81,374,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="201,106,251,102,246,104,202,111"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="251,132,387,159"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="202,129,238,135,233,136,202,134"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="250,183,388,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="167,139,267,176,262,178,166,145"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="436,5,569,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,33,423,29,418,31,378,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="617,31,777,57"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="377,41,604,43,599,45,377,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="570,25,604,31,599,32,570,30"/>
+</map>

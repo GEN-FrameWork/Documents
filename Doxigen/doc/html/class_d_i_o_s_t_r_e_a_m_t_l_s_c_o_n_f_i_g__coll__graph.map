@@ -1,0 +1,20 @@
+<map id="DIOSTREAMTLSCONFIG" name="DIOSTREAMTLSCONFIG">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream TLS (Transport Layer Security) Config class." alt="" coords="271,279,448,305"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_t_c_p_i_p_c_o_n_f_i_g.html" title="Data Input/Output Stream TCP/IP Config class." alt="" coords="263,203,456,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,243,361,280,357,277,357,246"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g.html" title="Data Input/Output Stream Config class." alt="" coords="5,104,159,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,134,325,200,321,204,132,139"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="36,5,128,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,45,85,104,79,103,81,50"/>
+<area shape="rect" id="Node000005" href="$class_d_i_o_s_t_r_e_a_m_c_o_n_f_i_g_s_t_r_i_n_g.html" title="Data Input/Output Stream Config String class." alt="" coords="182,104,387,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="305,141,352,203,347,202,303,146"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_u_r_l.html" title="Data Input/Output URL class." alt="" coords="248,5,321,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="286,45,287,105,282,103,283,50"/>
+<area shape="rect" id="Node000010" href="$class_d_i_o_i_p.html" title="Data Input/Output IP class." alt="" coords="412,104,470,131"/>
+<area shape="poly" id="edge6_Node000002_Node000010" title=" " alt="" coords="423,141,371,205,368,200,418,144"/>
+<area shape="rect" id="Node000011" href="$class_d_i_o_i_p_a_d_d_r_e_s_s.html" title=" " alt="" coords="383,5,506,32"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="439,45,439,56,441,105,436,102,434,56,436,49"/>
+<area shape="poly" id="edge8_Node000010_Node000011" title=" " alt="" coords="445,46,444,105,439,102,442,50"/>
+<area shape="rect" id="Node000008" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="494,104,571,131"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="513,140,490,163,465,181,408,205,407,200,462,176,487,159,508,143"/>
+</map>

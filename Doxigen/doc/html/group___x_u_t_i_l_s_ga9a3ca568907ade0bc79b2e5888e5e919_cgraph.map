@@ -1,0 +1,28 @@
+<map id="XPROCESSMANAGER::Application_ExecuteElevated" name="XPROCESSMANAGER::Application_ExecuteElevated">
+<area shape="rect" id="Node000001" title="application execute elevated" alt="" coords="5,156,242,199"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3cfdab5495d339b90b3aa5c34ff13038" title="adjust consola symbols used to string" alt="" coords="290,72,547,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,153,328,118,324,121,202,158"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga0007f465be1385ea663397e502c5280e" title="Is empty." alt="" coords="614,132,755,159"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="242,168,599,148,597,153,243,173"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="856,152,995,179"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="242,174,774,168,843,168,837,169,774,173,242,180"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaf4df999ecee63251723c32874e28b6a0" title="adjust string to consola symbols used" alt="" coords="297,5,540,48"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="147,154,209,105,248,80,289,58,306,52,302,55,291,62,250,84,212,110,151,157"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gaaf98d038e5b4c40bf5adc4774044e7ed" title="application execute elevated" alt="" coords="300,264,536,307"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="185,197,346,257,341,260,184,202"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="349,331,488,357"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="144,196,206,257,246,290,291,316,337,334,332,334,289,321,243,294,202,261,142,201"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga551690be82108dec2ac0d1879ee3d86b" title="onsole get symbols used" alt="" coords="595,69,774,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,86,582,86,577,88,548,91"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="531,113,602,128,596,129,531,118"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga61d9535357f8b5e9689fc28a7b2591c6" title="get symbols used" alt="" coords="822,69,1029,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="774,80,809,82,804,83,775,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="755,149,843,158,838,159,756,154"/>
+<area shape="poly" id="edge7_Node000008_Node000003" title=" " alt="" coords="523,46,606,65,600,66,523,51"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="523,46,548,58,564,70,574,82,583,94,597,106,630,126,625,125,593,110,579,97,569,85,560,73,546,62,523,51"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="620,13,750,40"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="540,24,607,26,601,27,541,29"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="860,13,991,40"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="750,24,848,26,842,27,751,29"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="368,262,366,254,375,245,392,239,418,237,447,240,465,248,460,248,445,245,418,243,393,245,377,249,371,255,373,265"/>
+</map>

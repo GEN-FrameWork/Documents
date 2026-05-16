@@ -1,0 +1,9 @@
+<map id="DIOCHECKTCPIPCONNECTION::IsConnected" name="DIOCHECKTCPIPCONNECTION::IsConnected">
+<area shape="rect" id="Node000001" title="Is connected." alt="" coords="587,39,811,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga02d547f211a7e0e86decd9b88f048cd3" title="Connection is active." alt="" coords="306,5,539,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,45,539,43,539,38,574,45"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga59ec0f5ab09f24a6225cd55faf2a1555" title="Connections some is connected." alt="" coords="306,72,539,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="574,75,540,82,539,77,569,76"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga42b7c7cf5320b231285f40fe41a8b2f0" title="Check." alt="" coords="5,72,258,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,93,258,96,258,91,293,93"/>
+</map>

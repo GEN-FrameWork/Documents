@@ -1,0 +1,12 @@
+<map id="INPDEVICE::IsChangeCursor" name="INPDEVICE::IsChangeCursor">
+<area shape="rect" id="Node000001" title="Is change cursor." alt="" coords="5,56,204,83"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga62929b1592a0d3734d390d0f5990b566" title="Get cursor." alt="" coords="257,56,420,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,67,244,69,239,70,204,72"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga17d6a13e24c6702addbcc15b028614aa" title="Get cursors." alt="" coords="474,5,644,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="178,53,251,41,461,23,456,26,252,47,179,58"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#ga4bf6b285266b0fb49641364505f19dbf" title="Is changed." alt="" coords="252,107,426,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="170,81,262,102,256,104,170,86"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,53,481,37,486,35,401,58"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gacaa6186aa022d89e09eba659b7f51959" title="Get ID." alt="" coords="486,56,632,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="420,67,473,69,468,70,421,72"/>
+</map>

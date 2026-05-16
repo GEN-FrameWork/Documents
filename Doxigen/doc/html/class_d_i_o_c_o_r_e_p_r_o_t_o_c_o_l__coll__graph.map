@@ -1,0 +1,18 @@
+<map id="DIOCOREPROTOCOL" name="DIOCOREPROTOCOL">
+<area shape="rect" id="Node000001" title="Data Input/Output Core Protocol class." alt="" coords="79,321,237,348"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_c_o_r_e_p_r_o_t_o_c_o_l___c_f_g.html" title="Data Input/Output Core Protocol CFG class." alt="" coords="5,223,199,249"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,261,136,296,152,321,146,320,131,299,114,266"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_s_t_r_e_a_m.html" title="Data Input/Output Stream class." alt="" coords="223,223,325,249"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,260,217,299,182,323,179,318,214,295,251,262"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="70,81,163,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,117,174,157,217,197,253,222,248,223,214,201,170,160,136,123"/>
+<area shape="rect" id="Node000005" href="$class_x_b_u_f_f_e_r.html" title="eXtended Utils Buffer functions class" alt="" coords="186,81,271,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="225,121,224,160,227,179,233,197,242,210,255,222,249,222,238,213,228,200,222,181,219,160,222,126"/>
+<area shape="rect" id="Node000006" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="302,81,374,108"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="326,120,321,133,281,224,277,221,317,131,322,124"/>
+<area shape="rect" id="Node000007" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="326,5,446,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="372,43,348,83,344,79,368,47"/>
+<area shape="rect" id="Node000008" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="410,81,487,108"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="407,41,441,81,435,81,406,46"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="452,122,448,163,440,183,428,201,411,211,385,219,326,231,325,226,384,214,409,206,424,197,436,181,443,162,448,126"/>
+</map>

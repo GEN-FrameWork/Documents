@@ -1,0 +1,16 @@
+<map id="XWINDOWSPROCESSMANAGER::Application_IsRunning" name="XWINDOWSPROCESSMANAGER::Application_IsRunning">
+<area shape="rect" id="Node000001" title="Application is running." alt="" coords="5,123,239,165"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a57c72ab04fd14c60d1026e0a7b4a1887" title=" " alt="" coords="306,5,453,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,120,212,80,286,42,306,36,301,39,288,46,215,85,155,124"/>
+<area shape="rect" id="Node000003" href="$class_x_v_e_c_t_o_r.html#abae5097402824f18f274e21e18b23bea" title=" " alt="" coords="287,56,472,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,120,286,92,315,86,310,88,287,97,196,125"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="322,131,436,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,141,309,143,304,145,240,147"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="322,181,437,208"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="234,163,309,180,304,181,234,169"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="309,232,450,259"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="166,163,224,191,288,218,310,227,305,227,286,222,221,196,165,169"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="343,130,336,122,341,112,356,106,379,104,405,107,420,115,415,115,403,112,379,109,357,111,345,116,342,121,348,131"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="520,131,669,157"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="437,141,507,144,502,144,437,147"/>
+</map>

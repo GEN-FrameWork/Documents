@@ -1,0 +1,11 @@
+<map id="XMPINTEGER::CompareSignedValues" name="XMPINTEGER::CompareSignedValues">
+<area shape="rect" id="Node000001" title="Compare signed values." alt="" coords="5,73,217,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="281,5,456,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,70,264,41,295,35,290,37,265,47,176,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="276,56,460,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,82,263,79,258,81,218,87"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4b378be515514fe97102c5dd63ffaec9" title="Get sign." alt="" coords="286,107,451,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,102,273,110,268,111,217,108"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaa0ac2b363bd3290e6cf6b2fd6f9fb871" title="Constructor of class." alt="" coords="265,157,472,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="175,114,265,143,295,153,290,153,264,148,174,119"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="XFILERIFF_LIST::SetType" name="XFILERIFF_LIST::SetType">
+<area shape="rect" id="Node000001" title="Set type." alt="" coords="510,81,688,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4642fb9763b5aba213fecfce858708c0" title="Create chunk node." alt="" coords="258,5,462,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="547,75,461,47,421,35,421,30,463,41,552,75"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga55890787538188e167f22bf818fddf87" title="Create list node." alt="" coords="266,56,454,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,84,454,82,454,77,497,83"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga134eed91dd249b030b03426df58a285c" title="Read all lists." alt="" coords="22,144,193,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="495,111,194,149,193,144,495,105"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gaa1375a055174befcd65d8ef654c458e5" title="Read node lists." alt="" coords="267,181,453,208"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="554,114,395,183,393,178,549,115"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga1d69b2877237a282f9e3ebc0171d430a" title="Create chunk node." alt="" coords="5,5,210,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,20,211,21,209,16,245,18"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaf9dea2f144c8a70a59e018f916d4e2ca" title="Create list node." alt="" coords="14,56,201,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="248,70,202,72,201,67,253,68"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="249,179,193,173,193,167,254,178"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="400,166,387,162,360,160,335,162,321,167,318,172,324,182,319,180,312,173,317,163,333,157,360,155,389,157,405,167"/>
+</map>

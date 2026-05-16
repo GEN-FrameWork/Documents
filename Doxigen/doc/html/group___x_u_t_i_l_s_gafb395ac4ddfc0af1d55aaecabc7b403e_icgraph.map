@@ -1,0 +1,7 @@
+<map id="XLOGBASE::Clean" name="XLOGBASE::Clean">
+<area shape="rect" id="Node000001" title="Clean the attributes of the class: Default initialize." alt="" coords="235,31,370,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gabc75e61bb3c5e54c8a497a8a817031b6" title="Constructor of class." alt="" coords="9,5,183,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,34,183,32,183,27,222,34"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga648014d28a7e41f98559891bf11f629e" title="Destructor of class." alt="" coords="5,56,187,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,55,187,61,187,56,222,54"/>
+</map>

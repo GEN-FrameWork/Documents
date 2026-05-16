@@ -1,0 +1,8 @@
+<map id="XVARIANT::GetDataFromString" name="XVARIANT::GetDataFromString">
+<area shape="rect" id="Node000001" title="Get data from string." alt="" coords="5,5,214,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf2a714cbc516e65c1939b46fad3a6793" title="Destroy." alt="" coords="425,5,566,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,16,412,17,407,20,214,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga238f6ef465ea6b1cc7f9882aee8c868f" title="Set." alt="" coords="262,31,377,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,29,249,35,243,35,214,34"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="377,33,407,31,412,31,378,38"/>
+</map>

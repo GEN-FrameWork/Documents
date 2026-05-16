@@ -1,0 +1,7 @@
+<map id="DIOCOREPROTOCOL_CONNECTIONSMANAGER::Connections_Get" name="DIOCOREPROTOCOL_CONNECTIONSMANAGER::Connections_Get">
+<area shape="rect" id="Node000001" title="Connections get." alt="" coords="5,35,339,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gab102c37d66f1795de8a12dbab4ed5b88" title="Get core protocol." alt="" coords="387,5,643,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,39,374,39,369,39,339,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga3cec33f6d31c79f944ad1c17f4d2d8ce" title="Get DIO stream." alt="" coords="388,72,642,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,68,375,73,370,73,339,73"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="GRPVIEWPORT::GetCanvas" name="GRPVIEWPORT::GetCanvas">
+<area shape="rect" id="Node000001" title="Get canvas." alt="" coords="819,80,1014,107"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_c_a_n_v_a_s_a_g_g.html#a10505311b2531b5b5a65fc9b5f54843e" title="Copy buffer render from viewport." alt="" coords="543,5,750,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="842,76,736,51,736,46,847,76"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae4dd3fe37d2648962f491fc8ca604bfc" title="On create window." alt="" coords="536,72,757,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="801,93,758,96,758,91,806,93"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga7c1306e8ad6cf3567c81030f1a418341" title="Constructor of class." alt="" coords="522,139,771,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="847,111,736,141,736,135,842,111"/>
+<area shape="rect" id="Node000005" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga1e44baa35afc4cb445b5405b33d430db" title="Constructor of class." alt="" coords="229,147,474,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="504,160,475,163,474,157,509,160"/>
+<area shape="rect" id="Node000006" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0a8954097705000e8fb3b73df863bcf1" title="Constructor of class." alt="" coords="5,139,181,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,160,181,163,181,157,216,160"/>
+</map>

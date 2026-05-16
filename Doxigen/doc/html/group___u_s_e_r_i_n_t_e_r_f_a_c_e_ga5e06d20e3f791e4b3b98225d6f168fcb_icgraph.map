@@ -1,0 +1,9 @@
+<map id="UI_ELEMENT_OPTION::GetVisibleLimitType" name="UI_ELEMENT_OPTION::GetVisibleLimitType">
+<area shape="rect" id="Node000001" title="Get visible limit type." alt="" coords="438,39,609,81"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga51483d52372a907497eb69dab87844f1" title="Draw option." alt="" coords="222,39,390,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,60,391,63,390,57,425,60"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gae431007e16929e417b98fd84923775eb" title="Draw button." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,45,174,42,174,37,209,44"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga74b4a12dd28e3987ce14322a48665215" title="Draw check box." alt="" coords="5,72,174,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,76,175,83,174,78,209,75"/>
+</map>

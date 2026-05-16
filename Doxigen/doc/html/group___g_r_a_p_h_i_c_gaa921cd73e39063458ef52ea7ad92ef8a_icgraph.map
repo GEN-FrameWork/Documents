@@ -1,0 +1,20 @@
+<map id="GRPFACTORY::CreateCanvas" name="GRPFACTORY::CreateCanvas">
+<area shape="rect" id="Node000001" title="Create canvas." alt="" coords="831,123,1035,149"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga6fa475c9228a35f6e835dfcd759eafbb" title="Create." alt="" coords="600,93,754,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="813,123,755,118,755,113,819,123"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga8e3d1ac608c44727c2d7396bae424661" title="Create canvas." alt="" coords="571,148,783,175"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="819,147,784,153,784,148,813,148"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga58c938908d513bf3b98c74999f893952" title="Create." alt="" coords="291,64,507,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,97,507,91,507,86,587,97"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga79d261eaa1e45a8604c7031368c370e6" title="Create." alt="" coords="275,115,523,157"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="582,117,524,126,523,120,587,116"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab27facc03a2e864a87e033cedec6cc8f" title="Create." alt="" coords="287,13,510,40"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="625,88,522,55,476,43,476,38,524,49,630,87"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gae4dd3fe37d2648962f491fc8ca604bfc" title="On create window." alt="" coords="5,123,227,165"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="309,95,275,105,198,125,197,119,274,100,314,94"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2b3a8bc3a939dd2948d704ad3f20adc8" title="Create." alt="" coords="21,5,211,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="269,28,212,29,211,24,274,26"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#gacb71ec461381c2e7bcfe51936a7a1cc7" title="Create viewport." alt="" coords="296,181,502,208"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="558,176,502,185,502,180,553,176"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="303,178,227,166,227,161,308,178"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UI_ELEMENT_FORM::GetLineColor" name="UI_ELEMENT_FORM::GetLineColor">
+<area shape="rect" id="Node000001" title="Get line color." alt="" coords="514,27,718,69"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac0f8999aa97ade79eddde09843c0e045" title="Draw form." alt="" coords="261,5,466,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,34,467,33,467,28,501,34"/>
+<area shape="rect" id="Node000004" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#gac820311bea5ed0996d3267400da51b4d" title="Draw form." alt="" coords="280,56,447,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,61,448,70,447,65,496,62"/>
+<area shape="rect" id="Node000003" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga87c6c1ed58d34e3bc4592a5a01b3f8cc" title="Draw menu." alt="" coords="5,5,213,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,19,214,21,213,16,247,18"/>
+</map>

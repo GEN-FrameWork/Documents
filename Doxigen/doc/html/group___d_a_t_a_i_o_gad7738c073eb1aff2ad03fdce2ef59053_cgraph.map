@@ -1,0 +1,23 @@
+<map id="DIONTP::GetTime" name="DIONTP::GetTime">
+<area shape="rect" id="Node000001" title="Get time." alt="" coords="5,132,136,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="194,107,304,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,134,181,128,176,131,137,139"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0847c0f480200299a8d7dc297343df90" title="Get time." alt="" coords="184,157,314,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,152,171,158,166,160,137,157"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga1300a113a438cf34914c33ed43b89bdb" title="Get date from N days." alt="" coords="362,56,587,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,154,312,143,327,130,335,118,345,105,361,92,376,87,371,90,363,97,349,108,340,121,331,134,316,148,294,159"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gabf44bd03f5a3068ddb13dddd447aa2ab" title="Get time seconds." alt="" coords="384,107,565,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="311,154,400,136,395,138,312,159"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga13a958415b92d0fd57f4cbac8851a88d" title="Set hours." alt="" coords="394,157,555,184"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="314,168,382,170,376,171,314,173"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga69173332be1d9f8c586e1a88417b0515" title="Set minutes." alt="" coords="389,208,560,235"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="312,182,400,204,395,204,312,187"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga464db2ab1abdcf3f515de690340f518e" title="Set seconds." alt="" coords="386,259,563,285"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="267,182,310,214,363,244,383,254,378,253,361,249,307,218,266,187"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="635,5,870,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="551,53,663,34,658,36,553,58"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="646,56,859,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="588,67,633,69,628,70,588,72"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gacd39859e452f4913cd04e0ece36b4a0f" title="Get time response." alt="" coords="658,107,847,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="565,117,645,120,640,120,566,123"/>
+</map>

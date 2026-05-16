@@ -1,0 +1,35 @@
+<map id="DIOGPIO::DIOGPIO" name="DIOGPIO::DIOGPIO">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="836,136,980,163"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___e_s_p32.html#ga8e7615a4a4cdcda549c455ad78fa9110" title="Constructor of class." alt="" coords="556,5,781,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,123,842,84,815,64,787,46,759,35,760,30,790,42,818,59,845,80,888,125"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac96e23d1ed639f3a624ce4568f8e29ad" title="Constructor of class." alt="" coords="556,56,780,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="865,129,787,97,747,86,747,81,789,92,871,129"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga2b5bd9e800a80a6260a25660821113e6" title="Constructor of class." alt="" coords="554,107,782,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="818,139,783,137,782,131,824,139"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gadf5fe213ec9c99c481e0342b6c5c7863" title="Constructor of class." alt="" coords="548,157,788,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="818,160,789,167,788,161,824,159"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga376b13e4fe398f0768cadadb7c97bda3" title="Get instance." alt="" coords="590,224,747,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="874,170,834,195,789,215,748,227,747,221,787,209,831,190,869,172"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#gae4278de9149375359ac11f20a6ca67ee" title="Set instance." alt="" coords="590,275,746,301"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="890,174,847,222,820,246,790,265,747,281,746,275,787,260,816,241,843,219,885,176"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gae11d0b6e4a3b3d83d5922a619a2326f5" title="Factorys end." alt="" coords="262,148,486,175"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="572,220,547,214,523,202,499,189,461,178,461,173,501,184,525,197,549,210,578,220"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf857e51d699f882d135ae962b4a8b6e9" title="Factorys end." alt="" coords="248,199,500,225"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="571,229,501,226,501,220,577,229"/>
+<area shape="rect" id="Node000011" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="267,249,481,276"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="571,246,482,256,481,251,577,245"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="252,300,496,327"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="577,254,549,265,525,278,501,290,461,302,460,297,499,286,523,273,547,260,572,255"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga105c6b8ddb941fa4fbccce046fb10304" title="End." alt="" coords="20,148,185,175"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="244,163,186,164,185,159,249,160"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8fdc0c9ab880e4d578eb5fb486dd6c13" title="End." alt="" coords="5,199,200,225"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="229,213,201,215,199,209,234,211"/>
+<area shape="rect" id="Node000012" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="24,249,181,276"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="249,272,181,274,181,268,254,271"/>
+<area shape="poly" id="edge12_Node000012_Node000011" title=" " alt="" coords="196,251,269,253,264,255,197,257"/>
+<area shape="rect" id="Node000014" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="10,300,195,327"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="234,322,196,325,196,319,239,322"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="210,302,254,304,249,305,211,307"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="572,280,481,275,482,269,577,280"/>
+<area shape="poly" id="edge18_Node000015_Node000013" title=" " alt="" coords="577,296,496,306,496,300,572,296"/>
+</map>

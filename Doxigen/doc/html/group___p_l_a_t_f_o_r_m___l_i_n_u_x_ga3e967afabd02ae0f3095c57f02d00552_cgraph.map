@@ -1,0 +1,5 @@
+<map id="DIOLINUXGPIO::GetValue" name="DIOLINUXGPIO::GetValue">
+<area shape="rect" id="Node000001" title="Get value." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gadd16102922ecf6ff81f302e19e4c2d62" title="Get GPIO." alt="" coords="233,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,16,220,19,214,19,185,21"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="INPLINUXDEVICEMOUSEDIRECT" name="INPLINUXDEVICEMOUSEDIRECT">
+<area shape="rect" id="Node000001" title="LINUX direct input device mouse class." alt="" coords="418,355,654,381"/>
+<area shape="rect" id="Node000002" href="$class_i_n_p_d_e_v_i_c_e.html" title="Input Device Class." alt="" coords="488,279,584,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,319,538,356,534,353,534,322"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_s_c_r_e_e_n.html" title="Graphics Screen Class." alt="" coords="306,180,414,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,212,467,252,514,278,509,278,465,257,394,217"/>
+<area shape="rect" id="Node000004" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="5,5,142,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="70,45,74,78,85,107,104,127,124,138,177,153,244,172,308,185,303,186,242,177,175,159,122,143,101,132,81,109,69,79,70,50"/>
+<area shape="rect" id="Node000007" href="$class_g_r_p_c_a_n_v_a_s.html" title="Graphics Canvas class." alt="" coords="96,81,201,108"/>
+<area shape="poly" id="edge6_Node000007_Node000004" title=" " alt="" coords="97,40,138,80,133,82,97,46"/>
+<area shape="rect" id="Node000006" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="225,81,317,108"/>
+<area shape="poly" id="edge4_Node000003_Node000006" title=" " alt="" coords="293,117,351,180,346,180,292,122"/>
+<area shape="poly" id="edge5_Node000003_Node000007" title=" " alt="" coords="168,117,189,137,212,154,259,172,309,185,303,187,258,178,210,158,186,141,168,123"/>
+<area shape="rect" id="Node000012" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="341,81,560,108"/>
+<area shape="poly" id="edge7_Node000003_Node000012" title=" " alt="" coords="431,118,373,182,370,178,427,121"/>
+<area shape="rect" id="Node000013" href="$class_g_r_p_f_r_a_m_e_r_a_t_e.html" title="Graphic Frame Rate class." alt="" coords="585,81,717,108"/>
+<area shape="poly" id="edge8_Node000003_Node000013" title=" " alt="" coords="601,115,486,159,408,182,406,177,485,153,606,113"/>
+<area shape="rect" id="Node000014" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="741,81,822,108"/>
+<area shape="poly" id="edge9_Node000003_Node000014" title=" " alt="" coords="743,114,686,139,623,159,568,169,525,174,426,183,415,184,414,179,425,177,524,168,568,164,622,153,685,134,738,115"/>
+<area shape="rect" id="Node000017" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="438,180,635,207"/>
+<area shape="poly" id="edge10_Node000002_Node000017" title=" " alt="" coords="538,220,538,280,534,277,534,224"/>
+<area shape="rect" id="Node000018" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="660,180,861,207"/>
+<area shape="poly" id="edge11_Node000002_Node000018" title=" " alt="" coords="720,212,566,281,565,276,715,214"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="XLINUXDATETIME::Write" name="XLINUXDATETIME::Write">
+<area shape="rect" id="Node000001" title="Write." alt="" coords="5,35,181,61"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf8e81a81c48e8738383c1493849574cf" title="Is valid date." alt="" coords="244,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,35,231,30,226,32,182,40"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga52bcfeea3776f5b02fe861d171e0b4e6" title="Set actual date time." alt="" coords="229,56,431,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,56,215,62,210,64,181,61"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="524,5,695,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,16,512,18,506,19,417,21"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad5e540309a6070c7435ef68b661c52cf" title="Is day ligth saving time." alt="" coords="506,56,714,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,75,492,77,487,78,432,80"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga2368e7c83e4871a493e5c39cd22cf1f6" title="Constructor of class." alt="" coords="479,123,740,149"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="427,97,480,108,523,119,518,119,478,113,426,102"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga063081fa3aa79f3c620da2fe29382ae7" title="Get actual date time." alt="" coords="788,115,992,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="741,142,775,145,770,145,741,148"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="785,127,756,130,756,124,791,127"/>
+</map>

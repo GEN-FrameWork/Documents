@@ -1,0 +1,12 @@
+<map id="GRPVECTORFILEDXFTEXTSECTIONENTITIES::DeleteEntity" name="GRPVECTORFILEDXFTEXTSECTIONENTITIES::DeleteEntity">
+<area shape="rect" id="Node000001" title="Delete entity." alt="" coords="5,51,322,93"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga6271dba7f9f2fef5140a4cdf10019f78" title="Get entity." alt="" coords="370,51,686,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,69,357,72,351,72,322,75"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="782,29,896,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="686,54,769,49,763,50,687,60"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga49acc40534cdfe6d48ea9d7f7bac7821" title="Get name." alt="" coords="734,80,943,123"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="686,84,721,90,716,90,686,90"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="800,28,793,21,798,11,814,5,839,3,866,5,882,15,877,14,865,10,839,8,815,10,802,15,799,20,805,30"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="991,29,1141,56"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="896,40,979,43,973,43,896,45"/>
+</map>

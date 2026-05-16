@@ -1,0 +1,18 @@
+<map id="DIODNSPROTOCOLCLIENT::GetBufferName" name="DIODNSPROTOCOLCLIENT::GetBufferName">
+<area shape="rect" id="Node000001" title="Get buffer name." alt="" coords="804,105,1001,148"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaee111d121883d0dc264868238fd4468f" title="Resolve URL." alt="" coords="560,72,756,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="786,111,757,109,757,104,792,111"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#gaf66dcbfab9c1ed2821b1a04cd17137ae" title="Update." alt="" coords="564,139,753,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="792,142,754,150,753,144,786,142"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="696,56,683,53,658,51,635,53,621,57,615,63,617,73,612,70,610,62,618,53,634,47,658,45,684,48,702,57"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaa46c5e7b76bfe2e4255acc77aaba17f9" title="Resolve URL." alt="" coords="299,5,496,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,68,483,51,484,46,560,67"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga9ea0638b83173ce4b2d2e4dd21aeffc1" title="Resolve URL." alt="" coords="299,72,496,115"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="542,94,496,96,496,91,547,93"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac02068342e11d4b1f705a4afb3e8a942" title="Resolve URL." alt="" coords="283,139,512,165"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="550,118,513,129,462,141,461,135,511,124,544,119"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaee9d6bbdaf1635ec5438b9734d1d312e" title="Resolve URL." alt="" coords="5,113,235,140"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="265,140,235,140,235,134,270,140"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaa035bbccf68d48621696b536d6d37989" title="Resolve URL." alt="" coords="5,164,235,191"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="265,164,235,170,235,164,270,164"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XFILETXT::Create" name="XFILETXT::Create">
+<area shape="rect" id="Node000001" title="Create." alt="" coords="354,56,483,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae16398e0db7f965f7846776616a020cf" title="check master creation" alt="" coords="44,5,267,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,52,305,47,244,35,244,30,306,41,347,52"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga615d4f88eb2a0f645497bd1c7146a89b" title="Create JSON serialization." alt="" coords="36,56,275,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="336,70,275,72,275,67,341,69"/>
+<area shape="rect" id="Node000004" href="$group___c_i_p_h_e_r.html#ga825587d4855c06f34331abb81a048404" title="generate embedded headere" alt="" coords="5,107,306,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,86,306,97,255,109,254,103,305,92,338,87"/>
+</map>

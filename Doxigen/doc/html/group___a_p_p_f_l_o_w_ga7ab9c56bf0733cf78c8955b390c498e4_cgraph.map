@@ -1,0 +1,9 @@
+<map id="APPFLOWBASE::Ini" name="APPFLOWBASE::Ini">
+<area shape="rect" id="Node000001" title="Ini." alt="" coords="5,56,150,83"/>
+<area shape="rect" id="Node000002" href="$group___a_p_p_f_l_o_w.html#gad76c626af38050394dc3f22783246f34" title="App proc ini." alt="" coords="216,5,418,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,53,238,34,233,37,145,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaf6a6a84a8102bc80b5ad47c78dcb865a" title="Get instance." alt="" coords="198,56,436,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,67,185,69,180,70,150,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4969c0d6d00784c0e2751e7db02a89dc" title="Sentences add to translation." alt="" coords="202,107,432,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,81,215,101,210,103,135,86"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOAIOBIMAINBOARD::GetStatusHeaderPin" name="DIOAIOBIMAINBOARD::GetStatusHeaderPin">
+<area shape="rect" id="Node000001" title="Get status header pin." alt="" coords="225,39,396,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga97926c909a92058af94d9fe32a5179b3" title="Is button A pressed." alt="" coords="5,5,177,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,45,177,42,177,37,212,44"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga7bba761bf75986b24347c107c6264bbf" title="Is button B pressed." alt="" coords="5,72,177,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,76,178,83,177,78,212,75"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="INPDEVICE::SetType" name="INPDEVICE::SetType">
+<area shape="rect" id="Node000001" title="Set type." alt="" coords="353,213,504,240"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga69ce0066d39393189f7fc73a6385241d" title="Constructor of class." alt="" coords="35,5,275,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,199,395,168,371,130,340,93,303,62,276,48,275,43,306,58,344,89,375,127,399,165,417,200"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gad8d4f158c2097f8da400c1bf7b383f05" title="Constructor of class." alt="" coords="48,72,262,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="401,202,359,165,332,145,304,129,263,113,262,108,306,124,335,141,362,161,407,202"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac0e80c6417549c2acafc6bbf3388a3e3" title="Constructor of class." alt="" coords="20,139,290,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,209,304,196,258,185,257,179,305,191,366,208"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga420856380570cf088e346a32572e720c" title="Constructor of class." alt="" coords="33,205,277,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,228,278,229,276,224,340,226"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga54da1877a569f94e063c688ec5277fe5" title="Constructor of class." alt="" coords="5,272,305,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="361,246,305,263,258,274,256,269,304,257,366,244"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga56fc15438afd01a27331700e7e5daeb5" title="Constructor of class." alt="" coords="31,339,279,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="406,250,362,293,335,312,306,329,278,341,276,336,303,324,332,308,359,288,402,253"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga2757135f66306349dfebd65931a7ab0c" title="Constructor of class." alt="" coords="44,405,266,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="417,252,399,288,375,326,344,364,306,396,267,414,265,409,303,391,340,360,371,323,395,286,413,256"/>
+</map>

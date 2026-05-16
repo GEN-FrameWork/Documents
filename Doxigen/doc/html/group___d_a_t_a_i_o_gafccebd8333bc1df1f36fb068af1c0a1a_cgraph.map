@@ -1,0 +1,7 @@
+<map id="DIOSTREAMI2C::Open" name="DIOSTREAMI2C::Open">
+<area shape="rect" id="Node000001" title="Open." alt="" coords="5,43,167,69"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5787d50f68e0eec558d5f31429e34f72" title="Reset connection statistics." alt="" coords="215,5,425,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,43,202,41,197,42,167,49"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4e758727995cd3a8553dc3d64d18590f" title="Reset X buffers." alt="" coords="223,72,417,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,63,210,71,204,71,167,69"/>
+</map>

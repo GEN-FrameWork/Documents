@@ -1,0 +1,9 @@
+<map id="DIOSTREAMUDP::WaitToGetFirstDatagram" name="DIOSTREAMUDP::WaitToGetFirstDatagram">
+<area shape="rect" id="Node000001" title="Wait to get first datagram." alt="" coords="5,31,231,73"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga46b86c34885a0f064bda1ae49c5a4139" title="Get first datagram." alt="" coords="279,13,521,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,39,266,39,261,39,232,44"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad8b551f1486b62de9775f633bd46cb17" title="Wait." alt="" coords="332,64,468,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,59,319,70,314,70,231,65"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga8257c29985ce2c6fad9d7985286f4ac6" title="Is to send." alt="" coords="569,5,773,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="521,24,556,26,551,27,522,29"/>
+</map>

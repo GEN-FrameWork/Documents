@@ -1,0 +1,9 @@
+<map id="VERSIONFRAMEWORK::GetAppVersionStatus" name="VERSIONFRAMEWORK::GetAppVersionStatus">
+<area shape="rect" id="Node000001" title="Get app version status." alt="" coords="547,39,770,81"/>
+<area shape="rect" id="Node000002" href="$group___c_o_m_m_o_n.html#gad140a2ac712dcea8488a0c417a530042" title="Set app version." alt="" coords="277,5,499,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,44,500,43,500,38,534,44"/>
+<area shape="rect" id="Node000003" href="$group___c_o_m_m_o_n.html#gad82bbd03dbd7a1d53a0f193b785752c4" title="Update year app version." alt="" coords="277,72,498,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="534,75,499,82,499,77,529,76"/>
+<area shape="rect" id="Node000004" href="$group___c_o_m_m_o_n.html#ga609e024e5a0119750fd66fcb281afb91" title="Get app title." alt="" coords="5,72,229,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="259,93,229,96,229,91,264,93"/>
+</map>

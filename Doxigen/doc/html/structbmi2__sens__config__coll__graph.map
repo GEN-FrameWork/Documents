@@ -1,0 +1,45 @@
+<map id="bmi2_sens_config" name="bmi2_sens_config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="622,552,748,578"/>
+<area shape="rect" id="Node000002" href="$unionbmi2__sens__config__types.html" title=" " alt="" coords="383,552,548,578"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,562,624,564,619,566,564,567"/>
+<area shape="rect" id="Node000003" href="$structbmi2__accel__config.html" title=" " alt="" coords="28,32,158,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,29,220,27,270,31,318,45,340,57,360,72,374,88,387,110,408,166,425,234,439,310,458,455,466,551,461,550,452,455,434,311,420,236,403,167,382,112,370,91,357,76,337,62,316,50,269,37,220,32,175,33"/>
+<area shape="rect" id="Node000004" href="$structbmi2__gyro__config.html" title=" " alt="" coords="31,86,155,113"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="169,96,280,102,328,112,360,127,384,160,404,209,422,270,436,336,456,465,465,552,460,551,450,465,431,337,416,271,399,211,380,162,357,131,326,117,279,108,171,101"/>
+<area shape="rect" id="Node000005" href="$structbmi2__aux__config.html" title=" " alt="" coords="33,141,153,168"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="167,151,279,157,328,166,360,181,382,210,401,252,418,305,432,362,454,474,465,552,460,551,448,475,427,363,413,306,396,254,377,212,357,186,326,171,278,162,169,156"/>
+<area shape="rect" id="Node000006" href="$structbmi2__any__motion__config.html" title=" " alt="" coords="10,196,176,222"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="190,207,290,214,332,223,360,236,394,272,420,313,439,359,452,406,465,492,467,552,462,550,460,493,447,407,434,361,415,316,390,275,357,240,330,228,290,219,193,211"/>
+<area shape="rect" id="Node000007" href="$structbmi2__no__motion__config.html" title=" " alt="" coords="14,250,172,277"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="187,262,288,269,331,278,360,291,390,319,413,354,431,391,445,429,461,501,466,552,461,551,455,502,440,431,427,393,409,356,386,323,357,295,329,283,288,274,189,266"/>
+<area shape="rect" id="Node000008" href="$structbmi2__sig__motion__config.html" title=" " alt="" coords="12,305,174,332"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="188,317,289,325,331,333,360,345,385,367,406,394,437,453,456,509,465,552,459,551,451,511,432,455,402,397,382,371,357,350,329,338,288,330,191,322"/>
+<area shape="rect" id="Node000009" href="$structbmi2__step__config.html" title=" " alt="" coords="31,356,155,382"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="169,369,278,378,326,387,360,400,381,416,399,434,429,477,450,518,462,551,457,551,445,520,424,479,395,438,377,420,357,405,325,392,278,384,171,374"/>
+<area shape="rect" id="Node000010" href="$structbmi2__gyro__user__gain__config.html" title=" " alt="" coords="21,406,165,449"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="179,423,270,432,316,443,360,460,391,480,418,504,457,551,452,551,415,508,388,484,357,465,314,448,269,437,182,428"/>
+<area shape="rect" id="Node000011" href="$structbmi2__wake__up__config.html" title=" " alt="" coords="18,473,168,500"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="182,487,270,496,359,514,403,530,442,550,437,552,401,535,358,519,269,501,185,492"/>
+<area shape="rect" id="Node000012" href="$structbmi2__tap__config.html" title=" " alt="" coords="35,524,151,550"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="166,540,384,557,380,561,168,545"/>
+<area shape="rect" id="Node000013" href="$structbmi2__orient__config.html" title=" " alt="" coords="28,578,158,605"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="172,594,263,594,358,588,418,577,414,580,359,593,263,599,175,598"/>
+<area shape="rect" id="Node000014" href="$structbmi2__high__g__config.html" title=" " alt="" coords="25,633,161,660"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="176,647,265,642,312,635,358,624,406,602,448,577,444,581,409,606,360,629,313,640,266,647,178,652"/>
+<area shape="rect" id="Node000015" href="$structbmi2__low__g__config.html" title=" " alt="" coords="27,688,159,714"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="174,706,219,706,265,702,313,692,357,676,390,655,417,628,454,581,458,577,421,631,393,659,360,681,314,697,266,707,219,711,176,711"/>
+<area shape="rect" id="Node000016" href="$structbmi2__flat__config.html" title=" " alt="" coords="35,742,151,769"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="165,765,212,768,262,766,311,756,357,736,378,720,397,701,427,656,446,612,459,581,462,576,451,614,431,659,401,704,382,724,360,740,313,761,262,771,212,773,168,770"/>
+<area shape="rect" id="Node000017" href="$structbmi2__wrist__gest__config.html" title=" " alt="" coords="14,793,172,820"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="161,821,209,826,260,827,311,818,335,810,357,797,384,775,405,747,423,716,436,684,453,623,462,581,464,576,458,624,441,686,427,719,410,750,387,779,360,802,337,814,312,823,260,832,208,832,163,826"/>
+<area shape="rect" id="Node000018" href="$structbmi2__wrist__wear__wake__up__config.html" title=" " alt="" coords="14,844,172,886"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="186,885,230,889,275,887,318,877,357,857,389,828,413,792,431,752,444,711,458,633,463,581,465,576,463,633,450,712,436,754,418,795,393,831,360,862,320,882,276,892,230,894,188,890"/>
+<area shape="rect" id="Node000019" href="$structbmi2__wrist__gest__w__config.html" title=" " alt="" coords="5,910,181,937"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="196,932,292,934,331,929,357,919,377,895,395,857,426,755,448,651,461,581,463,576,453,652,431,757,400,858,382,898,360,923,332,934,292,939,197,937"/>
+<area shape="rect" id="Node000020" href="$structbmi2__wrist__wear__wake__up__wh__config.html" title=" " alt="" coords="14,961,172,1004"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="186,999,231,1001,276,998,319,986,357,964,379,936,398,892,415,837,429,777,449,659,461,581,464,576,455,660,434,778,420,839,403,894,383,939,360,968,321,991,276,1003,231,1007,187,1004"/>
+<area shape="rect" id="Node000021" href="$structbmi2__primary__ois__config.html" title=" " alt="" coords="10,1028,176,1054"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="155,1056,204,1064,258,1065,311,1056,335,1045,357,1031,370,1017,382,998,403,946,420,881,434,809,452,671,462,581,464,576,458,671,439,810,425,882,408,947,386,1000,374,1020,360,1035,337,1050,312,1061,258,1070,203,1069,155,1061"/>
+<area shape="rect" id="Node000022" href="$structbmi2__free__fall__det__config.html" title=" " alt="" coords="29,1078,157,1121"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="172,1120,218,1128,267,1128,315,1119,337,1110,357,1096,371,1080,385,1058,407,998,425,923,439,841,455,682,462,581,465,576,460,683,444,842,430,924,412,999,389,1060,376,1083,360,1100,340,1114,317,1124,268,1134,218,1133,171,1126"/>
+</map>

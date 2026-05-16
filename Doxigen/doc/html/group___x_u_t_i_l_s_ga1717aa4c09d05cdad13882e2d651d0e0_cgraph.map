@@ -1,0 +1,7 @@
+<map id="XDATETIME::GetDayOfWeekString" name="XDATETIME::GetDayOfWeekString">
+<area shape="rect" id="Node000001" title="Get day of week string." alt="" coords="5,5,237,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga86a5d7b455930dfda4c0721c7db2996b" title="Get day of week." alt="" coords="285,5,482,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,16,272,19,267,19,237,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="530,5,700,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,16,517,19,512,19,483,21"/>
+</map>

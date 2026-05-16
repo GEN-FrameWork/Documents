@@ -1,0 +1,15 @@
+<map id="XVARIANT::GetData" name="XVARIANT::GetData">
+<area shape="rect" id="Node000001" title="Get data." alt="" coords="874,82,1019,109"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#a6bf042c84c43c43749459bbc85c466aa" title=" " alt="" coords="234,74,469,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="913,72,873,51,826,31,740,13,672,9,604,15,518,31,452,51,395,76,393,71,450,46,516,26,603,10,672,3,741,8,827,26,876,46,918,73"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="517,41,826,83"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="856,85,827,84,827,78,862,85"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#ga7e6bed1dbc56060e80091aac94be5346" title="Set header." alt="" coords="565,107,778,150"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="862,106,779,118,778,113,856,106"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga7aae8ce7d6caa9e8db904849bd57b40f" title="Set value." alt="" coords="598,174,745,201"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="916,117,874,144,827,165,787,176,746,183,745,178,785,171,825,160,872,139,911,118"/>
+<area shape="rect" id="Node000003" href="$class_d_i_o_r_e_m_o_t_e_f_i_l_e_c_f_g.html#ab5bf1b3da1ed08ed562a9a0ab4540706" title=" " alt="" coords="5,82,186,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,96,187,98,185,93,220,95"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="139,68,125,63,95,61,68,63,54,68,50,73,57,81,52,82,45,73,50,63,67,58,96,55,126,58,144,67"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="580,176,516,165,454,143,398,120,399,115,456,138,518,160,586,177"/>
+</map>

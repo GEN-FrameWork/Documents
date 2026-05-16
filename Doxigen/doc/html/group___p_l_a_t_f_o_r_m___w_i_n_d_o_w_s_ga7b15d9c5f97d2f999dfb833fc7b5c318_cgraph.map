@@ -1,0 +1,9 @@
+<map id="DIOWINDOWSSTREAMTCPIP::Close" name="DIOWINDOWSSTREAMTCPIP::Close">
+<area shape="rect" id="Node000001" title="Close." alt="" coords="5,23,216,65"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gacde727fc7c580f11cbf69fee2f1b3f0c" title="Disconnect." alt="" coords="264,23,474,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,41,250,44,245,44,216,47"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga27738d1dd542459c1e475d1c9e1bab85" title="Get status." alt="" coords="524,5,692,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,30,506,29,511,29,475,35"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga9cfb136fd0f76df9b29a7d7bbeadd30a" title="Set event." alt="" coords="522,56,694,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,53,509,59,504,59,475,58"/>
+</map>

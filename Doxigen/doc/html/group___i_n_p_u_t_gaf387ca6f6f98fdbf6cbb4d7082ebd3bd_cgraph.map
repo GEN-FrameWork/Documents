@@ -1,0 +1,9 @@
+<map id="INPCURSORMOTION::GetDirectionByAngle" name="INPCURSORMOTION::GetDirectionByAngle">
+<area shape="rect" id="Node000001" title="Get direction by angle." alt="" coords="5,39,243,81"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#ga124b08f8d506ff874b694ad185c4620b" title="Get angle." alt="" coords="291,47,509,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,57,277,60,272,60,243,63"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#ga60a8db29a57f920620148595f24a8b26" title="Get first point." alt="" coords="557,5,768,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,43,544,42,539,42,510,49"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#ga59f5fa11e613a512605ab9dcbe4825f9" title="Get last point." alt="" coords="558,72,768,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,71,545,78,539,78,510,77"/>
+</map>

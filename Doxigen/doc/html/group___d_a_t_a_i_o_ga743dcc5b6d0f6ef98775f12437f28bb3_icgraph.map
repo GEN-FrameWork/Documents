@@ -1,0 +1,15 @@
+<map id="DIOSTREAMUDPDATAGRAM::SetData" name="DIOSTREAMUDPDATAGRAM::SetData">
+<area shape="rect" id="Node000001" title="Set data." alt="" coords="828,52,1033,95"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga867bece88069def37e9a1dc14e298dfe" title="Add datagram." alt="" coords="562,31,780,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,60,781,59,781,54,815,60"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga6db14273ff9b5643cb340b3008dc3f38" title="Set data." alt="" coords="569,81,773,124"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="815,86,774,94,773,88,810,87"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab6b3d5b11703f1575a31241ffa362e94" title="Add datagram." alt="" coords="292,5,510,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,32,511,32,511,26,549,32"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab0d0852629436fe9af4c2d221d9b2298" title="Write datagram." alt="" coords="289,56,514,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="544,56,515,61,514,56,549,55"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaf73ebef54946766cefd7d1c4ada9e715" title="Write." alt="" coords="5,19,241,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,56,241,55,241,50,276,56"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga76571c9b7436b6f402354257496346ed" title="Write datagram." alt="" coords="10,85,236,112"/>
+<area shape="poly" id="edge5_Node000004_Node000008" title=" " alt="" coords="271,83,237,89,236,84,276,82"/>
+</map>

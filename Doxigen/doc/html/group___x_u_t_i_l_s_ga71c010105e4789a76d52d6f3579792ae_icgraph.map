@@ -1,0 +1,33 @@
+<map id="XSERIALIZABLE::XSERIALIZABLE" name="XSERIALIZABLE::XSERIALIZABLE">
+<area shape="rect" id="Node000001" title="Constructor of class." alt="" coords="840,169,1076,196"/>
+<area shape="rect" id="Node000002" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a1175d36bd99e244fc4280880d962939d" title=" " alt="" coords="590,31,786,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,159,865,120,791,78,744,61,744,55,793,74,868,116,930,160"/>
+<area shape="rect" id="Node000004" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a33b4397ba6c59e73d574b7f2e0a91053" title=" " alt="" coords="294,69,536,96"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="911,163,856,142,792,123,660,100,537,89,536,84,661,95,793,117,858,137,916,163"/>
+<area shape="rect" id="Node000008" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#ac52154b2c2c730ae49bd6a59bff72204" title=" " alt="" coords="605,132,771,175"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="822,168,772,165,772,160,827,168"/>
+<area shape="rect" id="Node000010" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a75b6ab0e231af4d1789a775276afd12e" title=" " alt="" coords="309,191,521,233"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="822,191,522,209,521,204,827,189"/>
+<area shape="rect" id="Node000014" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#ae817165933ca4842cfddc678186462a3" title=" " alt="" coords="584,249,792,276"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="898,200,737,251,735,246,893,201"/>
+<area shape="rect" id="Node000015" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html#a51c87f65cb532926c845485b2b0618dc" title=" " alt="" coords="599,300,777,343"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="929,205,867,249,793,290,765,302,764,297,791,286,865,244,924,206"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga9da9eb3fb93df394c0a972661fb64928" title="Serialize." alt="" coords="306,19,524,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,40,525,39,524,34,577,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="572,61,515,71,513,66,577,59"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga14980a47792d08610192de2aac768b12" title="Serialize." alt="" coords="54,5,197,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,66,293,60,245,47,196,35,195,30,246,41,294,55,332,65"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga54e7a45e6f548740d8e761e9270d2bec" title="Serialize." alt="" coords="38,56,213,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,78,214,76,213,71,280,75"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gabbdb72c1133a7ead97bb886f0f604664" title="serialize" alt="" coords="5,107,246,149"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="308,100,247,112,245,107,313,98"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga6ab335df9e6db3eb8fc767d5a3200bfe" title="Deserialize." alt="" coords="299,140,531,167"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="587,154,532,156,531,151,592,153"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="587,175,518,193,517,188,592,174"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga6afa1e126f5605123c8ff4e8a0f3d4a1" title="Deserialize." alt="" coords="47,173,204,200"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="291,203,205,196,204,191,296,200"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gafa0c5f8c4f31e0c81c3fe691cb232d85" title="Deserialize." alt="" coords="31,224,220,251"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="291,224,221,232,220,226,296,222"/>
+<area shape="rect" id="Node000013" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8897cc747af45495e5360e65b9c82285" title="deserialize" alt="" coords="5,275,246,317"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="325,239,246,265,206,277,205,272,245,260,330,238"/>
+</map>

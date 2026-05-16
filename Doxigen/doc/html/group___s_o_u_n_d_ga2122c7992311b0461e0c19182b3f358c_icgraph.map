@@ -1,0 +1,7 @@
+<map id="SNDOPENALSOURCE::SetVolume" name="SNDOPENALSOURCE::SetVolume">
+<area shape="rect" id="Node000001" title="Set volume." alt="" coords="297,35,530,61"/>
+<area shape="rect" id="Node000002" href="$group___s_o_u_n_d.html#ga9e4c07b78b2c9c7861023a7cff5b4c4e" title="Sound play." alt="" coords="5,5,249,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,35,249,34,249,29,284,34"/>
+<area shape="rect" id="Node000003" href="$group___s_o_u_n_d.html#gab0c8cbcccd237a2cb435ef33b88ab2d6" title="Sound set volume." alt="" coords="22,56,232,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,62,233,69,233,64,284,61"/>
+</map>

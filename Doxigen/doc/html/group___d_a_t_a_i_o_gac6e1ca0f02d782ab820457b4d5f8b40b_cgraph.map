@@ -1,0 +1,13 @@
+<map id="DIODNSPROTOCOL_MITM_SERVER::AddDNSServer" name="DIODNSPROTOCOL_MITM_SERVER::AddDNSServer">
+<area shape="rect" id="Node000001" title="Add DNS server." alt="" coords="5,93,195,136"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1ab2731dfd80ae409e83d4820dbbe229" title="Add DNS server." alt="" coords="243,64,432,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,100,230,98,224,100,196,106"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="282,131,392,157"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="195,124,269,135,264,136,195,129"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab3edfb323fb13694c316d27fd29444ec" title="Get IP." alt="" coords="480,5,717,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,61,488,51,483,53,433,67"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga1955ea08de61edcd19d7806e64ed9aaa" title="Set." alt="" coords="523,72,674,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="432,83,510,85,505,86,433,88"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga107e217119bd7a0b75d00af98678419a" title="Set port." alt="" coords="480,123,717,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="433,104,488,119,483,119,432,109"/>
+</map>

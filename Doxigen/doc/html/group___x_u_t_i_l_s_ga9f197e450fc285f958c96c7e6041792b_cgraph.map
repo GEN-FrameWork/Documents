@@ -1,0 +1,10 @@
+<map id="XMPINTEGER::LeftSet" name="XMPINTEGER::LeftSet">
+<area shape="rect" id="Node000001" title="Left set." alt="" coords="5,56,166,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gac3f1fbbbd1a86523e1244fbc4e89cb2b" title="Get limbs." alt="" coords="214,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,53,229,35,224,37,146,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga264334fb6432f574a6383134ecd578ed" title="Get N limbs." alt="" coords="436,81,620,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,71,421,86,419,91,166,77"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga81c3c1f07c09d4d431c2ea93a3ad1b14" title="Grow." alt="" coords="226,107,376,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,81,229,102,224,103,145,86"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="375,109,418,107,423,106,376,114"/>
+</map>

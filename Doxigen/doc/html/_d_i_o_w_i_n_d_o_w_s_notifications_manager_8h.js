@@ -1,0 +1,4 @@
+var _d_i_o_w_i_n_d_o_w_s_notifications_manager_8h =
+[
+    [ "DIOWINDOWSNOTIFICATIONSMANAGER_HANDLER", "class_d_i_o_w_i_n_d_o_w_s_n_o_t_i_f_i_c_a_t_i_o_n_s_m_a_n_a_g_e_r___h_a_n_d_l_e_r.html", "class_d_i_o_w_i_n_d_o_w_s_n_o_t_i_f_i_c_a_t_i_o_n_s_m_a_n_a_g_e_r___h_a_n_d_l_e_r" ]
+];

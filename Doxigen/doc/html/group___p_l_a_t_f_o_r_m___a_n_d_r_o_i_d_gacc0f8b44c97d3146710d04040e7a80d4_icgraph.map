@@ -1,0 +1,24 @@
+<map id="ANDROIDJNI::GetJNIEnv" name="ANDROIDJNI::GetJNIEnv">
+<area shape="rect" id="Node000001" title="Get JNI env." alt="" coords="641,184,819,210"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gada5de59c5426b3acc5bafc1975a2d96d" title="Constructor of class." alt="" coords="5,28,308,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="712,169,693,140,666,103,632,69,592,44,543,26,492,15,440,9,388,8,291,16,214,29,212,25,291,11,388,3,440,4,493,10,545,21,594,39,635,65,670,100,698,137,718,171"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gac90801addef1c58ad7f8f7f77ac2d4f1" title="Call method&lt;void&gt;." alt="" coords="41,78,272,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="674,179,592,157,425,126,273,106,272,101,426,121,594,152,679,178"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gac64e1d50671e70184a9dc0b946934c78" title="Check java exception." alt="" coords="356,53,593,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="700,173,652,137,592,101,543,83,543,78,594,96,655,133,705,174"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gaf6efc4ee2933312f1fdc21a531f0c6d9" title="Find JNI class." alt="" coords="60,129,253,156"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="624,189,254,154,253,149,627,185"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga99adbe937e7ce3d5c5aa99b7e139b1cb" title="Find JNI env class wrapper." alt="" coords="366,205,582,248"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="623,210,584,217,583,211,628,208"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#gabb9a4935a0ab0aa875c934a4ba341789" title="Get class method." alt="" coords="364,272,584,314"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="691,217,594,262,560,274,558,269,592,257,686,219"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga570e38221788eb6be4f8670f0ce3c355" title="Get J string." alt="" coords="361,338,588,365"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="712,222,662,278,630,306,594,329,566,340,565,335,592,324,627,301,659,274,707,224"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga6734da5bdf2cbdc6650ba71d40cb9f47" title="Initialize JNI." alt="" coords="383,389,566,416"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="718,223,699,261,671,303,636,345,594,379,567,393,565,387,592,375,633,341,667,300,694,259,714,226"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="337,57,309,56,307,51,342,55"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="338,79,273,85,271,80,343,76"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="416,87,308,120,253,131,251,126,307,115,420,84"/>
+<area shape="rect" id="Node000010" href="$group___p_l_a_t_f_o_r_m___a_n_d_r_o_i_d.html#ga5107e22fd3a3529ce079c798720921ea" title="android_main" alt="" coords="107,389,206,416"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="365,403,206,405,206,400,370,402"/>
+</map>

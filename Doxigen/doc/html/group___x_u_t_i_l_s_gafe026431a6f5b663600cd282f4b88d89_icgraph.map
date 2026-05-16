@@ -1,0 +1,8 @@
+<map id="XMPINTEGER::CheckSmallFactors" name="XMPINTEGER::CheckSmallFactors">
+<area shape="rect" id="Node000001" title="Check small factors." alt="" coords="470,5,703,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae29bcb9b95430e57bca665999e20f873" title="Generate prime." alt="" coords="5,5,211,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,21,211,21,211,16,455,16"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0896841dc3b024b63833aa6aa8025d28" title="Is prime." alt="" coords="259,31,422,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="457,32,423,38,422,33,452,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,33,211,33,211,27,246,33"/>
+</map>

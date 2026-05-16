@@ -1,0 +1,30 @@
+<map id="GRPSCREEN" name="GRPSCREEN">
+<area shape="rect" id="Node000001" title="Graphics Screen Class." alt="" coords="744,317,852,344"/>
+<area shape="rect" id="Node000002" href="$class_g_r_p_p_r_o_p_e_r_t_i_e_s.html" title="Graphics Properties class." alt="" coords="566,112,702,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="633,152,636,199,642,222,652,244,674,268,700,288,758,317,752,316,698,292,670,272,648,247,637,224,631,200,630,156"/>
+<area shape="rect" id="Node000005" href="$class_g_r_p_c_a_n_v_a_s.html" title="Graphics Canvas class." alt="" coords="387,219,492,245"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="614,148,586,175,554,197,524,211,493,221,492,216,522,206,552,192,583,171,609,151"/>
+<area shape="rect" id="Node000003" href="$class_g_r_p_r_e_c_t_b_a_s_e.html" title=" " alt="" coords="554,5,715,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="636,45,636,113,632,110,633,49"/>
+<area shape="rect" id="Node000004" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="663,219,755,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="732,254,789,318,784,316,729,259"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="463,254,489,274,518,291,560,302,620,311,747,326,741,326,619,316,559,307,516,296,486,279,461,259"/>
+<area shape="rect" id="Node000006" href="$class_g_r_p2_d_r_e_b_u_i_l_d_a_r_e_a_s.html" title="Graphics 2D Rebuild Areas class." alt="" coords="49,112,222,139"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="184,142,327,192,401,218,396,218,325,197,184,147"/>
+<area shape="rect" id="Node000007" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="5,5,266,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="136,45,138,112,133,111,135,50"/>
+<area shape="rect" id="Node000008" href="$class_x_r_e_c_t.html" title="eXtended Utils Rect class" alt="" coords="246,112,313,139"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="305,147,365,192,411,218,406,218,362,197,303,152"/>
+<area shape="rect" id="Node000009" href="$class_g_r_p_c_a_n_v_a_s___v_e_c_t_o_r_f_o_n_t___c_o_n_f_i_g.html" title=" " alt="" coords="337,104,542,147"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="441,160,442,219,437,217,438,164"/>
+<area shape="rect" id="Node000010" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="779,219,998,245"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="869,256,811,319,808,315,864,258"/>
+<area shape="rect" id="Node000011" href="$class_g_r_p_f_r_a_m_e_r_a_t_e.html" title="Graphic Frame Rate class." alt="" coords="1023,219,1155,245"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1045,251,924,296,845,319,844,314,923,291,1039,252"/>
+<area shape="rect" id="Node000012" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="1179,219,1260,245"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1181,251,1124,276,1061,296,950,317,852,328,852,323,950,312,1060,291,1122,271,1175,252"/>
+<area shape="rect" id="Node000013" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="1181,112,1258,139"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1221,152,1222,220,1217,217,1218,156"/>
+<area shape="rect" id="Node000014" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="1160,5,1279,32"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1221,45,1222,113,1217,110,1218,49"/>
+</map>

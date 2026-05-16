@@ -1,0 +1,9 @@
+<map id="XBUFFERBITS::PeekU" name="XBUFFERBITS::PeekU">
+<area shape="rect" id="Node000001" title="Peek u." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7a44bc85f6fb2f41d5e9be8453ca705b" title="Read u." alt="" coords="216,5,379,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,16,202,19,197,19,168,21"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga447e99a38908718923815f98e5d80251" title="Read U1." alt="" coords="427,5,597,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,16,414,19,409,19,380,21"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4a871a7fd2855666a415a9fc217de578" title="Is EOF." alt="" coords="645,5,806,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="598,16,632,19,627,19,598,21"/>
+</map>

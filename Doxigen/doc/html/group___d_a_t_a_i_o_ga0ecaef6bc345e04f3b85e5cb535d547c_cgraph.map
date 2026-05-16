@@ -1,0 +1,19 @@
+<map id="DIOSTREAMIPLOCALENUMDEVICES::GetFirstActiveDevice" name="DIOSTREAMIPLOCALENUMDEVICES::GetFirstActiveDevice">
+<area shape="rect" id="Node000001" title="Get first active device." alt="" coords="5,219,263,261"/>
+<area shape="rect" id="Node000002" href="$class_x_v_e_c_t_o_r.html#a2af4855d7fe0bc28201f6967110d064e" title=" " alt="" coords="382,5,497,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,217,171,178,208,130,255,82,309,42,337,30,369,23,364,26,339,35,312,46,258,86,212,134,176,181,150,220"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gace3b6536060dcc534847e7483ab2d8b7" title="Get devices." alt="" coords="339,56,540,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,217,222,162,265,133,309,108,327,103,323,106,312,113,267,138,226,167,160,220"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gafbf7a2e1a9ce6b1b2d6c1b193c80f5f9" title="Get IP." alt="" coords="353,123,526,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,216,310,175,340,168,335,171,311,180,194,220"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9e15957a8ec266ba4fc1a0063c525292" title="Get IP type." alt="" coords="353,189,526,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,225,339,219,335,222,264,230"/>
+<area shape="rect" id="Node000006" href="$class_x_v_e_c_t_o_r.html#ab9cec1d9ae7a1f5699f9dde55ccde2bf" title=" " alt="" coords="369,256,510,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="263,250,356,260,351,262,264,255"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga95886ce25d47506c5b5eddfe9830ec93" title="Is APIPA." alt="" coords="349,307,530,333"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,259,311,292,349,302,343,303,310,297,200,265"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga0558112e9e88c41258d33098e43538a5" title="Is empty." alt="" coords="349,357,530,384"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="164,259,231,302,270,324,312,343,337,353,331,353,310,348,268,329,228,307,164,264"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga0373bec505bbc9c353b1ae738cc11c8b" title="Search." alt="" coords="311,408,568,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="154,259,220,326,264,363,312,394,325,402,320,401,309,398,261,367,217,330,153,264"/>
+</map>

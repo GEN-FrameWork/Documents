@@ -1,0 +1,18 @@
+<map id="DIOCLIPROTOCOLCOMMAND::GetCommand" name="DIOCLIPROTOCOLCOMMAND::GetCommand">
+<area shape="rect" id="Node000001" title="Get command." alt="" coords="875,93,1087,136"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gafd224f72e8634c36817da9df6623b5c9" title="Get command." alt="" coords="598,75,827,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="857,103,828,102,828,97,862,103"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaf8e682013a93f41d58cd2e7df979d336" title="Send command arg." alt="" coords="292,131,550,157"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="857,121,551,140,550,135,863,121"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga4d1906514ce5aa5d441a42cad257f14a" title="Add command." alt="" coords="305,13,536,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="633,71,549,55,494,43,494,38,551,49,639,71"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gae9ef956e19879416f063b469b6d90f8f" title="Received command." alt="" coords="333,64,509,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="580,87,510,89,509,83,585,86"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="627,104,494,133,494,127,622,105"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gad130971f05424b55bde6639313a766da" title="Constructor of class." alt="" coords="36,5,213,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,28,214,29,213,24,292,25"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga68741e0242491bea150237872970de50" title="Send command." alt="" coords="5,101,244,128"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="273,130,244,129,244,124,279,129"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga8524ec31f0e12c610310aa60488f3c44" title="Send command." alt="" coords="36,152,213,195"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="274,159,213,167,213,162,279,158"/>
+</map>

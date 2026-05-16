@@ -1,0 +1,17 @@
+<map id="APPFLOWCFG" name="APPFLOWCFG">
+<area shape="rect" id="Node000001" title="Application Flow Config class." alt="" coords="109,380,223,407"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_c_f_g.html" title="eXtended Utils CFG (Config) file class" alt="" coords="123,304,209,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,344,168,381,164,378,164,348"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,205,98,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,240,119,278,151,303,145,304,115,282,75,246"/>
+<area shape="rect" id="Node000004" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="199,155,264,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,192,210,207,187,260,172,305,168,302,182,258,205,204,213,196"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="191,5,272,32"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="205,45,167,93,148,123,133,156,129,176,128,197,135,239,148,275,162,304,156,303,143,277,130,240,123,197,123,175,128,154,143,120,163,90,208,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,45,234,155,229,154,230,50"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e_t_x_t.html" title="eXtended Utils TXT (Text) file class" alt="" coords="270,104,353,131"/>
+<area shape="poly" id="edge8_Node000009_Node000005" title=" " alt="" coords="252,41,304,103,299,104,251,47"/>
+<area shape="rect" id="Node000008" href="$class_x_f_i_l_e_i_n_i.html" title="eXtended Utils INI (Windows INItialization file) file class" alt="" coords="277,205,354,232"/>
+<area shape="poly" id="edge6_Node000002_Node000008" title=" " alt="" coords="286,239,187,306,184,301,281,242"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="314,144,318,206,313,204,311,149"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="XSTRING::ConvertFromBoolean" name="XSTRING::ConvertFromBoolean">
+<area shape="rect" id="Node000001" title="Convert from boolean." alt="" coords="5,161,218,188"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="504,107,631,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,159,490,127,487,132,219,165"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="296,56,405,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,158,306,87,303,92,146,163"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga5fa86a0f14317d874f11d8e572293573" title="To lower case." alt="" coords="266,187,435,213"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="217,183,252,188,248,190,219,189"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gadf3624dc80b383e22898f1c2f4b6a46c" title="To upper case." alt="" coords="266,312,435,339"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="135,186,317,302,312,305,134,191"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="700,81,850,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="631,110,688,105,683,106,632,115"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="706,132,844,159"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="631,125,693,135,688,136,632,130"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="500,56,635,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="405,67,487,68,482,70,406,72"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="483,5,652,32"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="404,54,495,35,490,37,406,59"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="620,81,653,92,701,118,719,126,713,126,699,122,651,97,620,86"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="617,30,653,41,731,74,726,75,651,47,618,35"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="435,187,692,155,688,157,436,192"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="494,275,641,317"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="380,211,484,260,499,268,493,268,482,265,379,217"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaab35936c24b21a75ac8ca8c1e619f0a2" title="Character to lower." alt="" coords="494,208,641,251"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="435,209,482,217,477,218,436,214"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="399,337,454,348,519,354,587,349,620,340,651,327,673,313,692,295,724,253,747,210,763,175,767,171,752,212,728,256,696,299,676,317,654,332,622,345,588,354,519,359,453,353,399,342"/>
+<area shape="poly" id="edge14_Node000011_Node000009" title=" " alt="" coords="435,311,482,307,477,308,436,317"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="494,392,641,435"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="386,337,501,386,496,386,385,342"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XFILEJSON::DeleteAllObjects" name="XFILEJSON::DeleteAllObjects">
+<area shape="rect" id="Node000001" title="Delete all objects." alt="" coords="310,64,510,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaa2bc9ecb7b75feab00d7d2438029987d" title="Set root." alt="" coords="58,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,60,261,47,206,35,206,30,262,41,336,59"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gad32c6a0ffb6b5dfb98c359fd856ac3e3" title="Update." alt="" coords="5,56,262,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,78,263,80,262,75,297,77"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafa76b9ce52385bdb8717b3e1f21c1e44" title="Destructor of class." alt="" coords="42,123,225,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,94,262,113,206,125,206,120,261,108,331,95"/>
+</map>

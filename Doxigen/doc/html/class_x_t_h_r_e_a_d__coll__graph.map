@@ -1,0 +1,10 @@
+<map id="XTHREAD" name="XTHREAD">
+<area shape="rect" id="Node000001" title="eXtended Utils Thread class" alt="" coords="27,279,114,305"/>
+<area shape="rect" id="Node000002" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,47,73,278,67,278,63,48"/>
+<area shape="rect" id="Node000004" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="88,81,165,108"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="85,41,119,80,113,82,85,46"/>
+<area shape="rect" id="Node000003" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="87,180,168,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,220,80,280,76,277,110,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="128,121,130,180,125,179,125,126"/>
+</map>

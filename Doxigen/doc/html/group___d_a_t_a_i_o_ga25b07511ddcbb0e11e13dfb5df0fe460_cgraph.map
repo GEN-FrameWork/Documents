@@ -1,0 +1,20 @@
+<map id="DIOWEBSERVER_HEADER::CreateContentType" name="DIOWEBSERVER_HEADER::CreateContentType">
+<area shape="rect" id="Node000001" title="Create content type." alt="" coords="5,144,201,187"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga04953345567391e3ba237d2d67cbc107" title="Compare." alt="" coords="249,80,391,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,141,265,111,261,114,171,146"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="256,152,384,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,163,243,165,238,166,201,168"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaa5d59b7b88102beb4def8fe054449653" title="Find." alt="" coords="263,233,377,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="162,185,270,226,265,229,161,190"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga0a1285f1f54753ab25a2c7644cda1849" title="Character is alpha." alt="" coords="440,5,587,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,77,438,52,433,55,362,82"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae2f918611b962d1e4cdf779ea2d0bca7" title="Character to upper." alt="" coords="440,72,587,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,91,428,93,422,94,392,96"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="439,139,588,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="383,158,426,158,421,159,384,164"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="444,189,583,216"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="384,175,432,186,427,187,384,180"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="287,232,281,225,285,215,298,209,320,207,343,209,357,218,351,218,341,214,320,212,300,214,289,219,286,224,291,234"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="439,240,588,267"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="377,246,426,250,421,250,377,251"/>
+</map>

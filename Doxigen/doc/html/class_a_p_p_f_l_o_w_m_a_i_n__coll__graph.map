@@ -1,0 +1,18 @@
+<map id="APPFLOWMAIN" name="APPFLOWMAIN">
+<area shape="rect" id="Node000001" title="Application Flow Main Base class." alt="" coords="213,423,333,449"/>
+<area shape="rect" id="Node000002" href="$class_a_p_p_f_l_o_w_b_a_s_e.html" title="Application Flow Base class." alt="" coords="212,324,334,351"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,365,275,424,271,421,271,368"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="5,183,98,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,216,206,298,251,323,245,324,203,302,81,221"/>
+<area shape="rect" id="Node000004" href="$class_x_v_e_c_t_o_r.html" title=" " alt="" coords="122,183,301,209"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,223,215,262,228,299,238,311,252,324,247,323,235,315,224,301,210,263,209,227"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="326,183,407,209"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="351,220,344,235,327,268,307,302,286,326,283,322,303,298,322,266,340,232,347,224"/>
+<area shape="rect" id="Node000006" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="356,81,433,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="367,117,360,133,357,158,363,183,358,181,352,159,355,131,364,121"/>
+<area shape="rect" id="Node000007" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="380,5,499,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="426,43,404,83,400,79,422,47"/>
+<area shape="rect" id="Node000008" href="$class_x_t_i_m_e_r.html" title="eXtended Utils Timer class" alt="" coords="467,132,540,159"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="454,43,500,132,494,131,452,48"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="510,172,513,204,512,238,503,272,484,302,459,316,422,326,335,336,334,331,421,320,457,311,480,298,498,270,506,237,508,204,507,176"/>
+</map>

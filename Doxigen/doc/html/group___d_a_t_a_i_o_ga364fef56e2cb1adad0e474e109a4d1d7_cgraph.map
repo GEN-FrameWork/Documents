@@ -1,0 +1,16 @@
+<map id="DIOI2CEEPROM24XXX::Read" name="DIOI2CEEPROM24XXX::Read">
+<area shape="rect" id="Node000001" title="Read." alt="" coords="5,81,210,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="295,5,425,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,78,257,41,288,35,283,37,258,47,148,83"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="303,56,416,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,82,290,76,285,77,211,87"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gac77a5123cc5866a05aaea7b7e68e12c8" title="Read." alt="" coords="258,157,462,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,106,258,143,288,153,282,153,257,148,147,111"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="293,107,426,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,102,280,111,275,112,210,108"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="516,56,675,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,30,518,52,512,53,425,35"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#gaffa2a228690e583d4c7c2a5f4adf9821" title="Is initialized." alt="" coords="510,157,680,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="463,168,497,171,492,171,463,173"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="425,103,512,87,518,86,426,109"/>
+</map>

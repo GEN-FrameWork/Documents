@@ -1,0 +1,12 @@
+<map id="XWINDOWSTHREAD" name="XWINDOWSTHREAD">
+<area shape="rect" id="Node000001" title="WINDOWS eXtended Utils Thread class." alt="" coords="5,355,161,381"/>
+<area shape="rect" id="Node000002" href="$class_x_t_h_r_e_a_d.html" title="eXtended Utils Thread class" alt="" coords="40,279,126,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,319,86,355,80,353,81,322"/>
+<area shape="rect" id="Node000003" href="$class_f_a_c_t_o_r_y_b_a_s_e.html" title="Factory Base class." alt="" coords="18,5,137,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,47,85,278,80,278,76,48"/>
+<area shape="rect" id="Node000005" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="100,81,178,108"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="97,41,131,80,126,82,98,46"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="100,180,181,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="127,218,93,280,88,277,123,222"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,121,143,180,138,179,138,126"/>
+</map>

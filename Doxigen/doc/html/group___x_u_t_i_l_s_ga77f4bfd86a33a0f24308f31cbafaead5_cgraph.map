@@ -1,0 +1,11 @@
+<map id="XFILECSV_RECORD::AddElement" name="XFILECSV_RECORD::AddElement">
+<area shape="rect" id="Node000001" title="Add element." alt="" coords="5,31,237,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="285,31,397,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,41,272,44,266,44,237,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="462,5,598,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,34,443,30,449,30,398,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="445,56,614,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,49,432,56,427,56,397,54"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="662,56,812,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="615,67,649,69,644,69,615,72"/>
+</map>

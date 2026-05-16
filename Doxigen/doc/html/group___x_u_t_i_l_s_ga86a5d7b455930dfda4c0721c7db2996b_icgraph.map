@@ -1,0 +1,23 @@
+<map id="XDATETIME::GetDayOfWeek" name="XDATETIME::GetDayOfWeek">
+<area shape="rect" id="Node000001" title="Get day of week." alt="" coords="884,220,1082,247"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga1717aa4c09d05cdad13882e2d651d0e0" title="Get day of week string." alt="" coords="605,151,836,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="913,216,774,181,775,175,918,216"/>
+<area shape="rect" id="Node000039" href="$group___d_a_t_a_i_o.html#ga45336d8732f58dda81cc4cb4e6959952" title="Set time label type a." alt="" coords="618,212,823,255"/>
+<area shape="poly" id="edge7_Node000001_Node000039" title=" " alt="" coords="866,233,824,236,823,231,872,233"/>
+<area shape="rect" id="Node000042" href="$group___d_a_t_a_i_o.html#ga7e00fa7f24ebc2ea75f6c39ff74cefda" title="Set time label type b." alt="" coords="618,279,823,321"/>
+<area shape="poly" id="edge10_Node000001_Node000042" title=" " alt="" coords="915,251,808,281,807,275,910,251"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3a247c83ef32fb5db005272ba679c25b" title="Get date time to string." alt="" coords="360,123,557,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,154,558,154,557,149,592,154"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga7905535610e352616cb1f642402f6cca" title="Get date time to string ISO8601." alt="" coords="60,5,257,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,114,364,88,311,62,258,46,257,41,313,58,367,83,416,114"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gaf0c7360756b33cdfa3fa7bac9a71add0" title="RCV get date time." alt="" coords="38,72,279,99"/>
+<area shape="poly" id="edge4_Node000003_Node000010" title=" " alt="" coords="348,119,311,113,250,102,249,97,312,108,353,118"/>
+<area shape="rect" id="Node000036" href="$group___a_p_p_f_l_o_w.html#ga4425883285ccd5fbb40ea41e519eea0b" title="Update." alt="" coords="5,123,312,165"/>
+<area shape="poly" id="edge5_Node000003_Node000036" title=" " alt="" coords="342,145,313,147,311,141,347,143"/>
+<area shape="rect" id="Node000037" href="$group___c_i_p_h_e_r.html#ga51386cd6990a0173f3f089663447afe9" title="Xtrace certificated propertys." alt="" coords="61,189,256,232"/>
+<area shape="poly" id="edge6_Node000003_Node000037" title=" " alt="" coords="345,170,312,180,257,192,255,187,311,175,350,168"/>
+<area shape="rect" id="Node000040" href="$group___d_a_t_a_i_o.html#gadb4778d60c5ee1f0cb2613e80292e9eb" title="CMDCCINU2 init." alt="" coords="380,223,536,265"/>
+<area shape="poly" id="edge8_Node000039_Node000040" title=" " alt="" coords="600,238,537,243,537,238,605,238"/>
+<area shape="rect" id="Node000041" href="$group___d_a_t_a_i_o.html#gace240f640ed613ba2096f9896957e380" title="CMDCCINU2 read all values." alt="" coords="62,256,255,299"/>
+<area shape="poly" id="edge9_Node000040_Node000041" title=" " alt="" coords="362,255,255,269,254,264,367,254"/>
+</map>

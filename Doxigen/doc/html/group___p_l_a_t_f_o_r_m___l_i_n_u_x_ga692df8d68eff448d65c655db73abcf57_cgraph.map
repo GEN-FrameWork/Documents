@@ -1,0 +1,9 @@
+<map id="DIOLINUXDBUS::CallMethod" name="DIOLINUXDBUS::CallMethod">
+<area shape="rect" id="Node000001" title="Call method." alt="" coords="5,43,203,69"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1c2b5afc73b2afc6c96fac8d43ac5b45" title="Set handler." alt="" coords="251,5,447,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,42,238,40,233,41,204,47"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga079930d936bef04d41719c34134af3ce" title="Trace error." alt="" coords="253,72,445,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,65,240,72,234,72,203,71"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="495,72,605,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,83,482,85,477,85,445,88"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="INPWINDOWSDEVICEKEYBOARD::Update" name="INPWINDOWSDEVICEKEYBOARD::Update">
+<area shape="rect" id="Node000001" title="Update." alt="" coords="5,73,245,116"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gaeb09b76edea544f7524de32cc80e8fa3" title="Get key code." alt="" coords="293,5,475,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,70,292,41,321,36,316,38,293,47,198,75"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#gaa3208e8520fbf71047cfc6d2ac1a2edc" title="Get state." alt="" coords="304,56,464,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,80,291,78,286,79,246,86"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#ga5dc0db23f7e8e040061f5295045e7da8" title="Set pressed." alt="" coords="296,107,472,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,104,283,110,278,110,245,109"/>
+<area shape="rect" id="Node000005" href="$group___i_n_p_u_t.html#ga7c8702f570e2bdc8ad2bdb5ea870d3d4" title="Set state." alt="" coords="305,157,463,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="197,114,293,143,321,153,316,153,292,148,197,119"/>
+</map>

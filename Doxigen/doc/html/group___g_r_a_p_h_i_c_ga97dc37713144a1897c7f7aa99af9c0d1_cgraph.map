@@ -1,0 +1,40 @@
+<map id="GRPBITMAPFILEBMP::CreateBitmapFromFile" name="GRPBITMAPFILEBMP::CreateBitmapFromFile">
+<area shape="rect" id="Node000001" title="Create bitmap from file." alt="" coords="5,403,210,445"/>
+<area shape="rect" id="Node000002" href="$group___g_r_a_p_h_i_c.html#ga65b0ccaf50dd769a2481d39483fee3c9" title="Close." alt="" coords="279,5,451,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,402,120,336,146,243,165,193,189,144,219,98,256,58,267,51,264,56,260,62,224,102,194,147,170,196,151,245,125,337,114,403"/>
+<area shape="rect" id="Node000003" href="$group___g_r_a_p_h_i_c.html#ga460b48b220289471646b4fe476c87006" title="Create bitmap." alt="" coords="265,72,464,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,402,124,343,150,263,170,221,194,180,222,142,256,109,265,105,262,109,259,113,226,145,198,183,175,223,155,265,129,344,115,403"/>
+<area shape="rect" id="Node000004" href="$group___g_r_a_p_h_i_c.html#gae006b37b5ec00c1066c02f4741dda631" title="Delete bitmap." alt="" coords="266,123,464,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,402,129,351,158,286,200,217,226,186,256,159,266,155,262,159,259,163,230,190,204,220,162,288,134,353,117,403"/>
+<area shape="rect" id="Node000005" href="$group___g_r_a_p_h_i_c.html#gaf085dd454ff8f5c9dc35f3433b0a871b" title="Force mode of bitmap." alt="" coords="279,173,451,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,401,138,363,169,316,209,268,256,226,267,221,263,225,259,230,213,271,173,319,143,366,122,403"/>
+<area shape="rect" id="Node000009" href="$group___g_r_a_p_h_i_c.html#gaf5cc1240f4c5196528f69fadfb0593d4" title="Get bits per pixel." alt="" coords="258,240,472,283"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="126,401,182,347,218,318,256,292,270,287,266,291,259,297,221,322,185,351,131,404"/>
+<area shape="rect" id="Node000010" href="$group___g_r_a_p_h_i_c.html#ga995ecc4b68532c74ceb926766b49b9d4" title="Get color palette." alt="" coords="258,307,472,349"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="156,400,257,359,279,353,275,356,259,364,159,404"/>
+<area shape="rect" id="Node000011" href="$group___g_r_a_p_h_i_c.html#gacda61dc13607280a5a35c2096cc2add2" title="Get height." alt="" coords="258,373,472,416"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="209,410,244,407,240,410,212,415"/>
+<area shape="rect" id="Node000012" href="$group___g_r_a_p_h_i_c.html#ga2f0d20d8b617a48f13592778eb476a7b" title="Get instance." alt="" coords="270,440,460,467"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="209,433,256,439,252,442,211,438"/>
+<area shape="rect" id="Node000014" href="$group___g_r_a_p_h_i_c.html#ga41ddca57101030522db00f6098acfee2" title="Get mode." alt="" coords="258,491,472,533"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="166,443,259,476,281,485,276,486,257,481,167,449"/>
+<area shape="rect" id="Node000015" href="$group___g_r_a_p_h_i_c.html#ga0540e859d39401d02fa7cfe5f370b3ce" title="Get offset data." alt="" coords="258,557,472,600"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="130,443,187,493,222,520,259,543,272,551,267,552,256,548,219,524,183,498,130,448"/>
+<area shape="rect" id="Node000016" href="$group___g_r_a_p_h_i_c.html#gae638531cb5b886a68a041ba62137f681" title="Get width." alt="" coords="258,624,472,667"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="120,443,144,480,174,525,213,571,259,610,268,616,262,617,256,614,210,574,170,528,139,483,120,448"/>
+<area shape="rect" id="Node000017" href="$group___g_r_a_p_h_i_c.html#ga2326531c9eef704c3960c7f44ccae526" title="Open." alt="" coords="263,691,466,717"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="115,443,135,493,163,557,205,622,230,651,259,677,268,684,262,683,256,681,227,655,201,625,159,559,130,495,115,448"/>
+<area shape="rect" id="Node000018" href="$class_g_r_p_b_i_t_m_a_p.html#a06fe93e6319ebdd2f84b419b4ae489b5" title=" " alt="" coords="530,616,720,643"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="112,443,126,505,152,584,171,625,194,664,224,699,259,727,287,743,313,752,337,756,361,756,411,745,471,727,507,712,542,693,596,654,601,652,544,697,510,717,473,732,412,751,361,761,337,761,312,757,285,747,256,732,220,703,190,667,166,628,147,586,121,506,111,448"/>
+<area shape="rect" id="Node000019" href="$class_g_r_p_b_i_t_m_a_p.html#a6c58e451a2266ca1d4125f578f35d9b3" title=" " alt="" coords="286,792,444,819"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="112,443,126,509,152,597,171,644,195,691,224,734,259,771,277,786,272,785,256,775,220,737,191,693,166,646,147,599,121,510,111,448"/>
+<area shape="rect" id="Node000006" href="$group___g_r_a_p_h_i_c.html#ga8410b794c1df13ec016545b0d4d71f6c" title="Convert to mode." alt="" coords="525,181,725,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="451,192,511,193,507,196,453,197"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#ga1a9445c147fafbcf926caecaa5a13430" title="Get mode." alt="" coords="526,232,724,259"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="451,209,541,227,536,230,452,214"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#gadcfee87a80fbe25f2d403d11608a0248" title="Constructor of class." alt="" coords="778,336,966,363"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="703,206,732,218,768,241,801,269,853,324,847,324,798,273,765,245,729,222,703,211"/>
+<area shape="rect" id="Node000013" href="$group___g_r_a_p_h_i_c.html#ga444df6931e5e61b7265f54c1b340740a" title="Constructor of class." alt="" coords="520,440,730,467"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="460,451,507,452,502,454,461,456"/>
+<area shape="poly" id="edge18_Node000018_Node000007" title=" " alt="" coords="637,613,846,376,851,374,640,617"/>
+</map>

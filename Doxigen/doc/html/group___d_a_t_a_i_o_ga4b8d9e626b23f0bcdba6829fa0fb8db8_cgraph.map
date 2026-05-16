@@ -1,0 +1,5 @@
+<map id="DIOBUSPIRATE::ReadI2CSnifferCommand" name="DIOBUSPIRATE::ReadI2CSnifferCommand">
+<area shape="rect" id="Node000001" title="Read I2C sniffer command." alt="" coords="5,5,224,48"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="272,13,431,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,24,259,27,253,27,224,29"/>
+</map>

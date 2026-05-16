@@ -1,0 +1,21 @@
+<map id="DIOIEC60870_5::SetTimeLabelTypeB" name="DIOIEC60870_5::SetTimeLabelTypeB">
+<area shape="rect" id="Node000001" title="Set time label type b." alt="" coords="5,175,211,217"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga413e43c93f4897c9d75bafbd23f92c61" title="Get day." alt="" coords="284,5,434,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,173,177,107,215,72,257,42,272,36,268,40,260,46,218,76,181,111,127,176"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga86a5d7b455930dfda4c0721c7db2996b" title="Get day of week." alt="" coords="260,56,458,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,172,189,132,258,92,278,86,273,90,260,97,192,136,137,176"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7d9f594a636ee4b57f072216eb1939d1" title="Get hours." alt="" coords="278,107,440,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,172,258,143,287,137,283,139,259,148,172,176"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gafac1807c4d262e7eb8c7777bab66fbde" title="Get milli seconds." alt="" coords="259,157,459,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,183,245,181,241,184,212,188"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga7bda5d718cadddffaa4aed78c8bb3402" title="Get minutes." alt="" coords="273,208,445,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,204,260,210,255,212,212,209"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gaf208446f4e31c24a97fe2f6ae515cd74" title="Get month." alt="" coords="278,259,440,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="170,215,259,244,288,254,282,254,258,249,170,221"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga4755ebb96abab2bf419a31af6dda1f7b" title="Get seconds." alt="" coords="270,309,448,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="136,215,192,256,260,295,278,304,273,304,258,300,189,260,135,220"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#ga67a15e3a0aedfce69fa197afc8cf02c2" title="Get year." alt="" coords="283,360,435,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="125,215,181,281,218,316,260,346,273,354,268,354,257,350,215,320,177,285,124,220"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="507,56,677,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,67,494,68,489,70,459,72"/>
+</map>

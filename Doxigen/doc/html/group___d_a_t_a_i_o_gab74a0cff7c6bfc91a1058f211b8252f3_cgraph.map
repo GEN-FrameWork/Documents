@@ -1,0 +1,23 @@
+<map id="DIOURL::IsLocalAddress" name="DIOURL::IsLocalAddress">
+<area shape="rect" id="Node000001" title="Is local address." alt="" coords="5,79,176,106"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="464,28,575,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,77,157,43,189,26,223,14,284,4,347,4,406,11,459,24,454,25,405,17,347,10,285,9,224,19,191,31,160,47,111,81"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gaf02b761cb7c0f059ac0ad437016dde88" title="Is AURL." alt="" coords="247,28,374,55"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,76,237,57,233,61,153,81"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga55b0c01e8c2369523ca6d35547582746" title="Is local." alt="" coords="224,79,397,106"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,90,210,91,206,93,176,95"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#gaead21c974345fd5c3367a6a4aa093596" title="Resolve URL." alt="" coords="233,154,388,180"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,104,256,147,252,150,132,109"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#ga1955ea08de61edcd19d7806e64ed9aaa" title="Set." alt="" coords="235,204,386,231"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="107,104,158,146,190,170,225,190,240,199,235,198,222,195,187,174,154,151,106,109"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="335,151,396,115,481,65,486,63,398,120,337,156"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="275,152,268,145,273,135,287,129,310,127,335,130,350,139,345,138,334,135,310,132,288,134,277,139,274,144,280,154"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga4e97e075650e9bc8cfb7deb28e4c9ce4" title="Set." alt="" coords="465,128,574,155"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="388,155,452,150,447,151,389,160"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga22758e1283d37779f8e4d9fd4fe0becf" title="Constructor of class." alt="" coords="445,179,594,206"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="389,174,432,181,427,181,389,179"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga991052ea81f58e3fcd57f861bb264727" title="Fill char." alt="" coords="660,103,794,130"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="574,132,647,126,642,127,575,138"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="642,154,812,180"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="575,146,629,155,624,155,575,151"/>
+</map>

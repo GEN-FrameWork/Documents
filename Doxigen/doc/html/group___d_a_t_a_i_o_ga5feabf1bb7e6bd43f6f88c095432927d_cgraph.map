@@ -1,0 +1,9 @@
+<map id="DIOGPIO::GPIOEntry_SetIDByGPIO" name="DIOGPIO::GPIOEntry_SetIDByGPIO">
+<area shape="rect" id="Node000001" title="GPIO entry set ID by GPIO." alt="" coords="5,35,156,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga4f0065a8b4b5555e090b73fa5f575952" title="GPIO entry get by GPIO." alt="" coords="214,5,364,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,43,201,39,196,40,157,48"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab9dea75a8ea969030e4dfbca75bdce7c" title="Set ID." alt="" coords="204,72,375,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,64,191,71,185,71,156,69"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gadd16102922ecf6ff81f302e19e4c2d62" title="Get GPIO." alt="" coords="423,13,614,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,24,410,26,405,27,365,29"/>
+</map>

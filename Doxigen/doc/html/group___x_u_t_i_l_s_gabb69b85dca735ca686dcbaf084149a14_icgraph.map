@@ -1,0 +1,33 @@
+<map id="XFILEJSONVALUE::GetValueDoubleFloat" name="XFILEJSONVALUE::GetValueDoubleFloat">
+<area shape="rect" id="Node000001" title="Get value double float." alt="" coords="955,204,1154,247"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gae8df5b02e4280111b316d8f928595378" title="Do." alt="" coords="712,183,878,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="937,213,879,208,879,203,943,212"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#ga489669c37f124fcff10945a8204d14bc" title="Extract." alt="" coords="683,233,907,276"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="937,239,908,245,907,239,942,238"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga6c0c895808db643dd750a70d90d9d89f" title="Do." alt="" coords="395,5,562,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="773,170,716,107,677,74,634,46,599,33,562,25,562,20,600,28,636,42,680,69,720,104,778,171"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gae485082d065ce8b7f766623717c5eced" title="Get." alt="" coords="339,56,618,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="763,173,706,134,671,114,634,97,597,86,597,81,636,92,673,109,709,130,768,173"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9f5da6d440fabb5eef7067b92dacc3eb" title="Get." alt="" coords="322,107,635,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="739,177,634,148,579,137,579,131,636,143,744,177"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#gaf58d6ded3a3e198a9cdf0c8cfe06250c" title="Get." alt="" coords="362,157,594,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="694,189,595,183,595,177,699,188"/>
+<area shape="rect" id="Node000008" href="$group___d_a_t_a_i_o.html#ga45f08179c278d36f9ce182156ea2624d" title="Get." alt="" coords="360,208,596,235"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="694,204,597,215,596,209,699,203"/>
+<area shape="rect" id="Node000010" href="$group___d_a_t_a_i_o.html#gac18aa53149e47f654226acfa8498b398" title="Get." alt="" coords="347,259,610,285"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="708,213,684,224,660,237,636,249,593,261,592,255,634,244,658,232,682,219,703,215"/>
+<area shape="rect" id="Node000012" href="$group___d_a_t_a_i_o.html#gadfed6ccad322966d034293989aeb3162" title="Get." alt="" coords="344,309,612,336"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="700,212,685,223,669,241,662,261,654,281,637,299,614,311,612,306,633,295,650,278,657,259,664,238,681,219,695,214"/>
+<area shape="rect" id="Node000014" href="$group___d_a_t_a_i_o.html#gab00821104b696ca89cee26b26078096a" title="Get." alt="" coords="360,360,597,387"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="700,210,685,223,672,238,665,253,662,285,658,318,651,335,637,350,618,362,598,370,597,365,616,357,633,346,646,332,653,317,657,285,660,252,668,235,681,219,696,212"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga7305433a45e5d0d58484bd702253d5be" title="Web get manufactured." alt="" coords="45,99,234,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,121,235,123,233,117,308,119"/>
+<area shape="rect" id="Node000009" href="$group___d_a_t_a_i_o.html#ga09a2fc6a41378a84bac0c2b118fc5851" title="Get." alt="" coords="21,208,258,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="342,222,259,224,258,219,347,220"/>
+<area shape="rect" id="Node000011" href="$group___d_a_t_a_i_o.html#ga725e12ba5ffd428b97b1032c2bf02530" title="Get." alt="" coords="8,259,271,285"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="328,273,272,275,271,269,334,271"/>
+<area shape="rect" id="Node000013" href="$group___d_a_t_a_i_o.html#ga886d7ba0a2f632b8bb55edf61bc54522" title="Get." alt="" coords="5,309,274,336"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="326,323,274,325,274,320,331,322"/>
+<area shape="rect" id="Node000015" href="$group___d_a_t_a_i_o.html#ga666250151ae23257736d27745488d9e8" title="Get." alt="" coords="21,360,258,387"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="342,373,258,376,258,371,347,373"/>
+</map>

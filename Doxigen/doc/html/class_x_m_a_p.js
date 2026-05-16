@@ -1,0 +1,28 @@
+var class_x_m_a_p =
+[
+    [ "XMAP", "class_x_m_a_p.html#a376cffc43f3a57589f660aa78acce6ca", null ],
+    [ "~XMAP", "class_x_m_a_p.html#ae48dc615abb3189de4a1d7e8c72d9eb4", null ],
+    [ "Add", "class_x_m_a_p.html#a6dd238dccfceb726042b588a23107318", null ],
+    [ "CountKey", "class_x_m_a_p.html#aaeb01dc4d97246bf2950f3b61f4dc20b", null ],
+    [ "Delete", "class_x_m_a_p.html#a9a42f1022bfb432e31ff1c3df7a81bf2", null ],
+    [ "Delete", "class_x_m_a_p.html#a2a602fb4093aa71b15b0f80e44a5247c", null ],
+    [ "DeleteAll", "class_x_m_a_p.html#a02e7b8a15144553d81f2e8ec217845f6", null ],
+    [ "DeleteElementContents", "class_x_m_a_p.html#a6b45f14c95691399c7e16b65a2c043db", null ],
+    [ "DeleteKeyContents", "class_x_m_a_p.html#abeec7b1ddae0cd53ed9044a61de41a0a", null ],
+    [ "FastGetElement", "class_x_m_a_p.html#a165222d7ad671bfb95460c9b868cd60e", null ],
+    [ "FastGetKey", "class_x_m_a_p.html#a78833cde510493509756d206ccdb2a23", null ],
+    [ "Find", "class_x_m_a_p.html#af059da1bdb01f7efce7faf5abf454d9c", null ],
+    [ "Get", "class_x_m_a_p.html#ab1dd5c679fbb35ace34e3c54f8949de4", null ],
+    [ "GetAddInLimit", "class_x_m_a_p.html#a4c229ee9f57360bad58c3b07942be68e", null ],
+    [ "GetElement", "class_x_m_a_p.html#a7b4332f4b7696dd7da952cc17fe7c255", null ],
+    [ "GetKey", "class_x_m_a_p.html#a01397982ceddb34559ee938635e2ac1c", null ],
+    [ "GetSize", "class_x_m_a_p.html#a81756cbac50f908f3f99a10abe5ea936", null ],
+    [ "Insert", "class_x_m_a_p.html#a4bded298c8cbe58512752414c536975b", null ],
+    [ "IsEmpty", "class_x_m_a_p.html#a5167609eddf3d655a9d17c052372a70a", null ],
+    [ "operator[]", "class_x_m_a_p.html#ad0b0d268c829207e11762b0f92ab475d", null ],
+    [ "Set", "class_x_m_a_p.html#acc7b654b5cc70b401c806d0d01b91012", null ],
+    [ "SetAddInLimit", "class_x_m_a_p.html#ad053fe34730998b1998ef4a9f3d7c224", null ],
+    [ "SetIsMulti", "class_x_m_a_p.html#a3ef060fbf2ce6b1e7ce40fad02263a3c", null ],
+    [ "elements", "class_x_m_a_p.html#aec8218c06f919763e7b11dafbdc2c0bd", null ],
+    [ "keys", "class_x_m_a_p.html#aadc33c58a4a6720285e67b3c31376f1c", null ]
+];

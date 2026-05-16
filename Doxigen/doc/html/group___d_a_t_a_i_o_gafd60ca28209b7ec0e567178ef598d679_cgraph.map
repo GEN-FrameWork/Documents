@@ -1,0 +1,12 @@
+<map id="DIOSTREAMTLS_MSG_EXTENSION_EMS::GetFromBuffer" name="DIOSTREAMTLS_MSG_EXTENSION_EMS::GetFromBuffer">
+<area shape="rect" id="Node000001" title="get from buffer" alt="" coords="5,23,253,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga49978c776720b4144761df16728d9d00" title="get from buffer" alt="" coords="301,23,548,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,41,287,44,282,44,253,47"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaa18ae97bc16eca76dad45de57c4dd08c" title="Extract." alt="" coords="596,31,730,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,41,583,44,578,44,549,47"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="778,5,912,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="730,32,760,30,765,30,731,37"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="960,31,1119,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="731,41,947,44,942,44,731,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="912,25,947,32,941,31,912,30"/>
+</map>

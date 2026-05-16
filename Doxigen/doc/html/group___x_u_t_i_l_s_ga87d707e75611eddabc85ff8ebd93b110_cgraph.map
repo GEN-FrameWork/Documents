@@ -1,0 +1,11 @@
+<map id="XCONSOLE::EraseToEndLine" name="XCONSOLE::EraseToEndLine">
+<area shape="rect" id="Node000001" title="Erase to end line." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga3647300075e6ceb5a6cb4581b7e27933" title="Get size text." alt="" coords="256,5,431,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,31,243,29,238,30,205,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gae033647445437472125bc694e86ed193" title="Print message." alt="" coords="252,56,435,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,52,239,58,234,58,204,57"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacd9ca11fef10391238884a2b31342554" title="Format message." alt="" coords="483,31,687,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,57,470,56,465,57,436,62"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga878e4fbe84703c93012ba4eab2d78c98" title="Print." alt="" coords="520,81,650,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="436,76,507,86,502,86,435,82"/>
+</map>

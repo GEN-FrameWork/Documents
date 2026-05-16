@@ -1,0 +1,9 @@
+<map id="XSCHEDULER::Task_Add" name="XSCHEDULER::Task_Add">
+<area shape="rect" id="Node000001" title="Task add." alt="" coords="5,31,186,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gacb32be07ce22adbf4202fc2a5b24bd2b" title="Get X timer." alt="" coords="234,5,452,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,32,221,31,215,32,187,37"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga461fee3826d400d29bc47f58f2c5d898" title="Reset." alt="" coords="285,56,400,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,51,272,61,267,62,186,56"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gaf717958e388241b795608d32b7a1d836" title="Get micro seconds tick counter." alt="" coords="500,48,709,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,67,487,69,482,69,401,72"/>
+</map>

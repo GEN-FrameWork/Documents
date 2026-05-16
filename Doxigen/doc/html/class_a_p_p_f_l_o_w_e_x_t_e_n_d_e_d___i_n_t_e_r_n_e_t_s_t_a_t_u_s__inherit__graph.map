@@ -1,0 +1,7 @@
+<map id="APPFLOWEXTENDED_INTERNETSTATUS" name="APPFLOWEXTENDED_INTERNETSTATUS">
+<area shape="rect" id="Node000001" title="Application Flow Extended Internet Status class." alt="" coords="5,155,292,181"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_w_e_b_s_e_r_v_e_r___r_e_s_o_l_v_e_e_n_d_p_o_i_n_t.html" title="Data Input/Output Web Server Resolve EndPoint class." alt="" coords="13,80,284,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,121,151,156,146,153,147,124"/>
+<area shape="rect" id="Node000003" href="$class_x_s_e_r_i_a_l_i_z_a_b_l_e.html" title="eXtended Utils Serializable class" alt="" coords="86,5,211,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,46,151,81,146,79,147,50"/>
+</map>

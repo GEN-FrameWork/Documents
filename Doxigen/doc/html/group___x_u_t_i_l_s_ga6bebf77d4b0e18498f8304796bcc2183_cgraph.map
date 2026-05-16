@@ -1,0 +1,11 @@
+<map id="XFILETXT::IsBinaryFile" name="XFILETXT::IsBinaryFile">
+<area shape="rect" id="Node000001" title="Is binary file." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga59d2c2b8d1c32098920f5d3eba0a5971" title="Get." alt="" coords="223,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,53,213,35,209,38,140,58"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab64f925cd32c8ffe1a1bc7ddf3fc182f" title="Is open." alt="" coords="213,56,346,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,67,200,69,195,70,165,72"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="213,107,346,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,81,214,102,208,103,139,86"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="394,107,553,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="347,117,381,120,376,120,347,123"/>
+</map>

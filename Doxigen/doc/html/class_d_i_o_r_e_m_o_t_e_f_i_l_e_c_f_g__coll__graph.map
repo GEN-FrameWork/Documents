@@ -1,0 +1,18 @@
+<map id="DIOREMOTEFILECFG" name="DIOREMOTEFILECFG">
+<area shape="rect" id="Node000001" title="Data Input/Output Remote File CFG class." alt="" coords="5,380,164,407"/>
+<area shape="rect" id="Node000002" href="$class_x_f_i_l_e_c_f_g.html" title="eXtended Utils CFG (Config) file class" alt="" coords="184,304,270,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,338,110,382,108,377,187,338"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="408,205,500,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,239,346,282,272,307,270,302,343,278,419,241"/>
+<area shape="rect" id="Node000004" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="230,155,294,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,192,241,206,230,260,229,305,224,302,225,259,236,205,242,197"/>
+<area shape="rect" id="Node000005" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="150,5,232,32"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="133,31,99,42,64,59,38,84,31,99,28,116,28,318,32,336,42,353,68,379,63,381,37,356,27,338,23,319,23,116,26,97,34,81,61,55,97,37,137,27"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="180,44,164,109,160,145,163,181,175,217,190,251,221,304,216,303,186,253,170,218,158,182,155,145,159,108,178,49"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,44,258,154,253,154,203,49"/>
+<area shape="rect" id="Node000009" href="$class_x_f_i_l_e_t_x_t.html" title="eXtended Utils TXT (Text) file class" alt="" coords="267,104,350,131"/>
+<area shape="poly" id="edge8_Node000009_Node000005" title=" " alt="" coords="224,38,246,54,299,103,294,104,243,58,225,44"/>
+<area shape="rect" id="Node000008" href="$class_x_f_i_l_e_i_n_i.html" title="eXtended Utils INI (Windows INItialization file) file class" alt="" coords="308,205,384,232"/>
+<area shape="poly" id="edge6_Node000002_Node000008" title=" " alt="" coords="321,241,244,306,241,301,316,243"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="320,143,344,206,339,205,317,148"/>
+</map>

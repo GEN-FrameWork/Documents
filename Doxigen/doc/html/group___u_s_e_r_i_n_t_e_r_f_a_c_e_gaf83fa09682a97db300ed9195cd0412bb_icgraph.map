@@ -1,0 +1,5 @@
+<map id="UI_ELEMENT_PROGRESSBAR::ContinuousCycle_GetSizeSegment" name="UI_ELEMENT_PROGRESSBAR::ContinuousCycle_GetSizeSegment">
+<area shape="rect" id="Node000001" title="Continuous cycle get size segment." alt="" coords="222,5,457,48"/>
+<area shape="rect" id="Node000002" href="$group___u_s_e_r_i_n_t_e_r_f_a_c_e.html#ga0aa1bbbdec462b63e19fea3670015dd6" title="Draw progress bar." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,27,174,29,174,24,209,26"/>
+</map>

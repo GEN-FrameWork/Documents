@@ -1,0 +1,55 @@
+<map id="DIONODE::CreateJSONSerialization" name="DIONODE::CreateJSONSerialization">
+<area shape="rect" id="Node000001" title="Create JSON serialization." alt="" coords="5,197,244,224"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga4111cffe51475f0aa3e9060889a9d3ff" title="Close." alt="" coords="332,5,456,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,196,193,122,239,79,290,42,319,31,315,35,293,46,242,83,197,126,138,198"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga2487ddeffced69e5f799aa480a58b1ce" title="Create." alt="" coords="329,56,458,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,195,203,145,245,117,291,92,317,84,313,88,293,97,248,121,206,149,143,199"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga2994b359bf7d590b5064dd6629051784" title="Do serialize." alt="" coords="294,197,494,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="243,208,281,209,276,212,245,213"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga89d1db282f0f58b94fe99e69f2e70daa" title="Encode all lines." alt="" coords="544,612,736,639"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,222,148,279,179,360,200,403,227,447,258,487,293,522,348,558,408,584,470,602,531,616,526,616,469,607,407,589,345,562,290,526,254,491,222,450,196,406,174,362,142,281,129,227"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga22d8f50d12a2504835956d22576bfb9e" title="Get all in one line." alt="" coords="301,333,486,360"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="153,222,354,325,350,328,153,227"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga37d42eff083dfe6fd5da3c2f3ba14918" title="Show trace JSON." alt="" coords="292,485,496,512"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="140,222,372,473,367,475,137,227"/>
+<area shape="rect" id="Node000022" href="$group___x_u_t_i_l_s.html#ga90b5bbb15d78bd3205b04a1441b6bd1c" title="Write and encode all lines." alt="" coords="294,131,494,173"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="188,194,281,175,277,179,191,199"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gae5a0f1ef9e3d0dbf9a06bb9ea9ca9869" title="Set format char." alt="" coords="550,81,730,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,73,537,83,533,85,459,78"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga1e75fe2b80c86f53e2b019001280579a" title="Set type LF." alt="" coords="564,31,717,57"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="457,60,551,52,546,55,460,65"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga99755fe1a284eb7a7ce8fbd57045694a" title="Serialize." alt="" coords="549,132,731,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="451,194,495,183,578,162,574,165,497,188,453,199"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gae19f84471c20a914d10a8ac757cacb9a" title="Add." alt="" coords="584,359,696,385"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="487,354,571,364,566,365,487,359"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="576,308,704,335"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="486,335,563,328,558,330,488,340"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="800,220,938,247"/>
+<area shape="poly" id="edge21_Node000009_Node000015" title=" " alt="" coords="404,331,426,305,458,273,498,242,543,219,609,203,678,200,743,204,802,216,797,217,742,210,678,205,610,208,545,224,501,247,461,277,430,309,407,335"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="585,511,695,537"/>
+<area shape="poly" id="edge16_Node000009_Node000016" title=" " alt="" coords="405,358,460,425,500,464,545,496,573,511,568,510,543,501,497,468,456,429,404,363"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga17ff8b9cf9fe8e31b663fa7d4d3f1699" title="Get LF." alt="" coords="577,257,703,284"/>
+<area shape="poly" id="edge17_Node000009_Node000017" title=" " alt="" coords="432,330,543,293,572,287,567,290,545,299,435,335"/>
+<area shape="rect" id="Node000018" href="$group___x_u_t_i_l_s.html#gadc394551e572ffa1e6c3b9e3ac117f59" title="Get line." alt="" coords="572,409,708,436"/>
+<area shape="poly" id="edge19_Node000009_Node000018" title=" " alt="" coords="434,358,545,395,572,405,567,405,543,400,433,363"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gaea68e645b7632bd70b5def1c5c52551c" title="Get N lines." alt="" coords="564,460,716,487"/>
+<area shape="poly" id="edge20_Node000009_Node000019" title=" " alt="" coords="412,358,469,401,506,425,545,446,563,455,558,455,543,450,504,430,466,406,411,363"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga7c3fa0dd7b650399470c76192fbd4916" title="Get size." alt="" coords="801,409,937,436"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="697,382,793,405,788,406,697,387"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gafafdad1777fa61df07ccfe7835d3c769" title="Re alloc buffer." alt="" coords="784,359,954,385"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="696,369,771,371,766,373,697,375"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1002,333,1151,360"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="954,359,989,357,984,358,955,364"/>
+<area shape="poly" id="edge14_Node000014_Node000013" title=" " alt="" coords="704,322,989,341,983,342,704,328"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="699,305,735,294,831,253,826,255,737,298,701,310"/>
+<area shape="poly" id="edge18_Node000017_Node000017" title=" " alt="" coords="601,256,595,249,599,239,615,233,640,231,668,233,684,242,678,243,666,238,640,236,616,238,603,243,600,248,606,257"/>
+<area shape="poly" id="edge24_Node000020_Node000008" title=" " alt="" coords="412,510,469,553,506,577,545,598,563,607,558,606,543,602,504,582,466,558,411,515"/>
+<area shape="poly" id="edge25_Node000020_Node000016" title=" " alt="" coords="496,507,572,516,567,517,496,512"/>
+<area shape="poly" id="edge26_Node000020_Node000018" title=" " alt="" coords="433,482,543,445,572,440,567,441,545,451,434,487"/>
+<area shape="poly" id="edge27_Node000020_Node000019" title=" " alt="" coords="496,486,551,482,546,483,497,491"/>
+<area shape="rect" id="Node000021" href="$group___x_u_t_i_l_s.html#ga44658199a2510a12bc33457883a8511a" title="Delete all lines." alt="" coords="553,561,727,588"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="434,510,545,547,572,557,567,557,543,552,433,515"/>
+<area shape="poly" id="edge29_Node000022_Node000004" title=" " alt="" coords="487,128,567,111,562,114,490,132"/>
+<area shape="poly" id="edge30_Node000022_Node000005" title=" " alt="" coords="432,128,543,67,566,61,561,64,545,72,435,132"/>
+<area shape="poly" id="edge31_Node000022_Node000022" title=" " alt="" coords="347,130,345,121,353,112,369,106,394,104,420,106,437,114,432,116,419,112,394,109,371,111,356,116,351,122,352,131"/>
+</map>

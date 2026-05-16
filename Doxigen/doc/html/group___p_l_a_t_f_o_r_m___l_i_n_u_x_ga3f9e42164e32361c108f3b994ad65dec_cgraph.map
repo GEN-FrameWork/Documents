@@ -1,0 +1,9 @@
+<map id="INPLINUXDEVICETOUCHSCREENDIRECT::~INPLINUXDEVICETOUCHSCREENDIRECT" name="INPLINUXDEVICETOUCHSCREENDIRECT::~INPLINUXDEVICETOUCHSCREENDIRECT">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,48,313,91"/>
+<area shape="rect" id="Node000002" href="$group___i_n_p_u_t.html#gac379354c301046f63e1c40bfd9f18297" title="Delete all buttons." alt="" coords="361,5,562,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,45,365,35,360,36,291,50"/>
+<area shape="rect" id="Node000003" href="$group___i_n_p_u_t.html#gacf3f64c24137db40a3a98b09142b278d" title="Delete all cursors." alt="" coords="361,56,563,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,67,348,69,342,70,313,72"/>
+<area shape="rect" id="Node000004" href="$group___i_n_p_u_t.html#gabf1a2bbdc57da016181d2a0f324e67ce" title="Set enabled." alt="" coords="377,107,547,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,89,365,103,360,104,290,94"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="SNDFACTORY::GetInstance" name="SNDFACTORY::GetInstance">
+<area shape="rect" id="Node000001" title="Get instance." alt="" coords="548,81,738,108"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gae11d0b6e4a3b3d83d5922a619a2326f5" title="Factorys end." alt="" coords="262,5,486,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="590,75,499,47,453,35,453,30,501,41,596,75"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gaf857e51d699f882d135ae962b4a8b6e9" title="Factorys end." alt="" coords="248,56,500,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,84,500,84,500,79,535,84"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga008cba82f81f106727477c71cd2f809f" title="Factorys ini." alt="" coords="267,107,481,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="530,105,482,113,481,107,535,105"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#gab67e2de9b89a2c2b93d0ccffcc8055eb" title="Factorys ini." alt="" coords="252,157,496,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="596,114,501,148,453,159,452,154,499,143,590,114"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga105c6b8ddb941fa4fbccce046fb10304" title="End." alt="" coords="20,5,185,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,20,186,21,185,16,249,17"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga8fdc0c9ab880e4d578eb5fb486dd6c13" title="End." alt="" coords="5,56,200,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,70,201,72,199,67,234,69"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gad02c538fe40801055ecf04cbda258fe0" title="Ini." alt="" coords="24,107,181,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="249,130,181,131,181,126,254,128"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="196,109,269,110,264,112,197,114"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___w_i_n_d_o_w_s.html#ga59689716c3ed0bd300668e2e5057c07f" title="Ini." alt="" coords="10,157,195,184"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="234,180,196,182,196,177,239,180"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="210,159,254,162,249,162,211,165"/>
+</map>

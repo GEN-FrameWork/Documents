@@ -1,0 +1,5 @@
+<map id="XLINUXSYSTEM::Sound_GetLevel" name="XLINUXSYSTEM::Sound_GetLevel">
+<area shape="rect" id="Node000001" title="Sound get level." alt="" coords="224,5,394,48"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga0e2c71d9ca9c920ede6ec0c9e534013c" title="Sound set mutex." alt="" coords="5,5,176,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,27,176,29,176,24,211,26"/>
+</map>

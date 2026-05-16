@@ -1,0 +1,7 @@
+<map id="DIOPROTOCOL_CONNECTIONSMANAGER_XEVENT" name="DIOPROTOCOL_CONNECTIONSMANAGER_XEVENT">
+<area shape="rect" id="Node000001" title="Data Input/Output Protocol Connections Manager eXtended Event class." alt="" coords="5,180,300,223"/>
+<area shape="rect" id="Node000002" href="$class_x_e_v_e_n_t.html" title="eXtended Utils Event base class" alt="" coords="115,104,190,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,144,155,181,150,179,151,148"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="106,5,199,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,46,155,104,150,103,151,50"/>
+</map>

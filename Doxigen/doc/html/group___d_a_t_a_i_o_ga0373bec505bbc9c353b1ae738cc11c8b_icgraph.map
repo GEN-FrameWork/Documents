@@ -1,0 +1,12 @@
+<map id="DIOSTREAMIPLOCALENUMDEVICES::Search" name="DIOSTREAMIPLOCALENUMDEVICES::Search">
+<area shape="rect" id="Node000001" title="Search." alt="" coords="771,35,1029,77"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga0ecaef6bc345e04f3b85e5cb535d547c" title="Get first active device." alt="" coords="466,5,723,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,42,724,42,724,36,758,42"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga3e06084695089d4dba54b6180c43f138" title="Obtain local IP." alt="" coords="252,43,418,69"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="753,60,723,63,466,63,419,62,419,56,466,57,723,57,758,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,43,419,49,418,44,453,43"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga65cfc1bedff3c86d48cd2a53460773af" title="Obtain resources IP." alt="" coords="5,17,204,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,45,204,44,204,39,239,45"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga1fdc0f4db9ae3363b4b67469af23170e" title="Set target." alt="" coords="34,68,175,95"/>
+<area shape="poly" id="edge4_Node000003_Node000006" title=" " alt="" coords="234,67,175,76,175,71,239,66"/>
+</map>

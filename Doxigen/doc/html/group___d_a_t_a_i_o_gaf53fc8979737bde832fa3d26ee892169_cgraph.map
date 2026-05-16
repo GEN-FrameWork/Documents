@@ -1,0 +1,9 @@
+<map id="DIOWEBSERVER::AddAuthentication" name="DIOWEBSERVER::AddAuthentication">
+<area shape="rect" id="Node000001" title="Add authentication." alt="" coords="5,39,251,65"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaeaeb728ba1d12715db2d97206a1401b3" title="Get authentication." alt="" coords="319,13,562,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,39,306,37,301,38,251,45"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga3898525dfe352ce7790febf083f8a0f4" title="Set." alt="" coords="299,64,583,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,59,286,64,280,65,251,65"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gae2f3e2647084366d6e64de60dd4f01db" title="Get guest." alt="" coords="631,5,887,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,24,618,26,612,27,563,29"/>
+</map>

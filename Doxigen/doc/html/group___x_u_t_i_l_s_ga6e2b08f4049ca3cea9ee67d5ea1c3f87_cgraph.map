@@ -1,0 +1,21 @@
+<map id="XSERIALIZATIONMETHODBINARY::Add" name="XSERIALIZATIONMETHODBINARY::Add">
+<area shape="rect" id="Node000001" title="Add." alt="" coords="5,132,274,159"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga6be576b159582f1ed8850e79b54d4f03" title="Convert to X buffer." alt="" coords="322,132,514,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,143,309,145,303,146,275,148"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga03212e4f31a9d07995ac4f72db1dd0cf" title="Add." alt="" coords="594,56,709,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,129,561,92,583,88,588,87,563,97,457,134"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga3c14ba0ca9dfbf20b5127c87b275cb93" title="Empty." alt="" coords="586,107,717,133"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="514,132,574,128,569,129,515,138"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga039bb93d5f20c3fd2688094942de0fc2" title="Get type coding." alt="" coords="562,157,741,184"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="515,153,549,159,544,159,515,158"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="582,208,721,235"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="457,157,563,193,588,204,583,203,561,199,456,162"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gacf69e379f1d0bf812ae9c1157eac172c" title="Resize." alt="" coords="789,5,923,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="708,53,787,36,782,37,709,58"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="971,56,1130,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="710,67,957,69,952,70,710,72"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="910,30,985,52,979,52,910,35"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga0395231705663a2aeeee3b4be9d292bb" title="Delete." alt="" coords="791,107,921,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="717,117,778,120,772,120,718,123"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="910,103,979,88,985,87,911,109"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XSCHEDULER::~XSCHEDULER" name="XSCHEDULER::~XSCHEDULER">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,31,229,57"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab78992063b09d37612e7719e37d415bc" title="De register event." alt="" coords="277,5,476,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,30,264,29,259,30,229,36"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gacd1cd5f35200130137116ec8ffa2ecfc" title="End." alt="" coords="304,56,449,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,52,291,61,286,61,229,58"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga4ed9b69e1c0f27153f3fbf8c47ed5a74" title="Task del all." alt="" coords="524,56,716,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,67,511,69,506,69,449,72"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DIOSTREAMDEVICEBLUETOOTHSDPSERVICE::SetProtocol" name="DIOSTREAMDEVICEBLUETOOTHSDPSERVICE::SetProtocol">
+<area shape="rect" id="Node000001" title="Set protocol." alt="" coords="5,39,326,81"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga5c21f13ea6055db175ee6b527fdbc0a9" title="Get channel." alt="" coords="374,5,768,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,44,361,44,355,45,326,49"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga190f0f3211a4e6a28d86751bc7a35cd0" title="Get type." alt="" coords="374,72,768,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,71,361,76,355,76,326,76"/>
+</map>

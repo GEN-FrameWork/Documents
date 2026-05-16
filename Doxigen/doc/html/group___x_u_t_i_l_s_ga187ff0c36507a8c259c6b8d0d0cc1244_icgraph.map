@@ -1,0 +1,20 @@
+<map id="XSTRING::Character_IsNumber" name="XSTRING::Character_IsNumber">
+<area shape="rect" id="Node000001" title="Character is number." alt="" coords="975,73,1122,116"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga0bccddb34d98c8ead8e70a56fd7491e7" title="Have numbers." alt="" coords="740,5,914,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="984,67,926,47,889,35,889,30,928,41,989,67"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#ga584b6b79f910eaf51f0d5d9016d01a4d" title="Have only numbers." alt="" coords="727,56,927,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="957,85,928,84,928,78,963,85"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga48375c7b3b6b5a12ce03939371fdc098" title="Is number." alt="" coords="754,107,900,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="963,104,901,114,900,109,957,105"/>
+<area shape="rect" id="Node000009" href="$group___i_d_e_n_t_i_f_i_c_a_t_i_o_n.html#gad2724a92ab0ff75f9b4b3ca37224de6d" title="Set." alt="" coords="776,157,878,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="989,122,928,148,879,162,878,157,926,143,984,123"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#gae3e589fa026072728a69dec38d03a32a" title="From string." alt="" coords="80,81,240,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,103,679,97,559,90,439,89,240,93,240,88,439,83,559,85,679,92,747,103"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#gada2764acb174aa0ef87fa9c95cf96d54" title="Is decimal number." alt="" coords="424,107,618,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="736,120,619,123,619,117,741,120"/>
+<area shape="rect" id="Node000007" href="$group___g_r_a_p_h_i_c.html#ga0f7248527f5326e975b5376a0cc3d8f6" title="Parser text section." alt="" coords="363,157,679,200"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="741,137,636,159,635,154,736,137"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="406,113,240,103,240,98,410,111"/>
+<area shape="rect" id="Node000008" href="$group___g_r_a_p_h_i_c.html#gae4247f976f8fe0b88410a69e43f02372" title="Parser text section." alt="" coords="5,157,315,200"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="345,179,315,181,315,176,350,179"/>
+</map>

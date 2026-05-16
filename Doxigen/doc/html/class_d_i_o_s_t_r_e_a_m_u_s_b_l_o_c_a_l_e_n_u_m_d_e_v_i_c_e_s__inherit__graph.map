@@ -1,0 +1,7 @@
+<map id="DIOSTREAMUSBLOCALENUMDEVICES" name="DIOSTREAMUSBLOCALENUMDEVICES">
+<area shape="rect" id="Node000001" title="Data Input/Output Stream USB local enum class." alt="" coords="5,155,278,181"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_e_n_u_m_d_e_v_i_c_e_s.html" title="Data Input/Output Stream Enum Devices class." alt="" coords="41,80,242,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,121,144,156,139,153,140,124"/>
+<area shape="rect" id="Node000003" href="$class_x_s_u_b_j_e_c_t.html" title="eXtended Utils Subject class" alt="" coords="95,5,188,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,46,144,81,139,79,140,50"/>
+</map>

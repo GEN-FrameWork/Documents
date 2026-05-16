@@ -1,0 +1,23 @@
+<map id="XDATETIME::SubtractMonths" name="XDATETIME::SubtractMonths">
+<area shape="rect" id="Node000001" title="Subtract months." alt="" coords="5,81,203,108"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gaf8e81a81c48e8738383c1493849574cf" title="Is valid date." alt="" coords="492,132,665,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,106,251,117,368,129,480,140,474,140,368,135,250,123,177,111"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gac88bf3903d98483d55f52822dc383b6b" title="Subtract days." alt="" coords="486,31,671,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,78,250,67,473,48,468,51,251,72,178,83"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#gae7a7add89de0a6d6cb869fb1745a8699" title="Subtract years." alt="" coords="251,81,438,108"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="203,92,238,94,233,95,203,97"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad3719ec7fbd599d477e64eb8f0b70bb8" title="Is leap year." alt="" coords="747,132,917,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="665,143,734,145,729,145,665,148"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga1300a113a438cf34914c33ed43b89bdb" title="Get date from N days." alt="" coords="719,31,945,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="672,41,706,44,701,44,672,47"/>
+<area shape="rect" id="Node000006" href="$group___x_u_t_i_l_s.html#ga1754bc41ed71dc7380735dcf71cdd3bd" title="Get N days in gregorian." alt="" coords="993,56,1227,83"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="643,27,719,16,833,4,883,5,945,16,970,28,994,42,1019,52,1014,51,992,46,968,33,944,21,882,10,833,9,720,21,644,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="945,52,980,57,975,57,945,57"/>
+<area shape="rect" id="Node000007" href="$group___x_u_t_i_l_s.html#ga76d46faa3ebd3db235f93e1a14b046ef" title="Get N days in julian." alt="" coords="1004,5,1216,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="945,31,991,29,986,30,946,36"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="410,106,501,128,496,128,409,111"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga2c4031d8136d1dedca440bb92602b7e9" title="Add days." alt="" coords="499,81,658,108"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="438,92,486,94,481,95,439,97"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="649,78,744,61,750,61,650,83"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="658,88,980,75,975,76,659,94"/>
+</map>

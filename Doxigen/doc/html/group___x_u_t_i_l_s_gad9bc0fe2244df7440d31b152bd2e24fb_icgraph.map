@@ -1,0 +1,42 @@
+<map id="XBUFFER::Set" name="XBUFFER::Set">
+<area shape="rect" id="Node000001" title="Set." alt="" coords="749,335,862,361"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gabd49ed485524249612e9620769e55a3b" title="Bit add data." alt="" coords="514,5,680,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="801,318,794,261,779,187,766,149,748,111,727,76,700,46,681,33,680,28,703,42,731,73,753,108,771,147,784,186,800,260,806,320"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaabc121f5953329bef32255b74e12e274" title="Bit set data." alt="" coords="516,56,679,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="799,318,789,271,772,211,743,149,723,121,700,97,679,84,679,78,703,93,727,118,747,146,777,209,795,270,803,320"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gab671104737ecad3c633553916ea6fae9" title="De serialize." alt="" coords="493,107,701,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="795,318,783,281,764,234,737,187,700,147,682,137,682,131,703,143,741,184,769,231,788,279,800,320"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga53867802376ada2dd4c165a255ab8ad3" title="Get to X buffer." alt="" coords="499,157,695,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="790,320,756,258,731,226,700,198,680,187,679,182,703,194,734,222,760,255,796,321"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga81d98f6fcfdd5ab592fcf4762bfbab53" title="Set." alt="" coords="541,208,653,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="782,322,747,285,725,265,700,249,654,232,654,227,703,244,728,261,751,281,788,323"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#ga04a759b59f5dccb02cef44b5d2d194c3" title="Set." alt="" coords="541,259,653,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="764,327,700,300,654,286,653,281,702,295,770,327"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gaf684c4deae49d950a87cee80b0d349ad" title="Set." alt="" coords="541,309,653,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="731,340,654,332,653,327,737,339"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#gabcb2e7b74b0b5009181c386b24808626" title="Set." alt="" coords="541,360,653,387"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="732,358,655,369,653,364,737,356"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gaedec11aa13d4136fcd300f4917d4959e" title="Set." alt="" coords="541,411,653,437"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="764,370,702,401,655,415,653,410,700,396,769,368"/>
+<area shape="rect" id="Node000013" href="$group___x_u_t_i_l_s.html#gaaa70c3353e9041c7443c2541e48585ff" title="Set." alt="" coords="541,461,653,488"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="787,372,751,415,728,435,703,452,655,469,653,464,700,447,725,431,747,411,783,375"/>
+<area shape="rect" id="Node000014" href="$group___x_u_t_i_l_s.html#gaddf562065dbb5c4f233a47f1d66c9862" title="Set." alt="" coords="541,512,653,539"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="795,374,760,441,734,474,703,502,680,514,655,522,653,517,678,509,700,498,731,470,756,438,791,378"/>
+<area shape="rect" id="Node000015" href="$group___x_u_t_i_l_s.html#ga6da24feb95a7983d217a0617df94cc88" title="Set trace text to X buffer." alt="" coords="226,563,445,589"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="801,375,791,418,772,467,743,514,724,535,703,553,667,572,629,586,590,595,549,600,472,600,405,593,405,587,472,595,549,594,589,590,628,581,665,567,700,548,721,532,739,511,767,464,785,417,797,379"/>
+<area shape="rect" id="Node000016" href="$group___x_u_t_i_l_s.html#gaa7dc0b8171bbb7e224a2ba1fcaac3bb5" title="Set trace to X buffer." alt="" coords="500,613,694,640"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="802,375,793,424,775,483,745,544,726,572,703,597,672,615,670,610,700,593,722,569,741,541,770,481,788,423,798,379"/>
+<area shape="rect" id="Node000017" href="$group___x_u_t_i_l_s.html#ga57ba9632c6a694b0eeba560e16b6aad8" title="Set with mask arg." alt="" coords="502,664,693,691"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="805,375,800,436,784,510,771,549,753,588,731,623,703,654,685,666,684,661,700,650,727,620,748,585,766,547,779,509,794,435,801,379"/>
+<area shape="rect" id="Node000006" href="$group___c_i_p_h_e_r.html#ga30af2af4a9d6814e32d4525e050ddacf" title="Export to PEM file." alt="" coords="249,149,422,192"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="481,172,423,173,421,168,486,169"/>
+<area shape="rect" id="Node000007" href="$group___c_i_p_h_e_r.html#ga68e0ff4b4f8b8dd763065fd972329d8d" title="Export to PEM file." alt="" coords="5,149,178,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="231,172,179,173,177,168,235,169"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="507,610,408,593,408,587,512,609"/>
+<area shape="rect" id="Node000018" href="$group___x_u_t_i_l_s.html#ga777a52f0e08d7d4aa263b5dfce82adfd" title="Set with mask." alt="" coords="250,613,421,640"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="507,661,408,643,408,638,512,660"/>
+<area shape="rect" id="Node000019" href="$group___x_u_t_i_l_s.html#gaea2109d7332ac0aa544a3d727ea1a35b" title="Set with mask." alt="" coords="250,664,421,691"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="484,678,422,680,421,675,489,677"/>
+<area shape="rect" id="Node000020" href="$group___x_u_t_i_l_s.html#ga4a98a5e2773f4d92f51d41c624e364c1" title="Set with mask arg." alt="" coords="240,715,431,741"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="512,694,408,717,408,711,507,694"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="DIOLINUXDBUS::TraceError" name="DIOLINUXDBUS::TraceError">
+<area shape="rect" id="Node000001" title="Trace error." alt="" coords="521,164,713,191"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga692df8d68eff448d65c655db73abcf57" title="Call method." alt="" coords="276,5,473,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="593,152,542,99,508,71,472,46,447,35,446,30,474,42,512,66,546,95,598,152"/>
+<area shape="rect" id="Node000003" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga0628c13ffc95147259e3bc8a3bd2a838" title="Get result." alt="" coords="276,56,472,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,157,472,113,443,102,442,97,474,108,577,156"/>
+<area shape="rect" id="Node000005" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gacbddef190f44345e767dd7d628ef640f" title="Get result." alt="" coords="276,123,472,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="503,162,473,160,473,155,508,162"/>
+<area shape="rect" id="Node000006" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga37a501a3112b4126df83e0148fe98f8f" title="Get result." alt="" coords="276,189,472,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="503,193,473,200,472,195,508,192"/>
+<area shape="rect" id="Node000007" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga47f9bf27dd9c7e503973f0749252786f" title="Ini." alt="" coords="302,256,447,283"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="579,197,529,224,474,247,437,258,436,253,472,241,527,219,574,199"/>
+<area shape="rect" id="Node000008" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#gac2fae23142759f0b56e60d0a60c586d6" title="Signal add." alt="" coords="276,307,473,333"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="595,201,542,251,509,276,474,297,445,309,444,303,472,292,506,272,539,247,590,203"/>
+<area shape="rect" id="Node000004" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga1fcb10276721de02de1e731fb817d0f1" title="Get connection state." alt="" coords="5,56,228,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,79,229,80,227,75,263,76"/>
+<area shape="rect" id="Node000009" href="$group___p_l_a_t_f_o_r_m___l_i_n_u_x.html#ga2621ef0fe641653d150c31bccae1d755" title="Signal add." alt="" coords="18,307,215,333"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="257,320,216,323,215,317,262,320"/>
+</map>

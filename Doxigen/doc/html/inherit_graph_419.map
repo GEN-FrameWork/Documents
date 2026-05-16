@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_x_f_a_c_t_o_r_y.html" title="eXtended Utils factory" alt="" coords="5,107,98,133"/>
+<area shape="rect" id="Node000001" href="$class_x_a_n_d_r_o_i_d_f_a_c_t_o_r_y.html" title="ANDROID eXtended platform Factory." alt="" coords="149,5,304,32"/>
+<area shape="poly" id="edge436_Node000000_Node000001" title=" " alt="" coords="75,94,107,67,144,42,174,31,170,34,147,46,110,71,79,98"/>
+<area shape="rect" id="Node000002" href="$class_x_e_s_p32_f_a_c_t_o_r_y.html" title="eXtended utils ESP32 platform factory class" alt="" coords="160,56,293,83"/>
+<area shape="poly" id="edge437_Node000000_Node000002" title=" " alt="" coords="111,100,180,81,176,85,114,105"/>
+<area shape="rect" id="Node000003" href="$class_x_l_i_n_u_x_f_a_c_t_o_r_y.html" title="LINUX eXtended Utils factory class." alt="" coords="160,107,292,133"/>
+<area shape="poly" id="edge438_Node000000_Node000003" title=" " alt="" coords="113,117,162,119,158,121,114,123"/>
+<area shape="rect" id="Node000004" href="$class_x_s_t_m32_f_a_c_t_o_r_y.html" title="eXtended utils STM32 platform factory class" alt="" coords="159,157,294,184"/>
+<area shape="poly" id="edge439_Node000000_Node000004" title=" " alt="" coords="112,135,180,156,175,158,112,140"/>
+<area shape="rect" id="Node000005" href="$class_x_w_i_n_d_o_w_s_f_a_c_t_o_r_y.html" title="WINDOWS eXtended Utils factory class." alt="" coords="146,208,307,235"/>
+<area shape="poly" id="edge440_Node000000_Node000005" title=" " alt="" coords="78,142,110,169,147,194,174,207,169,207,144,198,107,173,76,147"/>
+</map>

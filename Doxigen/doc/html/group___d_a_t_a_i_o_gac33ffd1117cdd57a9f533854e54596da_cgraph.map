@@ -1,0 +1,35 @@
+<map id="DIOSTREAMDEVICEIP::DebugPrintInfo" name="DIOSTREAMDEVICEIP::DebugPrintInfo">
+<area shape="rect" id="Node000001" title="Debug print info." alt="" coords="5,173,179,216"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga00892c3d58903c4fb65d7f9bf2437425" title="Debug print info." alt="" coords="227,5,474,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,171,151,106,186,71,225,42,240,36,236,40,228,46,189,75,156,110,108,174"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad1470753a96f93e2feb3ee54e6fef95f" title="Get." alt="" coords="295,56,406,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,171,163,130,193,110,226,92,282,76,278,80,228,97,196,114,166,135,118,174"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gafbf7a2e1a9ce6b1b2d6c1b193c80f5f9" title="Get IP." alt="" coords="264,107,437,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,170,252,152,248,156,179,175"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga9e15957a8ec266ba4fc1a0063c525292" title="Get IP type." alt="" coords="264,173,437,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="178,192,251,193,246,196,180,197"/>
+<area shape="rect" id="Node000006" href="$group___d_a_t_a_i_o.html#ga2d5b74a633b66cb73177ff8d214fe7aa" title="Get MAC." alt="" coords="264,240,437,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,214,253,234,248,237,178,219"/>
+<area shape="rect" id="Node000007" href="$group___d_a_t_a_i_o.html#ga6a266ef4ef9e43473e91acc37a816725" title="Get X string." alt="" coords="253,357,448,384"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="107,214,156,280,189,314,228,343,241,351,236,351,225,348,186,318,151,283,106,219"/>
+<area shape="rect" id="Node000047" href="$group___d_a_t_a_i_o.html#ga7ab809da57ae6352a193696f5bb38fba" title="Get X string." alt="" coords="277,307,424,333"/>
+<area shape="poly" id="edge17_Node000001_Node000047" title=" " alt="" coords="116,214,166,255,196,275,228,292,264,306,259,307,226,297,193,280,163,259,116,219"/>
+<area shape="rect" id="Node000008" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="949,281,1076,308"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="434,354,473,343,497,330,521,317,632,295,744,285,848,283,936,288,931,289,847,288,744,290,632,301,523,323,499,334,475,348,435,359"/>
+<area shape="rect" id="Node000010" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="1130,332,1268,359"/>
+<area shape="poly" id="edge16_Node000007_Node000010" title=" " alt="" coords="448,370,656,373,901,368,1117,354,1111,355,901,373,656,378,449,376"/>
+<area shape="rect" id="Node000011" href="$group___x_u_t_i_l_s.html#ga2177bf8a150174dfd155c7fe1b7b2af9" title="Format." alt="" coords="547,332,677,359"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="448,359,534,353,529,354,449,364"/>
+<area shape="rect" id="Node000046" href="$group___d_a_t_a_i_o.html#ga0558112e9e88c41258d33098e43538a5" title="Is empty." alt="" coords="522,433,702,460"/>
+<area shape="poly" id="edge15_Node000007_Node000046" title=" " alt="" coords="400,382,552,428,546,429,399,387"/>
+<area shape="rect" id="Node000009" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="1124,281,1273,308"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1076,292,1111,294,1106,295,1077,297"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1065,306,1135,328,1130,327,1064,311"/>
+<area shape="rect" id="Node000012" href="$group___x_u_t_i_l_s.html#gaf133c586a68352ab6639b75261cf28d0" title="Format arg." alt="" coords="750,332,901,359"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="678,351,737,354,732,354,678,356"/>
+<area shape="poly" id="edge12_Node000012_Node000008" title=" " alt="" coords="877,329,943,313,949,312,878,334"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="901,343,1116,345,1111,346,901,348"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="747,337,693,339,693,334,753,336"/>
+<area shape="poly" id="edge18_Node000047_Node000008" title=" " alt="" coords="424,304,473,292,497,282,521,273,627,258,711,256,901,273,936,280,930,280,900,279,710,262,628,264,523,279,499,287,475,297,425,310"/>
+<area shape="poly" id="edge19_Node000047_Node000011" title=" " alt="" coords="424,324,534,337,529,338,425,330"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DIODNSRESOLVER::DNSServer_IsIPonList" name="DIODNSRESOLVER::DNSServer_IsIPonList">
+<area shape="rect" id="Node000001" title="DNS server is I pon list." alt="" coords="544,72,765,115"/>
+<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga1ccd3c8b1d4543b96ab9d34737837569" title="DNS server add DNS server." alt="" coords="275,5,496,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="548,68,474,51,475,46,554,68"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gac19ff93f0f10a0f42247c3b4df66eb6b" title="DNS server add DNS server." alt="" coords="275,72,496,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="526,94,496,96,496,91,531,93"/>
+<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#gab18720d2f63e7199e6aafe93802ad27e" title="DNS server add DNS server." alt="" coords="275,139,496,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="554,119,475,141,474,135,548,119"/>
+<area shape="rect" id="Node000005" href="$group___d_a_t_a_i_o.html#ga294af428aaaf2c7a9f819e9eef87f27c" title="DNS server add DNS server." alt="" coords="5,139,227,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,160,227,163,227,157,262,160"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="APPFLOWBASE::GetExitTypeString" name="APPFLOWBASE::GetExitTypeString">
+<area shape="rect" id="Node000001" title="Get exit type string." alt="" coords="5,48,208,91"/>
+<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#ga9275997c1605fa79646c301e63a77d06" title="Empty." alt="" coords="293,31,420,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,56,280,51,275,52,209,62"/>
+<area shape="rect" id="Node000005" href="$group___a_p_p_f_l_o_w.html#ga9c9cb6da24179ffe8ea48e732c2a7cd3" title="Get exit type." alt="" coords="256,81,458,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="208,77,243,83,238,83,208,82"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gaeb17d2eb4d14639da9e55d3aaaef0eb2" title="Free buffer." alt="" coords="506,5,655,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,34,493,28,488,29,421,39"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad26690161f8c1e2722771322b7370005" title="Is empty." alt="" coords="512,56,650,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="421,49,498,60,493,60,421,54"/>
+</map>

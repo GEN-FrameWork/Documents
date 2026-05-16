@@ -1,0 +1,15 @@
+<map id="DIOSTREAMTLS_MSG_RECORD::CalculateLength" name="DIOSTREAMTLS_MSG_RECORD::CalculateLength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,234,115"/>
+<area shape="rect" id="Node000002" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___r_e_c_o_r_d.html#a62402b64934d91ccdc4cd4c4a1a15098" title=" " alt="" coords="290,5,518,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,69,298,51,293,53,214,74"/>
+<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga0dbe129a4873d7ecdd4dae3e68d0cea5" title="get length buffer" alt="" coords="282,72,527,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,91,269,93,263,94,234,96"/>
+<area shape="rect" id="Node000007" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___r_e_c_o_r_d.html#a6a6dc030513a9b8d1f575c5ffb454d95" title=" " alt="" coords="290,139,518,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="214,113,298,134,293,135,213,118"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga726a6143d8a9293a199f8033c8198a0a" title="Get size." alt="" coords="628,51,767,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,78,615,72,610,73,528,84"/>
+<area shape="rect" id="Node000006" href="$class_d_i_o_s_t_r_e_a_m_t_l_s___m_s_g___i_n_t_e_r_f_a_c_e.html#a49673b938767ce8958929540babc1918" title=" " alt="" coords="575,101,820,144"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="527,103,562,109,557,109,527,108"/>
+<area shape="rect" id="Node000005" href="$group___x_u_t_i_l_s.html#ga7f7fefde5619da5cfb66dc34f4cd4b08" title="Set blocked." alt="" coords="868,51,1028,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="768,61,856,64,850,64,768,67"/>
+</map>

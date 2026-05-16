@@ -1,0 +1,9 @@
+<map id="XSTM32THREAD::~XSTM32THREAD" name="XSTM32THREAD::~XSTM32THREAD">
+<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,47,257,73"/>
+<area shape="rect" id="Node000002" href="$group___p_l_a_t_f_o_r_m___s_t_m32.html#ga79e0f65aa46832ff4678329a0672e378" title="End." alt="" coords="305,47,464,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,57,291,60,286,60,258,63"/>
+<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gad14ac9a4bf1cf279951bb9900e3e0da7" title="Delete thread." alt="" coords="512,5,743,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,46,499,44,494,45,465,52"/>
+<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#ga6865277ecc64005706b5cf68b20529fb" title="Get instance." alt="" coords="512,72,743,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="465,68,499,75,494,75,464,74"/>
+</map>
