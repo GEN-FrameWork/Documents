@@ -347,7 +347,26 @@ option(DB_MYSQL_FEATURE                                         "DB MySQL"      
 option(DB_POSTGRESQL_FEATURE                                    "DB PostgresSQL"                                          ON )
 option(DB_SQLITE_FEATURE                                        "DB SQLite"                                               ON )
 ``` 
-  
+
+
+
+## ThirdPartyLibraries
+
+```
+option(THIRDPARTYLIBRARIES_ZLIB_FEATURE                         "ZLib Compression Library"                                ON )
+option(THIRDPARTYLIBRARIES_AGG_FEATURE                          "AGG Anti-Grain Geometry Graphics 2D library"             ON )
+option(THIRDPARTYLIBRARIES_FREETYPE_FEATURE                     "Freetype Font Library"                                   ON )
+option(THIRDPARTYLIBRARIES_JPEGLIB_FEATURE                      "JPEGLIB Library"                                         ON )
+option(THIRDPARTYLIBRARIES_LIBPNG_FEATURE                       "LibPNG Library"                                          ON )
+option(THIRDPARTYLIBRARIES_OPENAL_FEATURE                       "OpenAL Sound Library"                                    ON )    
+option(THIRDPARTYLIBRARIES_DUKETAPE_FEATURE                     "DukeTape JavaScript Library"                             ON )
+option(THIRDPARTYLIBRARIES_LUA_SCRIPT_FEATURE                   "Lua Script Library"                                      ON )
+option(THIRDPARTYLIBRARIES_RPI_WS281X_FEATURE                   "RPI WS281X Library"                                      ON )
+option(THIRDPARTYLIBRARIES_ANGLE_FEATURE                        "Angle OpenGL ES Library"                                 ON )
+
+```
+ 
+ 
   
 ## Windows  
   
