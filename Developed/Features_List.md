@@ -361,7 +361,7 @@ option(THIRDPARTYLIBRARIES_LIBPNG_FEATURE                       "LibPNG Library"
 option(THIRDPARTYLIBRARIES_OPENAL_FEATURE                       "OpenAL Sound Library"                                    ON )    
 option(THIRDPARTYLIBRARIES_DUKETAPE_FEATURE                     "DukeTape JavaScript Library"                             ON )
 option(THIRDPARTYLIBRARIES_LUA_SCRIPT_FEATURE                   "Lua Script Library"                                      ON )
-option(THIRDPARTYLIBRARIES_RPI_WS281X_FEATURE                   "RPI WS281X Library"                                      ON )
+option(THIRDPARTYLIBRARIES_RPI5_WS281X_FEATURE                  "RPI5 WS281X Library"                                     ON )
 option(THIRDPARTYLIBRARIES_ANGLE_FEATURE                        "Angle OpenGL ES Library"                                 ON )
 
 ```
