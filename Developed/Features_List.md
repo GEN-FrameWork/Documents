@@ -240,7 +240,7 @@ option(DIO_OBEXPUSH_FEATURE                                     "ObexPush Protoc
 option(DIO_MPSSE_FEATURE                                        "MPSSE"                                                   ON )
 option(DIO_WAKEONLAN_FEATURE                                    "WakeON Lan"                                              ON )
 option(DIO_BUSPIRATE_FEATURE                                    "Bus Pirate 4.0"                                          ON )    
-option(DIO_LEDNEOPIXELWS2812B_FEATURE                           "Led Neopixel WS2812B"                                    ON )
+# option(DIO_LEDNEOPIXELWS2812B_FEATURE                           "Led Neopixel WS2812B"                                    ON )
 option(DIO_LEDNEOPIXELWS2812B_RPI5_FEATURE                      "Led Neopixel WS2812B Raspberry Pi 5"                     ON )
   
 option(DIO_APPLICATIONUPDATE_FEATURE                            "Application Update"                                      ON )    
