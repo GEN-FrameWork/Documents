@@ -16,7 +16,7 @@ A new GEN module must follow these visible characteristics:
 2. Use the GEN file banner at the top of every source file.
 3. Use `#pragma once` in headers.
 4. Use explicit section separators such as `/*---- INCLUDES ----*/`, `/*---- DEFINES & ENUMS ----*/`, `/*---- CLASS ----*/`, `/*---- CLASS MEMBERS ----*/`.
-5. Use uppercase class names, usually with a module prefix: `XSTRING`, `DIOPROTOCOL`, `APPFLOWALERTS`, `GRPCANVAS`, `CIPHERKEY`.
+5. Use uppercase class names, usually with a module prefix: `XSTRING`, `DIOPROTOCOL`, `APPFLOWALERTS`, `GRP2DCANVAS`, `CIPHERKEY`.
 6. Use uppercase enum type names and uppercase enum values prefixed by the enum/module name.
 7. Use uppercase `#define` names, usually prefixed by the module or framework namespace.
 8. Use GEN primitive types (`XBYTE`, `XWORD`, `XDWORD`, `XQWORD`, `XCHAR`, `XSTRING`, `XPATH`, `XBUFFER`) instead of raw standard types where the existing framework has an equivalent.
@@ -445,7 +445,7 @@ Names must carry their module prefix. Common prefixes include:
 | XUtils | `X`, `XFILE`, `XSTRING`, `XBUFFER`, `XTIMER` |
 | DataIO | `DIO`, `DIOSTREAM`, `DIOPROTOCOL` |
 | AppFlow | `APPFLOW`, `APPFLOWCFG`, `APPFLOWALERTS` |
-| Graphic | `GRP`, `GRPCANVAS`, `GRPBITMAP` |
+| Graphic | `GRP`, `GRP2DCANVAS`, `GRPBITMAP` |
 | User Interface | `UI`, `UI_MANAGER`, `UI_ELEMENT` |
 | Cipher | `CIPHER`, `HASH`, `CIPHERAES` |
 | Script | `SCRIPT`, `SCRIPT_LIB` |
@@ -468,7 +468,7 @@ Correct:
 class DIOPROTOCOL;
 class APPFLOWALERTS;
 class XSTRING;
-class GRPCANVAS;
+class GRP2DCANVAS;
 class MYMODULE;
 class MYMODULE_XEVENT;
 ```
