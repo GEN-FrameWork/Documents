@@ -1,9 +1,0 @@
-<map id="XFILEUNZIP::GetNFiles" name="XFILEUNZIP::GetNFiles">
-<area shape="rect" id="Node000001" title="Get N files." alt="" coords="798,13,965,40"/>
-<area shape="rect" id="Node000002" href="$group___x_u_t_i_l_s.html#gab04df4c021280ebe042bdaa1fae31006" title="Backup adjust N files in compressed." alt="" coords="523,5,750,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,27,751,29,751,24,785,27"/>
-<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gab93b10e6f323812a1d595d88445f9e6c" title="Backup adjust N files." alt="" coords="248,13,475,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,27,476,29,475,24,510,27"/>
-<area shape="rect" id="Node000004" href="$group___x_u_t_i_l_s.html#gad88817a75f1366d81d67c63c80f1abfa" title="Backup control limits." alt="" coords="5,5,200,48"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,27,200,29,200,24,235,26"/>
-</map>

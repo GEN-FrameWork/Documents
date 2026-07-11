@@ -1,5 +1,0 @@
-<map id="DIOCOREPROTOCOL_CFG::GetTimeToEliminateConnectionDisconnect" name="DIOCOREPROTOCOL_CFG::GetTimeToEliminateConnectionDisconnect">
-<area shape="rect" id="Node000001" title="Get time to eliminate connection disconnect." alt="" coords="387,5,600,64"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gaac7589036e58cb42029ae64c9a416c49" title="Connections GEN_DELETE all disconnected." alt="" coords="5,13,339,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,35,339,37,339,32,374,35"/>
-</map>

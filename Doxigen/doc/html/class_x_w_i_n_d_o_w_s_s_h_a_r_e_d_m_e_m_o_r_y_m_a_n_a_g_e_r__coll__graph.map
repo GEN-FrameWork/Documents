@@ -1,9 +1,0 @@
-<map id="XWINDOWSSHAREDMEMORYMANAGER" name="XWINDOWSSHAREDMEMORYMANAGER">
-<area shape="rect" id="Node000001" title="WINDOWS eXtended Utils Shared Memory Manager (Exchange between applications)." alt="" coords="5,279,289,305"/>
-<area shape="rect" id="Node000002" href="$class_x_s_h_a_r_e_d_m_e_m_o_r_y_m_a_n_a_g_e_r.html" title="eXtended Utils Shared memory Manager class" alt="" coords="40,203,254,229"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,243,149,280,145,277,145,246"/>
-<area shape="rect" id="Node000003" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="106,104,188,131"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,144,150,203,144,202,145,149"/>
-<area shape="rect" id="Node000004" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="108,5,186,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,45,150,104,144,103,146,50"/>
-</map>

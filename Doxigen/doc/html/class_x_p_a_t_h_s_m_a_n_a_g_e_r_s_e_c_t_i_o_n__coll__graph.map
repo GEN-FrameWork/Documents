@@ -1,9 +1,0 @@
-<map id="XPATHSMANAGERSECTION" name="XPATHSMANAGERSECTION">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,279,207,305"/>
-<area shape="rect" id="Node000002" href="$class_x_p_a_t_h.html" title="eXtended Utils Path class" alt="" coords="74,180,138,207"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,221,109,279,103,278,104,224"/>
-<area shape="rect" id="Node000003" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="65,104,147,131"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,143,109,180,103,179,105,148"/>
-<area shape="rect" id="Node000004" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="67,5,145,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,45,109,104,103,103,105,50"/>
-</map>

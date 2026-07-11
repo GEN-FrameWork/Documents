@@ -1,9 +1,0 @@
-<map id="DIOPROTOCOL_CONNECTION::SetDIOProtocol" name="DIOPROTOCOL_CONNECTION::SetDIOProtocol">
-<area shape="rect" id="Node000001" title="Set DIO protocol." alt="" coords="721,51,938,93"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga358597b7888363b823cb7602a63cbda3" title="Protocol connections GEN_DELETE all wait connections." alt="" coords="379,5,673,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,57,673,55,673,50,708,57"/>
-<area shape="rect" id="Node000004" href="$group___d_a_t_a_i_o.html#ga2cf2d0775c51996a6eb5be3b0249ba42" title="Protocol connections GEN_DELETE disconnected." alt="" coords="379,88,673,131"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="708,87,673,94,673,89,703,87"/>
-<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#gab163df3901e8e50f0e90465f120670d9" title="End." alt="" coords="5,21,331,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,35,331,37,331,32,366,34"/>
-</map>

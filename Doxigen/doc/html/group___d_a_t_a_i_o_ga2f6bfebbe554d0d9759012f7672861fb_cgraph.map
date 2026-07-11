@@ -1,7 +1,0 @@
-<map id="DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO::~DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO" name="DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO::~DIOSTREAMTLS_MSG_HANDSHAKE_CLIENTHELLO">
-<area shape="rect" id="Node000001" title="Destructor of class." alt="" coords="5,5,260,64"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#ga4e291bae9cd54a107f937191373b1466" title="extensions GEN_DELETE all" alt="" coords="308,5,562,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,32,295,34,290,35,260,37"/>
-<area shape="rect" id="Node000003" href="$group___d_a_t_a_i_o.html#ga2876323cbde6afc1257aeae72749a38c" title="extensions set lenght" alt="" coords="610,5,864,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,32,597,35,592,35,562,37"/>
-</map>

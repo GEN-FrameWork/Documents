@@ -1,7 +1,0 @@
-<map id="DIOOBEXPUSH::End" name="DIOOBEXPUSH::End">
-<area shape="rect" id="Node000001" title="End." alt="" coords="5,43,157,69"/>
-<area shape="rect" id="Node000002" href="$group___d_a_t_a_i_o.html#gad411332a9bb9038b8173bcbcdb449dcd" title="Send file list GEN_DELETE all." alt="" coords="211,5,411,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,44,198,41,192,42,157,49"/>
-<area shape="rect" id="Node000003" href="$group___x_u_t_i_l_s.html#gabcbc6f518f88c8968722d3b4ed2b16bc" title="Set current state." alt="" coords="205,72,417,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,63,192,70,186,70,157,68"/>
-</map>

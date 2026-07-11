@@ -1,9 +1,0 @@
-<map id="DIOWINDOWSNOTIFICATIONSMANAGER" name="DIOWINDOWSNOTIFICATIONSMANAGER">
-<area shape="rect" id="Node000001" title="WINDOWS Data Input/Output Notifications manager class." alt="" coords="5,300,291,327"/>
-<area shape="rect" id="Node000002" href="$class_d_i_o_n_o_t_i_f_i_c_a_t_i_o_n_s_m_a_n_a_g_e_r.html" title="Data Input/Output Notifications Manager class." alt="" coords="40,224,256,251"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,264,150,301,146,298,146,268"/>
-<area shape="rect" id="Node000003" href="$class_x_s_t_r_i_n_g.html" title="eXtended Utils Unicode String class" alt="" coords="107,104,189,131"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,145,151,224,145,223,146,149"/>
-<area shape="rect" id="Node000004" href="$class_x_m_u_t_e_x.html" title=" " alt="" coords="109,5,187,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,45,151,104,145,103,147,50"/>
-</map>
