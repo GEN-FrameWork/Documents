@@ -217,7 +217,7 @@ option(DIO_STREAMSPI_TOUCHSCREEN_STMPE610_FEATURE               "Stream SPI Touc
   
 option(DIO_DISPLAYDEVICE_FEATURE                                "Stream Display Device"                                   ON )
 
-option(DIOPING_NATIVE_FEATURE                                   "Ping Native"                                             ON )    
+option(DIO_PING_NATIVE_FEATURE                                   "Ping Native"                                             ON )    
 option(DIO_PING_FEATURE                                         "Ping"                                                    ON )    
   
 option(DIO_PCAP_FEATURE                                         "PCap Library"                                            ON )
@@ -240,7 +240,7 @@ option(DIO_OBEXPUSH_FEATURE                                     "ObexPush Protoc
 option(DIO_MPSSE_FEATURE                                        "MPSSE"                                                   ON )
 option(DIO_WAKEONLAN_FEATURE                                    "WakeON Lan"                                              ON )
 option(DIO_BUSPIRATE_FEATURE                                    "Bus Pirate 4.0"                                          ON )    
-# option(DIO_LEDNEOPIXELWS2812B_FEATURE                           "Led Neopixel WS2812B"                                    ON )
+option(DIO_LEDNEOPIXELWS2812B_FEATURE                           "Led Neopixel WS2812B"                                    ON )
 option(DIO_LEDNEOPIXELWS2812B_RPI5_FEATURE                      "Led Neopixel WS2812B Raspberry Pi 5"                     ON )
   
 option(DIO_APPLICATIONUPDATE_FEATURE                            "Application Update"                                      ON )    
