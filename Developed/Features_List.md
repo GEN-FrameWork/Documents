@@ -85,22 +85,26 @@ option(XFILE_INI_FEATURE                                        "XFile INI forma
 option(XFILE_ZIP_FEATURE                                        "XFile Zip format"                                        ON )
 option(XFILE_XML_FEATURE                                        "XFile XML format"                                        ON )
 option(XFILE_JSON_FEATURE                                       "XFile JSON format"                                       ON )
+option(XFILE_CSV_FEATURE                                        "XFile CSV format"                                        ON )
 option(XFILE_RIFF_FEATURE                                       "XFile RIFF format"                                       ON )
 option(XFILE_HEX_FEATURE                                        "XFile HEX format"                                        ON )
 option(XFILE_DFU_FEATURE                                        "XFile DFU format"                                        ON )
 option(XFILE_TXT_FEATURE                                        "XFile Text format"                                       ON )
 option(XFILE_FEATURE                                            "XFile"                                                   ON )
-  
-option(XASN_FEATURE                                             "ANS.1"                                                   ON )
+
+option(XBER_FEATURE                                             "XBER format"                                             ON )      
+option(XASN1_FEATURE                                            "ANS.1"                                                   ON )
+
+option(XINTERPOLATOR_FEATURE                                    "Interpolator functions"                                  ON )
   
 option(XLICENSE_FEATURE                                         "License"                                                 ON )
 
 option(XSOPIPELINE_FEATURE                                      "System operative Pipeline"                               ON )
-
   
 option(XTHREADCOLLECTED_FEATURE                                 "Thread Collected"                                        ON )
 option(XUUID_FEATURE                                            "UUID functions"                                          ON )    
   
+option(XSERIALIZABLE_FEATURE                                    "Serializable functions"                                  ON )
 option(XSERIALIZABLE_BINARY_FEATURE                             "Serializable Binary"                                     ON )
 option(XSERIALIZABLE_JSON_FEATURE                               "Serializable JSON"                                       ON )
   
@@ -127,15 +131,25 @@ option(HASH_SHA1_FEATURE                                        "Hash SHA1"     
 option(HASH_SHA2_FEATURE                                        "Hash SHA2"                                               ON )
 option(HASH_COMP128V1_FEATURE                                   "Hash COMP128V1"                                          ON )
 option(HASH_WHIRLPOOL_FEATURE                                   "Hash Whirlpool"                                          ON )
+option(HASH_HMAC_FEATURE                                        "Hash HMAC"                                               ON )
+
 option(CIPHER_SYMMETRIC_FEATURE                                 "Cipher Symetric"                                         ON )
 option(CIPHER_SYMMETRIC_DES_FEATURE                             "Cipher Symetric DES"                                     ON )
 option(CIPHER_SYMMETRIC_AES_FEATURE                             "Cipher Symetric AES"                                     ON )
+option(CIPHER_SYMMETRIC_AESGCM_FEATURE                          "Cipher Symetric AES GCM"                                 ON )
 option(CIPHER_SYMMETRIC_BLOWFISH_FEATURE                        "Cipher Symetric BlowFish"                                ON )
+option(CIPHER_SYMMETRIC_CHACHA20POLY1305_FEATURE                "Cipher Symetric ChaCha20-Poly1305"                       ON )
+
+option(CIPHER_HKDF_FEATURE                                      "Cipher HKDF"                                             ON )
+
 option(CIPHER_ASYMMETRIC_FEATURE                                "Cipher Asymetric"                                        ON )
 option(CIPHER_ASYMMETRIC_FILEKEY_GFK                            "Cipher Asymetric File Key (.Gen Key File)"               ON )
 option(CIPHER_ASYMMETRIC_FILEKEY_PEM                            "Cipher Asymetric File Key (.PEM)"                        ON )    
 option(CIPHER_ASYMMETRIC_RSA_FEATURE                            "Cipher ASymetric RSA"                                    ON )
-option(CIPHER_ASYMMETRIC_CURVE25519_FEATURE                     "Cipher ASymetric Curve25519"                             ON )    
+option(CIPHER_ASYMMETRIC_CURVE25519_FEATURE                     "Cipher ASymetric Curve25519"                             ON )  
+option(CIPHER_ASYMMETRIC_ED25519_FEATURE                        "Cipher Asimetric Ed25519"                                ON )
+option(CIPHER_ASYMMETRIC_MLKEM768_FEATURE                       "Cipher Asimetric ML-KEM-768"                             ON )
+option(CIPHER_ASYMMETRIC_X25519_FEATURE                         "Cipher Asimetric ECDSA X25519"                           ON )  
 ``` 
   
   
