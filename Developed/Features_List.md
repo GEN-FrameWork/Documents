@@ -293,6 +293,7 @@ option(SCRIPT_FEATURE                                           "Scripts"       
 option(SCRIPT_G_FEATURE                                         "Script G Language"                                       ON ) 
 option(SCRIPT_LUA_FEATURE                                       "Script LUA Language"                                     ON )
 option(SCRIPT_JAVASCRIPT_FEATURE                                "Script Javascript Language"                              ON )
+option(SCRIPT_LIB_SANDBOX_FEATURE                               "Script Lib Sandbox (restrict Lua + omit Dir/Process)"    ON )
 option(SCRIPT_LIB_SYSTEM_FEATURE                                "Script Lib System"                                       ON )    
 option(SCRIPT_LIB_PROCESS_FEATURE                               "Script Lib Process"                                      ON )    
 option(SCRIPT_LIB_LOG_FEATURE                                   "Script Lib Log"                                          ON )    
