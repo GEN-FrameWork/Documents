@@ -48,7 +48,7 @@ PROJECT_NAME           = "GEN FrameWork"
 # could be handy for archiving the generated documentation or if some version
 # control system is used.
 
-PROJECT_NUMBER         = "0.28.0  codename (Winder A2)"
+PROJECT_NUMBER         = "0.29.0  codename (Balanger M1)"
 
 # Using the PROJECT_BRIEF tag one can provide an optional one line description
 # for a project that appears at the top of each page and should give viewers a
@@ -2692,7 +2692,7 @@ DOT_NUM_THREADS        = 1
 # The default value is: fontname=Helvetica,fontsize=10.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
-DOT_COMMON_ATTR        = "fontname=Helvetica,fontsize=10"
+DOT_COMMON_ATTR        = "fontname=Arial,fontsize=10"
 
 # DOT_EDGE_ATTR is concatenated with DOT_COMMON_ATTR. For elegant style you can
 # add 'arrowhead=open, arrowtail=open, arrowsize=0.5'. <a
@@ -2701,7 +2701,7 @@ DOT_COMMON_ATTR        = "fontname=Helvetica,fontsize=10"
 # The default value is: labelfontname=Helvetica,labelfontsize=10.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
-DOT_EDGE_ATTR          = "labelfontname=Helvetica,labelfontsize=10"
+DOT_EDGE_ATTR          = "labelfontname=Arial,labelfontsize=10"
 
 # DOT_NODE_ATTR is concatenated with DOT_COMMON_ATTR. For view without boxes
 # around nodes set 'shape=plain' or 'shape=plaintext' <a
@@ -2920,7 +2920,7 @@ DOT_IMAGE_FORMAT       = svg
 # The default value is: NO.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
-INTERACTIVE_SVG        = YES
+INTERACTIVE_SVG        = NO
 
 # The DOT_PATH tag can be used to specify the path where the dot tool can be
 # found. If left blank, it is assumed the dot tool can be found in the path.
@@ -2994,7 +2994,7 @@ DOT_GRAPH_MAX_NODES    = 800
 # Minimum value: 0, maximum value: 1000, default value: 0.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
-MAX_DOT_GRAPH_DEPTH    = 3
+MAX_DOT_GRAPH_DEPTH    = 2
 
 # Set the DOT_MULTI_TARGETS tag to YES to allow dot to generate multiple output
 # files in one run (i.e. multiple -o and -T options on the command line). This
@@ -3003,7 +3003,7 @@ MAX_DOT_GRAPH_DEPTH    = 3
 # The default value is: NO.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
-DOT_MULTI_TARGETS      = YES
+DOT_MULTI_TARGETS      = NO
 
 # If the GENERATE_LEGEND tag is set to YES Doxygen will generate a legend page
 # explaining the meaning of the various boxes and arrows in the dot generated
