@@ -22,3 +22,15 @@ Dialect notes versus Lua / JavaScript (runtime behaviour after GEN Script update
 ## Libraries
 
 Native `XVARIANT` `DOUBLE` / `FLOAT` values map into G `float` variables with double storage (no forced float32 truncate on assign).
+
+## Logical operators
+
+- `!` unary NOT (right-associative; truthy via `IsTrue`: non-zero numerics / non-empty strings).
+- `&&` AND, `||` OR (both sides evaluated; no C short-circuit).
+- Precedence (low → high): `||` → `&&` → relational (`==` `!=` `<` …) → `+` `-` → `*` `/` `%` → unary `+` `-` `!`.
+
+## String escapes
+
+Supported inside `"..."`: `\n`, `\r`, `\\`, `\"`.
+
+Do **not** put `{` or `}` inside string literals: PreScan brace balance does not skip string contents (use marks without braces).
