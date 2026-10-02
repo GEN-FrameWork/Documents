@@ -63,11 +63,21 @@ Sleep()
 
 ### System
 ```
-System_GetType()
+System_GetType()                    # → Windows | Linux | LinuxEmbedded | Android | STM32 | ESP32 | SAMD5xE5x
+System_GetOperativeSystemID()       # → detailed OS ID string
+System_GetHardwareType()            # → PC | RaspberryPi | Unknown | …
+System_IsWindows()                  # → bool
+System_IsLinux()                    # → bool (Linux + LinuxEmbedded)
+System_IsAndroid()                  # → bool
+System_GetLanguageSO()              # → language code (int)
+System_GetUser()                    # → current user
+System_GetDomain()                  # → current domain
+System_GetFreeMemoryPercent()       # → 0..100
+System_GetPathExecApplication()     # appname → absolute path (or empty)
 System_Reboot()
 System_PowerOff()
 System_Logout()
-System_GetEnviromentVar()
+System_GetEnviromentVar()           # varname → value
 ```
 
 ### Process
@@ -97,13 +107,18 @@ Console_Printf()
 GetFileCFGValue()
 ```
  
-### Windows
+### Screen
 ```
-Window_GetPosX()
-Window_GetPosY()
-Window_SetFocus()
-Window_SetPosition()
-Window_Resize()
+Screen_GetPosX()     # app, title [, bmp...], out_x → status (0=OK,1=NOTFOUND,2=BMPNOTFOUND); writes out_x
+Screen_GetPosY()     # app, title [, bmp...], out_y → status; writes out_y
+Screen_GetPosXY()    # app, title [, bmp...], out_x, out_y → status; writes out_x/out_y
+                     # JS/Lua out boxes: {value:0} (also mirrored to [0]/[1]); G: plain int variables
+Screen_SetBmpFindCFG()
+Screen_SetFocus()
+Screen_SetPosition()
+Screen_Resize()
+Screen_Minimize()
+Screen_Maximize()
 ```
 
 ### InputSimulate 

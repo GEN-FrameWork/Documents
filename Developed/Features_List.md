@@ -102,7 +102,8 @@ option(XLICENSE_FEATURE                                         "License"       
 option(XSOPIPELINE_FEATURE                                      "System operative Pipeline"                               ON )
   
 option(XTHREADCOLLECTED_FEATURE                                 "Thread Collected"                                        ON )
-option(XUUID_FEATURE                                            "UUID functions"                                          ON )    
+option(XUUID_FEATURE                                            "UUID functions"                                          ON )
+option(XID_IBAN_FEATURE                                         "IBAN (International Bank Account Number)"                ON )
   
 option(XSERIALIZABLE_FEATURE                                    "Serializable functions"                                  ON )
 option(XSERIALIZABLE_BINARY_FEATURE                             "Serializable Binary"                                     ON )
@@ -278,13 +279,6 @@ option(DIO_NATIVEMSGBROWSEREXTENSION_FEATURE                    "Native Message 
 ``` 
   
   
-## Identification 
-  
-``` 
-option(IDENTIFICATION_FEATURE                                   "Identification"                                          ON )
-``` 
-  
-  
 ## User interface 
   
 ``` 
@@ -304,10 +298,11 @@ option(SCRIPT_LIB_SANDBOX_FEATURE                               "Script Lib Sand
 option(SCRIPT_LIB_SYSTEM_FEATURE                                "Script Lib System"                                       ON )    
 option(SCRIPT_LIB_PROCESS_FEATURE                               "Script Lib Process"                                      ON )    
 option(SCRIPT_LIB_WEBCLIENT_FEATURE                             "Script Lib WebClient"                                    ON )
+option(SCRIPT_LIB_TRACESERVER_FEATURE                           "Script Lib TraceServer (XTrace UDP/UART receiver)"       ON )
 option(SCRIPT_LIB_LOG_FEATURE                                   "Script Lib Log"                                          ON )    
 option(SCRIPT_LIB_CONSOLE_FEATURE                               "Script Lib Console"                                      ON ) 
 option(SCRIPT_LIB_CFG_FEATURE                                   "Script Lib Config File"                                  ON )   
-option(SCRIPT_LIB_WINDOW_FEATURE                                "Script Lib Window"                                       ON ) 
+option(SCRIPT_LIB_SCREEN_FEATURE                                "Script Lib Screen"                                       ON ) 
 option(SCRIPT_LIB_INPUTSIMULATE_FEATURE                         "Script Lib Input Simulated"                              ON ) 
 option(SCRIPT_LIB_DEVTEST_FEATURE                               "Script Lib Developed Test Funcions"                      ON )      
 ``` 
