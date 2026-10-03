@@ -102,7 +102,8 @@ option(XLICENSE_FEATURE                                         "License"       
 option(XSOPIPELINE_FEATURE                                      "System operative Pipeline"                               ON )
   
 option(XTHREADCOLLECTED_FEATURE                                 "Thread Collected"                                        ON )
-option(XUUID_FEATURE                                            "UUID functions"                                          ON )    
+option(XUUID_FEATURE                                            "UUID functions"                                          ON )
+option(XID_IBAN_FEATURE                                         "IBAN (International Bank Account Number)"                ON )
   
 option(XSERIALIZABLE_FEATURE                                    "Serializable functions"                                  ON )
 option(XSERIALIZABLE_BINARY_FEATURE                             "Serializable Binary"                                     ON )
@@ -181,7 +182,16 @@ option(DIO_WEBSERVER_FEATURE                                    "Web Server"    
 option(DIO_WEBSERVER_RESOLVEENDPOINT_FEATURE                    "Web Server Resolved End Point"                           ON )
 option(DIO_SCRAPERWEB_FEATURE                                   "Scraper Web"                                             ON )
 option(DIO_ATCMD_FEATURE                                        "AT Commands"                                             ON )
-option(DIO_SMTP_FEATURE                                         "SMTP (email)"                                            ON )    
+option(DIO_SMTP_FEATURE                                         "SMTP (email)"                                            ON ) 
+
+option(DIO_SCRAPERWEB_PUBLICIP_FEATURE                          "Scraper Web Public IP"                                   ON )
+option(DIO_SCRAPERWEB_GEOLOCATIONIP_FEATURE                     "Scraper Web Geolocation IP"                              ON )
+option(DIO_SCRAPERWEB_WEATHER_FEATURE                           "Scraper Web Weather"                                     ON )
+option(DIO_SCRAPERWEB_TRANSLATION_FEATURE                       "Scraper Web Translation"                                 ON )
+option(DIO_SCRAPERWEB_MACMANUFACTURER_FEATURE                   "Scraper Web MAC Manufacturer"                            ON )
+option(DIO_SCRAPERWEB_USERAGENTID_FEATURE                       "Scraper Web User Agent ID"                                ON )
+option(DIO_SCRAPERWEB_FEATURE                                   "Scraper Web"                                             ON )     
+
   
 option(DIO_SNMP_FEATURE                                         "SNMP (Simple Network Management Protocol)"               ON )
 option(DIO_NOTIFICATIONS_MANAGER_FEATURE                        "Notifications Manager"                                   ON )
@@ -271,13 +281,6 @@ option(DIO_NATIVEMSGBROWSEREXTENSION_FEATURE                    "Native Message 
 ``` 
   
   
-## Identification 
-  
-``` 
-option(IDENTIFICATION_FEATURE                                   "Identification"                                          ON )
-``` 
-  
-  
 ## User interface 
   
 ``` 
@@ -293,12 +296,15 @@ option(SCRIPT_FEATURE                                           "Scripts"       
 option(SCRIPT_G_FEATURE                                         "Script G Language"                                       ON ) 
 option(SCRIPT_LUA_FEATURE                                       "Script LUA Language"                                     ON )
 option(SCRIPT_JAVASCRIPT_FEATURE                                "Script Javascript Language"                              ON )
+option(SCRIPT_LIB_SANDBOX_FEATURE                               "Script Lib Sandbox (restrict Lua + omit Dir/Process/WebClient)"    ON )
 option(SCRIPT_LIB_SYSTEM_FEATURE                                "Script Lib System"                                       ON )    
 option(SCRIPT_LIB_PROCESS_FEATURE                               "Script Lib Process"                                      ON )    
+option(SCRIPT_LIB_WEBCLIENT_FEATURE                             "Script Lib WebClient"                                    ON )
+option(SCRIPT_LIB_TRACESERVER_FEATURE                           "Script Lib TraceServer (XTrace UDP/UART receiver)"       ON )
 option(SCRIPT_LIB_LOG_FEATURE                                   "Script Lib Log"                                          ON )    
 option(SCRIPT_LIB_CONSOLE_FEATURE                               "Script Lib Console"                                      ON ) 
 option(SCRIPT_LIB_CFG_FEATURE                                   "Script Lib Config File"                                  ON )   
-option(SCRIPT_LIB_WINDOW_FEATURE                                "Script Lib Window"                                       ON ) 
+option(SCRIPT_LIB_SCREEN_FEATURE                                "Script Lib Screen"                                       ON ) 
 option(SCRIPT_LIB_INPUTSIMULATE_FEATURE                         "Script Lib Input Simulated"                              ON ) 
 option(SCRIPT_LIB_DEVTEST_FEATURE                               "Script Lib Developed Test Funcions"                      ON )      
 ``` 
