@@ -241,7 +241,7 @@ option(DIO_STREAMSPI_TOUCHSCREEN_STMPE610_FEATURE               "Stream SPI Touc
   
 option(DIO_DISPLAYDEVICE_FEATURE                                "Stream Display Device"                                   ON )
 
-option(DIO_PING_NATIVE_FEATURE                                   "Ping Native"                                             ON )    
+option(DIO_PING_NATIVE_FEATURE                                  "Ping Native"                                             ON )    
 option(DIO_PING_FEATURE                                         "Ping"                                                    ON )    
   
 option(DIO_PCAP_FEATURE                                         "PCap Library"                                            ON )
