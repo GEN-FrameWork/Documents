@@ -405,7 +405,7 @@ Correct macro alignment:
 ```cpp
 #define MYMODULE_TIMEOUT              5
 #define MYMODULE_MAXBUFFER            1024
-#define MYMODULE_DEFAULT_NAME         __L("module")
+#define MYMODULE_DEFAULT_NAME         _L("module")
 ```
 
 ### 6.5 Spaces Around Operators and Punctuation
@@ -565,7 +565,7 @@ GEN often uses concise local variable names. Do not replace every local variable
 ```cpp
 #define DIOPROTOCOL_TIMEOUT             5
 #define DIOPROTOCOL_MAXBUFFER           (DIOSTREAM_MAXBUFFER/2)
-#define APPFLOW_ALERTS_WEBALERTCMD      __L("alert")
+#define APPFLOW_ALERTS_WEBALERTCMD      _L("alert")
 ```
 
 Do not use unprefixed constants in public headers.
@@ -1155,10 +1155,10 @@ Align continuation lines:
 Use GEN string macros for wide character literals:
 
 ```cpp
-#define MYMODULE_DEFAULT_NAME            __L("module")
+#define MYMODULE_DEFAULT_NAME            _L("module")
 ```
 
-Use `__L("text")` for `XCHAR*` strings and `__C('x')` or equivalent where character macros are expected.
+Use `_L("text")` for `XCHAR*` strings and `_C('x')` or equivalent where character macros are expected.
 
 ---
 
@@ -1189,7 +1189,7 @@ Examples:
 ```cpp
 XSTRING*                          GetDescription                  ();
 bool                              SetName                         (XCHAR* name);
-#define MYMODULE_TEXT              __L("text")
+#define MYMODULE_TEXT              _L("text")
 ```
 
 Do not use `std::string` in a public GEN module API unless the subsystem already does so for a specific external reason.

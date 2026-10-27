@@ -1072,17 +1072,17 @@ Además de las funciones dispone de un tipo de dato fundamental: **XCHAR** que
 define la longitud de un carácter en las diferentes plataformas y unas macros
 para el tratamiento de las constantes:
 
-**\__L(“hola mundo”)**
+**\_L(“hola mundo”)**
 
-**\__C(‘A’)**
+**\_C(‘A’)**
 
 Vamos a ver unos ejemplos sencillos del manejo de la clase XSTRING:
 
 XSTRING string;
 
-string = \__L("hola radiola");
+string = \_L("hola radiola");
 
-string += \__L(" mas... ");
+string += \_L(" mas... ");
 
 **[Ejemplo 3]**
 
@@ -1094,9 +1094,9 @@ XSTRING substring;
 
 substring.AdjustSize(32);
 
-string.Format(__L("esto es una prueba %d"), 10);
+string.Format(_L("esto es una prueba %d"), 10);
 
-string.UnFormat(__L("esto es una %s"), substring.Get());
+string.UnFormat(_L("esto es una %s"), substring.Get());
 
 substring.AdjustSize();
 
@@ -1108,7 +1108,7 @@ resultado es que el contenido de substring es: **“prueba 10“**
 
 XSTRING string;
 
-string.Format(__L("Prueba de %3.2f%%"), 10.11f);
+string.Format(_L("Prueba de %3.2f%%"), 10.11f);
 
 **[Example 5]**
 
@@ -1164,7 +1164,7 @@ Resultado del contenido del buffer:
 
 **0010** 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 **................**
 
-buffer.SetWithMask(__L("D"), 3, 0xAAAAAAAA);
+buffer.SetWithMask(_L("D"), 3, 0xAAAAAAAA);
 
 **[Examples 7]**
 
@@ -1178,11 +1178,11 @@ XBUFFER buffer;
 
 XWORD valueword = 0;
 
-buffer.InsertWithMask(__L("W"), 3, 0xCAFE);
+buffer.InsertWithMask(_L("W"), 3, 0xCAFE);
 
 valueword = 0;
 
-buffer.GetWithMask(__L("W"), 3, \&valueword);
+buffer.GetWithMask(_L("W"), 3, \&valueword);
 
 **[Examples 8]**
 
