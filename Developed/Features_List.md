@@ -337,7 +337,7 @@ option(GRP_VIDEO_FILE_FEATURE                                   "Graphics Video 
 option(GRP_VIDEO_FILE_AVI_FEATURE                               "Graphics Video File AVI"                                 ON )
 option(GRP_2D_FEATURE                                           "Graphics 2D"                                             ON )
 option(GRP_3D_FEATURE                                           "Graphics 3D"                                             ON )
-option(GRP_OPENGL_FEATURE                                       "Graphics Open GL"                                        ON )
+option(GRP_OPENGL_FEATURE                                       "Graphics OpenGL ES required (OFF = try + software fallback on Win/Linux; Android unchanged)" OFF )
 option(GRP_DESKTOPMANAGER_FEATURE                               "Graphics Desktop Manager"                                ON )
 ``` 
   
