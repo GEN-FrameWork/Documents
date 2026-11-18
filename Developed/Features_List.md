@@ -110,6 +110,7 @@ option(XSERIALIZABLE_BINARY_FEATURE                             "Serializable Bi
 option(XSERIALIZABLE_JSON_FEATURE                               "Serializable JSON"                                       ON )
   
 option(XSLEEP_FEATURE                                           "Sleep functions"                                         ON )
+option(XCLIPBOARD_FEATURE                                       "Clipboard functions (portable text)"                     ON )
 option(XSYSTEM_FEATURE                                          "System functions"                                        ON )
 option(XCONSOLE_FEATURE                                         "Console functions"                                       ON )
   
