@@ -1130,12 +1130,16 @@ GEN uses uppercase feature flags:
 Indent nested preprocessor blocks by two spaces when readability requires it:
 
 ```cpp
-#if defined(WINDOWS)
+#if (defined(LINUX) || defined(ANDROID))
 
-  #if defined(BUILDER)
-    #define SPRINTF             sprintf
-  #else
+  #define SPRINTF(str, ...)       sprintf(str, ## __VA_ARGS__)
+
+#else
+
+  #if (defined(WINDOWS) || defined(_WINDOWS))
+
     #define SPRINTF(str, ...)   sprintf_s(str, XSTRING_MAXTEMPOSTR-1, ## __VA_ARGS__)
+
   #endif
 
 #endif
@@ -1572,7 +1576,6 @@ WINDOWS
 LINUX
 ANDROID
 MICROCONTROLLER
-BUILDER
 COMPILER_MSVC
 COMPILER_GCC
 COMPILER_CLANG
